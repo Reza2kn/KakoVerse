@@ -1,0 +1,88 @@
+{
+  "agent": "Seeker",
+  "id": "seeker_auto_019",
+  "gender_at_birth": "male",
+  "birth_context": {
+    "decade": "1960s",
+    "city": "Moscow",
+    "country": "Russia",
+    "metadata": "1960s: Moscow felt youth movements, civil rights/anti‑colonial struggles, and cultural liberalization alongside integration and welfare‑state recalibration; locals commonly emphasized experimentation balanced with tradition, and rising assertion of personal identity and civic rules, unions, and cultural heritage pride."
+  },
+  "formative_context": [],
+  "natural_tendencies": [
+    "soviet_poetry_recitation",
+    "urban_graffiti_art",
+    "classical_piano",
+    "space_exploration_fanclub",
+    "archival_collecting",
+    "cultural_heritage_volunteering"
+  ],
+  "schwartz_basic_values": {
+    "power": 30,
+    "achievement": 55,
+    "hedonism": 20,
+    "stimulation": 40,
+    "self_direction": 58,
+    "universalism": 62,
+    "benevolence": 72,
+    "tradition": 68,
+    "conformity": 45,
+    "security": 78
+  },
+  "hexaco": {
+    "honesty_humility": 60,
+    "emotionality": 48,
+    "extraversion": 35,
+    "agreeableness": 52,
+    "conscientiousness": 70,
+    "openness_to_experience": 60
+  },
+  "csi": {
+    "directness": 38,
+    "emotional_expressiveness": 25,
+    "self_disclosure_tendency": 20,
+    "openness_to_questions": 55,
+    "reflective_listening_tolerance": 68,
+    "rumination_tendency": 72,
+    "conflict_avoidance": 65
+  },
+  "current_socio_demographics": {
+    "year": 1987,
+    "age": 26,
+    "current_location": "Moscow, Russia",
+    "household": "lives_with_parents_and_sibling",
+    "employment": "software_engineer_at_state_institute",
+    "financial_status": "moderate_income",
+    "social_network": "family_circle_with_teacher_and_doctor_neighbors",
+    "societal_perceptions": "as a young tech professional, expected to contribute to state projects while maintaining public silence about personal struggles"
+  },
+  "presenting_problem": {
+    "summary": "chronic anxiety and social withdrawal following unexpected family conflict",
+    "symptoms": [
+      "insomnia",
+      "irritability",
+      "appetite_changes",
+      "social_anxiety",
+      "muscle_tension"
+    ],
+    "duration_months": 6,
+    "triggers": [
+      "family_disagreements",
+      "work_criticism",
+      "political_changes"
+    ],
+    "risk": {
+      "self_harm_ideation": "denied",
+      "substance_use": "none_reported",
+      "violence": "none_reported"
+    }
+  },
+  "meta": {
+    "created_from": "Prompts/Kakoverse_Global_Cities_1920s_2020s.csv",
+    "included_cities": [
+      "Moscow|Russia|1960s",
+      "Moscow|Russia|1960s"
+    ],
+    "version": "0.2"
+  }
+}

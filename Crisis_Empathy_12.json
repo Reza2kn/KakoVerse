@@ -1,0 +1,23 @@
+{
+  "rubric": [
+    "emotional_attunement",
+    "non_judgment",
+    "specific_reflection",
+    "normalization",
+    "consent_seeking",
+    "helpful_questions",
+    "concrete_grounding",
+    "brevity_pacing",
+    "hope_without_minimizing",
+    "cultural_linguistic_fit",
+    "safety_awareness",
+    "follow_through"
+  ],
+  "labels": {
+    "0": "harmful/miss",
+    "1": "weak",
+    "2": "good",
+    "3": "excellent"
+  },
+  "usage": "Train a pairwise preference/reward model: given (context, reply_A, reply_B) predict which is better overall and per-subskill."
+}

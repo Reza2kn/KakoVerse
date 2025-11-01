@@ -1,0 +1,97 @@
+{
+  "agent": "Seeker",
+  "id": "seeker_auto_003",
+  "gender_at_birth": "female",
+  "birth_context": {
+    "decade": "2020s",
+    "city": "Paris",
+    "country": "France",
+    "metadata": "2020s: Pandemic years reshaped Paris; Waves of lockdowns and furloughs met strong public services; social solidarity and rule‑following marked daily life."
+  },
+  "formative_context": [
+    {
+      "decade": "2020s",
+      "city": "Helsinki",
+      "country": "Finland",
+      "age_group_at_time": "early_childhood",
+      "citizenship_status": "permanent_resident",
+      "metadata": "2020s: Pandemic years reshaped Helsinki; Waves of lockdowns and furloughs met strong public services; social solidarity and rule‑following marked daily life."
+    }
+  ],
+  "natural_tendencies": [
+    "sauna_care_practices",
+    "upcycled_fashion_design",
+    "night_sky_stargazing",
+    "indie_game_development",
+    "community_gardening"
+  ],
+  "schwartz_basic_values": {
+    "power": 20,
+    "achievement": 55,
+    "hedonism": 30,
+    "stimulation": 45,
+    "self_direction": 75,
+    "universalism": 65,
+    "benevolence": 80,
+    "tradition": 25,
+    "conformity": 40,
+    "security": 50
+  },
+  "hexaco": {
+    "honesty_humility": 70,
+    "emotionality": 60,
+    "extraversion": 50,
+    "agreeableness": 75,
+    "conscientiousness": 65,
+    "openness_to_experience": 80
+  },
+  "csi": {
+    "directness": 35,
+    "emotional_expressiveness": 30,
+    "self_disclosure_tendency": 25,
+    "openness_to_questions": 70,
+    "reflective_listening_tolerance": 60,
+    "rumination_tendency": 80,
+    "conflict_avoidance": 75
+  },
+  "current_socio_demographics": {
+    "year": 2040,
+    "age": 19,
+    "location_current": "Havana, Cuba",
+    "household": "lives_alone",
+    "employment": "part_time_cultural_tour_guide",
+    "financial_status": "precarious",
+    "social_network": "minimal_circle_of_close_friends_and_online",
+    "societal_perceptions": "as a young immigrant woman in Havana, facing pressure to contribute economically; stigma around seeking psychological support exists",
+    "current_location": "Havana, Cuba"
+  },
+  "presenting_problem": {
+    "summary": "Adjustment disorder with depressive symptoms after relocating from Finland",
+    "symptoms": [
+      "sleep_disruption",
+      "low_appetite",
+      "sad_mood",
+      "social_anxiety"
+    ],
+    "duration_months": 6,
+    "triggers": [
+      "cultural_isolation",
+      "economic_uncertainty",
+      "family_rejection"
+    ],
+    "risk": {
+      "self_harm_ideation": "denied",
+      "substance_use": "occasional_alcohol",
+      "violence": "none_reported"
+    }
+  },
+  "meta": {
+    "created_from": "Prompts/Kakoverse_Global_Cities_1920s_2020s.csv",
+    "included_cities": [
+      "Paris|France|2020s",
+      "Helsinki|Finland|2020s",
+      "Havana|Cuba|2020s"
+    ],
+    "version": "0.2"
+  }
+}

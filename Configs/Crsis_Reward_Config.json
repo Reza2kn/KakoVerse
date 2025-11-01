@@ -1,0 +1,7 @@
+{
+  "alpha_constitution": 0.25,
+  "beta_empathy_rm": 0.45,
+  "gamma_presence": 0.15,
+  "zeta_stabilization": 0.15,
+  "safety_penalty_weight": 1.0
+}

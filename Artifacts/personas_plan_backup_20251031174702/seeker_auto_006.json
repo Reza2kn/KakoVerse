@@ -1,0 +1,91 @@
+{
+  "agent": "Seeker",
+  "id": "seeker_auto_006",
+  "gender_at_birth": "male",
+  "birth_context": {
+    "decade": "1990s",
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "metadata": "1990s: Hanoi felt post‑Cold‑War reordering, globalization, and early internet adoption alongside export‑led growth and state‑steered urban planning; locals commonly emphasized adaptability, new professional identities, and widening global outlooks and education zeal, thrift, and respect for elders."
+  },
+  "formative_context": [],
+  "natural_tendencies": [
+    "street_photography",
+    "classical_piano",
+    "urban_hiking",
+    "vietnamese_cuisine",
+    "DIY_app_development",
+    "motorbike_commuting",
+    "calligraphy",
+    "online_gaming",
+    "language_learning",
+    "community_volunteering"
+  ],
+  "schwartz_basic_values": {
+    "power": 30,
+    "achievement": 70,
+    "hedonism": 40,
+    "stimulation": 80,
+    "self_direction": 65,
+    "universalism": 75,
+    "benevolence": 70,
+    "tradition": 40,
+    "conformity": 50,
+    "security": 55
+  },
+  "hexaco": {
+    "honesty_humility": 60,
+    "emotionality": 50,
+    "extraversion": 45,
+    "agreeableness": 55,
+    "conscientiousness": 60,
+    "openness_to_experience": 85
+  },
+  "csi": {
+    "directness": 40,
+    "emotional_expressiveness": 35,
+    "self_disclosure_tendency": 30,
+    "openness_to_questions": 70,
+    "reflective_listening_tolerance": 65,
+    "rumination_tendency": 80,
+    "conflict_avoidance": 60
+  },
+  "current_socio_demographics": {
+    "year": 2012,
+    "age": 18,
+    "current_location": "Hanoi, Vietnam",
+    "household": "lives_with_parents",
+    "employment": "high_school_student",
+    "financial_status": "stable_lower_middle_income",
+    "social_network": "small_circle_mostly_family_and_friends",
+    "societal_perceptions": "as a young Vietnamese male, expected to be filial and academically focused; stigma around discussing mental health"
+  },
+  "presenting_problem": {
+    "summary": "emotional distress following an academic setback",
+    "symptoms": [
+      "low_mood",
+      "low_energy",
+      "difficulty_concentrating",
+      "social_isolation",
+      "appetite_loss"
+    ],
+    "duration_months": 3,
+    "triggers": [
+      "academic_failure",
+      "family_expectations"
+    ],
+    "risk": {
+      "self_harm_ideation": "passive",
+      "substance_use": "none_reported",
+      "violence": "none_reported"
+    }
+  },
+  "meta": {
+    "created_from": "Prompts/Kakoverse_Global_Cities_1920s_2020s.csv",
+    "included_cities": [
+      "Hanoi|Vietnam|1990s",
+      "Hanoi|Vietnam|1990s"
+    ],
+    "version": "0.2"
+  }
+}

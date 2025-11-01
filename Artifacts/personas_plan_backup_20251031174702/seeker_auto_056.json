@@ -1,0 +1,91 @@
+{
+  "agent": "Seeker",
+  "id": "seeker_auto_056",
+  "gender_at_birth": "male",
+  "birth_context": {
+    "decade": "1970s",
+    "city": "São Paulo",
+    "country": "Brazil",
+    "metadata": "1970s: São Paulo felt oil shocks, stagflation or state expansion, and social realignment alongside oscillating populism and economic volatility; locals commonly emphasized pragmatism, extended family safety nets, and informal hustles and tight‑knit kinship and street‑level solidarity."
+  },
+  "formative_context": [],
+  "natural_tendencies": [
+    "urban_survival_skills",
+    "informal_trade_networking",
+    "family_network_maintenance",
+    "community_event_organization",
+    "pragmatic_problem_solving",
+    "street_folklore_recording",
+    "cooking_brazilian_cuisine",
+    "mixed_migration_storytelling",
+    "sports_spectatorship"
+  ],
+  "schwartz_basic_values": {
+    "power": 32,
+    "achievement": 71,
+    "hedonism": 38,
+    "stimulation": 54,
+    "self_direction": 63,
+    "universalism": 58,
+    "benevolence": 74,
+    "tradition": 42,
+    "conformity": 47,
+    "security": 68
+  },
+  "hexaco": {
+    "honesty_humility": 65,
+    "emotionality": 48,
+    "extraversion": 57,
+    "agreeableness": 61,
+    "conscientiousness": 69,
+    "openness_to_experience": 51
+  },
+  "csi": {
+    "directness": 46,
+    "emotional_expressiveness": 38,
+    "self_disclosure_tendency": 32,
+    "openness_to_questions": 68,
+    "reflective_listening_tolerance": 59,
+    "rumination_tendency": 43,
+    "conflict_avoidance": 55
+  },
+  "current_socio_demographics": {
+    "year": 1999,
+    "age": 22,
+    "current_location": "São Paulo, Brazil",
+    "household": "lives_with_parents",
+    "employment": "part_time_service_industry",
+    "financial_status": "precarious",
+    "social_network": "small_circle_extend_family_friends",
+    "societal_perceptions": "young working-class man expected to contribute financially immediately, with cultural stigma against mental health support"
+  },
+  "presenting_problem": {
+    "summary": "adjustment disorder with anxiety following sudden parental loss",
+    "symptoms": [
+      "profound_grief",
+      "sleep_disturbance",
+      "appetite_reduction",
+      "emotional_numbness",
+      "financial_worry",
+      "social_isolation"
+    ],
+    "duration_months": 3,
+    "triggers": [
+      "parent's death",
+      "family_financial_uncertainty"
+    ],
+    "risk": {
+      "self_harm_ideation": "denied",
+      "substance_use": "none_reported",
+      "violence": "none_reported"
+    }
+  },
+  "meta": {
+    "created_from": "Prompts/Kakoverse_Global_Cities_1920s_2020s.csv",
+    "included_cities": [
+      "São Paulo|Brazil|1970s",
+      "São Paulo|Brazil|1970s"
+    ],
+    "version": "0.2"
+  }
+}

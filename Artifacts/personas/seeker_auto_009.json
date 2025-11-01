@@ -1,0 +1,88 @@
+{
+  "agent": "Seeker",
+  "id": "seeker_auto_009",
+  "gender_at_birth": "male",
+  "birth_context": {
+    "decade": "2020s",
+    "city": "Munich",
+    "country": "Germany",
+    "metadata": "2020s: Pandemic years reshaped Munich; Waves of lockdowns and furloughs met strong public services; social solidarity and rule‑following marked daily life."
+  },
+  "formative_context": [],
+  "natural_tendencies": [
+    "digital_art",
+    "urban_hiking",
+    "AI_programming",
+    "cross-cultural_cooking",
+    "community_volunteering"
+  ],
+  "schwartz_basic_values": {
+    "power": 25,
+    "achievement": 68,
+    "hedonism": 40,
+    "stimulation": 55,
+    "self_direction": 78,
+    "universalism": 82,
+    "benevolence": 88,
+    "tradition": 35,
+    "conformity": 48,
+    "security": 65
+  },
+  "hexaco": {
+    "honesty_humility": 70,
+    "emotionality": 65,
+    "extraversion": 55,
+    "agreeableness": 80,
+    "conscientiousness": 75,
+    "openness_to_experience": 90
+  },
+  "csi": {
+    "directness": 45,
+    "emotional_expressiveness": 40,
+    "self_disclosure_tendency": 35,
+    "openness_to_questions": 80,
+    "reflective_listening_tolerance": 70,
+    "rumination_tendency": 85,
+    "conflict_avoidance": 70
+  },
+  "current_socio_demographics": {
+    "year": 2050,
+    "age": 25,
+    "current_location": "Hong Kong, China",
+    "household": "lives_alone",
+    "employment": "AI_research_engineer",
+    "financial_status": "stable_upper_middle_income",
+    "social_network": "moderate_circle_mostly_coworkers_and_online",
+    "societal_perceptions": "as a young immigrant professional in a high-pressure tech hub, expected to prioritize work over personal well-being.",
+    "location_current": "Hong Kong, China"
+  },
+  "presenting_problem": {
+    "summary": "severe depressive episode following a painful breakup",
+    "symptoms": [
+      "anhedonia",
+      "guilt",
+      "sleep_disruption",
+      "low_appetite",
+      "social_withdrawal"
+    ],
+    "duration_months": 8,
+    "triggers": [
+      "breakup",
+      "work_stress",
+      "city_transition_acclimation"
+    ],
+    "risk": {
+      "self_harm_ideation": "denied",
+      "substance_use": "occasional_alcohol",
+      "violence": "none_reported"
+    }
+  },
+  "meta": {
+    "created_from": "Prompts/Kakoverse_Global_Cities_1920s_2020s.csv",
+    "included_cities": [
+      "Munich|Germany|2020s",
+      "Hong Kong|China|2020s"
+    ],
+    "version": "0.2"
+  }
+}
