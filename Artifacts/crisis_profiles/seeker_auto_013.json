@@ -1,0 +1,407 @@
+{
+  "20": {
+    "summary": "Post-war displacement and family separation",
+    "category": "grief",
+    "confidence": 0.7
+  },
+  "21": {
+    "summary": "Adjusting to new urban environment after war",
+    "category": "relocation_stress",
+    "confidence": 0.8
+  },
+  "22": {
+    "summary": "Struggling to find stable employment",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "23": {
+    "summary": "Dealing with food scarcity and rationing",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "24": {
+    "summary": "Navigating political instability and family obligations",
+    "category": "family_dissatisfaction",
+    "confidence": 0.8
+  },
+  "25": {
+    "summary": "First romantic relationship and cultural expectations",
+    "category": "relationship_dissatisfaction",
+    "confidence": 0.7
+  },
+  "26": {
+    "summary": "Military conscription or forced labor",
+    "category": "trauma",
+    "confidence": 0.6
+  },
+  "27": {
+    "summary": "Witnessing political purges and fear of persecution",
+    "category": "trauma",
+    "confidence": 0.7
+  },
+  "28": {
+    "summary": "Family pressure to marry and start a family",
+    "category": "family_dissatisfaction",
+    "confidence": 0.8
+  },
+  "29": {
+    "summary": "Cultural identity conflict in changing society",
+    "category": "identity_crisis",
+    "confidence": 0.7
+  },
+  "30": {
+    "summary": "Marriage and family formation under economic constraints",
+    "category": "family_dissatisfaction",
+    "confidence": 0.8
+  },
+  "31": {
+    "summary": "First child and financial planning",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "32": {
+    "summary": "Cultural identity conflict between heritage",
+    "category": "identity_crisis",
+    "confidence": 0.7
+  },
+  "33": {
+    "summary": "Career advancement and political loyalty",
+    "category": "career_stress",
+    "confidence": 0.8
+  },
+  "34": {
+    "summary": "Health scare and family responsibility",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "35": {
+    "summary": "Political persecution and family separation",
+    "category": "trauma",
+    "confidence": 0.8
+  },
+  "36": {
+    "summary": "Economic hardship and family support",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "37": {
+    "summary": "Witnessing famine and moral dilemmas",
+    "category": "trauma",
+    "confidence": 0.7
+  },
+  "38": {
+    "summary": "Family health crisis and caregiving",
+    "category": "grief",
+    "confidence": 0.7
+  },
+  "39": {
+    "summary": "Political campaign participation and fear",
+    "category": "trauma",
+    "confidence": 0.8
+  },
+  "40": {
+    "summary": "Midlife career stagnation and family pressure",
+    "category": "career_stress",
+    "confidence": 0.8
+  },
+  "41": {
+    "summary": "Health decline and financial planning",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "42": {
+    "summary": "Family dissatisfaction and marital strain",
+    "category": "relationship_dissatisfaction",
+    "confidence": 0.8
+  },
+  "43": {
+    "summary": "Workplace stress and burnout",
+    "category": "burnout",
+    "confidence": 0.8
+  },
+  "44": {
+    "summary": "Loss of a parent and grief",
+    "category": "grief",
+    "confidence": 0.7
+  },
+  "45": {
+    "summary": "Chronic insomnia and emotional exhaustion",
+    "category": "burnout",
+    "confidence": 0.9
+  },
+  "46": {
+    "summary": "Workplace stress and family dissatisfaction",
+    "category": "burnout",
+    "confidence": 0.8
+  },
+  "47": {
+    "summary": "Decision to relocate and career uncertainty",
+    "category": "relocation_stress",
+    "confidence": 0.7
+  },
+  "48": {
+    "summary": "Relocation to Tehran and cultural adjustment",
+    "category": "relocation_stress",
+    "confidence": 0.8
+  },
+  "49": {
+    "summary": "Cultural assimilation and family integration",
+    "category": "identity_crisis",
+    "confidence": 0.7
+  },
+  "50": {
+    "summary": "Career transition and family responsibilities",
+    "category": "career_stress",
+    "confidence": 0.8
+  },
+  "51": {
+    "summary": "Chronic health condition and lifestyle changes",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "52": {
+    "summary": "Family health crisis and caregiving",
+    "category": "grief",
+    "confidence": 0.7
+  },
+  "53": {
+    "summary": "Loss of a close friend and loneliness",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "54": {
+    "summary": "Workplace challenges and legacy concerns",
+    "category": "career_stress",
+    "confidence": 0.6
+  },
+  "55": {
+    "summary": "Health decline and reduced independence",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "56": {
+    "summary": "Family dissatisfaction and generational conflict",
+    "category": "relationship_dissatisfaction",
+    "confidence": 0.7
+  },
+  "57": {
+    "summary": "Financial insecurity and retirement anxiety",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "58": {
+    "summary": "Chronic illness and social isolation",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "59": {
+    "summary": "Loss of a spouse and grief",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "60": {
+    "summary": "Retirement and identity adjustment",
+    "category": "identity_crisis",
+    "confidence": 0.8
+  },
+  "61": {
+    "summary": "Health issues and mobility limitations",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "62": {
+    "summary": "Family health crises and caregiving burden",
+    "category": "grief",
+    "confidence": 0.7
+  },
+  "63": {
+    "summary": "Financial management and legacy planning",
+    "category": "financial_stress",
+    "confidence": 0.6
+  },
+  "64": {
+    "summary": "Social isolation and loneliness",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "65": {
+    "summary": "Retirement and reduced social roles",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "66": {
+    "summary": "Chronic health conditions and dependence",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "67": {
+    "summary": "Loss of siblings and grief",
+    "category": "grief",
+    "confidence": 0.7
+  },
+  "68": {
+    "summary": "Cognitive decline and memory issues",
+    "category": "dementia",
+    "confidence": 0.6
+  },
+  "69": {
+    "summary": "Health complications and hospitalization",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "70": {
+    "summary": "End-of-life reflections and mortality awareness",
+    "category": "existential_crisis",
+    "confidence": 0.7
+  },
+  "71": {
+    "summary": "Caregiving for aging parents",
+    "category": "grief",
+    "confidence": 0.6
+  },
+  "72": {
+    "summary": "Financial strain from healthcare costs",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "73": {
+    "summary": "Loss of close friends and loneliness",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "74": {
+    "summary": "Chronic illness and reduced mobility",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "75": {
+    "summary": "Family dissatisfaction and unmet expectations",
+    "category": "relationship_dissatisfaction",
+    "confidence": 0.6
+  },
+  "76": {
+    "summary": "Health decline and dependence on others",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "77": {
+    "summary": "Grief over multiple losses",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "78": {
+    "summary": "Social isolation and lack of support",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "79": {
+    "summary": "Chronic pain and limited activities",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "80": {
+    "summary": "Dementia and memory loss",
+    "category": "dementia",
+    "confidence": 0.7
+  },
+  "81": {
+    "summary": "Caregiving for spouse and family burden",
+    "category": "grief",
+    "confidence": 0.6
+  },
+  "82": {
+    "summary": "Financial insecurity and health costs",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "83": {
+    "summary": "Loss of spouse and loneliness",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "84": {
+    "summary": "Chronic illness and reduced independence",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "85": {
+    "summary": "Grief over family losses",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "86": {
+    "summary": "Health decline and mobility issues",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "87": {
+    "summary": "Social isolation and lack of engagement",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "88": {
+    "summary": "Chronic pain and dependence",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "89": {
+    "summary": "Dementia and cognitive decline",
+    "category": "dementia",
+    "confidence": 0.7
+  },
+  "90": {
+    "summary": "End-of-life and mortality",
+    "category": "existential_crisis",
+    "confidence": 0.8
+  },
+  "91": {
+    "summary": "Family dissatisfaction and unmet needs",
+    "category": "relationship_dissatisfaction",
+    "confidence": 0.6
+  },
+  "92": {
+    "summary": "Health complications and hospitalizations",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "93": {
+    "summary": "Loss of close friends and loneliness",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "94": {
+    "summary": "Chronic illness and frailty",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "95": {
+    "summary": "Grief over family losses",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "96": {
+    "summary": "Dementia and memory loss",
+    "category": "dementia",
+    "confidence": 0.7
+  },
+  "97": {
+    "summary": "Social isolation and lack of support",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "98": {
+    "summary": "Chronic pain and dependence",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "99": {
+    "summary": "End-of-life and mortality awareness",
+    "category": "existential_crisis",
+    "confidence": 0.8
+  },
+  "100": {
+    "summary": "Final health decline and legacy concerns",
+    "category": "existential_crisis",
+    "confidence": 0.7
+  }
+}

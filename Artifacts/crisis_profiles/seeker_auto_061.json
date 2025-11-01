@@ -1,0 +1,407 @@
+{
+  "20": {
+    "summary": "Conscription and war trauma during WWII",
+    "category": "war_trauma",
+    "confidence": 0.9
+  },
+  "21": {
+    "summary": "Displacement and refugee camp survival stress",
+    "category": "displacement",
+    "confidence": 0.9
+  },
+  "22": {
+    "summary": "Loss of family members in conflict",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "23": {
+    "summary": "Moral injury from combat experiences",
+    "category": "moral_injury",
+    "confidence": 0.8
+  },
+  "24": {
+    "summary": "Liberation trauma and uncertainty",
+    "category": "liberation_trauma",
+    "confidence": 0.8
+  },
+  "25": {
+    "summary": "Acute PTSD and displacement anxiety",
+    "category": "ptsd",
+    "confidence": 0.9
+  },
+  "26": {
+    "summary": "Adjustment disorder to Norway",
+    "category": "adjustment_disorder",
+    "confidence": 0.8
+  },
+  "27": {
+    "summary": "Discrimination and social isolation",
+    "category": "discrimination",
+    "confidence": 0.8
+  },
+  "28": {
+    "summary": "Language barrier and employment stress",
+    "category": "employment_stress",
+    "confidence": 0.7
+  },
+  "29": {
+    "summary": "Loneliness and cultural alienation",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "30": {
+    "summary": "Relationship formation difficulties",
+    "category": "relationship_difficulty",
+    "confidence": 0.7
+  },
+  "31": {
+    "summary": "Chronic PTSD and hypervigilance",
+    "category": "chronic_ptsd",
+    "confidence": 0.8
+  },
+  "32": {
+    "summary": "Career stagnation and financial stress",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "33": {
+    "summary": "Fear of passing trauma to children",
+    "category": "generational_trauma",
+    "confidence": 0.7
+  },
+  "34": {
+    "summary": "Occupational injury or chronic pain",
+    "category": "chronic_pain",
+    "confidence": 0.6
+  },
+  "35": {
+    "summary": "Midlife crisis and existential doubt",
+    "category": "midlife_crisis",
+    "confidence": 0.6
+  },
+  "36": {
+    "summary": "Economic downturn and job insecurity",
+    "category": "economic_downturn",
+    "confidence": 0.6
+  },
+  "37": {
+    "summary": "Work-family balance stress",
+    "category": "work_family_balance",
+    "confidence": 0.6
+  },
+  "38": {
+    "summary": "Career change anxiety",
+    "category": "career_change",
+    "confidence": 0.6
+  },
+  "39": {
+    "summary": "Early signs of chronic illness",
+    "category": "chronic_illness",
+    "confidence": 0.6
+  },
+  "40": {
+    "summary": "Midlife reflection and regret",
+    "category": "regret",
+    "confidence": 0.6
+  },
+  "41": {
+    "summary": "Educational stress for children",
+    "category": "education_stress",
+    "confidence": 0.6
+  },
+  "42": {
+    "summary": "Caregiving stress for aging parents",
+    "category": "caregiving_stress",
+    "confidence": 0.6
+  },
+  "43": {
+    "summary": "Retirement anxiety",
+    "category": "retirement_anxiety",
+    "confidence": 0.6
+  },
+  "44": {
+    "summary": "Financial planning stress",
+    "category": "financial_planning",
+    "confidence": 0.6
+  },
+  "45": {
+    "summary": "Health decline and chronic pain",
+    "category": "chronic_pain",
+    "confidence": 0.6
+  },
+  "46": {
+    "summary": "Empty nest syndrome",
+    "category": "empty_nest",
+    "confidence": 0.6
+  },
+  "47": {
+    "summary": "Midlife health crisis",
+    "category": "health_crisis",
+    "confidence": 0.6
+  },
+  "48": {
+    "summary": "Social change anxiety",
+    "category": "social_change",
+    "confidence": 0.6
+  },
+  "49": {
+    "summary": "Retirement transition stress",
+    "category": "retirement_transition",
+    "confidence": 0.6
+  },
+  "50": {
+    "summary": "Retirement adjustment",
+    "category": "retirement_adjustment",
+    "confidence": 0.6
+  },
+  "51": {
+    "summary": "Chronic illness management",
+    "category": "chronic_illness",
+    "confidence": 0.6
+  },
+  "52": {
+    "summary": "Financial insecurity in retirement",
+    "category": "financial_insecurity",
+    "confidence": 0.6
+  },
+  "53": {
+    "summary": "Loneliness in retirement",
+    "category": "loneliness",
+    "confidence": 0.6
+  },
+  "54": {
+    "summary": "Spousal loss and grief",
+    "category": "grief",
+    "confidence": 0.6
+  },
+  "55": {
+    "summary": "Children's independence stress",
+    "category": "children_independence",
+    "confidence": 0.6
+  },
+  "56": {
+    "summary": "Declining health and dependency",
+    "category": "health_dependency",
+    "confidence": 0.6
+  },
+  "57": {
+    "summary": "Financial strain from health issues",
+    "category": "financial_strain",
+    "confidence": 0.6
+  },
+  "58": {
+    "summary": "Social isolation and loneliness",
+    "category": "loneliness",
+    "confidence": 0.6
+  },
+  "59": {
+    "summary": "Existential crisis",
+    "category": "existential_crisis",
+    "confidence": 0.6
+  },
+  "60": {
+    "summary": "Retirement and identity loss",
+    "category": "retirement_identity",
+    "confidence": 0.6
+  },
+  "61": {
+    "summary": "Chronic pain and mobility issues",
+    "category": "chronic_pain",
+    "confidence": 0.6
+  },
+  "62": {
+    "summary": "Long-term financial planning",
+    "category": "financial_planning",
+    "confidence": 0.6
+  },
+  "63": {
+    "summary": "Loss of independence",
+    "category": "loss_of_independence",
+    "confidence": 0.6
+  },
+  "64": {
+    "summary": "Health decline and care needs",
+    "category": "health_care_needs",
+    "confidence": 0.6
+  },
+  "65": {
+    "summary": "Pension insecurity",
+    "category": "pension_insecurity",
+    "confidence": 0.6
+  },
+  "66": {
+    "summary": "Social isolation and loneliness",
+    "category": "loneliness",
+    "confidence": 0.6
+  },
+  "67": {
+    "summary": "Chronic illness and pain",
+    "category": "chronic_illness",
+    "confidence": 0.6
+  },
+  "68": {
+    "summary": "Financial strain from healthcare costs",
+    "category": "financial_strain",
+    "confidence": 0.6
+  },
+  "69": {
+    "summary": "Spousal loss and grief",
+    "category": "grief",
+    "confidence": 0.6
+  },
+  "70": {
+    "summary": "Retirement and loneliness",
+    "category": "loneliness",
+    "confidence": 0.6
+  },
+  "71": {
+    "summary": "Declining health and dependency",
+    "category": "health_dependency",
+    "confidence": 0.6
+  },
+  "72": {
+    "summary": "Financial insecurity in old age",
+    "category": "financial_insecurity",
+    "confidence": 0.6
+  },
+  "73": {
+    "summary": "Social isolation and loneliness",
+    "category": "loneliness",
+    "confidence": 0.6
+  },
+  "74": {
+    "summary": "Chronic pain and mobility issues",
+    "category": "chronic_pain",
+    "confidence": 0.6
+  },
+  "75": {
+    "summary": "Loss of independence and care needs",
+    "category": "loss_of_independence",
+    "confidence": 0.6
+  },
+  "76": {
+    "summary": "Financial strain from long-term care",
+    "category": "financial_strain",
+    "confidence": 0.6
+  },
+  "77": {
+    "summary": "Loneliness and social isolation",
+    "category": "loneliness",
+    "confidence": 0.6
+  },
+  "78": {
+    "summary": "Health decline and chronic illness",
+    "category": "chronic_illness",
+    "confidence": 0.6
+  },
+  "79": {
+    "summary": "End-of-life anxiety",
+    "category": "end_of_life",
+    "confidence": 0.6
+  },
+  "80": {
+    "summary": "Retirement and health issues",
+    "category": "health_issues",
+    "confidence": 0.6
+  },
+  "81": {
+    "summary": "Financial insecurity in old age",
+    "category": "financial_insecurity",
+    "confidence": 0.6
+  },
+  "82": {
+    "summary": "Loneliness and social isolation",
+    "category": "loneliness",
+    "confidence": 0.6
+  },
+  "83": {
+    "summary": "Chronic pain and mobility issues",
+    "category": "chronic_pain",
+    "confidence": 0.6
+  },
+  "84": {
+    "summary": "Financial strain from healthcare",
+    "category": "financial_strain",
+    "confidence": 0.6
+  },
+  "85": {
+    "summary": "Loss of independence and care needs",
+    "category": "loss_of_independence",
+    "confidence": 0.6
+  },
+  "86": {
+    "summary": "Loneliness and social isolation",
+    "category": "loneliness",
+    "confidence": 0.6
+  },
+  "87": {
+    "summary": "Chronic illness and pain",
+    "category": "chronic_illness",
+    "confidence": 0.6
+  },
+  "88": {
+    "summary": "Financial insecurity and retirement",
+    "category": "financial_insecurity",
+    "confidence": 0.6
+  },
+  "89": {
+    "summary": "End-of-life anxiety",
+    "category": "end_of_life",
+    "confidence": 0.6
+  },
+  "90": {
+    "summary": "Retirement and health decline",
+    "category": "health_decline",
+    "confidence": 0.6
+  },
+  "91": {
+    "summary": "Loneliness and social isolation",
+    "category": "loneliness",
+    "confidence": 0.6
+  },
+  "92": {
+    "summary": "Financial strain from long-term care",
+    "category": "financial_strain",
+    "confidence": 0.6
+  },
+  "93": {
+    "summary": "Chronic pain and mobility issues",
+    "category": "chronic_pain",
+    "confidence": 0.6
+  },
+  "94": {
+    "summary": "Loss of independence and care needs",
+    "category": "loss_of_independence",
+    "confidence": 0.6
+  },
+  "95": {
+    "summary": "Loneliness and social isolation",
+    "category": "loneliness",
+    "confidence": 0.6
+  },
+  "96": {
+    "summary": "Chronic illness and pain",
+    "category": "chronic_illness",
+    "confidence": 0.6
+  },
+  "97": {
+    "summary": "Financial insecurity in old age",
+    "category": "financial_insecurity",
+    "confidence": 0.6
+  },
+  "98": {
+    "summary": "End-of-life anxiety",
+    "category": "end_of_life",
+    "confidence": 0.6
+  },
+  "99": {
+    "summary": "Loneliness and social isolation",
+    "category": "loneliness",
+    "confidence": 0.6
+  },
+  "100": {
+    "summary": "Retirement and health decline",
+    "category": "health_decline",
+    "confidence": 0.6
+  }
+}

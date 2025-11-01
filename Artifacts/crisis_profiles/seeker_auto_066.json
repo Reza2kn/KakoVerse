@@ -1,0 +1,407 @@
+{
+  "20": {
+    "summary": "Intense homesickness and academic pressure as first-year engineering student abroad.",
+    "category": "adjustment",
+    "confidence": 0.8
+  },
+  "21": {
+    "summary": "Struggling with language barriers and overwhelming workload in university.",
+    "category": "academic_stress",
+    "confidence": 0.8
+  },
+  "22": {
+    "summary": "Adjustment difficulties with persistent anxiety after relocation.",
+    "category": "anxiety",
+    "confidence": 0.9
+  },
+  "23": {
+    "summary": "Career uncertainty and financial strain nearing graduation.",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "24": {
+    "summary": "Pressure to establish career and family in new country.",
+    "category": "family_pressure",
+    "confidence": 0.6
+  },
+  "25": {
+    "summary": "Identity crisis balancing immigrant roots with personal ambitions.",
+    "category": "identity_crisis",
+    "confidence": 0.6
+  },
+  "26": {
+    "summary": "Burnout from long hours in demanding engineering job.",
+    "category": "career_burnout",
+    "confidence": 0.6
+  },
+  "27": {
+    "summary": "Marital expectations from family conflicting with career demands.",
+    "category": "relationship_dysfunction",
+    "confidence": 0.5
+  },
+  "28": {
+    "summary": "Health issues from sedentary work and accumulated stress.",
+    "category": "chronic_health",
+    "confidence": 0.5
+  },
+  "29": {
+    "summary": "Grief over loss of parents in India.",
+    "category": "grief",
+    "confidence": 0.4
+  },
+  "30": {
+    "summary": "Midlife crisis questioning life choices and career path.",
+    "category": "midlife_crisis",
+    "confidence": 0.6
+  },
+  "31": {
+    "summary": "Financial instability despite career progress.",
+    "category": "financial_stress",
+    "confidence": 0.5
+  },
+  "32": {
+    "summary": "Work-life balance struggles with young family.",
+    "category": "family_balance",
+    "confidence": 0.6
+  },
+  "33": {
+    "summary": "Caring for aging parents from afar.",
+    "category": "caregiving",
+    "confidence": 0.5
+  },
+  "34": {
+    "summary": "Professional stagnation in engineering field.",
+    "category": "career_stagnation",
+    "confidence": 0.5
+  },
+  "35": {
+    "summary": "Midlife reassessment pursuing passion projects.",
+    "category": "career_change",
+    "confidence": 0.6
+  },
+  "36": {
+    "summary": "Health decline from decades of stress.",
+    "category": "chronic_health",
+    "confidence": 0.6
+  },
+  "37": {
+    "summary": "Marital strain and communication issues.",
+    "category": "relationship_dysfunction",
+    "confidence": 0.5
+  },
+  "38": {
+    "summary": "Children's education and cultural identity conflicts.",
+    "category": "family_education",
+    "confidence": 0.5
+  },
+  "39": {
+    "summary": "Career advancement blocked by cultural barriers.",
+    "category": "discrimination",
+    "confidence": 0.4
+  },
+  "40": {
+    "summary": "Midlife crisis seeking new purpose.",
+    "category": "midlife_crisis",
+    "confidence": 0.6
+  },
+  "41": {
+    "summary": "Financial planning for retirement and family.",
+    "category": "financial_planning",
+    "confidence": 0.5
+  },
+  "42": {
+    "summary": "Health issues from aging and past stress.",
+    "category": "chronic_health",
+    "confidence": 0.6
+  },
+  "43": {
+    "summary": "Empty nest syndrome and loneliness.",
+    "category": "loneliness",
+    "confidence": 0.5
+  },
+  "44": {
+    "summary": "Grief over death of spouse.",
+    "category": "grief",
+    "confidence": 0.4
+  },
+  "45": {
+    "summary": "Career transition and legacy building.",
+    "category": "career_transition",
+    "confidence": 0.5
+  },
+  "46": {
+    "summary": "Chronic pain and mobility issues.",
+    "category": "chronic_pain",
+    "confidence": 0.5
+  },
+  "47": {
+    "summary": "Health decline and dependency on family.",
+    "category": "health_decline",
+    "confidence": 0.6
+  },
+  "48": {
+    "summary": "Retirement planning and financial uncertainty.",
+    "category": "retirement_planning",
+    "confidence": 0.5
+  },
+  "49": {
+    "summary": "Grief over death of close friend.",
+    "category": "grief",
+    "confidence": 0.4
+  },
+  "50": {
+    "summary": "Midlife reassessment pursuing hobbies.",
+    "category": "midlife_crisis",
+    "confidence": 0.5
+  },
+  "51": {
+    "summary": "Health issues from aging and past stress.",
+    "category": "chronic_health",
+    "confidence": 0.6
+  },
+  "52": {
+    "summary": "Loneliness and social isolation.",
+    "category": "loneliness",
+    "confidence": 0.6
+  },
+  "53": {
+    "summary": "Caring for aging parents and siblings.",
+    "category": "caregiving",
+    "confidence": 0.5
+  },
+  "54": {
+    "summary": "Financial insecurity in retirement.",
+    "category": "financial_stress",
+    "confidence": 0.5
+  },
+  "55": {
+    "summary": "Retirement adjustment and loss of purpose.",
+    "category": "retirement_crisis",
+    "confidence": 0.6
+  },
+  "56": {
+    "summary": "Health decline and chronic illness.",
+    "category": "chronic_health",
+    "confidence": 0.7
+  },
+  "57": {
+    "summary": "Grief over death of spouse.",
+    "category": "grief",
+    "confidence": 0.5
+  },
+  "58": {
+    "summary": "Loneliness and reduced social network.",
+    "category": "loneliness",
+    "confidence": 0.6
+  },
+  "59": {
+    "summary": "Caregiving for spouse with dementia.",
+    "category": "caregiving",
+    "confidence": 0.6
+  },
+  "60": {
+    "summary": "Retirement and financial management challenges.",
+    "category": "retirement_challenges",
+    "confidence": 0.5
+  },
+  "61": {
+    "summary": "Health issues and dependency.",
+    "category": "health_decline",
+    "confidence": 0.7
+  },
+  "62": {
+    "summary": "Grief over death of children.",
+    "category": "grief",
+    "confidence": 0.4
+  },
+  "63": {
+    "summary": "Chronic pain and mobility limitations.",
+    "category": "chronic_pain",
+    "confidence": 0.6
+  },
+  "64": {
+    "summary": "Social isolation and loneliness.",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "65": {
+    "summary": "Retirement and legacy concerns.",
+    "category": "retirement_crisis",
+    "confidence": 0.5
+  },
+  "66": {
+    "summary": "Health decline and chronic illness.",
+    "category": "chronic_health",
+    "confidence": 0.7
+  },
+  "67": {
+    "summary": "Grief over death of siblings.",
+    "category": "grief",
+    "confidence": 0.4
+  },
+  "68": {
+    "summary": "Loneliness and reduced mobility.",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "69": {
+    "summary": "Caregiving for spouse with dementia.",
+    "category": "caregiving",
+    "confidence": 0.6
+  },
+  "70": {
+    "summary": "Retirement and financial management.",
+    "category": "retirement_challenges",
+    "confidence": 0.5
+  },
+  "71": {
+    "summary": "Health issues and dependency.",
+    "category": "health_decline",
+    "confidence": 0.7
+  },
+  "72": {
+    "summary": "Grief over death of grandchildren.",
+    "category": "grief",
+    "confidence": 0.3
+  },
+  "73": {
+    "summary": "Chronic pain and social isolation.",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "74": {
+    "summary": "Loneliness and reduced social network.",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "75": {
+    "summary": "Retirement and financial insecurity.",
+    "category": "retirement_challenges",
+    "confidence": 0.5
+  },
+  "76": {
+    "summary": "Health decline and chronic illness.",
+    "category": "chronic_health",
+    "confidence": 0.8
+  },
+  "77": {
+    "summary": "Grief over death of spouse.",
+    "category": "grief",
+    "confidence": 0.5
+  },
+  "78": {
+    "summary": "Loneliness and social isolation.",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "79": {
+    "summary": "Caregiving for spouse with dementia.",
+    "category": "caregiving",
+    "confidence": 0.6
+  },
+  "80": {
+    "summary": "Retirement and financial management.",
+    "category": "retirement_challenges",
+    "confidence": 0.5
+  },
+  "81": {
+    "summary": "Health issues and dependency.",
+    "category": "health_decline",
+    "confidence": 0.8
+  },
+  "82": {
+    "summary": "Grief over death of children.",
+    "category": "grief",
+    "confidence": 0.4
+  },
+  "83": {
+    "summary": "Chronic pain and social isolation.",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "84": {
+    "summary": "Loneliness and reduced social network.",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "85": {
+    "summary": "Retirement and financial insecurity.",
+    "category": "retirement_challenges",
+    "confidence": 0.5
+  },
+  "86": {
+    "summary": "Health decline and chronic illness.",
+    "category": "chronic_health",
+    "confidence": 0.8
+  },
+  "87": {
+    "summary": "Grief over death of siblings.",
+    "category": "grief",
+    "confidence": 0.4
+  },
+  "88": {
+    "summary": "Loneliness and social isolation.",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "89": {
+    "summary": "Caregiving for spouse with dementia.",
+    "category": "caregiving",
+    "confidence": 0.6
+  },
+  "90": {
+    "summary": "Retirement and financial management.",
+    "category": "retirement_challenges",
+    "confidence": 0.5
+  },
+  "91": {
+    "summary": "Health issues and dependency.",
+    "category": "health_decline",
+    "confidence": 0.8
+  },
+  "92": {
+    "summary": "Grief over death of children.",
+    "category": "grief",
+    "confidence": 0.4
+  },
+  "93": {
+    "summary": "Chronic pain and social isolation.",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "94": {
+    "summary": "Loneliness and reduced social network.",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "95": {
+    "summary": "Retirement and financial insecurity.",
+    "category": "retirement_challenges",
+    "confidence": 0.5
+  },
+  "96": {
+    "summary": "Health decline and chronic illness.",
+    "category": "chronic_health",
+    "confidence": 0.8
+  },
+  "97": {
+    "summary": "Grief over death of spouse.",
+    "category": "grief",
+    "confidence": 0.5
+  },
+  "98": {
+    "summary": "Loneliness and social isolation.",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "99": {
+    "summary": "Caregiving for spouse with dementia.",
+    "category": "caregiving",
+    "confidence": 0.6
+  },
+  "100": {
+    "summary": "Retirement and legacy concerns.",
+    "category": "retirement_crisis",
+    "confidence": 0.5
+  }
+}

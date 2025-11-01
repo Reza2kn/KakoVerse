@@ -1,0 +1,407 @@
+{
+  "20": {
+    "summary": "Navigating post-war migration decisions",
+    "category": "transition_stress",
+    "confidence": 0.9
+  },
+  "21": {
+    "summary": "Cultural adjustment to new country",
+    "category": "acculturation_challenges",
+    "confidence": 0.85
+  },
+  "22": {
+    "summary": "Balancing family expectations with personal freedom",
+    "category": "value_conflict",
+    "confidence": 0.8
+  },
+  "23": {
+    "summary": "Grief over childhood homeland changes",
+    "category": "grief",
+    "confidence": 0.75
+  },
+  "24": {
+    "summary": "Financial constraints limiting education",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "25": {
+    "summary": "Pressure to marry within cultural norms",
+    "category": "relationship_pressure",
+    "confidence": 0.8
+  },
+  "26": {
+    "summary": "Identity conflict between cultures",
+    "category": "identity_crisis",
+    "confidence": 0.85
+  },
+  "27": {
+    "summary": "Career path uncertainty",
+    "category": "career_doubt",
+    "confidence": 0.7
+  },
+  "28": {
+    "summary": "Homesickness for Middle Eastern roots",
+    "category": "homesickness",
+    "confidence": 0.75
+  },
+  "29": {
+    "summary": "Generational value clashes with parents",
+    "category": "intergenerational_tension",
+    "confidence": 0.8
+  },
+  "30": {
+    "summary": "Delayed personal ambitions",
+    "category": "unmet_aspirations",
+    "confidence": 0.7
+  },
+  "31": {
+    "summary": "Spousal relationship adjustment",
+    "category": "marital_dysfunction",
+    "confidence": 0.65
+  },
+  "32": {
+    "summary": "Motherhood pressures",
+    "category": "parenting_stress",
+    "confidence": 0.7
+  },
+  "33": {
+    "summary": "Economic instability during childbirth",
+    "category": "financial_worry",
+    "confidence": 0.7
+  },
+  "34": {
+    "summary": "Balancing traditional roles with modern opportunities",
+    "category": "role_conflict",
+    "confidence": 0.8
+  },
+  "35": {
+    "summary": "Health concerns during pregnancy",
+    "category": "maternal_health",
+    "confidence": 0.6
+  },
+  "36": {
+    "summary": "Midlife career reassessment",
+    "category": "midlife_career",
+    "confidence": 0.75
+  },
+  "37": {
+    "summary": "Empty nest syndrome",
+    "category": "empty_nest",
+    "confidence": 0.65
+  },
+  "38": {
+    "summary": "Spousal career sacrifice regrets",
+    "category": "relationship_guilt",
+    "confidence": 0.7
+  },
+  "39": {
+    "summary": "Cultural identity reevaluation",
+    "category": "identity_shift",
+    "confidence": 0.7
+  },
+  "40": {
+    "summary": "Menopause health management",
+    "category": "health_concern",
+    "confidence": 0.6
+  },
+  "41": {
+    "summary": "Parental health decline",
+    "category": "caregiver_stress",
+    "confidence": 0.8
+  },
+  "42": {
+    "summary": "Midlife health crisis",
+    "category": "chronic_illness",
+    "confidence": 0.7
+  },
+  "43": {
+    "summary": "Retirement transition anxiety",
+    "category": "career_change",
+    "confidence": 0.75
+  },
+  "44": {
+    "summary": "Financial planning for retirement",
+    "category": "financial_planning",
+    "confidence": 0.65
+  },
+  "45": {
+    "summary": "Children leaving home",
+    "category": "empty_nest",
+    "confidence": 0.7
+  },
+  "46": {
+    "summary": "Midlife career stagnation",
+    "category": "career_dissatisfaction",
+    "confidence": 0.7
+  },
+  "47": {
+    "summary": "Spousal health decline",
+    "category": "caregiver_burden",
+    "confidence": 0.8
+  },
+  "48": {
+    "summary": "Health deterioration concerns",
+    "category": "chronic_pain",
+    "confidence": 0.75
+  },
+  "49": {
+    "summary": "Social isolation in new community",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "50": {
+    "summary": "Grief over parents' deaths",
+    "category": "grief",
+    "confidence": 0.85
+  },
+  "51": {
+    "summary": "Retirement adjustment challenges",
+    "category": "transition_stress",
+    "confidence": 0.7
+  },
+  "52": {
+    "summary": "Chronic health management",
+    "category": "health_management",
+    "confidence": 0.8
+  },
+  "53": {
+    "summary": "Spousal health decline",
+    "category": "caregiver_burden",
+    "confidence": 0.85
+  },
+  "54": {
+    "summary": "Financial security concerns",
+    "category": "financial_worry",
+    "confidence": 0.75
+  },
+  "55": {
+    "summary": "Loss of independence fears",
+    "category": "existential_anxiety",
+    "confidence": 0.8
+  },
+  "56": {
+    "summary": "Health decline impacting hobbies",
+    "category": "activity_limitation",
+    "confidence": 0.7
+  },
+  "57": {
+    "summary": "Grief over spouse's death",
+    "category": "grief",
+    "confidence": 0.9
+  },
+  "58": {
+    "summary": "Cultural adaptation to Tokyo",
+    "category": "acculturation_challenges",
+    "confidence": 0.8
+  },
+  "59": {
+    "summary": "Social isolation in retirement community",
+    "category": "loneliness",
+    "confidence": 0.85
+  },
+  "60": {
+    "summary": "Chronic pain management",
+    "category": "chronic_pain",
+    "confidence": 0.75
+  },
+  "61": {
+    "summary": "Health decline limiting travel",
+    "category": "mobility_issues",
+    "confidence": 0.7
+  },
+  "62": {
+    "summary": "Financial planning for advanced age",
+    "category": "financial_planning",
+    "confidence": 0.65
+  },
+  "63": {
+    "summary": "Grief over spouse's death anniversary",
+    "category": "grief",
+    "confidence": 0.9
+  },
+  "64": {
+    "summary": "Health management challenges",
+    "category": "health_concern",
+    "confidence": 0.7
+  },
+  "65": {
+    "summary": "Social isolation in foreign country",
+    "category": "loneliness",
+    "confidence": 0.85
+  },
+  "66": {
+    "summary": "Chronic illness progression",
+    "category": "chronic_illness",
+    "confidence": 0.8
+  },
+  "67": {
+    "summary": "Mobility limitations",
+    "category": "mobility_issues",
+    "confidence": 0.75
+  },
+  "68": {
+    "summary": "Grief over spouse's death anniversary",
+    "category": "grief",
+    "confidence": 0.9
+  },
+  "69": {
+    "summary": "Health decline impacting hobbies",
+    "category": "activity_limitation",
+    "confidence": 0.7
+  },
+  "70": {
+    "summary": "Financial security maintenance",
+    "category": "financial_worry",
+    "confidence": 0.65
+  },
+  "71": {
+    "summary": "Chronic pain management",
+    "category": "chronic_pain",
+    "confidence": 0.75
+  },
+  "72": {
+    "summary": "Social isolation in retirement community",
+    "category": "loneliness",
+    "confidence": 0.85
+  },
+  "73": {
+    "summary": "Health decline limiting mobility",
+    "category": "mobility_issues",
+    "confidence": 0.7
+  },
+  "74": {
+    "summary": "Grief over spouse's death anniversary",
+    "category": "grief",
+    "confidence": 0.9
+  },
+  "75": {
+    "summary": "Chronic illness management",
+    "category": "chronic_illness",
+    "confidence": 0.8
+  },
+  "76": {
+    "summary": "Financial planning for end-of-life",
+    "category": "financial_planning",
+    "confidence": 0.6
+  },
+  "77": {
+    "summary": "Health decline impacting independence",
+    "category": "caregiver_burden",
+    "confidence": 0.7
+  },
+  "78": {
+    "summary": "Grief over spouse's death anniversary",
+    "category": "grief",
+    "confidence": 0.9
+  },
+  "79": {
+    "summary": "Mobility limitations",
+    "category": "mobility_issues",
+    "confidence": 0.75
+  },
+  "80": {
+    "summary": "Chronic pain management",
+    "category": "chronic_pain",
+    "confidence": 0.75
+  },
+  "81": {
+    "summary": "Social isolation in foreign country",
+    "category": "loneliness",
+    "confidence": 0.85
+  },
+  "82": {
+    "summary": "Health decline impacting daily activities",
+    "category": "activity_limitation",
+    "confidence": 0.7
+  },
+  "83": {
+    "summary": "Grief over spouse's death anniversary",
+    "category": "grief",
+    "confidence": 0.9
+  },
+  "84": {
+    "summary": "Financial security maintenance",
+    "category": "financial_worry",
+    "confidence": 0.6
+  },
+  "85": {
+    "summary": "Chronic illness progression",
+    "category": "chronic_illness",
+    "confidence": 0.8
+  },
+  "86": {
+    "summary": "Mobility limitations",
+    "category": "mobility_issues",
+    "confidence": 0.75
+  },
+  "87": {
+    "summary": "Grief over spouse's death anniversary",
+    "category": "grief",
+    "confidence": 0.9
+  },
+  "88": {
+    "summary": "Health decline impacting hobbies",
+    "category": "activity_limitation",
+    "confidence": 0.7
+  },
+  "89": {
+    "summary": "Social isolation in retirement community",
+    "category": "loneliness",
+    "confidence": 0.85
+  },
+  "90": {
+    "summary": "Chronic pain management",
+    "category": "chronic_pain",
+    "confidence": 0.75
+  },
+  "91": {
+    "summary": "Grief over spouse's death anniversary",
+    "category": "grief",
+    "confidence": 0.9
+  },
+  "92": {
+    "summary": "Financial planning for end-of-life",
+    "category": "financial_planning",
+    "confidence": 0.5
+  },
+  "93": {
+    "summary": "Mobility limitations",
+    "category": "mobility_issues",
+    "confidence": 0.75
+  },
+  "94": {
+    "summary": "Health decline impacting independence",
+    "category": "caregiver_burden",
+    "confidence": 0.7
+  },
+  "95": {
+    "summary": "Grief over spouse's death anniversary",
+    "category": "grief",
+    "confidence": 0.9
+  },
+  "96": {
+    "summary": "Chronic illness management",
+    "category": "chronic_illness",
+    "confidence": 0.8
+  },
+  "97": {
+    "summary": "Social isolation in foreign country",
+    "category": "loneliness",
+    "confidence": 0.85
+  },
+  "98": {
+    "summary": "Health decline impacting daily activities",
+    "category": "activity_limitation",
+    "confidence": 0.7
+  },
+  "99": {
+    "summary": "Grief over spouse's death anniversary",
+    "category": "grief",
+    "confidence": 0.9
+  },
+  "100": {
+    "summary": "Existential reflection",
+    "category": "existential_anxiety",
+    "confidence": 0.8
+  }
+}

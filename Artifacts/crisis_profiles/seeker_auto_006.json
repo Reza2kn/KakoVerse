@@ -1,0 +1,407 @@
+{
+  "20": {
+    "summary": "Identity conflict due to mixed heritage and transnational roots",
+    "category": "identity_crisis",
+    "confidence": 0.85
+  },
+  "21": {
+    "summary": "Financial strain from supporting family obligations",
+    "category": "financial_stress",
+    "confidence": 0.75
+  },
+  "22": {
+    "summary": "Relationship tension from cultural expectations",
+    "category": "relationship_tension",
+    "confidence": 0.8
+  },
+  "23": {
+    "summary": "Career dissatisfaction in government clerk role",
+    "category": "career_dissatisfaction",
+    "confidence": 0.85
+  },
+  "24": {
+    "summary": "Grief over lost cultural connections",
+    "category": "grief",
+    "confidence": 0.7
+  },
+  "25": {
+    "summary": "Burnout from monotonous work and rumination",
+    "category": "burnout",
+    "confidence": 0.8
+  },
+  "26": {
+    "summary": "Loneliness in Dhaka amid limited social ties",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "27": {
+    "summary": "Existential crisis questioning life purpose",
+    "category": "existential_crisis",
+    "confidence": 0.75
+  },
+  "28": {
+    "summary": "Familial estrangement triggering depression",
+    "category": "familial_estrangement",
+    "confidence": 0.9
+  },
+  "29": {
+    "summary": "Chronic depression with social withdrawal",
+    "category": "chronic_depression",
+    "confidence": 0.95
+  },
+  "30": {
+    "summary": "Treatment resistance for depression",
+    "category": "treatment_resistance",
+    "confidence": 0.8
+  },
+  "31": {
+    "summary": "Social isolation worsening depression",
+    "category": "social_isolation",
+    "confidence": 0.85
+  },
+  "32": {
+    "summary": "Stagnation in government career path",
+    "category": "career_stagnation",
+    "confidence": 0.75
+  },
+  "33": {
+    "summary": "Midlife crisis reevaluating life choices",
+    "category": "midlife_crisis",
+    "confidence": 0.7
+  },
+  "34": {
+    "summary": "Early health concerns from stress",
+    "category": "health_concerns",
+    "confidence": 0.65
+  },
+  "35": {
+    "summary": "Financial pressure from family support duties",
+    "category": "financial_pressure",
+    "confidence": 0.7
+  },
+  "36": {
+    "summary": "Relationship breakdown due to depression",
+    "category": "relationship_breakdown",
+    "confidence": 0.75
+  },
+  "37": {
+    "summary": "Grief over loss of a close family member",
+    "category": "grief",
+    "confidence": 0.7
+  },
+  "38": {
+    "summary": "Midlife reevaluation of career and legacy",
+    "category": "midlife_crisis",
+    "confidence": 0.7
+  },
+  "39": {
+    "summary": "Onset of chronic illness from stress",
+    "category": "chronic_illness",
+    "confidence": 0.65
+  },
+  "40": {
+    "summary": "Anxiety about retirement timing",
+    "category": "retirement_anxiety",
+    "confidence": 0.7
+  },
+  "41": {
+    "summary": "Urgency to complete genealogy research",
+    "category": "legacy_concerns",
+    "confidence": 0.8
+  },
+  "42": {
+    "summary": "Family duty stress from aging parents",
+    "category": "family_duty_stress",
+    "confidence": 0.75
+  },
+  "43": {
+    "summary": "Career transition anxiety",
+    "category": "career_transition",
+    "confidence": 0.7
+  },
+  "44": {
+    "summary": "Physical health decline",
+    "category": "health_decline",
+    "confidence": 0.75
+  },
+  "45": {
+    "summary": "Empty nest loneliness",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "46": {
+    "summary": "Existential reflection on legacy",
+    "category": "existential_reflection",
+    "confidence": 0.75
+  },
+  "47": {
+    "summary": "Chronic pain development",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "48": {
+    "summary": "Financial insecurity for retirement",
+    "category": "financial_insecurity",
+    "confidence": 0.7
+  },
+  "49": {
+    "summary": "Mortality anxiety",
+    "category": "mortality_anxiety",
+    "confidence": 0.8
+  },
+  "50": {
+    "summary": "Generational disconnect with younger relatives",
+    "category": "generational_gap",
+    "confidence": 0.7
+  },
+  "51": {
+    "summary": "Major health crisis requiring intervention",
+    "category": "health_crisis",
+    "confidence": 0.85
+  },
+  "52": {
+    "summary": "Retirement planning financial stress",
+    "category": "financial_concerns",
+    "confidence": 0.75
+  },
+  "53": {
+    "summary": "Family health crisis concern",
+    "category": "family_health",
+    "confidence": 0.7
+  },
+  "54": {
+    "summary": "Social isolation from peer loss",
+    "category": "social_isolation",
+    "confidence": 0.85
+  },
+  "55": {
+    "summary": "Chronic illness progression",
+    "category": "chronic_illness",
+    "confidence": 0.8
+  },
+  "56": {
+    "summary": "Existential crisis about legacy",
+    "category": "existential_crisis",
+    "confidence": 0.75
+  },
+  "57": {
+    "summary": "Legacy work urgency for crafts/genealogy",
+    "category": "legacy_work",
+    "confidence": 0.8
+  },
+  "58": {
+    "summary": "Deepening social isolation",
+    "category": "social_isolation",
+    "confidence": 0.85
+  },
+  "59": {
+    "summary": "Mortality reflection",
+    "category": "mortality_reflection",
+    "confidence": 0.8
+  },
+  "60": {
+    "summary": "Retirement adjustment challenges",
+    "category": "retirement_adjustment",
+    "confidence": 0.8
+  },
+  "61": {
+    "summary": "Severe health decline",
+    "category": "health_decline",
+    "confidence": 0.9
+  },
+  "62": {
+    "summary": "Financial stress from fixed income",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "63": {
+    "summary": "Loneliness from spouse loss",
+    "category": "loneliness",
+    "confidence": 0.9
+  },
+  "64": {
+    "summary": "Persistent chronic pain",
+    "category": "chronic_pain",
+    "confidence": 0.85
+  },
+  "65": {
+    "summary": "Legacy concerns about unfinished work",
+    "category": "legacy_concerns",
+    "confidence": 0.8
+  },
+  "66": {
+    "summary": "Existential crisis about meaning",
+    "category": "existential_crisis",
+    "confidence": 0.75
+  },
+  "67": {
+    "summary": "Health crisis requiring care",
+    "category": "health_crisis",
+    "confidence": 0.85
+  },
+  "68": {
+    "summary": "Mortality anxiety",
+    "category": "mortality_anxiety",
+    "confidence": 0.8
+  },
+  "69": {
+    "summary": "Social isolation from peer loss",
+    "category": "social_isolation",
+    "confidence": 0.85
+  },
+  "70": {
+    "summary": "Severe health decline",
+    "category": "health_decline",
+    "confidence": 0.9
+  },
+  "71": {
+    "summary": "Profound loneliness",
+    "category": "loneliness",
+    "confidence": 0.9
+  },
+  "72": {
+    "summary": "Multiple chronic illnesses",
+    "category": "chronic_illness",
+    "confidence": 0.85
+  },
+  "73": {
+    "summary": "Financial insecurity",
+    "category": "financial_insecurity",
+    "confidence": 0.8
+  },
+  "74": {
+    "summary": "Final legacy work attempts",
+    "category": "legacy_work",
+    "confidence": 0.8
+  },
+  "75": {
+    "summary": "Mortality reflection",
+    "category": "mortality_reflection",
+    "confidence": 0.85
+  },
+  "76": {
+    "summary": "Existential crisis about purpose",
+    "category": "existential_crisis",
+    "confidence": 0.8
+  },
+  "77": {
+    "summary": "Health crisis requiring institutional care",
+    "category": "health_crisis",
+    "confidence": 0.85
+  },
+  "78": {
+    "summary": "Extreme social isolation",
+    "category": "social_isolation",
+    "confidence": 0.9
+  },
+  "79": {
+    "summary": "Mortality anxiety",
+    "category": "mortality_anxiety",
+    "confidence": 0.85
+  },
+  "80": {
+    "summary": "Severe health decline",
+    "category": "health_decline",
+    "confidence": 0.9
+  },
+  "81": {
+    "summary": "Profound loneliness",
+    "category": "loneliness",
+    "confidence": 0.9
+  },
+  "82": {
+    "summary": "Persistent chronic pain",
+    "category": "chronic_pain",
+    "confidence": 0.85
+  },
+  "83": {
+    "summary": "Financial stress from limited resources",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "84": {
+    "summary": "Legacy concerns about unfinished crafts",
+    "category": "legacy_concerns",
+    "confidence": 0.8
+  },
+  "85": {
+    "summary": "Mortality reflection",
+    "category": "mortality_reflection",
+    "confidence": 0.85
+  },
+  "86": {
+    "summary": "Existential crisis about legacy",
+    "category": "existential_crisis",
+    "confidence": 0.8
+  },
+  "87": {
+    "summary": "Health crisis requiring palliative care",
+    "category": "health_crisis",
+    "confidence": 0.85
+  },
+  "88": {
+    "summary": "Extreme social isolation",
+    "category": "social_isolation",
+    "confidence": 0.9
+  },
+  "89": {
+    "summary": "Mortality anxiety",
+    "category": "mortality_anxiety",
+    "confidence": 0.85
+  },
+  "90": {
+    "summary": "Severe health decline",
+    "category": "health_decline",
+    "confidence": 0.9
+  },
+  "91": {
+    "summary": "Profound loneliness",
+    "category": "loneliness",
+    "confidence": 0.9
+  },
+  "92": {
+    "summary": "Multiple chronic illnesses",
+    "category": "chronic_illness",
+    "confidence": 0.85
+  },
+  "93": {
+    "summary": "Financial insecurity",
+    "category": "financial_insecurity",
+    "confidence": 0.8
+  },
+  "94": {
+    "summary": "Final legacy work attempts",
+    "category": "legacy_work",
+    "confidence": 0.8
+  },
+  "95": {
+    "summary": "Mortality reflection",
+    "category": "mortality_reflection",
+    "confidence": 0.85
+  },
+  "96": {
+    "summary": "Existential crisis about meaning",
+    "category": "existential_crisis",
+    "confidence": 0.8
+  },
+  "97": {
+    "summary": "Health crisis requiring institutional care",
+    "category": "health_crisis",
+    "confidence": 0.85
+  },
+  "98": {
+    "summary": "Extreme social isolation",
+    "category": "social_isolation",
+    "confidence": 0.9
+  },
+  "99": {
+    "summary": "Mortality anxiety",
+    "category": "mortality_anxiety",
+    "confidence": 0.85
+  },
+  "100": {
+    "summary": "Legacy concerns about unfinished work",
+    "category": "legacy_concerns",
+    "confidence": 0.8
+  }
+}

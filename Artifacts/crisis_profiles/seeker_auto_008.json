@@ -1,0 +1,407 @@
+{
+  "20": {
+    "summary": "Adjustment difficulties after international relocation",
+    "category": "adjustment",
+    "confidence": 0.95
+  },
+  "21": {
+    "summary": "Academic pressure and financial precarity as a programming student",
+    "category": "financial_stress",
+    "confidence": 0.9
+  },
+  "22": {
+    "summary": "Isolation from limited social network in new country",
+    "category": "loneliness",
+    "confidence": 0.85
+  },
+  "23": {
+    "summary": "Identity conflict between European upbringing and African context",
+    "category": "identity_crisis",
+    "confidence": 0.8
+  },
+  "24": {
+    "summary": "Burnout from balancing studies with financial survival needs",
+    "category": "career_burnout",
+    "confidence": 0.75
+  },
+  "25": {
+    "summary": "Imposter syndrome in competitive tech field",
+    "category": "self_doubt",
+    "confidence": 0.7
+  },
+  "26": {
+    "summary": "Pressure to achieve quickly due to immigration status",
+    "category": "career_pressure",
+    "confidence": 0.8
+  },
+  "27": {
+    "summary": "Creative frustration from neglecting artistic passions",
+    "category": "creative_block",
+    "confidence": 0.65
+  },
+  "28": {
+    "summary": "Relationship challenges due to cultural differences",
+    "category": "relationship_conflict",
+    "confidence": 0.7
+  },
+  "29": {
+    "summary": "Housing insecurity in expensive urban environment",
+    "category": "housing_crisis",
+    "confidence": 0.75
+  },
+  "30": {
+    "summary": "Career plateau in entry-level tech position",
+    "category": "career_stagnation",
+    "confidence": 0.8
+  },
+  "31": {
+    "summary": "Health anxiety from pandemic-era upbringing",
+    "category": "health_anxiety",
+    "confidence": 0.6
+  },
+  "32": {
+    "summary": "Parental pressure regarding career choices",
+    "category": "family_pressure",
+    "confidence": 0.7
+  },
+  "33": {
+    "summary": "Midlife reassessment of life path",
+    "category": "existential_crisis",
+    "confidence": 0.85
+  },
+  "34": {
+    "summary": "Creative block in music production",
+    "category": "creative_block",
+    "confidence": 0.7
+  },
+  "35": {
+    "summary": "Work-life balance challenges",
+    "category": "burnout",
+    "confidence": 0.8
+  },
+  "36": {
+    "summary": "Financial planning stress for future stability",
+    "category": "financial_stress",
+    "confidence": 0.75
+  },
+  "37": {
+    "summary": "Parenting challenges balancing values",
+    "category": "parenting_stress",
+    "confidence": 0.8
+  },
+  "38": {
+    "summary": "Midlife career transition anxiety",
+    "category": "career_change",
+    "confidence": 0.85
+  },
+  "39": {
+    "summary": "Body image concerns from martial arts practice",
+    "category": "body_image",
+    "confidence": 0.6
+  },
+  "40": {
+    "summary": "Marital satisfaction assessment",
+    "category": "relationship_dissatisfaction",
+    "confidence": 0.7
+  },
+  "41": {
+    "summary": "Parental empty nest syndrome",
+    "category": "empty_nest",
+    "confidence": 0.75
+  },
+  "42": {
+    "summary": "Financial security concerns",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "43": {
+    "summary": "Midlife reassessment of relationships",
+    "category": "relationship_crisis",
+    "confidence": 0.8
+  },
+  "44": {
+    "summary": "Creative stagnation in photography",
+    "category": "creative_block",
+    "confidence": 0.7
+  },
+  "45": {
+    "summary": "Health maintenance challenges",
+    "category": "chronic_pain",
+    "confidence": 0.65
+  },
+  "46": {
+    "summary": "Career reinvention needs",
+    "category": "career_change",
+    "confidence": 0.75
+  },
+  "47": {
+    "summary": "Grandparenting adjustment",
+    "category": "role_change",
+    "confidence": 0.7
+  },
+  "48": {
+    "summary": "Financial planning for retirement",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "49": {
+    "summary": "Health anxiety from family history",
+    "category": "health_anxiety",
+    "confidence": 0.7
+  },
+  "50": {
+    "summary": "Midlife reassessment of legacy",
+    "category": "existential_crisis",
+    "confidence": 0.85
+  },
+  "51": {
+    "summary": "Retirement planning stress",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "52": {
+    "summary": "Health management challenges",
+    "category": "chronic_illness",
+    "confidence": 0.7
+  },
+  "53": {
+    "summary": "Social isolation from children leaving home",
+    "category": "loneliness",
+    "confidence": 0.75
+  },
+  "54": {
+    "summary": "Financial security assessment",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "55": {
+    "summary": "End-of-life planning anxiety",
+    "category": "existential_crisis",
+    "confidence": 0.85
+  },
+  "56": {
+    "summary": "Health decline management",
+    "category": "chronic_pain",
+    "confidence": 0.8
+  },
+  "57": {
+    "summary": "Social network shrinkage",
+    "category": "loneliness",
+    "confidence": 0.75
+  },
+  "58": {
+    "summary": "Financial constraints limiting lifestyle",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "59": {
+    "summary": "Health complications from aging",
+    "category": "chronic_illness",
+    "confidence": 0.85
+  },
+  "60": {
+    "summary": "Retirement adjustment challenges",
+    "category": "adjustment",
+    "confidence": 0.8
+  },
+  "61": {
+    "summary": "Health management and independence",
+    "category": "health_anxiety",
+    "confidence": 0.8
+  },
+  "62": {
+    "summary": "Social isolation from reduced mobility",
+    "category": "loneliness",
+    "confidence": 0.85
+  },
+  "63": {
+    "summary": "Financial sustainability concerns",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "64": {
+    "summary": "Health decline and care needs",
+    "category": "chronic_illness",
+    "confidence": 0.9
+  },
+  "65": {
+    "summary": "End-of-life planning and legacy",
+    "category": "existential_crisis",
+    "confidence": 0.9
+  },
+  "66": {
+    "summary": "Caregiving responsibilities",
+    "category": "caregiver_stress",
+    "confidence": 0.85
+  },
+  "67": {
+    "summary": "Health management and independence",
+    "category": "health_anxiety",
+    "confidence": 0.85
+  },
+  "68": {
+    "summary": "Social isolation from reduced mobility",
+    "category": "loneliness",
+    "confidence": 0.9
+  },
+  "69": {
+    "summary": "Financial constraints on lifestyle",
+    "category": "financial_stress",
+    "confidence": 0.85
+  },
+  "70": {
+    "summary": "Health decline and care needs",
+    "category": "chronic_illness",
+    "confidence": 0.95
+  },
+  "71": {
+    "summary": "End-of-life reflection",
+    "category": "existential_crisis",
+    "confidence": 0.9
+  },
+  "72": {
+    "summary": "Caregiving responsibilities",
+    "category": "caregiver_stress",
+    "confidence": 0.9
+  },
+  "73": {
+    "summary": "Health management challenges",
+    "category": "chronic_pain",
+    "confidence": 0.9
+  },
+  "74": {
+    "summary": "Social isolation from reduced mobility",
+    "category": "loneliness",
+    "confidence": 0.95
+  },
+  "75": {
+    "summary": "Financial sustainability concerns",
+    "category": "financial_stress",
+    "confidence": 0.85
+  },
+  "76": {
+    "summary": "Health decline and care needs",
+    "category": "chronic_illness",
+    "confidence": 0.95
+  },
+  "77": {
+    "summary": "End-of-life planning",
+    "category": "existential_crisis",
+    "confidence": 0.9
+  },
+  "78": {
+    "summary": "Caregiving responsibilities",
+    "category": "caregiver_stress",
+    "confidence": 0.9
+  },
+  "79": {
+    "summary": "Health management challenges",
+    "category": "chronic_pain",
+    "confidence": 0.95
+  },
+  "80": {
+    "summary": "Social isolation from reduced mobility",
+    "category": "loneliness",
+    "confidence": 0.95
+  },
+  "81": {
+    "summary": "Financial constraints limiting care",
+    "category": "financial_stress",
+    "confidence": 0.9
+  },
+  "82": {
+    "summary": "Health decline and care needs",
+    "category": "chronic_illness",
+    "confidence": 0.95
+  },
+  "83": {
+    "summary": "End-of-life reflection",
+    "category": "existential_crisis",
+    "confidence": 0.9
+  },
+  "84": {
+    "summary": "Caregiving responsibilities",
+    "category": "caregiver_stress",
+    "confidence": 0.9
+  },
+  "85": {
+    "summary": "Health management challenges",
+    "category": "chronic_pain",
+    "confidence": 0.95
+  },
+  "86": {
+    "summary": "Social isolation from reduced mobility",
+    "category": "loneliness",
+    "confidence": 0.95
+  },
+  "87": {
+    "summary": "Financial sustainability concerns",
+    "category": "financial_stress",
+    "confidence": 0.9
+  },
+  "88": {
+    "summary": "Health decline and care needs",
+    "category": "chronic_illness",
+    "confidence": 0.95
+  },
+  "89": {
+    "summary": "End-of-life planning",
+    "category": "existential_crisis",
+    "confidence": 0.9
+  },
+  "90": {
+    "summary": "Caregiving responsibilities",
+    "category": "caregiver_stress",
+    "confidence": 0.9
+  },
+  "91": {
+    "summary": "Health management challenges",
+    "category": "chronic_pain",
+    "confidence": 0.95
+  },
+  "92": {
+    "summary": "Social isolation from reduced mobility",
+    "category": "loneliness",
+    "confidence": 0.95
+  },
+  "93": {
+    "summary": "Financial constraints limiting care",
+    "category": "financial_stress",
+    "confidence": 0.9
+  },
+  "94": {
+    "summary": "Health decline and care needs",
+    "category": "chronic_illness",
+    "confidence": 0.95
+  },
+  "95": {
+    "summary": "End-of-life reflection",
+    "category": "existential_crisis",
+    "confidence": 0.9
+  },
+  "96": {
+    "summary": "Caregiving responsibilities",
+    "category": "caregiver_stress",
+    "confidence": 0.9
+  },
+  "97": {
+    "summary": "Health management challenges",
+    "category": "chronic_pain",
+    "confidence": 0.95
+  },
+  "98": {
+    "summary": "Social isolation from reduced mobility",
+    "category": "loneliness",
+    "confidence": 0.95
+  },
+  "99": {
+    "summary": "Financial sustainability concerns",
+    "category": "financial_stress",
+    "confidence": 0.9
+  },
+  "100": {
+    "summary": "Health decline and care needs",
+    "category": "chronic_illness",
+    "confidence": 0.95
+  }
+}

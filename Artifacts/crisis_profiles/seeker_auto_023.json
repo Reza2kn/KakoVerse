@@ -1,0 +1,407 @@
+{
+  "20": {
+    "summary": "Acculturative stress and financial strain in new country",
+    "category": "acculturative_stress",
+    "confidence": 0.85
+  },
+  "21": {
+    "summary": "Identity confusion amid cultural displacement",
+    "category": "identity_crisis",
+    "confidence": 0.8
+  },
+  "22": {
+    "summary": "Work-study balance leading to burnout",
+    "category": "burnout",
+    "confidence": 0.75
+  },
+  "23": {
+    "summary": "Imposter syndrome in competitive tech field",
+    "category": "imposter_syndrome",
+    "confidence": 0.7
+  },
+  "24": {
+    "summary": "Social isolation from work demands",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "25": {
+    "summary": "Career stagnation triggering burnout",
+    "category": "burnout",
+    "confidence": 0.8
+  },
+  "26": {
+    "summary": "Decision paralysis about career path",
+    "category": "decision_paralysis",
+    "confidence": 0.65
+  },
+  "27": {
+    "summary": "Work-life balance crisis",
+    "category": "work_life_balance",
+    "confidence": 0.7
+  },
+  "28": {
+    "summary": "Accumulating stress from work and cultural adaptation",
+    "category": "chronic_stress",
+    "confidence": 0.8
+  },
+  "29": {
+    "summary": "Chronic burnout and identity dislocation",
+    "category": "burnout",
+    "confidence": 1.0
+  },
+  "30": {
+    "summary": "Burnout recovery and identity reformation",
+    "category": "burnout_recovery",
+    "confidence": 0.85
+  },
+  "31": {
+    "summary": "Pressure to start family",
+    "category": "family_planning",
+    "confidence": 0.6
+  },
+  "32": {
+    "summary": "Financial planning for future stability",
+    "category": "financial_planning",
+    "confidence": 0.7
+  },
+  "33": {
+    "summary": "Workplace discrimination as immigrant",
+    "category": "discrimination",
+    "confidence": 0.75
+  },
+  "34": {
+    "summary": "Health anxiety from chronic stress",
+    "category": "health_anxiety",
+    "confidence": 0.7
+  },
+  "35": {
+    "summary": "Midlife crisis seeking purpose",
+    "category": "midlife_crisis",
+    "confidence": 0.8
+  },
+  "36": {
+    "summary": "Marital strain from work demands",
+    "category": "marital_strain",
+    "confidence": 0.65
+  },
+  "37": {
+    "summary": "Parenting stress",
+    "category": "parenting_stress",
+    "confidence": 0.6
+  },
+  "38": {
+    "summary": "Workplace advancement pressure",
+    "category": "career_advancement",
+    "confidence": 0.7
+  },
+  "39": {
+    "summary": "Acculturative stress in family life",
+    "category": "acculturative_stress",
+    "confidence": 0.7
+  },
+  "40": {
+    "summary": "Health decline and chronic pain",
+    "category": "chronic_pain",
+    "confidence": 0.8
+  },
+  "41": {
+    "summary": "Financial investment risks",
+    "category": "financial_risk",
+    "confidence": 0.65
+  },
+  "42": {
+    "summary": "Identity shift due to aging",
+    "category": "identity_crisis",
+    "confidence": 0.7
+  },
+  "43": {
+    "summary": "Workplace obsolescence anxiety",
+    "category": "career_obsolescence",
+    "confidence": 0.75
+  },
+  "44": {
+    "summary": "Social isolation in middle age",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "45": {
+    "summary": "Midlife reflection and regret",
+    "category": "regret",
+    "confidence": 0.7
+  },
+  "46": {
+    "summary": "Health management challenges",
+    "category": "health_management",
+    "confidence": 0.75
+  },
+  "47": {
+    "summary": "Financial security concerns",
+    "category": "financial_concern",
+    "confidence": 0.7
+  },
+  "48": {
+    "summary": "Work-life balance maintenance",
+    "category": "work_life_balance",
+    "confidence": 0.7
+  },
+  "49": {
+    "summary": "Acculturative stress in parenting",
+    "category": "acculturative_stress",
+    "confidence": 0.7
+  },
+  "50": {
+    "summary": "Career transition anxiety",
+    "category": "career_transition",
+    "confidence": 0.75
+  },
+  "51": {
+    "summary": "Health decline and chronic illness",
+    "category": "chronic_illness",
+    "confidence": 0.8
+  },
+  "52": {
+    "summary": "Financial planning for retirement",
+    "category": "retirement_planning",
+    "confidence": 0.7
+  },
+  "53": {
+    "summary": "Social role transition",
+    "category": "social_role",
+    "confidence": 0.65
+  },
+  "54": {
+    "summary": "Identity reassessment",
+    "category": "identity_crisis",
+    "confidence": 0.7
+  },
+  "55": {
+    "summary": "Retirement planning stress",
+    "category": "retirement_stress",
+    "confidence": 0.75
+  },
+  "56": {
+    "summary": "Health management and chronic pain",
+    "category": "chronic_pain",
+    "confidence": 0.8
+  },
+  "57": {
+    "summary": "Financial security anxiety",
+    "category": "financial_anxiety",
+    "confidence": 0.7
+  },
+  "58": {
+    "summary": "Workplace obsolescence",
+    "category": "career_obsolescence",
+    "confidence": 0.7
+  },
+  "59": {
+    "summary": "Social isolation in retirement",
+    "category": "loneliness",
+    "confidence": 0.75
+  },
+  "60": {
+    "summary": "Retirement adjustment",
+    "category": "retirement_adjustment",
+    "confidence": 0.8
+  },
+  "61": {
+    "summary": "Health decline and chronic illness",
+    "category": "chronic_illness",
+    "confidence": 0.85
+  },
+  "62": {
+    "summary": "Financial management in retirement",
+    "category": "financial_management",
+    "confidence": 0.75
+  },
+  "63": {
+    "summary": "Identity loss in retirement",
+    "category": "identity_loss",
+    "confidence": 0.7
+  },
+  "64": {
+    "summary": "Social role transition to retiree",
+    "category": "social_role",
+    "confidence": 0.7
+  },
+  "65": {
+    "summary": "Caregiver burden for aging parents",
+    "category": "caregiver_burden",
+    "confidence": 0.75
+  },
+  "66": {
+    "summary": "Health management and chronic pain",
+    "category": "chronic_pain",
+    "confidence": 0.85
+  },
+  "67": {
+    "summary": "Financial security concerns",
+    "category": "financial_concern",
+    "confidence": 0.7
+  },
+  "68": {
+    "summary": "Social isolation and loneliness",
+    "category": "loneliness",
+    "confidence": 0.75
+  },
+  "69": {
+    "summary": "Acculturative stress in retirement",
+    "category": "acculturative_stress",
+    "confidence": 0.7
+  },
+  "70": {
+    "summary": "Health decline and chronic illness",
+    "category": "chronic_illness",
+    "confidence": 0.85
+  },
+  "71": {
+    "summary": "Financial management challenges",
+    "category": "financial_management",
+    "confidence": 0.75
+  },
+  "72": {
+    "summary": "Identity reassessment in old age",
+    "category": "identity_crisis",
+    "confidence": 0.7
+  },
+  "73": {
+    "summary": "Social role transition to elder",
+    "category": "social_role",
+    "confidence": 0.7
+  },
+  "74": {
+    "summary": "Caregiver burden for spouse",
+    "category": "caregiver_burden",
+    "confidence": 0.75
+  },
+  "75": {
+    "summary": "Health decline and chronic pain",
+    "category": "chronic_pain",
+    "confidence": 0.85
+  },
+  "76": {
+    "summary": "Financial security anxiety",
+    "category": "financial_anxiety",
+    "confidence": 0.7
+  },
+  "77": {
+    "summary": "Social isolation and loneliness",
+    "category": "loneliness",
+    "confidence": 0.75
+  },
+  "78": {
+    "summary": "Acculturative stress in old age",
+    "category": "acculturative_stress",
+    "confidence": 0.7
+  },
+  "79": {
+    "summary": "Health management and chronic illness",
+    "category": "chronic_illness",
+    "confidence": 0.85
+  },
+  "80": {
+    "summary": "Identity loss and grief",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "81": {
+    "summary": "Financial management challenges",
+    "category": "financial_management",
+    "confidence": 0.75
+  },
+  "82": {
+    "summary": "Social role transition to elder",
+    "category": "social_role",
+    "confidence": 0.7
+  },
+  "83": {
+    "summary": "Caregiver burden for spouse",
+    "category": "caregiver_burden",
+    "confidence": 0.75
+  },
+  "84": {
+    "summary": "Health decline and chronic pain",
+    "category": "chronic_pain",
+    "confidence": 0.85
+  },
+  "85": {
+    "summary": "Financial security concerns",
+    "category": "financial_concern",
+    "confidence": 0.7
+  },
+  "86": {
+    "summary": "Social isolation and loneliness",
+    "category": "loneliness",
+    "confidence": 0.75
+  },
+  "87": {
+    "summary": "Acculturative stress in old age",
+    "category": "acculturative_stress",
+    "confidence": 0.7
+  },
+  "88": {
+    "summary": "Health management and chronic illness",
+    "category": "chronic_illness",
+    "confidence": 0.85
+  },
+  "89": {
+    "summary": "Identity reassessment and regret",
+    "category": "regret",
+    "confidence": 0.7
+  },
+  "90": {
+    "summary": "Caregiver burden for spouse",
+    "category": "caregiver_burden",
+    "confidence": 0.75
+  },
+  "91": {
+    "summary": "Financial management challenges",
+    "category": "financial_management",
+    "confidence": 0.75
+  },
+  "92": {
+    "summary": "Social role transition to elder",
+    "category": "social_role",
+    "confidence": 0.7
+  },
+  "93": {
+    "summary": "Health decline and chronic pain",
+    "category": "chronic_pain",
+    "confidence": 0.85
+  },
+  "94": {
+    "summary": "Financial security anxiety",
+    "category": "financial_anxiety",
+    "confidence": 0.7
+  },
+  "95": {
+    "summary": "Social isolation and loneliness",
+    "category": "loneliness",
+    "confidence": 0.75
+  },
+  "96": {
+    "summary": "Acculturative stress in old age",
+    "category": "acculturative_stress",
+    "confidence": 0.7
+  },
+  "97": {
+    "summary": "Health management and chronic illness",
+    "category": "chronic_illness",
+    "confidence": 0.85
+  },
+  "98": {
+    "summary": "Identity loss and grief",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "99": {
+    "summary": "Financial management challenges",
+    "category": "financial_management",
+    "confidence": 0.75
+  },
+  "100": {
+    "summary": "End-of-life reflection",
+    "category": "end_of_life",
+    "confidence": 0.8
+  }
+}

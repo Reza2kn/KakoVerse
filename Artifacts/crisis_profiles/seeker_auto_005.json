@@ -1,0 +1,407 @@
+{
+  "20": {
+    "summary": "Displacement trauma after fleeing homeland during conflict",
+    "category": "displacement_trauma",
+    "confidence": 0.95
+  },
+  "21": {
+    "summary": "Identity crisis navigating refugee status in foreign country",
+    "category": "identity_crisis",
+    "confidence": 0.9
+  },
+  "22": {
+    "summary": "Cultural adaptation stress in Manchester's industrial environment",
+    "category": "cultural_adjustment",
+    "confidence": 0.85
+  },
+  "23": {
+    "summary": "Family separation grief after forced migration",
+    "category": "grief",
+    "confidence": 0.9
+  },
+  "24": {
+    "summary": "Economic instability as refugee with limited employment",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "25": {
+    "summary": "Language barrier hindering integration and opportunities",
+    "category": "communication_barrier",
+    "confidence": 0.85
+  },
+  "26": {
+    "summary": "Discrimination and social exclusion in 1970s UK",
+    "category": "discrimination",
+    "confidence": 0.8
+  },
+  "27": {
+    "summary": "Balancing traditional values with new societal norms",
+    "category": "cultural_conflict",
+    "confidence": 0.8
+  },
+  "28": {
+    "summary": "Career uncertainty in unfamiliar industrial labor market",
+    "category": "career_uncertainty",
+    "confidence": 0.75
+  },
+  "29": {
+    "summary": "Preserving heritage while adapting to new environment",
+    "category": "heritage_preservation",
+    "confidence": 0.8
+  },
+  "30": {
+    "summary": "Building new social networks as an outsider",
+    "category": "social_isolation",
+    "confidence": 0.85
+  },
+  "31": {
+    "summary": "Generational conflict with children assimilating faster",
+    "category": "generational_conflict",
+    "confidence": 0.7
+  },
+  "32": {
+    "summary": "Marriage challenges due to cultural differences",
+    "category": "relationship_tension",
+    "confidence": 0.75
+  },
+  "33": {
+    "summary": "Housing insecurity as refugee family",
+    "category": "housing_insecurity",
+    "confidence": 0.8
+  },
+  "34": {
+    "summary": "Health anxieties from past displacement trauma",
+    "category": "health_anxiety",
+    "confidence": 0.7
+  },
+  "35": {
+    "summary": "Midlife crisis questioning life choices",
+    "category": "midlife_crisis",
+    "confidence": 0.65
+  },
+  "36": {
+    "summary": "Career stagnation in technical field",
+    "category": "career_stagnation",
+    "confidence": 0.7
+  },
+  "37": {
+    "summary": "Preserving cultural identity through crafts",
+    "category": "cultural_preservation",
+    "confidence": 0.8
+  },
+  "38": {
+    "summary": "Parenting challenges in new cultural context",
+    "category": "parenting_stress",
+    "confidence": 0.75
+  },
+  "39": {
+    "summary": "Financial pressure supporting extended family",
+    "category": "financial_pressure",
+    "confidence": 0.7
+  },
+  "40": {
+    "summary": "Health decline from past physical labor",
+    "category": "chronic_pain",
+    "confidence": 0.75
+  },
+  "41": {
+    "summary": "Spousal relationship strain from cultural differences",
+    "category": "relationship_tension",
+    "confidence": 0.65
+  },
+  "42": {
+    "summary": "Witnessing children's assimilation causing identity loss",
+    "category": "identity_loss",
+    "confidence": 0.7
+  },
+  "43": {
+    "summary": "Retirement adjustment after long career",
+    "category": "retirement_adjustment",
+    "confidence": 0.6
+  },
+  "44": {
+    "summary": "Caretaking responsibilities for aging parents",
+    "category": "caregiver_burnout",
+    "confidence": 0.65
+  },
+  "45": {
+    "summary": "Midlife reassessment of refugee narrative",
+    "category": "identity_reassessment",
+    "confidence": 0.6
+  },
+  "46": {
+    "summary": "Health anxiety from past trauma survivors",
+    "category": "health_anxiety",
+    "confidence": 0.7
+  },
+  "47": {
+    "summary": "Generational disconnect with grandchildren",
+    "category": "generational_gap",
+    "confidence": 0.65
+  },
+  "48": {
+    "summary": "Financial insecurity in retirement",
+    "category": "financial_insecurity",
+    "confidence": 0.7
+  },
+  "49": {
+    "summary": "Cultural nostalgia and homesickness",
+    "category": "homesickness",
+    "confidence": 0.7
+  },
+  "50": {
+    "summary": "Chronic health conditions from aging",
+    "category": "chronic_illness",
+    "confidence": 0.75
+  },
+  "51": {
+    "summary": "Witnessing children's success causing envy",
+    "category": "envy",
+    "confidence": 0.55
+  },
+  "52": {
+    "summary": "Spousal loss and loneliness",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "53": {
+    "summary": "Cultural alienation in new country",
+    "category": "cultural_isolation",
+    "confidence": 0.65
+  },
+  "54": {
+    "summary": "Financial precarity in retirement",
+    "category": "financial_precarity",
+    "confidence": 0.7
+  },
+  "55": {
+    "summary": "Declining physical mobility",
+    "category": "mobility_decline",
+    "confidence": 0.7
+  },
+  "56": {
+    "summary": "Witnessing grandchildren's cultural assimilation",
+    "category": "generational_change",
+    "confidence": 0.6
+  },
+  "57": {
+    "summary": "Health decline impacting independence",
+    "category": "health_decline",
+    "confidence": 0.75
+  },
+  "58": {
+    "summary": "Cultural adaptation fatigue",
+    "category": "cultural_fatigue",
+    "confidence": 0.6
+  },
+  "59": {
+    "summary": "Witnessing children's success causing envy",
+    "category": "envy",
+    "confidence": 0.55
+  },
+  "60": {
+    "summary": "Chronic pain and health limitations",
+    "category": "chronic_pain",
+    "confidence": 0.8
+  },
+  "61": {
+    "summary": "Social isolation in new country",
+    "category": "social_isolation",
+    "confidence": 0.7
+  },
+  "62": {
+    "summary": "Witnessing grandchildren's cultural assimilation",
+    "category": "generational_change",
+    "confidence": 0.6
+  },
+  "63": {
+    "summary": "Financial insecurity in old age",
+    "category": "financial_insecurity",
+    "confidence": 0.7
+  },
+  "64": {
+    "summary": "Witnessing children's success causing envy",
+    "category": "envy",
+    "confidence": 0.55
+  },
+  "65": {
+    "summary": "Chronic health conditions requiring care",
+    "category": "care_needs",
+    "confidence": 0.8
+  },
+  "66": {
+    "summary": "Witnessing grandchildren's cultural assimilation",
+    "category": "generational_change",
+    "confidence": 0.6
+  },
+  "67": {
+    "summary": "Financial precarity impacting quality of life",
+    "category": "financial_precarity",
+    "confidence": 0.7
+  },
+  "68": {
+    "summary": "Witnessing children's success causing envy",
+    "category": "envy",
+    "confidence": 0.55
+  },
+  "69": {
+    "summary": "Declining health requiring assistance",
+    "category": "health_decline",
+    "confidence": 0.8
+  },
+  "70": {
+    "summary": "Social isolation and loneliness",
+    "category": "loneliness",
+    "confidence": 0.75
+  },
+  "71": {
+    "summary": "Witnessing grandchildren's cultural assimilation",
+    "category": "generational_change",
+    "confidence": 0.6
+  },
+  "72": {
+    "summary": "Financial insecurity in old age",
+    "category": "financial_insecurity",
+    "confidence": 0.7
+  },
+  "73": {
+    "summary": "Witnessing children's success causing envy",
+    "category": "envy",
+    "confidence": 0.55
+  },
+  "74": {
+    "summary": "Chronic health conditions limiting mobility",
+    "category": "mobility_decline",
+    "confidence": 0.8
+  },
+  "75": {
+    "summary": "Social isolation in new country",
+    "category": "social_isolation",
+    "confidence": 0.7
+  },
+  "76": {
+    "summary": "Witnessing grandchildren's cultural assimilation",
+    "category": "generational_change",
+    "confidence": 0.6
+  },
+  "77": {
+    "summary": "Financial precarity impacting well-being",
+    "category": "financial_precarity",
+    "confidence": 0.7
+  },
+  "78": {
+    "summary": "Witnessing children's success causing envy",
+    "category": "envy",
+    "confidence": 0.55
+  },
+  "79": {
+    "summary": "Declining health requiring more care",
+    "category": "care_needs",
+    "confidence": 0.8
+  },
+  "80": {
+    "summary": "Social isolation and loneliness",
+    "category": "loneliness",
+    "confidence": 0.75
+  },
+  "81": {
+    "summary": "Witnessing grandchildren's cultural assimilation",
+    "category": "generational_change",
+    "confidence": 0.6
+  },
+  "82": {
+    "summary": "Financial insecurity in old age",
+    "category": "financial_insecurity",
+    "confidence": 0.7
+  },
+  "83": {
+    "summary": "Witnessing children's success causing envy",
+    "category": "envy",
+    "confidence": 0.55
+  },
+  "84": {
+    "summary": "Chronic health conditions limiting independence",
+    "category": "health_decline",
+    "confidence": 0.8
+  },
+  "85": {
+    "summary": "Social isolation in new country",
+    "category": "social_isolation",
+    "confidence": 0.7
+  },
+  "86": {
+    "summary": "Witnessing grandchildren's cultural assimilation",
+    "category": "generational_change",
+    "confidence": 0.6
+  },
+  "87": {
+    "summary": "Financial precarity impacting daily life",
+    "category": "financial_precarity",
+    "confidence": 0.7
+  },
+  "88": {
+    "summary": "Witnessing children's success causing envy",
+    "category": "envy",
+    "confidence": 0.55
+  },
+  "89": {
+    "summary": "Declining health requiring significant care",
+    "category": "care_needs",
+    "confidence": 0.8
+  },
+  "90": {
+    "summary": "Social isolation and loneliness",
+    "category": "loneliness",
+    "confidence": 0.75
+  },
+  "91": {
+    "summary": "Witnessing grandchildren's cultural assimilation",
+    "category": "generational_change",
+    "confidence": 0.6
+  },
+  "92": {
+    "summary": "Financial insecurity in old age",
+    "category": "financial_insecurity",
+    "confidence": 0.7
+  },
+  "93": {
+    "summary": "Witnessing children's success causing envy",
+    "category": "envy",
+    "confidence": 0.55
+  },
+  "94": {
+    "summary": "Chronic health conditions limiting mobility",
+    "category": "mobility_decline",
+    "confidence": 0.8
+  },
+  "95": {
+    "summary": "Social isolation in new country",
+    "category": "social_isolation",
+    "confidence": 0.7
+  },
+  "96": {
+    "summary": "Witnessing grandchildren's cultural assimilation",
+    "category": "generational_change",
+    "confidence": 0.6
+  },
+  "97": {
+    "summary": "Financial precarity impacting well-being",
+    "category": "financial_precarity",
+    "confidence": 0.7
+  },
+  "98": {
+    "summary": "Witnessing children's success causing envy",
+    "category": "envy",
+    "confidence": 0.55
+  },
+  "99": {
+    "summary": "Declining health requiring extensive care",
+    "category": "care_needs",
+    "confidence": 0.8
+  },
+  "100": {
+    "summary": "Social isolation and loneliness",
+    "category": "loneliness",
+    "confidence": 0.75
+  }
+}

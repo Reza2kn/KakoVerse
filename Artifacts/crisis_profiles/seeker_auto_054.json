@@ -1,0 +1,407 @@
+{
+  "20": {
+    "summary": "Adjustment to independence and career uncertainty",
+    "category": "adjustment",
+    "confidence": 0.8
+  },
+  "21": {
+    "summary": "Financial instability in new career",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "22": {
+    "summary": "Identity conflict between Nigerian roots and new environment",
+    "category": "identity_crisis",
+    "confidence": 0.8
+  },
+  "23": {
+    "summary": "Work pressure and startup burnout risk",
+    "category": "career_burnout",
+    "confidence": 0.7
+  },
+  "24": {
+    "summary": "Social isolation in foreign country",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "25": {
+    "summary": "Career stagnation in competitive tech industry",
+    "category": "career_stagnation",
+    "confidence": 0.7
+  },
+  "26": {
+    "summary": "Acute adjustment disorder with anxiety",
+    "category": "mental_health",
+    "confidence": 0.9
+  },
+  "27": {
+    "summary": "Financial precarity and housing insecurity",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "28": {
+    "summary": "Mid-career identity crisis",
+    "category": "identity_crisis",
+    "confidence": 0.7
+  },
+  "29": {
+    "summary": "Burnout from high-pressure startup work",
+    "category": "career_burnout",
+    "confidence": 0.8
+  },
+  "30": {
+    "summary": "Relationship instability due to cultural differences",
+    "category": "relationship_crisis",
+    "confidence": 0.7
+  },
+  "31": {
+    "summary": "Career plateau and skill obsolescence",
+    "category": "career_stagnation",
+    "confidence": 0.6
+  },
+  "32": {
+    "summary": "Family pressure to return to Nigeria",
+    "category": "family_pressure",
+    "confidence": 0.7
+  },
+  "33": {
+    "summary": "Health issues from chronic stress",
+    "category": "chronic_pain",
+    "confidence": 0.6
+  },
+  "34": {
+    "summary": "Entrepreneurial failure in tech venture",
+    "category": "financial_loss",
+    "confidence": 0.7
+  },
+  "35": {
+    "summary": "Midlife crisis and existential doubt",
+    "category": "existential_crisis",
+    "confidence": 0.8
+  },
+  "36": {
+    "summary": "Parenting challenges in cross-cultural family",
+    "category": "parenting_stress",
+    "confidence": 0.7
+  },
+  "37": {
+    "summary": "Career transition difficulties",
+    "category": "career_change",
+    "confidence": 0.6
+  },
+  "38": {
+    "summary": "Marital conflict and relationship strain",
+    "category": "relationship_crisis",
+    "confidence": 0.7
+  },
+  "39": {
+    "summary": "Financial planning crisis for future security",
+    "category": "financial_planning",
+    "confidence": 0.6
+  },
+  "40": {
+    "summary": "Health decline from accumulated stress",
+    "category": "chronic_illness",
+    "confidence": 0.7
+  },
+  "41": {
+    "summary": "Corporate downsizing and job insecurity",
+    "category": "job_loss",
+    "confidence": 0.6
+  },
+  "42": {
+    "summary": "Empty nest syndrome and identity shift",
+    "category": "life_transition",
+    "confidence": 0.7
+  },
+  "43": {
+    "summary": "Retirement planning anxiety",
+    "category": "financial_stress",
+    "confidence": 0.6
+  },
+  "44": {
+    "summary": "Chronic health conditions emerging",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "45": {
+    "summary": "Career burnout and disillusionment",
+    "category": "career_burnout",
+    "confidence": 0.8
+  },
+  "46": {
+    "summary": "Parental health crisis requiring care",
+    "category": "caregiver_stress",
+    "confidence": 0.7
+  },
+  "47": {
+    "summary": "Financial market losses affecting retirement",
+    "category": "financial_loss",
+    "confidence": 0.6
+  },
+  "48": {
+    "summary": "Midlife health decline and mobility issues",
+    "category": "chronic_illness",
+    "confidence": 0.7
+  },
+  "49": {
+    "summary": "Career obsolescence in rapidly changing tech",
+    "category": "career_stagnation",
+    "confidence": 0.6
+  },
+  "50": {
+    "summary": "Chronic pain and reduced physical capacity",
+    "category": "chronic_pain",
+    "confidence": 0.8
+  },
+  "51": {
+    "summary": "Financial insecurity in retirement phase",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "52": {
+    "summary": "Grief over aging parents' declining health",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "53": {
+    "summary": "Health crisis requiring major medical intervention",
+    "category": "medical_emergency",
+    "confidence": 0.7
+  },
+  "54": {
+    "summary": "Social isolation in later life",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "55": {
+    "summary": "Financial shortfall for retirement needs",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "56": {
+    "summary": "Chronic illness management challenges",
+    "category": "chronic_illness",
+    "confidence": 0.8
+  },
+  "57": {
+    "summary": "Caregiver burden for spouse/children",
+    "category": "caregiver_stress",
+    "confidence": 0.7
+  },
+  "58": {
+    "summary": "Health complications from past stress",
+    "category": "chronic_illness",
+    "confidence": 0.8
+  },
+  "59": {
+    "summary": "Retirement adjustment difficulties",
+    "category": "life_transition",
+    "confidence": 0.7
+  },
+  "60": {
+    "summary": "Age-related chronic pain and mobility loss",
+    "category": "chronic_pain",
+    "confidence": 0.9
+  },
+  "61": {
+    "summary": "Financial insecurity in retirement",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "62": {
+    "summary": "Grief over loss of peers and independence",
+    "category": "grief",
+    "confidence": 0.9
+  },
+  "63": {
+    "summary": "Health decline requiring assisted living",
+    "category": "health_crisis",
+    "confidence": 0.8
+  },
+  "64": {
+    "summary": "Social isolation and loneliness",
+    "category": "loneliness",
+    "confidence": 0.9
+  },
+  "65": {
+    "summary": "Chronic illness complications",
+    "category": "chronic_illness",
+    "confidence": 0.9
+  },
+  "66": {
+    "summary": "Financial strain from medical expenses",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "67": {
+    "summary": "Caregiver burnout for aging spouse",
+    "category": "caregiver_stress",
+    "confidence": 0.8
+  },
+  "68": {
+    "summary": "Health crisis requiring major intervention",
+    "category": "medical_emergency",
+    "confidence": 0.8
+  },
+  "69": {
+    "summary": "Loneliness and reduced social network",
+    "category": "loneliness",
+    "confidence": 0.9
+  },
+  "70": {
+    "summary": "Age-related chronic pain and frailty",
+    "category": "chronic_pain",
+    "confidence": 0.9
+  },
+  "71": {
+    "summary": "Financial insecurity in advanced age",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "72": {
+    "summary": "Grief over loss of spouse/children",
+    "category": "grief",
+    "confidence": 0.9
+  },
+  "73": {
+    "summary": "Health decline requiring home care",
+    "category": "health_crisis",
+    "confidence": 0.9
+  },
+  "74": {
+    "summary": "Social isolation and loneliness",
+    "category": "loneliness",
+    "confidence": 0.9
+  },
+  "75": {
+    "summary": "Chronic illness complications",
+    "category": "chronic_illness",
+    "confidence": 0.9
+  },
+  "76": {
+    "summary": "Financial strain from medical costs",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "77": {
+    "summary": "Caregiver burden for aging relatives",
+    "category": "caregiver_stress",
+    "confidence": 0.8
+  },
+  "78": {
+    "summary": "Health crisis requiring institutional care",
+    "category": "medical_emergency",
+    "confidence": 0.9
+  },
+  "79": {
+    "summary": "Loneliness and reduced mobility",
+    "category": "loneliness",
+    "confidence": 0.9
+  },
+  "80": {
+    "summary": "Age-related chronic pain and frailty",
+    "category": "chronic_pain",
+    "confidence": 0.9
+  },
+  "81": {
+    "summary": "Financial insecurity in advanced age",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "82": {
+    "summary": "Grief over loss of peers",
+    "category": "grief",
+    "confidence": 0.9
+  },
+  "83": {
+    "summary": "Health decline requiring full-time care",
+    "category": "health_crisis",
+    "confidence": 0.9
+  },
+  "84": {
+    "summary": "Social isolation and loneliness",
+    "category": "loneliness",
+    "confidence": 0.9
+  },
+  "85": {
+    "summary": "Chronic illness complications",
+    "category": "chronic_illness",
+    "confidence": 0.9
+  },
+  "86": {
+    "summary": "Financial strain from medical expenses",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "87": {
+    "summary": "Caregiver burden for aging relatives",
+    "category": "caregiver_stress",
+    "confidence": 0.8
+  },
+  "88": {
+    "summary": "Health crisis requiring institutionalization",
+    "category": "medical_emergency",
+    "confidence": 0.9
+  },
+  "89": {
+    "summary": "Loneliness and reduced mobility",
+    "category": "loneliness",
+    "confidence": 0.9
+  },
+  "90": {
+    "summary": "Age-related chronic pain and frailty",
+    "category": "chronic_pain",
+    "confidence": 0.9
+  },
+  "91": {
+    "summary": "Financial insecurity in advanced age",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "92": {
+    "summary": "Grief over loss of peers",
+    "category": "grief",
+    "confidence": 0.9
+  },
+  "93": {
+    "summary": "Health decline requiring full-time care",
+    "category": "health_crisis",
+    "confidence": 0.9
+  },
+  "94": {
+    "summary": "Social isolation and loneliness",
+    "category": "loneliness",
+    "confidence": 0.9
+  },
+  "95": {
+    "summary": "Chronic illness complications",
+    "category": "chronic_illness",
+    "confidence": 0.9
+  },
+  "96": {
+    "summary": "Financial strain from medical costs",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "97": {
+    "summary": "Caregiver burden for aging relatives",
+    "category": "caregiver_stress",
+    "confidence": 0.8
+  },
+  "98": {
+    "summary": "Health crisis requiring institutionalization",
+    "category": "medical_emergency",
+    "confidence": 0.9
+  },
+  "99": {
+    "summary": "Loneliness and reduced mobility",
+    "category": "loneliness",
+    "confidence": 0.9
+  },
+  "100": {
+    "summary": "Age-related chronic pain and frailty",
+    "category": "chronic_pain",
+    "confidence": 0.9
+  }
+}

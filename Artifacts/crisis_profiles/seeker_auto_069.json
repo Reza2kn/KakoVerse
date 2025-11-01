@@ -1,0 +1,407 @@
+{
+  "20": {
+    "summary": "Conflict between traditional family expectations and emerging modern influences",
+    "category": "identity_conflict",
+    "confidence": 0.85
+  },
+  "21": {
+    "summary": "Pressure to conform to arranged marriage vs personal aspirations",
+    "category": "relationship_dilemma",
+    "confidence": 0.75
+  },
+  "22": {
+    "summary": "Disillusionment after failed artistic/career pursuit",
+    "category": "career_doubt",
+    "confidence": 0.7
+  },
+  "23": {
+    "summary": "Intense homesickness during first separation from extended family",
+    "category": "homesickness",
+    "confidence": 0.8
+  },
+  "24": {
+    "summary": "Financial strain from supporting family back home",
+    "category": "financial_stress",
+    "confidence": 0.85
+  },
+  "25": {
+    "summary": "Cultural alienation during university studies",
+    "category": "cultural_isolation",
+    "confidence": 0.7
+  },
+  "26": {
+    "summary": "Guilt over perceived abandonment of traditional duties",
+    "category": "guilt",
+    "confidence": 0.8
+  },
+  "27": {
+    "summary": "Struggle to maintain cultural practices in new environment",
+    "category": "cultural_preservation",
+    "confidence": 0.75
+  },
+  "28": {
+    "summary": "Fear of disappointing family through immigration decision",
+    "category": "family_pressure",
+    "confidence": 0.8
+  },
+  "29": {
+    "summary": "Identity crisis after traumatic war/displacement event",
+    "category": "trauma_recovery",
+    "confidence": 0.9
+  },
+  "30": {
+    "summary": "Severe depressive episode following painful adjustment to new life in Helsinki",
+    "category": "depression",
+    "confidence": 0.95
+  },
+  "31": {
+    "summary": "Anxiety about permanent displacement and lost future",
+    "category": "existential_anxiety",
+    "confidence": 0.85
+  },
+  "32": {
+    "summary": "Frustration with menial labor and lack of advancement",
+    "category": "career_stagnation",
+    "confidence": 0.8
+  },
+  "33": {
+    "summary": "Isolation within immigrant community boundaries",
+    "category": "social_isolation",
+    "confidence": 0.75
+  },
+  "34": {
+    "summary": "Grief over irreversible loss of homeland culture",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "35": {
+    "summary": "Pressure to provide financially for distant family",
+    "category": "financial_obligation",
+    "confidence": 0.8
+  },
+  "36": {
+    "summary": "Midlife crisis questioning traditional life path",
+    "category": "midlife_crisis",
+    "confidence": 0.7
+  },
+  "37": {
+    "summary": "Health anxiety from industrial work exposure",
+    "category": "occupational_health",
+    "confidence": 0.75
+  },
+  "38": {
+    "summary": "Cultural dissonance in parenting children's Finnish education",
+    "category": "generational_gap",
+    "confidence": 0.7
+  },
+  "39": {
+    "summary": "Fear of becoming irrelevant to younger generation",
+    "category": "irrelevance_fear",
+    "confidence": 0.65
+  },
+  "40": {
+    "summary": "Chronic loneliness despite family presence",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "41": {
+    "summary": "Resentment over unfulfilled traditional masculine roles",
+    "category": "role_dissonance",
+    "confidence": 0.7
+  },
+  "42": {
+    "summary": "Guilt over not preserving cultural heritage adequately",
+    "category": "cultural_guilt",
+    "confidence": 0.75
+  },
+  "43": {
+    "summary": "Physical pain from accumulated occupational injuries",
+    "category": "chronic_pain",
+    "confidence": 0.8
+  },
+  "44": {
+    "summary": "Fear of becoming a burden to family",
+    "category": "burden_fear",
+    "confidence": 0.85
+  },
+  "45": {
+    "summary": "Existential crisis about meaning in later life",
+    "category": "existential_crisis",
+    "confidence": 0.7
+  },
+  "46": {
+    "summary": "Disappointment in children's assimilation level",
+    "category": "generational_disappointment",
+    "confidence": 0.65
+  },
+  "47": {
+    "summary": "Health decline from decades of frugal living",
+    "category": "health_decline",
+    "confidence": 0.8
+  },
+  "48": {
+    "summary": "Nostalgia overwhelming daily functioning",
+    "category": "nostalgia",
+    "confidence": 0.75
+  },
+  "49": {
+    "summary": "Fear of outliving spouse/children",
+    "category": "mortality_anxiety",
+    "confidence": 0.8
+  },
+  "50": {
+    "summary": "Guilt over unfulfilled artistic/cultural pursuits",
+    "category": "unrealized_potential",
+    "confidence": 0.7
+  },
+  "51": {
+    "summary": "Isolation after spouse's death",
+    "category": "grief",
+    "confidence": 0.85
+  },
+  "52": {
+    "summary": "Chronic pain limiting traditional activities",
+    "category": "mobility_issue",
+    "confidence": 0.8
+  },
+  "53": {
+    "summary": "Financial insecurity in retirement",
+    "category": "financial_insecurity",
+    "confidence": 0.75
+  },
+  "54": {
+    "summary": "Regret over immigration decision",
+    "category": "regret",
+    "confidence": 0.7
+  },
+  "55": {
+    "summary": "Fear of becoming dependent on children",
+    "category": "dependency_fear",
+    "confidence": 0.8
+  },
+  "56": {
+    "summary": "Isolation from declining immigrant community",
+    "category": "community_loss",
+    "confidence": 0.7
+  },
+  "57": {
+    "summary": "Physical decline affecting calligraphy/gardening",
+    "category": "physical_limitation",
+    "confidence": 0.85
+  },
+  "58": {
+    "summary": "Existential emptiness after major life loss",
+    "category": "existential_void",
+    "confidence": 0.7
+  },
+  "59": {
+    "summary": "Guilt over not preserving Persian language",
+    "category": "cultural_atrophy",
+    "confidence": 0.75
+  },
+  "60": {
+    "summary": "Chronic loneliness in old age",
+    "category": "loneliness",
+    "confidence": 0.9
+  },
+  "61": {
+    "summary": "Health crises from accumulated injuries",
+    "category": "chronic_illness",
+    "confidence": 0.85
+  },
+  "62": {
+    "summary": "Fear of burdening children with care",
+    "category": "caregiver_guilt",
+    "confidence": 0.8
+  },
+  "63": {
+    "summary": "Nostalgia for lost homeland",
+    "category": "homesickness",
+    "confidence": 0.85
+  },
+  "64": {
+    "summary": "Physical pain limiting mobility",
+    "category": "chronic_pain",
+    "confidence": 0.9
+  },
+  "65": {
+    "summary": "Isolation from declining social network",
+    "category": "social_isolation",
+    "confidence": 0.8
+  },
+  "66": {
+    "summary": "Existential crisis about legacy",
+    "category": "legacy_concern",
+    "confidence": 0.75
+  },
+  "67": {
+    "summary": "Guilt over unfulfilled cultural responsibilities",
+    "category": "unrealized_duty",
+    "confidence": 0.7
+  },
+  "68": {
+    "summary": "Physical decline affecting mindfulness practices",
+    "category": "physical_limitation",
+    "confidence": 0.85
+  },
+  "69": {
+    "summary": "Chronic loneliness after spouse's death",
+    "category": "loneliness",
+    "confidence": 0.9
+  },
+  "70": {
+    "summary": "Health crises limiting traditional activities",
+    "category": "health_decline",
+    "confidence": 0.9
+  },
+  "71": {
+    "summary": "Fear of becoming a burden",
+    "category": "burden_fear",
+    "confidence": 0.85
+  },
+  "72": {
+    "summary": "Nostalgia overwhelming daily life",
+    "category": "nostalgia",
+    "confidence": 0.8
+  },
+  "73": {
+    "summary": "Physical pain limiting gardening",
+    "category": "chronic_pain",
+    "confidence": 0.85
+  },
+  "74": {
+    "summary": "Isolation from declining community ties",
+    "category": "social_isolation",
+    "confidence": 0.75
+  },
+  "75": {
+    "summary": "Existential emptiness in old age",
+    "category": "existential_void",
+    "confidence": 0.7
+  },
+  "76": {
+    "summary": "Guilt over unfulfilled artistic potential",
+    "category": "unrealized_potential",
+    "confidence": 0.65
+  },
+  "77": {
+    "summary": "Physical decline affecting calligraphy",
+    "category": "physical_limitation",
+    "confidence": 0.8
+  },
+  "78": {
+    "summary": "Chronic loneliness after children's emigration",
+    "category": "loneliness",
+    "confidence": 0.85
+  },
+  "79": {
+    "summary": "Health crises from aging",
+    "category": "health_decline",
+    "confidence": 0.9
+  },
+  "80": {
+    "summary": "Fear of mortality",
+    "category": "mortality_anxiety",
+    "confidence": 0.85
+  },
+  "81": {
+    "summary": "Physical pain limiting walking",
+    "category": "chronic_pain",
+    "confidence": 0.8
+  },
+  "82": {
+    "summary": "Isolation from declining health",
+    "category": "social_isolation",
+    "confidence": 0.75
+  },
+  "83": {
+    "summary": "Existential crisis about meaning",
+    "category": "existential_crisis",
+    "confidence": 0.7
+  },
+  "84": {
+    "summary": "Guilt over not preserving culture",
+    "category": "cultural_guilt",
+    "confidence": 0.7
+  },
+  "85": {
+    "summary": "Physical decline affecting mindfulness",
+    "category": "physical_limitation",
+    "confidence": 0.8
+  },
+  "86": {
+    "summary": "Chronic loneliness in assisted living",
+    "category": "loneliness",
+    "confidence": 0.85
+  },
+  "87": {
+    "summary": "Health crises from aging",
+    "category": "chronic_illness",
+    "confidence": 0.9
+  },
+  "88": {
+    "summary": "Fear of becoming dependent",
+    "category": "dependency_fear",
+    "confidence": 0.8
+  },
+  "89": {
+    "summary": "Nostalgia for homeland",
+    "category": "homesickness",
+    "confidence": 0.8
+  },
+  "90": {
+    "summary": "Physical pain limiting activities",
+    "category": "chronic_pain",
+    "confidence": 0.85
+  },
+  "91": {
+    "summary": "Isolation from declining health",
+    "category": "social_isolation",
+    "confidence": 0.75
+  },
+  "92": {
+    "summary": "Existential emptiness",
+    "category": "existential_void",
+    "confidence": 0.7
+  },
+  "93": {
+    "summary": "Guilt over unfulfilled responsibilities",
+    "category": "guilt",
+    "confidence": 0.65
+  },
+  "94": {
+    "summary": "Physical decline affecting all activities",
+    "category": "physical_limitation",
+    "confidence": 0.8
+  },
+  "95": {
+    "summary": "Chronic loneliness",
+    "category": "loneliness",
+    "confidence": 0.85
+  },
+  "96": {
+    "summary": "Health crises from aging",
+    "category": "health_decline",
+    "confidence": 0.9
+  },
+  "97": {
+    "summary": "Fear of mortality",
+    "category": "mortality_anxiety",
+    "confidence": 0.85
+  },
+  "98": {
+    "summary": "Physical pain limiting mobility",
+    "category": "chronic_pain",
+    "confidence": 0.8
+  },
+  "99": {
+    "summary": "Isolation from declining health",
+    "category": "social_isolation",
+    "confidence": 0.75
+  },
+  "100": {
+    "summary": "Existential crisis about legacy",
+    "category": "legacy_concern",
+    "confidence": 0.7
+  }
+}

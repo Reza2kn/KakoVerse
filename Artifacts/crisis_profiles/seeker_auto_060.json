@@ -1,0 +1,257 @@
+{
+  "20": {
+    "summary": "Wartime displacement trauma from WWII and family separation",
+    "category": "war_trauma",
+    "confidence": 0.95
+  },
+  "21": {
+    "summary": "Survival stress and loss of homeland during wartime",
+    "category": "war_trauma",
+    "confidence": 0.9
+  },
+  "22": {
+    "summary": "Post-war displacement anxiety in new country",
+    "category": "displacement_anxiety",
+    "confidence": 0.85
+  },
+  "23": {
+    "summary": "Adjustment struggles in Mexico City with precarious finances",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "24": {
+    "summary": "Social isolation as factory clerk with limited social circle",
+    "category": "social_isolation",
+    "confidence": 0.75
+  },
+  "25": {
+    "summary": "Career stagnation in low-wage job with no advancement",
+    "category": "career_stagnation",
+    "confidence": 0.7
+  },
+  "26": {
+    "summary": "Persistent anxiety and emotional numbness from wartime trauma",
+    "category": "trauma",
+    "confidence": 0.9
+  },
+  "27": {
+    "summary": "Workplace stress and conflict avoidance at factory",
+    "category": "workplace_stress",
+    "confidence": 0.7
+  },
+  "28": {
+    "summary": "Chronic pain from repetitive factory work",
+    "category": "chronic_pain",
+    "confidence": 0.65
+  },
+  "29": {
+    "summary": "Unresolved trauma resurfacing during economic hardship",
+    "category": "trauma",
+    "confidence": 0.8
+  },
+  "30": {
+    "summary": "Midlife reflection on lost homeland and family",
+    "category": "midlife_crisis",
+    "confidence": 0.75
+  },
+  "31": {
+    "summary": "Rumination over wartime losses and displacement",
+    "category": "rumination",
+    "confidence": 0.8
+  },
+  "32": {
+    "summary": "Loneliness from limited emotional expressiveness",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "33": {
+    "summary": "Health anxiety from chronic pain and aging",
+    "category": "health_anxiety",
+    "confidence": 0.65
+  },
+  "34": {
+    "summary": "Financial insecurity threatening traditional values",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "35": {
+    "summary": "Burnout from monotonous factory work",
+    "category": "career_burnout",
+    "confidence": 0.6
+  },
+  "36": {
+    "summary": "Existential crisis about legacy and purpose",
+    "category": "existential_crisis",
+    "confidence": 0.65
+  },
+  "37": {
+    "summary": "Grief over aging parents' health decline",
+    "category": "grief",
+    "confidence": 0.55
+  },
+  "38": {
+    "summary": "Chronic pain limiting woodworking hobby",
+    "category": "chronic_pain",
+    "confidence": 0.6
+  },
+  "39": {
+    "summary": "Health decline affecting traditional routines",
+    "category": "health_decline",
+    "confidence": 0.55
+  },
+  "40": {
+    "summary": "Social isolation from reduced mobility",
+    "category": "social_isolation",
+    "confidence": 0.6
+  },
+  "41": {
+    "summary": "Fear of burdening others with health needs",
+    "category": "caregiver_guilt",
+    "confidence": 0.5
+  },
+  "42": {
+    "summary": "Retirement anxiety with insufficient savings",
+    "category": "retirement_anxiety",
+    "confidence": 0.55
+  },
+  "43": {
+    "summary": "Chronic pain management challenges",
+    "category": "chronic_pain",
+    "confidence": 0.55
+  },
+  "44": {
+    "summary": "Loneliness after spouse's death",
+    "category": "grief",
+    "confidence": 0.6
+  },
+  "45": {
+    "summary": "Financial strain from medical expenses",
+    "category": "financial_stress",
+    "confidence": 0.55
+  },
+  "46": {
+    "summary": "Health decline requiring assistance",
+    "category": "dependency",
+    "confidence": 0.5
+  },
+  "47": {
+    "summary": "Social isolation from limited mobility",
+    "category": "social_isolation",
+    "confidence": 0.55
+  },
+  "48": {
+    "summary": "Guilt over not fulfilling family obligations",
+    "category": "family_guilt",
+    "confidence": 0.45
+  },
+  "49": {
+    "summary": "Chronic pain affecting daily routines",
+    "category": "chronic_pain",
+    "confidence": 0.5
+  },
+  "50": {
+    "summary": "Health decline impacting traditional practices",
+    "category": "health_decline",
+    "confidence": 0.45
+  },
+  "51": {
+    "summary": "Loneliness from shrinking social circle",
+    "category": "loneliness",
+    "confidence": 0.45
+  },
+  "52": {
+    "summary": "Caregiver burden for aging relatives",
+    "category": "caregiver_stress",
+    "confidence": 0.4
+  },
+  "53": {
+    "summary": "Financial insecurity in retirement",
+    "category": "financial_stress",
+    "confidence": 0.45
+  },
+  "54": {
+    "summary": "Grief over losing community ties",
+    "category": "grief",
+    "confidence": 0.4
+  },
+  "55": {
+    "summary": "Health decline requiring home care",
+    "category": "health_decline",
+    "confidence": 0.35
+  },
+  "56": {
+    "summary": "Chronic pain limiting woodworking",
+    "category": "chronic_pain",
+    "confidence": 0.35
+  },
+  "57": {
+    "summary": "Social isolation from mobility issues",
+    "category": "social_isolation",
+    "confidence": 0.3
+  },
+  "58": {
+    "summary": "Financial strain from medical costs",
+    "category": "financial_stress",
+    "confidence": 0.3
+  },
+  "59": {
+    "summary": "Grief over losing remaining friends",
+    "category": "grief",
+    "confidence": 0.25
+  },
+  "60": {
+    "summary": "Health decline requiring assistance",
+    "category": "dependency",
+    "confidence": 0.25
+  },
+  "61": {
+    "summary": "Loneliness from family distance",
+    "category": "loneliness",
+    "confidence": 0.2
+  },
+  "62": {
+    "summary": "Chronic pain affecting independence",
+    "category": "chronic_pain",
+    "confidence": 0.2
+  },
+  "63": {
+    "summary": "Social isolation from limited mobility",
+    "category": "social_isolation",
+    "confidence": 0.15
+  },
+  "64": {
+    "summary": "Grief over losing spouse",
+    "category": "grief",
+    "confidence": 0.15
+  },
+  "65": {
+    "summary": "Health decline impacting daily life",
+    "category": "health_decline",
+    "confidence": 0.1
+  },
+  "66": {
+    "summary": "Financial insecurity in old age",
+    "category": "financial_stress",
+    "confidence": 0.1
+  },
+  "67": {
+    "summary": "Chronic pain requiring medical care",
+    "category": "chronic_pain",
+    "confidence": 0.05
+  },
+  "68": {
+    "summary": "Social isolation from declining health",
+    "category": "social_isolation",
+    "confidence": 0.05
+  },
+  "69": {
+    "summary": "Grief over losing remaining family",
+    "category": "grief",
+    "confidence": 0.05
+  },
+  "70": {
+    "summary": "Health decline requiring full-time care",
+    "category": "dependency",
+    "confidence": 0.05
+  }
+}

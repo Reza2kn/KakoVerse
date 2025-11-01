@@ -1,0 +1,407 @@
+{
+  "20": {
+    "summary": "Cultural dissonance navigating dual heritage identities",
+    "category": "identity_crisis",
+    "confidence": 0.85
+  },
+  "21": {
+    "summary": "Political instability affecting career stability in Chile",
+    "category": "political_unrest",
+    "confidence": 0.7
+  },
+  "22": {
+    "summary": "Family pressure to conform vs personal artistic expression",
+    "category": "family_conflict",
+    "confidence": 0.8
+  },
+  "23": {
+    "summary": "Financial strain during economic downturn in Santiago",
+    "category": "financial_stress",
+    "confidence": 0.75
+  },
+  "24": {
+    "summary": "Military conscription dilemma during regional tensions",
+    "category": "military_service",
+    "confidence": 0.65
+  },
+  "25": {
+    "summary": "Grief over mentor's death disrupting academic path",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "26": {
+    "summary": "Immigration barriers to international research opportunities",
+    "category": "legal_obstacles",
+    "confidence": 0.7
+  },
+  "27": {
+    "summary": "Ethical conflict between research funding and personal values",
+    "category": "ethical_dilemma",
+    "confidence": 0.75
+  },
+  "28": {
+    "summary": "Delayed career advancement due to political affiliations",
+    "category": "career_stagnation",
+    "confidence": 0.6
+  },
+  "29": {
+    "summary": "Marriage pressure conflicting with research commitments",
+    "category": "relationship_dilemma",
+    "confidence": 0.85
+  },
+  "30": {
+    "summary": "Academic recognition denial despite significant contributions",
+    "category": "professional_injustice",
+    "confidence": 0.7
+  },
+  "31": {
+    "summary": "Health crisis during field research in remote region",
+    "category": "medical_emergency",
+    "confidence": 0.65
+  },
+  "32": {
+    "summary": "Ideological conflict within research community",
+    "category": "group_dissonance",
+    "confidence": 0.7
+  },
+  "33": {
+    "summary": "Spouse's immigration difficulties delaying family formation",
+    "category": "family_delay",
+    "confidence": 0.8
+  },
+  "34": {
+    "summary": "Research grant cancellation due to political changes",
+    "category": "funding_loss",
+    "confidence": 0.75
+  },
+  "35": {
+    "summary": "Ethnic discrimination in academic circles",
+    "category": "discrimination",
+    "confidence": 0.6
+  },
+  "36": {
+    "summary": "Parental health crisis requiring caregiving decisions",
+    "category": "caregiver_dilemma",
+    "confidence": 0.8
+  },
+  "37": {
+    "summary": "Academic plagiarism accusation damaging reputation",
+    "category": "professional_scare",
+    "confidence": 0.7
+  },
+  "38": {
+    "summary": "Failed business venture during economic transition",
+    "category": "financial_loss",
+    "confidence": 0.65
+  },
+  "39": {
+    "summary": "Midlife crisis questioning life purpose",
+    "category": "existential_crisis",
+    "confidence": 0.8
+  },
+  "40": {
+    "summary": "Marital conflict over relocation decisions",
+    "category": "relationship_tension",
+    "confidence": 0.75
+  },
+  "41": {
+    "summary": "Research breakthrough met with institutional resistance",
+    "category": "professional_obstruction",
+    "confidence": 0.7
+  },
+  "42": {
+    "summary": "Chronic health condition diagnosis",
+    "category": "chronic_illness",
+    "confidence": 0.85
+  },
+  "43": {
+    "summary": "Sibling rivalry over family inheritance",
+    "category": "family_dispute",
+    "confidence": 0.7
+  },
+  "44": {
+    "summary": "Political exile decision during regime change",
+    "category": "forced_migration",
+    "confidence": 0.8
+  },
+  "45": {
+    "summary": "Career transition anxiety after forced relocation",
+    "category": "career_change",
+    "confidence": 0.75
+  },
+  "46": {
+    "summary": "Spouse's dementia diagnosis requiring care decisions",
+    "category": "caregiver_stress",
+    "confidence": 0.8
+  },
+  "47": {
+    "summary": "Research funding cuts threatening legacy project",
+    "category": "project_cancellation",
+    "confidence": 0.7
+  },
+  "48": {
+    "summary": "Cultural assimilation pressure in new country",
+    "category": "acculturation_stress",
+    "confidence": 0.8
+  },
+  "49": {
+    "summary": "Retirement planning anxiety with unstable pension",
+    "category": "financial_uncertainty",
+    "confidence": 0.7
+  },
+  "50": {
+    "summary": "Adult child's substance abuse crisis",
+    "category": "family_emergency",
+    "confidence": 0.8
+  },
+  "51": {
+    "summary": "Ethical dilemma in research methodology",
+    "category": "research_ethics",
+    "confidence": 0.75
+  },
+  "52": {
+    "summary": "Spouse's career decline affecting family stability",
+    "category": "relationship_strain",
+    "confidence": 0.7
+  },
+  "53": {
+    "summary": "Health insurance access issues",
+    "category": "medical_access",
+    "confidence": 0.65
+  },
+  "54": {
+    "summary": "Grandchild's behavioral problems requiring intervention",
+    "category": "family_challenges",
+    "confidence": 0.7
+  },
+  "55": {
+    "summary": "Research grant rejection after decades of service",
+    "category": "professional_rejection",
+    "confidence": 0.8
+  },
+  "56": {
+    "summary": "Sibling death triggering mortality awareness",
+    "category": "mortality_reflection",
+    "confidence": 0.85
+  },
+  "57": {
+    "summary": "Spouse's hearing loss causing communication breakdown",
+    "category": "relationship_barrier",
+    "confidence": 0.7
+  },
+  "58": {
+    "summary": "Political asylum process delays",
+    "category": "legal_proceedings",
+    "confidence": 0.7
+  },
+  "59": {
+    "summary": "Chronic pain condition limiting research activities",
+    "category": "chronic_pain",
+    "confidence": 0.8
+  },
+  "60": {
+    "summary": "Retirement adjustment difficulties",
+    "category": "transition_stress",
+    "confidence": 0.8
+  },
+  "61": {
+    "summary": "Spouse's mild cognitive impairment concerns",
+    "category": "caregiver_anxiety",
+    "confidence": 0.75
+  },
+  "62": {
+    "summary": "Adult child's financial dependency issues",
+    "category": "family_financial",
+    "confidence": 0.7
+  },
+  "63": {
+    "summary": "Research legacy concerns after institutional restructuring",
+    "category": "professional_legacy",
+    "confidence": 0.7
+  },
+  "64": {
+    "summary": "Spouse's vision loss requiring home modifications",
+    "category": "adaptation_challenges",
+    "confidence": 0.8
+  },
+  "65": {
+    "summary": "Retirement pension reduction policy changes",
+    "category": "financial_concern",
+    "confidence": 0.7
+  },
+  "66": {
+    "summary": "Spouse's increasing care needs causing burnout",
+    "category": "caregiver_burnout",
+    "confidence": 0.85
+  },
+  "67": {
+    "summary": "Research recognition denied by younger scholars",
+    "category": "professional_invalidation",
+    "confidence": 0.7
+  },
+  "68": {
+    "summary": "Spouse's respiratory illness requiring isolation",
+    "category": "health_crisis",
+    "confidence": 0.8
+  },
+  "69": {
+    "summary": "Spouse's mobility decline limiting social contact",
+    "category": "isolation_risk",
+    "confidence": 0.85
+  },
+  "70": {
+    "summary": "Spouse's death triggering profound loneliness",
+    "category": "grief",
+    "confidence": 0.95
+  },
+  "71": {
+    "summary": "Winter darkness exacerbating depression",
+    "category": "seasonal_depression",
+    "confidence": 0.8
+  },
+  "72": {
+    "summary": "Spouse's funeral expenses straining finances",
+    "category": "financial_pressure",
+    "confidence": 0.75
+  },
+  "73": {
+    "summary": "Research archives facing preservation challenges",
+    "category": "legacy_concern",
+    "confidence": 0.7
+  },
+  "74": {
+    "summary": "Spouse's memorialization conflicts with cultural traditions",
+    "category": "cultural_dilemma",
+    "confidence": 0.65
+  },
+  "75": {
+    "summary": "Spouse's death anniversary triggering annual grief cycle",
+    "category": "ritual_grief",
+    "confidence": 0.9
+  },
+  "76": {
+    "summary": "Spouse's health decline requiring difficult care decisions",
+    "category": "caregiver_dilemma",
+    "confidence": 0.85
+  },
+  "77": {
+    "summary": "Spouse's death leaving profound social isolation",
+    "category": "loneliness",
+    "confidence": 0.95
+  },
+  "78": {
+    "summary": "Spouse's funeral attendance challenges due to mobility",
+    "category": "physical_limitations",
+    "confidence": 0.7
+  },
+  "79": {
+    "summary": "Spouse's memory loss affecting daily routines",
+    "category": "cognitive_decline",
+    "confidence": 0.8
+  },
+  "80": {
+    "summary": "Spouse's death anniversary requiring emotional management",
+    "category": "ritual_stress",
+    "confidence": 0.9
+  },
+  "81": {
+    "summary": "Spouse's legacy preservation conflicts",
+    "category": "family_dispute",
+    "confidence": 0.7
+  },
+  "82": {
+    "summary": "Spouse's health decline necessitating institutional care",
+    "category": "care_transition",
+    "confidence": 0.85
+  },
+  "83": {
+    "summary": "Spouse's death leaving unresolved grief",
+    "category": "complicated_grief",
+    "confidence": 0.95
+  },
+  "84": {
+    "summary": "Spouse's memory triggering intense emotional episodes",
+    "category": "trauma_response",
+    "confidence": 0.85
+  },
+  "85": {
+    "summary": "Spouse's death anniversary causing annual depression",
+    "category": "seasonal_grief",
+    "confidence": 0.9
+  },
+  "86": {
+    "summary": "Spouse's legacy affecting family relationships",
+    "category": "family_tension",
+    "confidence": 0.75
+  },
+  "87": {
+    "summary": "Spouse's death leaving profound existential crisis",
+    "category": "existential_crisis",
+    "confidence": 0.9
+  },
+  "88": {
+    "summary": "Spouse's memory causing social withdrawal",
+    "category": "isolation",
+    "confidence": 0.85
+  },
+  "89": {
+    "summary": "Spouse's death anniversary requiring ritual management",
+    "category": "ritual_pressure",
+    "confidence": 0.8
+  },
+  "90": {
+    "summary": "Spouse's legacy preservation dilemmas",
+    "category": "legacy_concern",
+    "confidence": 0.7
+  },
+  "91": {
+    "summary": "Spouse's death leaving chronic loneliness",
+    "category": "loneliness",
+    "confidence": 0.95
+  },
+  "92": {
+    "summary": "Spouse's memory triggering persistent grief",
+    "category": "chronic_grief",
+    "confidence": 0.9
+  },
+  "93": {
+    "summary": "Spouse's death anniversary causing annual crisis",
+    "category": "ritual_grief",
+    "confidence": 0.85
+  },
+  "94": {
+    "summary": "Spouse's legacy affecting family dynamics",
+    "category": "family_conflict",
+    "confidence": 0.7
+  },
+  "95": {
+    "summary": "Spouse's death leaving existential void",
+    "category": "existential_crisis",
+    "confidence": 0.9
+  },
+  "96": {
+    "summary": "Spouse's memory causing social isolation",
+    "category": "isolation",
+    "confidence": 0.85
+  },
+  "97": {
+    "summary": "Spouse's death anniversary triggering annual depression",
+    "category": "seasonal_depression",
+    "confidence": 0.8
+  },
+  "98": {
+    "summary": "Spouse's legacy preservation challenges",
+    "category": "legacy_concern",
+    "confidence": 0.7
+  },
+  "99": {
+    "summary": "Spouse's death leaving chronic loneliness",
+    "category": "loneliness",
+    "confidence": 0.95
+  },
+  "100": {
+    "summary": "Spouse's memory causing persistent grief",
+    "category": "chronic_grief",
+    "confidence": 0.9
+  }
+}

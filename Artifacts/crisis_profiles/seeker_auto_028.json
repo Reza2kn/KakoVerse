@@ -1,0 +1,407 @@
+{
+  "20": {
+    "summary": "University transition anxiety amid financial instability",
+    "category": "academic_stress",
+    "confidence": 0.85
+  },
+  "21": {
+    "summary": "Language barrier reactivation in higher education",
+    "category": "communication_barrier",
+    "confidence": 0.75
+  },
+  "22": {
+    "summary": "Identity conflict between refugee past and Thai integration",
+    "category": "identity_crisis",
+    "confidence": 0.9
+  },
+  "23": {
+    "summary": "Burnout from balancing tutoring with language studies",
+    "category": "career_burnout",
+    "confidence": 0.8
+  },
+  "24": {
+    "summary": "Grief over disrupted childhood education trajectory",
+    "category": "grief",
+    "confidence": 0.85
+  },
+  "25": {
+    "summary": "Imposter syndrome in creative field entry",
+    "category": "self_doubt",
+    "confidence": 0.7
+  },
+  "26": {
+    "summary": "Parental pressure conflicting with artistic career goals",
+    "category": "family_conflict",
+    "confidence": 0.75
+  },
+  "27": {
+    "summary": "Eco-fashion business failure amid economic downturn",
+    "category": "financial_loss",
+    "confidence": 0.65
+  },
+  "28": {
+    "summary": "Loneliness during partner formation phase",
+    "category": "social_isolation",
+    "confidence": 0.8
+  },
+  "29": {
+    "summary": "Health anxiety from childhood trauma triggers",
+    "category": "health_anxiety",
+    "confidence": 0.7
+  },
+  "30": {
+    "summary": "Visa status uncertainty threatening career stability",
+    "category": "legal_uncertainty",
+    "confidence": 0.9
+  },
+  "31": {
+    "summary": "Creative block in digital art practice",
+    "category": "creative_block",
+    "confidence": 0.6
+  },
+  "32": {
+    "summary": "Burnout from moderating online communities",
+    "category": "digital_burnout",
+    "confidence": 0.7
+  },
+  "33": {
+    "summary": "Intergenerational trauma reactivation",
+    "category": "trauma_replay",
+    "confidence": 0.85
+  },
+  "34": {
+    "summary": "Parental health crises requiring care decisions",
+    "category": "caregiver_dilemma",
+    "confidence": 0.7
+  },
+  "35": {
+    "summary": "Midlife reassessment of refugee identity",
+    "category": "identity_shift",
+    "confidence": 0.8
+  },
+  "36": {
+    "summary": "Chronic pain from childhood stress manifestations",
+    "category": "chronic_pain",
+    "confidence": 0.75
+  },
+  "37": {
+    "summary": "Economic anxiety during regional recession",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "38": {
+    "summary": "Grief over homeland political changes",
+    "category": "political_grief",
+    "confidence": 0.7
+  },
+  "39": {
+    "summary": "Creative stagnation in photography practice",
+    "category": "creative_block",
+    "confidence": 0.65
+  },
+  "40": {
+    "summary": "Parental empty nest syndrome",
+    "category": "family_change",
+    "confidence": 0.6
+  },
+  "41": {
+    "summary": "Midlife career pivot anxiety",
+    "category": "career_change",
+    "confidence": 0.7
+  },
+  "42": {
+    "summary": "Health decline from pandemic-era neglect",
+    "category": "health_consequences",
+    "confidence": 0.7
+  },
+  "43": {
+    "summary": "Financial insecurity in creative industries",
+    "category": "financial_uncertainty",
+    "confidence": 0.8
+  },
+  "44": {
+    "summary": "Grief over loss of traditional drumming community",
+    "category": "community_loss",
+    "confidence": 0.75
+  },
+  "45": {
+    "summary": "Intergenerational trauma transmission fears",
+    "category": "generational_trauma",
+    "confidence": 0.8
+  },
+  "46": {
+    "summary": "Retirement planning anxiety amid precarity",
+    "category": "financial_stress",
+    "confidence": 0.85
+  },
+  "47": {
+    "summary": "Physical health decline from chronic tension",
+    "category": "health_decline",
+    "confidence": 0.75
+  },
+  "48": {
+    "summary": "Grief over refugee camp memories resurfacing",
+    "category": "trauma_replay",
+    "confidence": 0.8
+  },
+  "49": {
+    "summary": "Creative reinvention pressure",
+    "category": "identity_crisis",
+    "confidence": 0.7
+  },
+  "50": {
+    "summary": "Parental health crisis management",
+    "category": "caregiver_dilemma",
+    "confidence": 0.8
+  },
+  "51": {
+    "summary": "Financial strain from children's education costs",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "52": {
+    "summary": "Midlife reassessment of refugee identity",
+    "category": "identity_shift",
+    "confidence": 0.75
+  },
+  "53": {
+    "summary": "Chronic pain management challenges",
+    "category": "chronic_pain",
+    "confidence": 0.8
+  },
+  "54": {
+    "summary": "Grief over lost creative opportunities",
+    "category": "regret",
+    "confidence": 0.7
+  },
+  "55": {
+    "summary": "Retirement transition anxiety",
+    "category": "career_change",
+    "confidence": 0.75
+  },
+  "56": {
+    "summary": "Health anxiety about aging relatives",
+    "category": "health_anxiety",
+    "confidence": 0.8
+  },
+  "57": {
+    "summary": "Financial insecurity in retirement",
+    "category": "financial_stress",
+    "confidence": 0.85
+  },
+  "58": {
+    "summary": "Grief over traditional culture erosion",
+    "category": "cultural_grief",
+    "confidence": 0.75
+  },
+  "59": {
+    "summary": "Creative legacy concerns",
+    "category": "existential_crisis",
+    "confidence": 0.65
+  },
+  "60": {
+    "summary": "Chronic illness management",
+    "category": "health_decline",
+    "confidence": 0.8
+  },
+  "61": {
+    "summary": "Financial strain from healthcare costs",
+    "category": "financial_stress",
+    "confidence": 0.85
+  },
+  "62": {
+    "summary": "Grief over lost mobility and freedom",
+    "category": "loss",
+    "confidence": 0.75
+  },
+  "63": {
+    "summary": "Loneliness in retirement",
+    "category": "social_isolation",
+    "confidence": 0.7
+  },
+  "64": {
+    "summary": "Health anxiety about chronic conditions",
+    "category": "health_anxiety",
+    "confidence": 0.8
+  },
+  "65": {
+    "summary": "Financial insecurity in old age",
+    "category": "financial_stress",
+    "confidence": 0.85
+  },
+  "66": {
+    "summary": "Grief over passing cultural traditions",
+    "category": "cultural_loss",
+    "confidence": 0.75
+  },
+  "67": {
+    "summary": "Physical decline management",
+    "category": "health_decline",
+    "confidence": 0.8
+  },
+  "68": {
+    "summary": "Existential loneliness",
+    "category": "existential_crisis",
+    "confidence": 0.7
+  },
+  "69": {
+    "summary": "Financial strain from inflation",
+    "category": "financial_stress",
+    "confidence": 0.85
+  },
+  "70": {
+    "summary": "Grief over lost autonomy",
+    "category": "loss",
+    "confidence": 0.75
+  },
+  "71": {
+    "summary": "Health decline management",
+    "category": "chronic_illness",
+    "confidence": 0.8
+  },
+  "72": {
+    "summary": "Financial insecurity in advanced age",
+    "category": "financial_stress",
+    "confidence": 0.85
+  },
+  "73": {
+    "summary": "Grief over passing away peers",
+    "category": "grief",
+    "confidence": 0.75
+  },
+  "74": {
+    "summary": "Physical frailty challenges",
+    "category": "health_decline",
+    "confidence": 0.8
+  },
+  "75": {
+    "summary": "Existential loneliness",
+    "category": "existential_crisis",
+    "confidence": 0.7
+  },
+  "76": {
+    "summary": "Financial strain from healthcare",
+    "category": "financial_stress",
+    "confidence": 0.85
+  },
+  "77": {
+    "summary": "Grief over cultural disconnection",
+    "category": "cultural_grief",
+    "confidence": 0.75
+  },
+  "78": {
+    "summary": "Health decline management",
+    "category": "chronic_illness",
+    "confidence": 0.8
+  },
+  "79": {
+    "summary": "Financial insecurity in extreme old age",
+    "category": "financial_stress",
+    "confidence": 0.85
+  },
+  "80": {
+    "summary": "Grief over lost physical abilities",
+    "category": "loss",
+    "confidence": 0.75
+  },
+  "81": {
+    "summary": "Health decline challenges",
+    "category": "health_decline",
+    "confidence": 0.8
+  },
+  "82": {
+    "summary": "Financial strain from limited resources",
+    "category": "financial_stress",
+    "confidence": 0.85
+  },
+  "83": {
+    "summary": "Grief over passing away loved ones",
+    "category": "grief",
+    "confidence": 0.75
+  },
+  "84": {
+    "summary": "Physical frailty management",
+    "category": "health_decline",
+    "confidence": 0.8
+  },
+  "85": {
+    "summary": "Existential loneliness",
+    "category": "existential_crisis",
+    "confidence": 0.7
+  },
+  "86": {
+    "summary": "Financial insecurity in advanced old age",
+    "category": "financial_stress",
+    "confidence": 0.85
+  },
+  "87": {
+    "summary": "Grief over cultural erosion",
+    "category": "cultural_grief",
+    "confidence": 0.75
+  },
+  "88": {
+    "summary": "Health decline management",
+    "category": "chronic_illness",
+    "confidence": 0.8
+  },
+  "89": {
+    "summary": "Financial strain from limited income",
+    "category": "financial_stress",
+    "confidence": 0.85
+  },
+  "90": {
+    "summary": "Grief over lost independence",
+    "category": "loss",
+    "confidence": 0.75
+  },
+  "91": {
+    "summary": "Health decline challenges",
+    "category": "health_decline",
+    "confidence": 0.8
+  },
+  "92": {
+    "summary": "Financial insecurity in extreme old age",
+    "category": "financial_stress",
+    "confidence": 0.85
+  },
+  "93": {
+    "summary": "Grief over passing away peers",
+    "category": "grief",
+    "confidence": 0.75
+  },
+  "94": {
+    "summary": "Physical frailty management",
+    "category": "health_decline",
+    "confidence": 0.8
+  },
+  "95": {
+    "summary": "Existential loneliness",
+    "category": "existential_crisis",
+    "confidence": 0.7
+  },
+  "96": {
+    "summary": "Financial strain from healthcare costs",
+    "category": "financial_stress",
+    "confidence": 0.85
+  },
+  "97": {
+    "summary": "Grief over cultural disconnection",
+    "category": "cultural_grief",
+    "confidence": 0.75
+  },
+  "98": {
+    "summary": "Health decline management",
+    "category": "chronic_illness",
+    "confidence": 0.8
+  },
+  "99": {
+    "summary": "Financial insecurity in final years",
+    "category": "financial_stress",
+    "confidence": 0.85
+  },
+  "100": {
+    "summary": "Grief over life review",
+    "category": "existential_crisis",
+    "confidence": 0.75
+  }
+}

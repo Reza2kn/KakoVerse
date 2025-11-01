@@ -1,0 +1,407 @@
+{
+  "20": {
+    "summary": "Adapting to new city and cultural displacement after migration",
+    "category": "cultural_adjustment",
+    "confidence": 0.85
+  },
+  "21": {
+    "summary": "Financial instability managing limited resources in new environment",
+    "category": "financial_stress",
+    "confidence": 0.9
+  },
+  "22": {
+    "summary": "Identity conflict between traditional upbringing and modern influences",
+    "category": "identity_crisis",
+    "confidence": 0.8
+  },
+  "23": {
+    "summary": "Navigating complex family obligations while pursuing personal goals",
+    "category": "family_duty_conflict",
+    "confidence": 0.75
+  },
+  "24": {
+    "summary": "Career uncertainty in competitive urban job market",
+    "category": "career_uncertainty",
+    "confidence": 0.8
+  },
+  "25": {
+    "summary": "Balancing academic ambitions with family expectations",
+    "category": "academic_pressure",
+    "confidence": 0.7
+  },
+  "26": {
+    "summary": "Relationship challenges in arranged marriage context",
+    "category": "marital_adjustment",
+    "confidence": 0.65
+  },
+  "27": {
+    "summary": "First experiences with systemic bureaucracy and red tape",
+    "category": "institutional_friction",
+    "confidence": 0.7
+  },
+  "28": {
+    "summary": "Economic pressures during regional financial instability",
+    "category": "economic_uncertainty",
+    "confidence": 0.85
+  },
+  "29": {
+    "summary": "Professional identity formation in new career field",
+    "category": "career_identity",
+    "confidence": 0.75
+  },
+  "30": {
+    "summary": "Spousal relationship dynamics and partnership building",
+    "category": "relationship_building",
+    "confidence": 0.8
+  },
+  "31": {
+    "summary": "Work-life balance challenges with growing family",
+    "category": "work_life_balance",
+    "confidence": 0.85
+  },
+  "32": {
+    "summary": "Parenting anxieties and child-rearing pressures",
+    "category": "parenting_stress",
+    "confidence": 0.9
+  },
+  "33": {
+    "summary": "Career advancement plateau and professional stagnation",
+    "category": "career_stagnation",
+    "confidence": 0.7
+  },
+  "34": {
+    "summary": "Financial planning for family security and future needs",
+    "category": "financial_planning",
+    "confidence": 0.8
+  },
+  "35": {
+    "summary": "Midlife reassessment of personal values and life direction",
+    "category": "midlife_reassessment",
+    "confidence": 0.75
+  },
+  "36": {
+    "summary": "Health concerns emerging from lifestyle stress",
+    "category": "health_concerns",
+    "confidence": 0.65
+  },
+  "37": {
+    "summary": "Professional burnout from demanding career role",
+    "category": "career_burnout",
+    "confidence": 0.8
+  },
+  "38": {
+    "summary": "Empty nest syndrome and shifting family dynamics",
+    "category": "empty_nest",
+    "confidence": 0.7
+  },
+  "39": {
+    "summary": "Generational communication gaps with children",
+    "category": "generational_divide",
+    "confidence": 0.65
+  },
+  "40": {
+    "summary": "Midlife career transition challenges",
+    "category": "career_transition",
+    "confidence": 0.7
+  },
+  "41": {
+    "summary": "Spousal relationship maintenance after decades together",
+    "category": "long_term_relationship",
+    "confidence": 0.8
+  },
+  "42": {
+    "summary": "Parental health decline requiring caregiving",
+    "category": "caregiving_responsibility",
+    "confidence": 0.85
+  },
+  "43": {
+    "summary": "Financial security concerns for retirement planning",
+    "category": "retirement_concerns",
+    "confidence": 0.9
+  },
+  "44": {
+    "summary": "Physical health decline and chronic condition management",
+    "category": "chronic_health",
+    "confidence": 0.75
+  },
+  "45": {
+    "summary": "Social circle contraction and changing friendships",
+    "category": "social_isolation",
+    "confidence": 0.7
+  },
+  "46": {
+    "summary": "Retirement adjustment and identity shift",
+    "category": "retirement_adjustment",
+    "confidence": 0.85
+  },
+  "47": {
+    "summary": "Spousal health decline and potential caregiving burden",
+    "category": "caregiving_stress",
+    "confidence": 0.8
+  },
+  "48": {
+    "summary": "Financial constraints limiting retirement lifestyle",
+    "category": "financial_restriction",
+    "confidence": 0.9
+  },
+  "49": {
+    "summary": "Loss of professional identity and purpose",
+    "category": "purpose_loss",
+    "confidence": 0.75
+  },
+  "50": {
+    "summary": "Health management challenges with aging body",
+    "category": "aging_health",
+    "confidence": 0.8
+  },
+  "51": {
+    "summary": "Family responsibilities shifting to adult children",
+    "category": "family_shift",
+    "confidence": 0.7
+  },
+  "52": {
+    "summary": "Spousal health decline requiring increased care",
+    "category": "caregiving_intensify",
+    "confidence": 0.85
+  },
+  "53": {
+    "summary": "Financial insecurity despite retirement",
+    "category": "financial_insecurity",
+    "confidence": 0.9
+  },
+  "54": {
+    "summary": "Physical mobility limitations affecting independence",
+    "category": "mobility_challenges",
+    "confidence": 0.7
+  },
+  "55": {
+    "summary": "Loss of spouse's companionship and partnership",
+    "category": "spousal_loss",
+    "confidence": 0.8
+  },
+  "56": {
+    "summary": "Chronic health condition diagnosis and management",
+    "category": "chronic_illness",
+    "confidence": 0.85
+  },
+  "57": {
+    "summary": "Social isolation due to limited mobility",
+    "category": "mobility_isolation",
+    "confidence": 0.75
+  },
+  "58": {
+    "summary": "Caregiving responsibilities for aging parents",
+    "category": "intergenerational_care",
+    "confidence": 0.7
+  },
+  "59": {
+    "summary": "Retirement income shortfalls becoming critical",
+    "category": "income_shortfall",
+    "confidence": 0.9
+  },
+  "60": {
+    "summary": "Significant health decline impacting daily living",
+    "category": "health_decline",
+    "confidence": 0.85
+  },
+  "61": {
+    "summary": "Loss of independence due to health limitations",
+    "category": "loss_of_independence",
+    "confidence": 0.8
+  },
+  "62": {
+    "summary": "Grief over multiple losses and declining health",
+    "category": "grief",
+    "confidence": 0.9
+  },
+  "63": {
+    "summary": "Financial precarity threatening basic needs",
+    "category": "poverty_risk",
+    "confidence": 0.95
+  },
+  "64": {
+    "summary": "Chronic pain management challenges",
+    "category": "chronic_pain",
+    "confidence": 0.8
+  },
+  "65": {
+    "summary": "Social isolation intensifying with declining health",
+    "category": "social_isolation",
+    "confidence": 0.85
+  },
+  "66": {
+    "summary": "Caregiving burden for spouse with dementia",
+    "category": "dementia_care",
+    "confidence": 0.85
+  },
+  "67": {
+    "summary": "Health crises requiring institutional care",
+    "category": "institutionalization",
+    "confidence": 0.8
+  },
+  "68": {
+    "summary": "Loss of remaining siblings increasing isolation",
+    "category": "sibling_loss",
+    "confidence": 0.75
+  },
+  "69": {
+    "summary": "Financial constraints limiting healthcare access",
+    "category": "healthcare_access",
+    "confidence": 0.8
+  },
+  "70": {
+    "summary": "End-of-life considerations and legacy concerns",
+    "category": "end_of_life",
+    "confidence": 0.7
+  },
+  "71": {
+    "summary": "Physical frailty and increased dependency",
+    "category": "physical_frailty",
+    "confidence": 0.8
+  },
+  "72": {
+    "summary": "Grief over spouse's death and prolonged loneliness",
+    "category": "spousal_death",
+    "confidence": 0.9
+  },
+  "73": {
+    "summary": "Chronic sadness and isolation from pandemic effects",
+    "category": "pandemic_loneliness",
+    "confidence": 0.95
+  },
+  "74": {
+    "summary": "Health decline accelerating with limited support",
+    "category": "accelerating_health",
+    "confidence": 0.85
+  },
+  "75": {
+    "summary": "Financial precarity threatening basic needs",
+    "category": "poverty_risk",
+    "confidence": 0.95
+  },
+  "76": {
+    "summary": "Loss of remaining family connections",
+    "category": "family_loss",
+    "confidence": 0.8
+  },
+  "77": {
+    "summary": "Chronic pain and mobility limitations",
+    "category": "chronic_pain",
+    "confidence": 0.85
+  },
+  "78": {
+    "summary": "Social isolation and declining cognitive function",
+    "category": "cognitive_decline",
+    "confidence": 0.8
+  },
+  "79": {
+    "summary": "Health crises requiring constant care",
+    "category": "care_needs",
+    "confidence": 0.85
+  },
+  "80": {
+    "summary": "Physical frailty and dependence on others",
+    "category": "dependence",
+    "confidence": 0.9
+  },
+  "81": {
+    "summary": "Grief over losing lifelong partner",
+    "category": "grief",
+    "confidence": 0.9
+  },
+  "82": {
+    "summary": "Financial insecurity with limited resources",
+    "category": "financial_insecurity",
+    "confidence": 0.95
+  },
+  "83": {
+    "summary": "Health decline and chronic illness management",
+    "category": "chronic_illness",
+    "confidence": 0.85
+  },
+  "84": {
+    "summary": "Social isolation intensifying with age",
+    "category": "social_isolation",
+    "confidence": 0.9
+  },
+  "85": {
+    "summary": "Physical limitations affecting independence",
+    "category": "mobility_challenges",
+    "confidence": 0.85
+  },
+  "86": {
+    "summary": "Care needs increasing with health decline",
+    "category": "care_needs",
+    "confidence": 0.85
+  },
+  "87": {
+    "summary": "Loss of remaining siblings increasing isolation",
+    "category": "sibling_loss",
+    "confidence": 0.8
+  },
+  "88": {
+    "summary": "Financial precarity threatening basic needs",
+    "category": "poverty_risk",
+    "confidence": 0.95
+  },
+  "89": {
+    "summary": "Chronic pain and declining health",
+    "category": "chronic_pain",
+    "confidence": 0.85
+  },
+  "90": {
+    "summary": "Social isolation and limited mobility",
+    "category": "social_isolation",
+    "confidence": 0.9
+  },
+  "91": {
+    "summary": "Health decline requiring more care",
+    "category": "health_decline",
+    "confidence": 0.85
+  },
+  "92": {
+    "summary": "Grief over losing lifelong partner",
+    "category": "grief",
+    "confidence": 0.9
+  },
+  "93": {
+    "summary": "Financial insecurity with limited resources",
+    "category": "financial_insecurity",
+    "confidence": 0.95
+  },
+  "94": {
+    "summary": "Physical frailty and dependence",
+    "category": "dependence",
+    "confidence": 0.9
+  },
+  "95": {
+    "summary": "Profound sadness and isolation after spouse loss",
+    "category": "profound_loneliness",
+    "confidence": 0.98
+  },
+  "96": {
+    "summary": "Health decline and chronic illness",
+    "category": "chronic_illness",
+    "confidence": 0.85
+  },
+  "97": {
+    "summary": "Social isolation intensifying",
+    "category": "social_isolation",
+    "confidence": 0.9
+  },
+  "98": {
+    "summary": "Financial precarity threatening basic needs",
+    "category": "poverty_risk",
+    "confidence": 0.95
+  },
+  "99": {
+    "summary": "Physical limitations and dependence",
+    "category": "dependence",
+    "confidence": 0.9
+  },
+  "100": {
+    "summary": "Reflection on life with isolation and health challenges",
+    "category": "life_reflection",
+    "confidence": 0.85
+  }
+}

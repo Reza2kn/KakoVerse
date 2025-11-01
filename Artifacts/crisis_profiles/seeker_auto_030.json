@@ -1,0 +1,407 @@
+{
+  "20": {
+    "summary": "Navigating post-pandemic career entry amid Santiago's economic strain",
+    "category": "career_transition",
+    "confidence": 0.85
+  },
+  "21": {
+    "summary": "Volunteer burnout from community caregiving during pandemic recovery",
+    "category": "burnout",
+    "confidence": 0.78
+  },
+  "22": {
+    "summary": "Culture shock and professional isolation after relocating to Moscow",
+    "category": "acculturation_stress",
+    "confidence": 0.9
+  },
+  "23": {
+    "summary": "Anxiety flare-ups during first major software project deadlines",
+    "category": "work_anxiety",
+    "confidence": 0.88
+  },
+  "24": {
+    "summary": "Grief over family loss compounded by inability to return to Chile",
+    "category": "grief",
+    "confidence": 0.82
+  },
+  "25": {
+    "summary": "Financial strain from adapting to Moscow's cost of living",
+    "category": "financial_stress",
+    "confidence": 0.75
+  },
+  "26": {
+    "summary": "Identity conflict between Chilean roots and Russian professional life",
+    "category": "identity_crisis",
+    "confidence": 0.85
+  },
+  "27": {
+    "summary": "Work restructuring triggering chronic anxiety disorder onset",
+    "category": "career_instability",
+    "confidence": 0.95
+  },
+  "28": {
+    "summary": "Loneliness in Moscow despite civic activism commitments",
+    "category": "social_isolation",
+    "confidence": 0.8
+  },
+  "29": {
+    "summary": "Burnout from balancing QC engineering with volunteer counseling",
+    "category": "burnout",
+    "confidence": 0.87
+  },
+  "30": {
+    "summary": "Chronic anxiety disorder compounded by career instability and grief",
+    "category": "mental_health",
+    "confidence": 0.98
+  },
+  "31": {
+    "summary": "Stagnation in software career despite high conscientiousness",
+    "category": "career_stagnation",
+    "confidence": 0.77
+  },
+  "32": {
+    "summary": "Chronic tension headaches from anxiety and urban living stress",
+    "category": "chronic_pain",
+    "confidence": 0.85
+  },
+  "33": {
+    "summary": "Pressure to conform professionally in Russia's conservative work culture",
+    "category": "cultural_pressure",
+    "confidence": 0.8
+  },
+  "34": {
+    "summary": "Existential doubt about career impact vs. community values",
+    "category": "existential_crisis",
+    "confidence": 0.73
+  },
+  "35": {
+    "summary": "Midlife reassessment amid immigration barriers and mental health stigma",
+    "category": "midlife_crisis",
+    "confidence": 0.79
+  },
+  "36": {
+    "summary": "Burnout from digital art side projects competing with core job",
+    "category": "creative_block",
+    "confidence": 0.71
+  },
+  "37": {
+    "summary": "Grief reactivation from unresolved family closure in Chile",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "38": {
+    "summary": "Professional isolation in Moscow's tech industry as foreigner",
+    "category": "professional_isolation",
+    "confidence": 0.83
+  },
+  "39": {
+    "summary": "Chronic pain management challenges from anxiety-induced headaches",
+    "category": "chronic_pain",
+    "confidence": 0.88
+  },
+  "40": {
+    "summary": "Economic anxiety amid Russia's fluctuating job market",
+    "category": "financial_stress",
+    "confidence": 0.81
+  },
+  "41": {
+    "summary": "Midlife career reassessment with limited advancement opportunities",
+    "category": "career_stagnation",
+    "confidence": 0.76
+  },
+  "42": {
+    "summary": "Loneliness intensifying with aging Chilean family members",
+    "category": "social_isolation",
+    "confidence": 0.78
+  },
+  "43": {
+    "summary": "Identity crisis between Russian professional identity and Chilean heritage",
+    "category": "identity_crisis",
+    "confidence": 0.84
+  },
+  "44": {
+    "summary": "Burnout from maintaining urban garden as emotional outlet",
+    "category": "burnout",
+    "confidence": 0.7
+  },
+  "45": {
+    "summary": "Chronic pain limiting civic activism participation",
+    "category": "chronic_pain",
+    "confidence": 0.86
+  },
+  "46": {
+    "summary": "Retirement anxiety in Russia's uncertain economic climate",
+    "category": "financial_stress",
+    "confidence": 0.79
+  },
+  "47": {
+    "summary": "Grief over Chilean family deaths compounding isolation",
+    "category": "grief",
+    "confidence": 0.87
+  },
+  "48": {
+    "summary": "Physical health decline from long-term anxiety effects",
+    "category": "health_decline",
+    "confidence": 0.82
+  },
+  "49": {
+    "summary": "Existential crisis about legacy in Russia vs. Chile",
+    "category": "existential_crisis",
+    "confidence": 0.75
+  },
+  "50": {
+    "summary": "Social isolation as online connections fade with age",
+    "category": "social_isolation",
+    "confidence": 0.8
+  },
+  "51": {
+    "summary": "Chronic pain management challenges in Russia's healthcare system",
+    "category": "healthcare_access",
+    "confidence": 0.77
+  },
+  "52": {
+    "summary": "Midlife reassessment of immigration decision amid Russia's geopolitical tensions",
+    "category": "political_stress",
+    "confidence": 0.73
+  },
+  "53": {
+    "summary": "Burnout from maintaining bilingual community connections",
+    "category": "burnout",
+    "confidence": 0.68
+  },
+  "54": {
+    "summary": "Grief over Chilean community losses compounding loneliness",
+    "category": "grief",
+    "confidence": 0.81
+  },
+  "55": {
+    "summary": "Chronic pain limiting urban gardening hobby",
+    "category": "chronic_pain",
+    "confidence": 0.84
+  },
+  "56": {
+    "summary": "Retirement planning anxiety amid Russia's economic instability",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "57": {
+    "summary": "Identity crisis between Russian residency and Chilean roots",
+    "category": "identity_crisis",
+    "confidence": 0.78
+  },
+  "58": {
+    "summary": "Social isolation as physical mobility declines",
+    "category": "social_isolation",
+    "confidence": 0.83
+  },
+  "59": {
+    "summary": "Chronic pain management challenges in later life",
+    "category": "chronic_pain",
+    "confidence": 0.86
+  },
+  "60": {
+    "summary": "Grief over Chilean family members' deaths",
+    "category": "grief",
+    "confidence": 0.88
+  },
+  "61": {
+    "summary": "Existential crisis about purpose in retirement",
+    "category": "existential_crisis",
+    "confidence": 0.74
+  },
+  "62": {
+    "summary": "Loneliness intensifying with declining health",
+    "category": "social_isolation",
+    "confidence": 0.85
+  },
+  "63": {
+    "summary": "Chronic pain limiting volunteer counseling activities",
+    "category": "chronic_pain",
+    "confidence": 0.87
+  },
+  "64": {
+    "summary": "Financial anxiety amid Russia's inflation and healthcare costs",
+    "category": "financial_stress",
+    "confidence": 0.82
+  },
+  "65": {
+    "summary": "Midlife health crisis from accumulated anxiety effects",
+    "category": "health_crisis",
+    "confidence": 0.8
+  },
+  "66": {
+    "summary": "Grief over Chilean community elders' deaths",
+    "category": "grief",
+    "confidence": 0.83
+  },
+  "67": {
+    "summary": "Social isolation as physical mobility declines further",
+    "category": "social_isolation",
+    "confidence": 0.86
+  },
+  "68": {
+    "summary": "Chronic pain management challenges in advanced age",
+    "category": "chronic_pain",
+    "confidence": 0.88
+  },
+  "69": {
+    "summary": "Existential crisis about legacy and purpose",
+    "category": "existential_crisis",
+    "confidence": 0.76
+  },
+  "70": {
+    "summary": "Loneliness compounded by declining health",
+    "category": "social_isolation",
+    "confidence": 0.87
+  },
+  "71": {
+    "summary": "Grief over Chilean family losses compounding isolation",
+    "category": "grief",
+    "confidence": 0.84
+  },
+  "72": {
+    "summary": "Chronic pain management challenges in advanced age",
+    "category": "chronic_pain",
+    "confidence": 0.89
+  },
+  "73": {
+    "summary": "Financial anxiety amid Russia's economic instability",
+    "category": "financial_stress",
+    "confidence": 0.83
+  },
+  "74": {
+    "summary": "Social isolation as mobility declines further",
+    "category": "social_isolation",
+    "confidence": 0.88
+  },
+  "75": {
+    "summary": "Grief over Chilean community elders' deaths",
+    "category": "grief",
+    "confidence": 0.85
+  },
+  "76": {
+    "summary": "Chronic pain management challenges in advanced age",
+    "category": "chronic_pain",
+    "confidence": 0.9
+  },
+  "77": {
+    "summary": "Existential crisis about purpose and legacy",
+    "category": "existential_crisis",
+    "confidence": 0.77
+  },
+  "78": {
+    "summary": "Loneliness compounded by declining health",
+    "category": "social_isolation",
+    "confidence": 0.88
+  },
+  "79": {
+    "summary": "Grief over Chilean family losses compounding isolation",
+    "category": "grief",
+    "confidence": 0.86
+  },
+  "80": {
+    "summary": "Chronic pain management challenges in advanced age",
+    "category": "chronic_pain",
+    "confidence": 0.91
+  },
+  "81": {
+    "summary": "Financial anxiety amid Russia's economic instability",
+    "category": "financial_stress",
+    "confidence": 0.84
+  },
+  "82": {
+    "summary": "Social isolation as mobility declines further",
+    "category": "social_isolation",
+    "confidence": 0.89
+  },
+  "83": {
+    "summary": "Grief over Chilean community elders' deaths",
+    "category": "grief",
+    "confidence": 0.87
+  },
+  "84": {
+    "summary": "Chronic pain management challenges in advanced age",
+    "category": "chronic_pain",
+    "confidence": 0.92
+  },
+  "85": {
+    "summary": "Existential crisis about purpose and legacy",
+    "category": "existential_crisis",
+    "confidence": 0.78
+  },
+  "86": {
+    "summary": "Loneliness compounded by declining health",
+    "category": "social_isolation",
+    "confidence": 0.9
+  },
+  "87": {
+    "summary": "Grief over Chilean family losses compounding isolation",
+    "category": "grief",
+    "confidence": 0.88
+  },
+  "88": {
+    "summary": "Chronic pain management challenges in advanced age",
+    "category": "chronic_pain",
+    "confidence": 0.93
+  },
+  "89": {
+    "summary": "Financial anxiety amid Russia's economic instability",
+    "category": "financial_stress",
+    "confidence": 0.85
+  },
+  "90": {
+    "summary": "Social isolation as mobility declines further",
+    "category": "social_isolation",
+    "confidence": 0.91
+  },
+  "91": {
+    "summary": "Grief over Chilean community elders' deaths",
+    "category": "grief",
+    "confidence": 0.89
+  },
+  "92": {
+    "summary": "Chronic pain management challenges in advanced age",
+    "category": "chronic_pain",
+    "confidence": 0.94
+  },
+  "93": {
+    "summary": "Existential crisis about purpose and legacy",
+    "category": "existential_crisis",
+    "confidence": 0.79
+  },
+  "94": {
+    "summary": "Loneliness compounded by declining health",
+    "category": "social_isolation",
+    "confidence": 0.92
+  },
+  "95": {
+    "summary": "Grief over Chilean family losses compounding isolation",
+    "category": "grief",
+    "confidence": 0.9
+  },
+  "96": {
+    "summary": "Chronic pain management challenges in advanced age",
+    "category": "chronic_pain",
+    "confidence": 0.95
+  },
+  "97": {
+    "summary": "Financial anxiety amid Russia's economic instability",
+    "category": "financial_stress",
+    "confidence": 0.86
+  },
+  "98": {
+    "summary": "Social isolation as mobility declines further",
+    "category": "social_isolation",
+    "confidence": 0.93
+  },
+  "99": {
+    "summary": "Grief over Chilean community elders' deaths",
+    "category": "grief",
+    "confidence": 0.91
+  },
+  "100": {
+    "summary": "Chronic pain management challenges in advanced age",
+    "category": "chronic_pain",
+    "confidence": 0.96
+  }
+}

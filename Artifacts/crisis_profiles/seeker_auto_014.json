@@ -1,0 +1,407 @@
+{
+  "20": {
+    "summary": "Identity conflict between refugee roots and host culture",
+    "category": "identity_crisis",
+    "confidence": 0.85
+  },
+  "21": {
+    "summary": "Political disillusionment amid Rome's 1970s turmoil",
+    "category": "political_stress",
+    "confidence": 0.75
+  },
+  "22": {
+    "summary": "Family pressure to conform to traditional expectations",
+    "category": "family_pressure",
+    "confidence": 0.7
+  },
+  "23": {
+    "summary": "Academic burnout in competitive research environment",
+    "category": "career_burnout",
+    "confidence": 0.8
+  },
+  "24": {
+    "summary": "Financial instability as permanent resident",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "25": {
+    "summary": "Grief over lost childhood homeland",
+    "category": "grief",
+    "confidence": 0.9
+  },
+  "26": {
+    "summary": "Cultural alienation in Italian society",
+    "category": "social_isolation",
+    "confidence": 0.8
+  },
+  "27": {
+    "summary": "Ethnic discrimination in workplace",
+    "category": "discrimination",
+    "confidence": 0.7
+  },
+  "28": {
+    "summary": "Creative frustration with photography/poetry",
+    "category": "creative_block",
+    "confidence": 0.6
+  },
+  "29": {
+    "summary": "Unresolved refugee trauma resurfacing",
+    "category": "trauma",
+    "confidence": 0.85
+  },
+  "30": {
+    "summary": "Marriage pressure conflicting with personal values",
+    "category": "relationship_stress",
+    "confidence": 0.7
+  },
+  "31": {
+    "summary": "Career stagnation in academia",
+    "category": "career_dissatisfaction",
+    "confidence": 0.8
+  },
+  "32": {
+    "summary": "Parenting challenges with immigrant children",
+    "category": "parenting_stress",
+    "confidence": 0.75
+  },
+  "33": {
+    "summary": "Health anxiety from childhood malnutrition",
+    "category": "health_anxiety",
+    "confidence": 0.65
+  },
+  "34": {
+    "summary": "Cultural preservation guilt",
+    "category": "moral_dilemma",
+    "confidence": 0.7
+  },
+  "35": {
+    "summary": "Midlife crisis questioning life choices",
+    "category": "existential_crisis",
+    "confidence": 0.8
+  },
+  "36": {
+    "summary": "Spousal conflict over cultural integration",
+    "category": "relationship_dissolution",
+    "confidence": 0.7
+  },
+  "37": {
+    "summary": "Professional recognition struggles",
+    "category": "career_insecurity",
+    "confidence": 0.75
+  },
+  "38": {
+    "summary": "Chronic back pain from manual labor past",
+    "category": "chronic_pain",
+    "confidence": 0.6
+  },
+  "39": {
+    "summary": "Generational cultural divide with children",
+    "category": "intergenerational_conflict",
+    "confidence": 0.7
+  },
+  "40": {
+    "summary": "Parental burnout with aging parents",
+    "category": "caregiver_stress",
+    "confidence": 0.8
+  },
+  "41": {
+    "summary": "Midlife career reinvention pressure",
+    "category": "career_transition",
+    "confidence": 0.7
+  },
+  "42": {
+    "summary": "Financial strain from education costs",
+    "category": "financial_stress",
+    "confidence": 0.75
+  },
+  "43": {
+    "summary": "Health decline from past hardships",
+    "category": "health_decline",
+    "confidence": 0.8
+  },
+  "44": {
+    "summary": "Grief over aging parents",
+    "category": "grief",
+    "confidence": 0.85
+  },
+  "45": {
+    "summary": "Retirement anxiety in unstable economy",
+    "category": "retirement_stress",
+    "confidence": 0.7
+  },
+  "46": {
+    "summary": "Social isolation from declining mobility",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "47": {
+    "summary": "Chronic illness management",
+    "category": "chronic_illness",
+    "confidence": 0.8
+  },
+  "48": {
+    "summary": "Legacy concerns about cultural preservation",
+    "category": "existential_crisis",
+    "confidence": 0.75
+  },
+  "49": {
+    "summary": "Spousal health decline",
+    "category": "caregiver_burnout",
+    "confidence": 0.8
+  },
+  "50": {
+    "summary": "Financial insecurity in retirement",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "51": {
+    "summary": "Grandparenting challenges",
+    "category": "family_duty",
+    "confidence": 0.65
+  },
+  "52": {
+    "summary": "Health deterioration from past trauma",
+    "category": "chronic_health",
+    "confidence": 0.8
+  },
+  "53": {
+    "summary": "Severe depressive episode",
+    "category": "depression",
+    "confidence": 0.95
+  },
+  "54": {
+    "summary": "Chronic pain limiting hobbies",
+    "category": "physical_disability",
+    "confidence": 0.7
+  },
+  "55": {
+    "summary": "Spousal loss grief",
+    "category": "grief",
+    "confidence": 0.9
+  },
+  "56": {
+    "summary": "Social isolation in conservative society",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "57": {
+    "summary": "Chronic illness complications",
+    "category": "health_crisis",
+    "confidence": 0.85
+  },
+  "58": {
+    "summary": "Family discord over inheritance",
+    "category": "family_conflict",
+    "confidence": 0.7
+  },
+  "59": {
+    "summary": "Mobility issues limiting community participation",
+    "category": "social_isolation",
+    "confidence": 0.75
+  },
+  "60": {
+    "summary": "Retirement adjustment difficulties",
+    "category": "transition_stress",
+    "confidence": 0.7
+  },
+  "61": {
+    "summary": "Chronic pain management",
+    "category": "chronic_pain",
+    "confidence": 0.8
+  },
+  "62": {
+    "summary": "Health decline impacting independence",
+    "category": "care_needs",
+    "confidence": 0.85
+  },
+  "63": {
+    "summary": "Guilt over unfulfilled ambitions",
+    "category": "existential_doubt",
+    "confidence": 0.7
+  },
+  "64": {
+    "summary": "Financial strain from medical costs",
+    "category": "financial_stress",
+    "confidence": 0.75
+  },
+  "65": {
+    "summary": "Social isolation from declining health",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "66": {
+    "summary": "Chronic illness progression",
+    "category": "health_decline",
+    "confidence": 0.85
+  },
+  "67": {
+    "summary": "Caregiving burden for spouse",
+    "category": "caregiver_stress",
+    "confidence": 0.75
+  },
+  "68": {
+    "summary": "Guilt over cultural legacy",
+    "category": "moral_dilemma",
+    "confidence": 0.7
+  },
+  "69": {
+    "summary": "Mobility limitations reducing social contact",
+    "category": "isolation",
+    "confidence": 0.7
+  },
+  "70": {
+    "summary": "Chronic pain limiting activities",
+    "category": "physical_disability",
+    "confidence": 0.8
+  },
+  "71": {
+    "summary": "Health decline requiring assistance",
+    "category": "care_needs",
+    "confidence": 0.85
+  },
+  "72": {
+    "summary": "Grief over lost independence",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "73": {
+    "summary": "Financial insecurity in old age",
+    "category": "financial_stress",
+    "confidence": 0.75
+  },
+  "74": {
+    "summary": "Chronic illness management",
+    "category": "chronic_illness",
+    "confidence": 0.8
+  },
+  "75": {
+    "summary": "Social isolation from declining health",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "76": {
+    "summary": "Caregiving responsibilities",
+    "category": "caregiver_burnout",
+    "confidence": 0.7
+  },
+  "77": {
+    "summary": "Health decline impacting family",
+    "category": "family_duty",
+    "confidence": 0.75
+  },
+  "78": {
+    "summary": "Guilt over unfulfilled potential",
+    "category": "existential_crisis",
+    "confidence": 0.65
+  },
+  "79": {
+    "summary": "Chronic pain limiting mobility",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "80": {
+    "summary": "Social isolation in conservative society",
+    "category": "loneliness",
+    "confidence": 0.75
+  },
+  "81": {
+    "summary": "Health decline requiring support",
+    "category": "care_needs",
+    "confidence": 0.8
+  },
+  "82": {
+    "summary": "Financial strain from medical expenses",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "83": {
+    "summary": "Grief over lost independence",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "84": {
+    "summary": "Chronic illness complications",
+    "category": "health_crisis",
+    "confidence": 0.85
+  },
+  "85": {
+    "summary": "Social isolation from declining health",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "86": {
+    "summary": "Caregiving burden for spouse",
+    "category": "caregiver_stress",
+    "confidence": 0.75
+  },
+  "87": {
+    "summary": "Guilt over cultural legacy",
+    "category": "moral_dilemma",
+    "confidence": 0.7
+  },
+  "88": {
+    "summary": "Mobility limitations reducing social contact",
+    "category": "isolation",
+    "confidence": 0.7
+  },
+  "89": {
+    "summary": "Chronic pain management",
+    "category": "chronic_pain",
+    "confidence": 0.75
+  },
+  "90": {
+    "summary": "Health decline requiring assistance",
+    "category": "care_needs",
+    "confidence": 0.8
+  },
+  "91": {
+    "summary": "Financial insecurity in old age",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "92": {
+    "summary": "Grief over lost independence",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "93": {
+    "summary": "Social isolation from declining health",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "94": {
+    "summary": "Chronic illness progression",
+    "category": "health_decline",
+    "confidence": 0.85
+  },
+  "95": {
+    "summary": "Caregiving responsibilities",
+    "category": "caregiver_burnout",
+    "confidence": 0.7
+  },
+  "96": {
+    "summary": "Guilt over unfulfilled potential",
+    "category": "existential_crisis",
+    "confidence": 0.65
+  },
+  "97": {
+    "summary": "Chronic pain limiting activities",
+    "category": "physical_disability",
+    "confidence": 0.7
+  },
+  "98": {
+    "summary": "Social isolation in conservative society",
+    "category": "loneliness",
+    "confidence": 0.75
+  },
+  "99": {
+    "summary": "Health decline requiring support",
+    "category": "care_needs",
+    "confidence": 0.8
+  },
+  "100": {
+    "summary": "Legacy concerns about cultural preservation",
+    "category": "existential_crisis",
+    "confidence": 0.7
+  }
+}

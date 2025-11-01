@@ -1,0 +1,407 @@
+{
+  "20": {
+    "summary": "Identity formation after multiple cultural transitions",
+    "category": "identity_crisis",
+    "confidence": 0.85
+  },
+  "21": {
+    "summary": "Financial strain establishing career in new country",
+    "category": "financial_stress",
+    "confidence": 0.75
+  },
+  "22": {
+    "summary": "Isolation from disrupted family networks",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "23": {
+    "summary": "Cultural assimilation pressure in Russian workplace",
+    "category": "cultural_adjustment",
+    "confidence": 0.7
+  },
+  "24": {
+    "summary": "Work-life balance struggles with new family",
+    "category": "family_balance",
+    "confidence": 0.8
+  },
+  "25": {
+    "summary": "Career uncertainty in data analysis field",
+    "category": "career_doubt",
+    "confidence": 0.7
+  },
+  "26": {
+    "summary": "Housing instability in expensive Saint Petersburg",
+    "category": "housing_crisis",
+    "confidence": 0.65
+  },
+  "27": {
+    "summary": "Adjusting to relocation and work pressure",
+    "category": "adjustment_disorder",
+    "confidence": 0.9
+  },
+  "28": {
+    "summary": "Spousal relationship strain from relocation",
+    "category": "relationship_tension",
+    "confidence": 0.7
+  },
+  "29": {
+    "summary": "Parenting challenges in unfamiliar cultural context",
+    "category": "parenting_stress",
+    "confidence": 0.8
+  },
+  "30": {
+    "summary": "Mid-career stagnation concerns",
+    "category": "career_stagnation",
+    "confidence": 0.75
+  },
+  "31": {
+    "summary": "Grief over lost connections in Nairobi/Mexico",
+    "category": "grief",
+    "confidence": 0.85
+  },
+  "32": {
+    "summary": "Creative burnout from neglected passions",
+    "category": "creative_block",
+    "confidence": 0.7
+  },
+  "33": {
+    "summary": "Health anxiety from chronic stress",
+    "category": "health_anxiety",
+    "confidence": 0.7
+  },
+  "34": {
+    "summary": "Financial pressure with growing family",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "35": {
+    "summary": "Midlife reevaluation of life path",
+    "category": "midlife_crisis",
+    "confidence": 0.8
+  },
+  "36": {
+    "summary": "Workplace discrimination as immigrant professional",
+    "category": "discrimination",
+    "confidence": 0.7
+  },
+  "37": {
+    "summary": "Children's cultural identity confusion",
+    "category": "intergenerational_crisis",
+    "confidence": 0.8
+  },
+  "38": {
+    "summary": "Career burnout in data analysis",
+    "category": "burnout",
+    "confidence": 0.85
+  },
+  "39": {
+    "summary": "Marital satisfaction decline",
+    "category": "relationship_dissolution",
+    "confidence": 0.75
+  },
+  "40": {
+    "summary": "Parenting teenage children challenges",
+    "category": "parenting_stress",
+    "confidence": 0.8
+  },
+  "41": {
+    "summary": "Financial security concerns for retirement",
+    "category": "retirement_anxiety",
+    "confidence": 0.7
+  },
+  "42": {
+    "summary": "Health deterioration from past stress",
+    "category": "chronic_pain",
+    "confidence": 0.65
+  },
+  "43": {
+    "summary": "Creative stagnation in photography/drumming",
+    "category": "creative_block",
+    "confidence": 0.7
+  },
+  "44": {
+    "summary": "Spousal relationship maintenance",
+    "category": "relationship_tension",
+    "confidence": 0.7
+  },
+  "45": {
+    "summary": "Parenting empty nest transition",
+    "category": "empty_nest",
+    "confidence": 0.8
+  },
+  "46": {
+    "summary": "Midlife health crisis diagnosis",
+    "category": "health_crisis",
+    "confidence": 0.85
+  },
+  "47": {
+    "summary": "Career reinvention pressure",
+    "category": "career_change",
+    "confidence": 0.75
+  },
+  "48": {
+    "summary": "Financial planning urgency",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "49": {
+    "summary": "Spousal health decline concerns",
+    "category": "caregiver_stress",
+    "confidence": 0.8
+  },
+  "50": {
+    "summary": "Parenting adult children challenges",
+    "category": "family_balance",
+    "confidence": 0.7
+  },
+  "51": {
+    "summary": "Retirement transition anxiety",
+    "category": "retirement_anxiety",
+    "confidence": 0.8
+  },
+  "52": {
+    "summary": "Health management for chronic conditions",
+    "category": "chronic_illness",
+    "confidence": 0.75
+  },
+  "53": {
+    "summary": "Spousal relationship reassessment",
+    "category": "relationship_dissolution",
+    "confidence": 0.7
+  },
+  "54": {
+    "summary": "Financial security maintenance",
+    "category": "financial_stress",
+    "confidence": 0.65
+  },
+  "55": {
+    "summary": "Legacy and purpose reevaluation",
+    "category": "midlife_crisis",
+    "confidence": 0.8
+  },
+  "56": {
+    "summary": "Health decline impacting hobbies",
+    "category": "chronic_pain",
+    "confidence": 0.8
+  },
+  "57": {
+    "summary": "Spousal health deterioration",
+    "category": "caregiver_stress",
+    "confidence": 0.85
+  },
+  "58": {
+    "summary": "Retirement adjustment difficulties",
+    "category": "adjustment_disorder",
+    "confidence": 0.75
+  },
+  "59": {
+    "summary": "Grief over parental loss",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "60": {
+    "summary": "Health management for age-related issues",
+    "category": "chronic_illness",
+    "confidence": 0.7
+  },
+  "61": {
+    "summary": "Spousal relationship strain",
+    "category": "relationship_tension",
+    "confidence": 0.7
+  },
+  "62": {
+    "summary": "Financial constraints limiting retirement",
+    "category": "financial_stress",
+    "confidence": 0.75
+  },
+  "63": {
+    "summary": "Health decline limiting travel",
+    "category": "chronic_pain",
+    "confidence": 0.8
+  },
+  "64": {
+    "summary": "Grief over peer losses",
+    "category": "grief",
+    "confidence": 0.7
+  },
+  "65": {
+    "summary": "Retirement isolation loneliness",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "66": {
+    "summary": "Health management for multiple conditions",
+    "category": "chronic_illness",
+    "confidence": 0.85
+  },
+  "67": {
+    "summary": "Spousal health decline care burden",
+    "category": "caregiver_stress",
+    "confidence": 0.8
+  },
+  "68": {
+    "summary": "Financial insecurity in retirement",
+    "category": "financial_stress",
+    "confidence": 0.75
+  },
+  "69": {
+    "summary": "Health decline limiting hobbies",
+    "category": "chronic_pain",
+    "confidence": 0.8
+  },
+  "70": {
+    "summary": "Grief over spouse/partner loss",
+    "category": "grief",
+    "confidence": 0.9
+  },
+  "71": {
+    "summary": "Health management for frailty",
+    "category": "chronic_illness",
+    "confidence": 0.8
+  },
+  "72": {
+    "summary": "Financial constraints limiting care options",
+    "category": "financial_stress",
+    "confidence": 0.75
+  },
+  "73": {
+    "summary": "Health decline limiting mobility",
+    "category": "chronic_pain",
+    "confidence": 0.8
+  },
+  "74": {
+    "summary": "Grief over children's life changes",
+    "category": "grief",
+    "confidence": 0.7
+  },
+  "75": {
+    "summary": "End-of-life planning anxiety",
+    "category": "existential_crisis",
+    "confidence": 0.85
+  },
+  "76": {
+    "summary": "Health decline requiring assistance",
+    "category": "chronic_illness",
+    "confidence": 0.8
+  },
+  "77": {
+    "summary": "Financial insecurity in advanced age",
+    "category": "financial_stress",
+    "confidence": 0.75
+  },
+  "78": {
+    "summary": "Health decline limiting independence",
+    "category": "chronic_pain",
+    "confidence": 0.8
+  },
+  "79": {
+    "summary": "Grief over extended family losses",
+    "category": "grief",
+    "confidence": 0.7
+  },
+  "80": {
+    "summary": "Health decline requiring full care",
+    "category": "chronic_illness",
+    "confidence": 0.85
+  },
+  "81": {
+    "summary": "Financial constraints limiting care",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "82": {
+    "summary": "Health decline with multiple comorbidities",
+    "category": "chronic_illness",
+    "confidence": 0.8
+  },
+  "83": {
+    "summary": "Grief over life partner's death",
+    "category": "grief",
+    "confidence": 0.9
+  },
+  "84": {
+    "summary": "Health decline requiring institutional care",
+    "category": "chronic_pain",
+    "confidence": 0.85
+  },
+  "85": {
+    "summary": "Financial insecurity in final years",
+    "category": "financial_stress",
+    "confidence": 0.75
+  },
+  "86": {
+    "summary": "Health decline with limited mobility",
+    "category": "chronic_illness",
+    "confidence": 0.8
+  },
+  "87": {
+    "summary": "Grief over children's life challenges",
+    "category": "grief",
+    "confidence": 0.7
+  },
+  "88": {
+    "summary": "Health decline requiring assistance",
+    "category": "chronic_pain",
+    "confidence": 0.8
+  },
+  "89": {
+    "summary": "Grief over grandchildren's life events",
+    "category": "grief",
+    "confidence": 0.65
+  },
+  "90": {
+    "summary": "Health decline with frailty",
+    "category": "chronic_illness",
+    "confidence": 0.85
+  },
+  "91": {
+    "summary": "Financial constraints limiting care",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "92": {
+    "summary": "Health decline requiring full care",
+    "category": "chronic_illness",
+    "confidence": 0.8
+  },
+  "93": {
+    "summary": "Grief over life partner's death",
+    "category": "grief",
+    "confidence": 0.9
+  },
+  "94": {
+    "summary": "Health decline with multiple conditions",
+    "category": "chronic_pillness",
+    "confidence": 0.85
+  },
+  "95": {
+    "summary": "Financial insecurity in final years",
+    "category": "financial_stress",
+    "confidence": 0.75
+  },
+  "96": {
+    "summary": "Health decline requiring institutional care",
+    "category": "chronic_illness",
+    "confidence": 0.8
+  },
+  "97": {
+    "summary": "Grief over children's life challenges",
+    "category": "grief",
+    "confidence": 0.7
+  },
+  "98": {
+    "summary": "Health decline with limited mobility",
+    "category": "chronic_pain",
+    "confidence": 0.8
+  },
+  "99": {
+    "summary": "Grief over grandchildren's life events",
+    "category": "grief",
+    "confidence": 0.65
+  },
+  "100": {
+    "summary": "Existential reflection on life legacy",
+    "category": "existential_crisis",
+    "confidence": 0.8
+  }
+}

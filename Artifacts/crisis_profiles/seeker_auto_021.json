@@ -1,0 +1,407 @@
+{
+  "20": {
+    "summary": "Forced displacement due to civil war in Afghanistan",
+    "category": "displacement",
+    "confidence": 0.9
+  },
+  "21": {
+    "summary": "Cultural shock and language barriers in refugee camp",
+    "category": "cultural_shock",
+    "confidence": 0.8
+  },
+  "22": {
+    "summary": "Employment instability and discrimination in new country",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "23": {
+    "summary": "Loneliness and identity conflict in diaspora",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "24": {
+    "summary": "Family obligation vs. personal aspirations",
+    "category": "relationship_stress",
+    "confidence": 0.7
+  },
+  "25": {
+    "summary": "Financial strain and homesickness",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "26": {
+    "summary": "Relationship pressure and cultural expectations",
+    "category": "relationship_stress",
+    "confidence": 0.7
+  },
+  "27": {
+    "summary": "Social integration challenges and identity crisis",
+    "category": "identity_crisis",
+    "confidence": 0.8
+  },
+  "28": {
+    "summary": "Maintaining cross-cultural family ties",
+    "category": "family_pressure",
+    "confidence": 0.7
+  },
+  "29": {
+    "summary": "Career advancement pressure",
+    "category": "career_stress",
+    "confidence": 0.8
+  },
+  "30": {
+    "summary": "Financial planning stress",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "31": {
+    "summary": "Stress-related health issues",
+    "category": "health_issues",
+    "confidence": 0.8
+  },
+  "32": {
+    "summary": "Existential midlife reflection",
+    "category": "existential_reflection",
+    "confidence": 0.7
+  },
+  "33": {
+    "summary": "Parenting stress",
+    "category": "parenting_stress",
+    "confidence": 0.8
+  },
+  "34": {
+    "summary": "Work-life balance crisis",
+    "category": "work_life_balance",
+    "confidence": 0.7
+  },
+  "35": {
+    "summary": "Career plateau and stagnation",
+    "category": "career_stress",
+    "confidence": 0.8
+  },
+  "36": {
+    "summary": "Financial investment stress",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "37": {
+    "summary": "Aging parents and caregiving stress",
+    "category": "caregiver_stress",
+    "confidence": 0.8
+  },
+  "38": {
+    "summary": "Children's education stress",
+    "category": "family_pressure",
+    "confidence": 0.7
+  },
+  "39": {
+    "summary": "Career transition stress",
+    "category": "career_stress",
+    "confidence": 0.8
+  },
+  "40": {
+    "summary": "Midlife health decline",
+    "category": "health_issues",
+    "confidence": 0.7
+  },
+  "41": {
+    "summary": "Empty nest syndrome",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "42": {
+    "summary": "Financial security concerns",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "43": {
+    "summary": "Pandemic isolation and job insecurity",
+    "category": "isolation",
+    "confidence": 0.9
+  },
+  "44": {
+    "summary": "Visa renewal stress",
+    "category": "legal_stress",
+    "confidence": 0.8
+  },
+  "45": {
+    "summary": "Career advancement in foreign country",
+    "category": "career_stress",
+    "confidence": 0.7
+  },
+  "46": {
+    "summary": "Family separation stress",
+    "category": "relationship_stress",
+    "confidence": 0.8
+  },
+  "47": {
+    "summary": "Cultural assimilation stress",
+    "category": "cultural_shock",
+    "confidence": 0.7
+  },
+  "48": {
+    "summary": "Aging and health concerns",
+    "category": "health_issues",
+    "confidence": 0.8
+  },
+  "49": {
+    "summary": "Retirement planning stress",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "50": {
+    "summary": "Decision to return home",
+    "category": "existential_reflection",
+    "confidence": 0.8
+  },
+  "51": {
+    "summary": "Severe depressive episode",
+    "category": "depression",
+    "confidence": 1.0
+  },
+  "52": {
+    "summary": "Adjustment stress in London",
+    "category": "adjustment_disorder",
+    "confidence": 0.8
+  },
+  "53": {
+    "summary": "Social network building stress",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "54": {
+    "summary": "Retirement financial planning",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "55": {
+    "summary": "Chronic health issues",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "56": {
+    "summary": "Children's independence stress",
+    "category": "family_pressure",
+    "confidence": 0.8
+  },
+  "57": {
+    "summary": "Aging parents and caregiving",
+    "category": "caregiver_stress",
+    "confidence": 0.7
+  },
+  "58": {
+    "summary": "Loneliness and isolation",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "59": {
+    "summary": "Financial security concerns",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "60": {
+    "summary": "Retirement adjustment",
+    "category": "adjustment_disorder",
+    "confidence": 0.8
+  },
+  "61": {
+    "summary": "Health decline",
+    "category": "health_issues",
+    "confidence": 0.7
+  },
+  "62": {
+    "summary": "Grief and loss",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "63": {
+    "summary": "Existential reflection",
+    "category": "existential_reflection",
+    "confidence": 0.7
+  },
+  "64": {
+    "summary": "Chronic illness management",
+    "category": "chronic_pain",
+    "confidence": 0.8
+  },
+  "65": {
+    "summary": "End-of-life planning",
+    "category": "existential_reflection",
+    "confidence": 0.7
+  },
+  "66": {
+    "summary": "Financial constraints",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "67": {
+    "summary": "Social isolation",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "68": {
+    "summary": "Health decline",
+    "category": "health_issues",
+    "confidence": 0.8
+  },
+  "69": {
+    "summary": "Loss of independence",
+    "category": "caregiver_stress",
+    "confidence": 0.7
+  },
+  "70": {
+    "summary": "Mortality reflection",
+    "category": "existential_reflection",
+    "confidence": 0.8
+  },
+  "71": {
+    "summary": "Chronic pain",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "72": {
+    "summary": "Loneliness",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "73": {
+    "summary": "Financial insecurity",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "74": {
+    "summary": "Health decline",
+    "category": "health_issues",
+    "confidence": 0.8
+  },
+  "75": {
+    "summary": "Grief",
+    "category": "grief",
+    "confidence": 0.7
+  },
+  "76": {
+    "summary": "Existential despair",
+    "category": "existential_reflection",
+    "confidence": 0.8
+  },
+  "77": {
+    "summary": "Chronic illness",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "78": {
+    "summary": "Social isolation",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "79": {
+    "summary": "Financial constraints",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "80": {
+    "summary": "Mortality",
+    "category": "existential_reflection",
+    "confidence": 0.8
+  },
+  "81": {
+    "summary": "Chronic pain",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "82": {
+    "summary": "Loneliness",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "83": {
+    "summary": "Health decline",
+    "category": "health_issues",
+    "confidence": 0.7
+  },
+  "84": {
+    "summary": "Loss of independence",
+    "category": "caregiver_stress",
+    "confidence": 0.8
+  },
+  "85": {
+    "summary": "End-of-life planning",
+    "category": "existential_reflection",
+    "confidence": 0.7
+  },
+  "86": {
+    "summary": "Existential despair",
+    "category": "existential_reflection",
+    "confidence": 0.8
+  },
+  "87": {
+    "summary": "Chronic illness",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "88": {
+    "summary": "Social isolation",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "89": {
+    "summary": "Financial insecurity",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "90": {
+    "summary": "Mortality",
+    "category": "existential_reflection",
+    "confidence": 0.8
+  },
+  "91": {
+    "summary": "Chronic pain",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "92": {
+    "summary": "Loneliness",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "93": {
+    "summary": "Health decline",
+    "category": "health_issues",
+    "confidence": 0.7
+  },
+  "94": {
+    "summary": "Grief",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "95": {
+    "summary": "Existential despair",
+    "category": "existential_reflection",
+    "confidence": 0.7
+  },
+  "96": {
+    "summary": "Chronic illness",
+    "category": "chronic_pain",
+    "confidence": 0.8
+  },
+  "97": {
+    "summary": "Social isolation",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "98": {
+    "summary": "Financial constraints",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "99": {
+    "summary": "Mortality",
+    "category": "existential_reflection",
+    "confidence": 0.7
+  },
+  "100": {
+    "summary": "End-of-life",
+    "category": "existential_reflection",
+    "confidence": 0.8
+  }
+}

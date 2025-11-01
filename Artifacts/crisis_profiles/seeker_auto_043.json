@@ -1,0 +1,407 @@
+{
+  "20": {
+    "summary": "Immigration adjustment stress",
+    "category": "adjustment_stress",
+    "confidence": 0.85
+  },
+  "21": {
+    "summary": "Cultural identity conflict",
+    "category": "identity_crisis",
+    "confidence": 0.75
+  },
+  "22": {
+    "summary": "Artistic validation struggles",
+    "category": "career_doubt",
+    "confidence": 0.8
+  },
+  "23": {
+    "summary": "Financial instability fears",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "24": {
+    "summary": "Family obligation pressure",
+    "category": "role_conflict",
+    "confidence": 0.7
+  },
+  "25": {
+    "summary": "Artistic rejection sensitivity",
+    "category": "creative_block",
+    "confidence": 0.75
+  },
+  "26": {
+    "summary": "Romantic relationship challenges",
+    "category": "relationship_dysfunction",
+    "confidence": 0.65
+  },
+  "27": {
+    "summary": "Cultural assimilation fatigue",
+    "category": "acculturation_stress",
+    "confidence": 0.7
+  },
+  "28": {
+    "summary": "Career path uncertainty",
+    "category": "career_doubt",
+    "confidence": 0.7
+  },
+  "29": {
+    "summary": "Artistic identity formation",
+    "category": "identity_crisis",
+    "confidence": 0.75
+  },
+  "30": {
+    "summary": "Financial independence pressure",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "31": {
+    "summary": "Romantic commitment anxiety",
+    "category": "relationship_dysfunction",
+    "confidence": 0.6
+  },
+  "32": {
+    "summary": "Artistic recognition pursuit",
+    "category": "achievement_pressure",
+    "confidence": 0.7
+  },
+  "33": {
+    "summary": "Family expectations tension",
+    "category": "role_conflict",
+    "confidence": 0.65
+  },
+  "34": {
+    "summary": "Cultural belonging insecurity",
+    "category": "identity_crisis",
+    "confidence": 0.7
+  },
+  "35": {
+    "summary": "Artistic breakthrough pressure",
+    "category": "career_doubt",
+    "confidence": 0.75
+  },
+  "36": {
+    "summary": "Financial planning urgency",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "37": {
+    "summary": "Romantic partnership challenges",
+    "category": "relationship_dysfunction",
+    "confidence": 0.6
+  },
+  "38": {
+    "summary": "Artistic maturity concerns",
+    "category": "creative_block",
+    "confidence": 0.7
+  },
+  "39": {
+    "summary": "Family legacy expectations",
+    "category": "role_conflict",
+    "confidence": 0.65
+  },
+  "40": {
+    "summary": "Midlife career reassessment",
+    "category": "career_doubt",
+    "confidence": 0.8
+  },
+  "41": {
+    "summary": "Financial security anxiety",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "42": {
+    "summary": "Romantic stagnation",
+    "category": "relationship_dysfunction",
+    "confidence": 0.6
+  },
+  "43": {
+    "summary": "Artistic identity consolidation",
+    "category": "identity_crisis",
+    "confidence": 0.7
+  },
+  "44": {
+    "summary": "Family responsibility burden",
+    "category": "role_conflict",
+    "confidence": 0.7
+  },
+  "45": {
+    "summary": "Midlife health awareness",
+    "category": "health_anxiety",
+    "confidence": 0.75
+  },
+  "46": {
+    "summary": "Artistic legacy concerns",
+    "category": "creative_block",
+    "confidence": 0.7
+  },
+  "47": {
+    "summary": "Financial planning urgency",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "48": {
+    "summary": "Romantic intimacy challenges",
+    "category": "relationship_dysfunction",
+    "confidence": 0.6
+  },
+  "49": {
+    "summary": "Family aging stress",
+    "category": "role_conflict",
+    "confidence": 0.7
+  },
+  "50": {
+    "summary": "Artistic validation crisis",
+    "category": "career_doubt",
+    "confidence": 0.75
+  },
+  "51": {
+    "summary": "Financial precarity anxiety",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "52": {
+    "summary": "Artistic reinvention pressure",
+    "category": "creative_block",
+    "confidence": 0.7
+  },
+  "53": {
+    "summary": "Severe depressive episode",
+    "category": "depression",
+    "confidence": 0.95
+  },
+  "54": {
+    "summary": "Chronic grief processing",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "55": {
+    "summary": "Artistic relevance anxiety",
+    "category": "career_doubt",
+    "confidence": 0.75
+  },
+  "56": {
+    "summary": "Family health worries",
+    "category": "role_conflict",
+    "confidence": 0.7
+  },
+  "57": {
+    "summary": "Financial instability stress",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "58": {
+    "summary": "Artistic legacy concerns",
+    "category": "creative_block",
+    "confidence": 0.7
+  },
+  "59": {
+    "summary": "Romantic partnership strain",
+    "category": "relationship_dysfunction",
+    "confidence": 0.6
+  },
+  "60": {
+    "summary": "Chronic health management",
+    "category": "chronic_pain",
+    "confidence": 0.75
+  },
+  "61": {
+    "summary": "Artistic recognition pressure",
+    "category": "career_doubt",
+    "confidence": 0.7
+  },
+  "62": {
+    "summary": "Family caregiving burden",
+    "category": "role_conflict",
+    "confidence": 0.7
+  },
+  "63": {
+    "summary": "Financial security anxiety",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "64": {
+    "summary": "Artistic identity crisis",
+    "category": "identity_crisis",
+    "confidence": 0.7
+  },
+  "65": {
+    "summary": "Romantic intimacy challenges",
+    "category": "relationship_dysfunction",
+    "confidence": 0.6
+  },
+  "66": {
+    "summary": "Chronic pain management",
+    "category": "chronic_pain",
+    "confidence": 0.8
+  },
+  "67": {
+    "summary": "Artistic legacy concerns",
+    "category": "creative_block",
+    "confidence": 0.7
+  },
+  "68": {
+    "summary": "Family health stress",
+    "category": "role_conflict",
+    "confidence": 0.7
+  },
+  "69": {
+    "summary": "Financial precarity anxiety",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "70": {
+    "summary": "Loneliness and isolation",
+    "category": "loneliness",
+    "confidence": 0.85
+  },
+  "71": {
+    "summary": "Artistic relevance anxiety",
+    "category": "career_doubt",
+    "confidence": 0.7
+  },
+  "72": {
+    "summary": "Chronic health decline",
+    "category": "chronic_pain",
+    "confidence": 0.8
+  },
+  "73": {
+    "summary": "Family caregiving strain",
+    "category": "role_conflict",
+    "confidence": 0.75
+  },
+  "74": {
+    "summary": "Financial insecurity stress",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "75": {
+    "summary": "Artistic legacy concerns",
+    "category": "creative_block",
+    "confidence": 0.7
+  },
+  "76": {
+    "summary": "Romantic partnership challenges",
+    "category": "relationship_dysfunction",
+    "confidence": 0.6
+  },
+  "77": {
+    "summary": "Loneliness and isolation",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "78": {
+    "summary": "Chronic pain management",
+    "category": "chronic_pain",
+    "confidence": 0.85
+  },
+  "79": {
+    "summary": "Artistic identity crisis",
+    "category": "identity_crisis",
+    "confidence": 0.7
+  },
+  "80": {
+    "summary": "Family health stress",
+    "category": "role_conflict",
+    "confidence": 0.75
+  },
+  "81": {
+    "summary": "Financial precarity anxiety",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "82": {
+    "summary": "Artistic legacy concerns",
+    "category": "creative_block",
+    "confidence": 0.7
+  },
+  "83": {
+    "summary": "Romantic intimacy challenges",
+    "category": "relationship_dysfunction",
+    "confidence": 0.6
+  },
+  "84": {
+    "summary": "Loneliness and isolation",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "85": {
+    "summary": "Chronic health decline",
+    "category": "chronic_pain",
+    "confidence": 0.85
+  },
+  "86": {
+    "summary": "Artistic relevance anxiety",
+    "category": "career_doubt",
+    "confidence": 0.7
+  },
+  "87": {
+    "summary": "Family caregiving burden",
+    "category": "role_conflict",
+    "confidence": 0.7
+  },
+  "88": {
+    "summary": "Financial insecurity stress",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "89": {
+    "summary": "Artistic legacy concerns",
+    "category": "creative_block",
+    "confidence": 0.7
+  },
+  "90": {
+    "summary": "Loneliness and isolation",
+    "category": "loneliness",
+    "confidence": 0.85
+  },
+  "91": {
+    "summary": "Chronic pain management",
+    "category": "chronic_pain",
+    "confidence": 0.8
+  },
+  "92": {
+    "summary": "Artistic identity crisis",
+    "category": "identity_crisis",
+    "confidence": 0.7
+  },
+  "93": {
+    "summary": "Family health stress",
+    "category": "role_conflict",
+    "confidence": 0.75
+  },
+  "94": {
+    "summary": "Financial precarity anxiety",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "95": {
+    "summary": "Artistic legacy concerns",
+    "category": "creative_block",
+    "confidence": 0.7
+  },
+  "96": {
+    "summary": "Romantic partnership challenges",
+    "category": "relationship_dysfunction",
+    "confidence": 0.6
+  },
+  "97": {
+    "summary": "Loneliness and isolation",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "98": {
+    "summary": "Chronic health decline",
+    "category": "chronic_pain",
+    "confidence": 0.85
+  },
+  "99": {
+    "summary": "Artistic relevance anxiety",
+    "category": "career_doubt",
+    "confidence": 0.7
+  },
+  "100": {
+    "summary": "Legacy and mortality reflection",
+    "category": "existential_crisis",
+    "confidence": 0.75
+  }
+}

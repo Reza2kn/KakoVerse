@@ -1,0 +1,407 @@
+{
+  "20": {
+    "summary": "Adjusting to life in Rome as a migrant worker",
+    "category": "migration_stress",
+    "confidence": 0.8
+  },
+  "21": {
+    "summary": "Financial instability and housing insecurity",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "22": {
+    "summary": "Social isolation in new environment",
+    "category": "loneliness",
+    "confidence": 0.6
+  },
+  "23": {
+    "summary": "Work-related injuries from construction labor",
+    "category": "physical_injury",
+    "confidence": 0.5
+  },
+  "24": {
+    "summary": "Struggling to form meaningful relationships",
+    "category": "relationship_failure",
+    "confidence": 0.6
+  },
+  "25": {
+    "summary": "Substance abuse relapse risk after breakup",
+    "category": "substance_abuse",
+    "confidence": 0.7
+  },
+  "26": {
+    "summary": "Persistent depressive symptoms and work stress",
+    "category": "depression",
+    "confidence": 0.8
+  },
+  "27": {
+    "summary": "Severe depressive episode following breakup",
+    "category": "depression",
+    "confidence": 0.9
+  },
+  "28": {
+    "summary": "Career stagnation in construction field",
+    "category": "career_stagnation",
+    "confidence": 0.7
+  },
+  "29": {
+    "summary": "Housing instability and financial strain",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "30": {
+    "summary": "Family formation pressures with limited resources",
+    "category": "family_planning",
+    "confidence": 0.6
+  },
+  "31": {
+    "summary": "Midlife career advancement challenges",
+    "category": "career_advancement",
+    "confidence": 0.7
+  },
+  "32": {
+    "summary": "Health maintenance struggles",
+    "category": "health_concerns",
+    "confidence": 0.6
+  },
+  "33": {
+    "summary": "Financial planning for future stability",
+    "category": "financial_planning",
+    "confidence": 0.7
+  },
+  "34": {
+    "summary": "Social isolation despite career progress",
+    "category": "loneliness",
+    "confidence": 0.6
+  },
+  "35": {
+    "summary": "Chronic pain from construction work",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "36": {
+    "summary": "Family financial pressures",
+    "category": "family_financial_stress",
+    "confidence": 0.7
+  },
+  "37": {
+    "summary": "Work burnout and exhaustion",
+    "category": "burnout",
+    "confidence": 0.6
+  },
+  "38": {
+    "summary": "Existential midlife crisis",
+    "category": "existential_crisis",
+    "confidence": 0.7
+  },
+  "39": {
+    "summary": "Health decline from physical labor",
+    "category": "health_decline",
+    "confidence": 0.8
+  },
+  "40": {
+    "summary": "Career plateau concerns",
+    "category": "career_plateau",
+    "confidence": 0.7
+  },
+  "41": {
+    "summary": "Family health emergencies",
+    "category": "family_health",
+    "confidence": 0.6
+  },
+  "42": {
+    "summary": "Medical expenses strain",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "43": {
+    "summary": "Social isolation and peer loss",
+    "category": "loneliness",
+    "confidence": 0.6
+  },
+  "44": {
+    "summary": "Chronic pain mobility limitations",
+    "category": "chronic_pain",
+    "confidence": 0.8
+  },
+  "45": {
+    "summary": "Retirement planning with inadequate savings",
+    "category": "retirement_planning",
+    "confidence": 0.7
+  },
+  "46": {
+    "summary": "Health deterioration requiring assistance",
+    "category": "health_decline",
+    "confidence": 0.8
+  },
+  "47": {
+    "summary": "Retirement financial insecurity",
+    "category": "retirement_financial_stress",
+    "confidence": 0.7
+  },
+  "48": {
+    "summary": "Spousal/partner loss grief",
+    "category": "grief",
+    "confidence": 0.6
+  },
+  "49": {
+    "summary": "Chronic illness management",
+    "category": "chronic_illness",
+    "confidence": 0.8
+  },
+  "50": {
+    "summary": "Aging health decline",
+    "category": "aging",
+    "confidence": 0.8
+  },
+  "51": {
+    "summary": "Retirement income constraints",
+    "category": "retirement_financial_stress",
+    "confidence": 0.7
+  },
+  "52": {
+    "summary": "Social isolation loneliness",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "53": {
+    "summary": "Health decline mobility issues",
+    "category": "health_decline",
+    "confidence": 0.8
+  },
+  "54": {
+    "summary": "Peer/friend loss grief",
+    "category": "grief",
+    "confidence": 0.7
+  },
+  "55": {
+    "summary": "Retirement lifestyle adjustment",
+    "category": "retirement_adjustment",
+    "confidence": 0.7
+  },
+  "56": {
+    "summary": "Retirement financial management",
+    "category": "retirement_financial_stress",
+    "confidence": 0.7
+  },
+  "57": {
+    "summary": "Chronic pain reduced independence",
+    "category": "chronic_pain",
+    "confidence": 0.8
+  },
+  "58": {
+    "summary": "Health decline care needs",
+    "category": "health_decline",
+    "confidence": 0.8
+  },
+  "59": {
+    "summary": "Spousal/partner loss grief",
+    "category": "grief",
+    "confidence": 0.7
+  },
+  "60": {
+    "summary": "Aging health concerns",
+    "category": "aging",
+    "confidence": 0.8
+  },
+  "61": {
+    "summary": "Retirement financial insecurity",
+    "category": "retirement_financial_stress",
+    "confidence": 0.7
+  },
+  "62": {
+    "summary": "Social isolation loneliness",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "63": {
+    "summary": "Health decline mobility limitations",
+    "category": "health_decline",
+    "confidence": 0.8
+  },
+  "64": {
+    "summary": "Peer loss grief",
+    "category": "grief",
+    "confidence": 0.7
+  },
+  "65": {
+    "summary": "Retirement identity adjustment",
+    "category": "retirement_adjustment",
+    "confidence": 0.7
+  },
+  "66": {
+    "summary": "Retirement financial constraints",
+    "category": "retirement_financial_stress",
+    "confidence": 0.7
+  },
+  "67": {
+    "summary": "Chronic pain quality of life",
+    "category": "chronic_pain",
+    "confidence": 0.8
+  },
+  "68": {
+    "summary": "Health decline care dependency",
+    "category": "health_decline",
+    "confidence": 0.8
+  },
+  "69": {
+    "summary": "Spousal/partner loss grief",
+    "category": "grief",
+    "confidence": 0.7
+  },
+  "70": {
+    "summary": "Aging health concerns",
+    "category": "aging",
+    "confidence": 0.8
+  },
+  "71": {
+    "summary": "Retirement financial insecurity",
+    "category": "retirement_financial_stress",
+    "confidence": 0.7
+  },
+  "72": {
+    "summary": "Social isolation loneliness",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "73": {
+    "summary": "Health decline mobility issues",
+    "category": "health_decline",
+    "confidence": 0.8
+  },
+  "74": {
+    "summary": "Peer loss grief",
+    "category": "grief",
+    "confidence": 0.7
+  },
+  "75": {
+    "summary": "Chronic illness frailty",
+    "category": "chronic_illness",
+    "confidence": 0.8
+  },
+  "76": {
+    "summary": "Retirement financial constraints",
+    "category": "retirement_financial_stress",
+    "confidence": 0.7
+  },
+  "77": {
+    "summary": "Social isolation loneliness",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "78": {
+    "summary": "Health decline care needs",
+    "category": "health_decline",
+    "confidence": 0.8
+  },
+  "79": {
+    "summary": "Spousal/partner loss grief",
+    "category": "grief",
+    "confidence": 0.7
+  },
+  "80": {
+    "summary": "Aging health concerns",
+    "category": "aging",
+    "confidence": 0.8
+  },
+  "81": {
+    "summary": "Retirement financial insecurity",
+    "category": "retirement_financial_stress",
+    "confidence": 0.7
+  },
+  "82": {
+    "summary": "Social isolation loneliness",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "83": {
+    "summary": "Health decline mobility limitations",
+    "category": "health_decline",
+    "confidence": 0.8
+  },
+  "84": {
+    "summary": "Peer loss grief",
+    "category": "grief",
+    "confidence": 0.7
+  },
+  "85": {
+    "summary": "Chronic illness frailty",
+    "category": "chronic_illness",
+    "confidence": 0.8
+  },
+  "86": {
+    "summary": "Retirement financial constraints",
+    "category": "retirement_financial_stress",
+    "confidence": 0.7
+  },
+  "87": {
+    "summary": "Social isolation loneliness",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "88": {
+    "summary": "Health decline care dependency",
+    "category": "health_decline",
+    "confidence": 0.8
+  },
+  "89": {
+    "summary": "Spousal/partner loss grief",
+    "category": "grief",
+    "confidence": 0.7
+  },
+  "90": {
+    "summary": "Aging health concerns",
+    "category": "aging",
+    "confidence": 0.8
+  },
+  "91": {
+    "summary": "Retirement financial insecurity",
+    "category": "retirement_financial_stress",
+    "confidence": 0.7
+  },
+  "92": {
+    "summary": "Social isolation loneliness",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "93": {
+    "summary": "Health decline mobility issues",
+    "category": "health_decline",
+    "confidence": 0.8
+  },
+  "94": {
+    "summary": "Peer loss grief",
+    "category": "grief",
+    "confidence": 0.7
+  },
+  "95": {
+    "summary": "Chronic illness frailty",
+    "category": "chronic_illness",
+    "confidence": 0.8
+  },
+  "96": {
+    "summary": "Retirement financial constraints",
+    "category": "retirement_financial_stress",
+    "confidence": 0.7
+  },
+  "97": {
+    "summary": "Social isolation loneliness",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "98": {
+    "summary": "Health decline care needs",
+    "category": "health_decline",
+    "confidence": 0.8
+  },
+  "99": {
+    "summary": "Spousal/partner loss grief",
+    "category": "grief",
+    "confidence": 0.7
+  },
+  "100": {
+    "summary": "End-of-life frailty concerns",
+    "category": "aging",
+    "confidence": 0.8
+  }
+}

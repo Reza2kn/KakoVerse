@@ -1,0 +1,407 @@
+{
+  "20": {
+    "summary": "Financial stress from starting adult life",
+    "category": "financial_stress",
+    "confidence": 0.85
+  },
+  "21": {
+    "summary": "Identity crisis balancing values and survival",
+    "category": "identity_crisis",
+    "confidence": 0.75
+  },
+  "22": {
+    "summary": "Career uncertainty in unstable economy",
+    "category": "career_uncertainty",
+    "confidence": 0.8
+  },
+  "23": {
+    "summary": "Family pressure to contribute financially",
+    "category": "family_pressure",
+    "confidence": 0.7
+  },
+  "24": {
+    "summary": "Grief over lost opportunities in Venezuela",
+    "category": "grief",
+    "confidence": 0.65
+  },
+  "25": {
+    "summary": "Burnout from overcommitting to community",
+    "category": "burnout",
+    "confidence": 0.7
+  },
+  "26": {
+    "summary": "Financial strain in new Cuban economy",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "27": {
+    "summary": "Role conflict between tradition and ambition",
+    "category": "role_conflict",
+    "confidence": 0.7
+  },
+  "28": {
+    "summary": "Chronic anxiety about family's future",
+    "category": "chronic_anxiety",
+    "confidence": 0.85
+  },
+  "29": {
+    "summary": "Stagnation in craft cooperative career",
+    "category": "career_stagnation",
+    "confidence": 0.7
+  },
+  "30": {
+    "summary": "Chronic anxiety and emotional exhaustion",
+    "category": "chronic_anxiety",
+    "confidence": 0.9
+  },
+  "31": {
+    "summary": "Midlife career reassessment",
+    "category": "career_reassessment",
+    "confidence": 0.75
+  },
+  "32": {
+    "summary": "Financial pressure from multi-generational household",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "33": {
+    "summary": "Health anxiety from chronic stress",
+    "category": "health_anxiety",
+    "confidence": 0.7
+  },
+  "34": {
+    "summary": "Creative frustration in traditional work",
+    "category": "creative_frustration",
+    "confidence": 0.65
+  },
+  "35": {
+    "summary": "Grief over Venezuela's decline",
+    "category": "grief",
+    "confidence": 0.7
+  },
+  "36": {
+    "summary": "Chronic pain from overwork",
+    "category": "chronic_pain",
+    "confidence": 0.6
+  },
+  "37": {
+    "summary": "Family health crises",
+    "category": "family_crisis",
+    "confidence": 0.75
+  },
+  "38": {
+    "summary": "Financial insecurity aging in Cuba",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "39": {
+    "summary": "Midlife reflection on life choices",
+    "category": "existential_reflection",
+    "confidence": 0.7
+  },
+  "40": {
+    "summary": "Burnout from sustaining family income",
+    "category": "burnout",
+    "confidence": 0.8
+  },
+  "41": {
+    "summary": "Chronic pain from aging body",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "42": {
+    "summary": "Family caregiving overload",
+    "category": "caregiver_stress",
+    "confidence": 0.75
+  },
+  "43": {
+    "summary": "Economic anxiety from Cuba's shortages",
+    "category": "economic_anxiety",
+    "confidence": 0.8
+  },
+  "44": {
+    "summary": "Grief over aging parents",
+    "category": "grief",
+    "confidence": 0.7
+  },
+  "45": {
+    "summary": "Chronic illness management",
+    "category": "chronic_illness",
+    "confidence": 0.75
+  },
+  "46": {
+    "summary": "Loneliness in tight-knit community",
+    "category": "loneliness",
+    "confidence": 0.65
+  },
+  "47": {
+    "summary": "Financial strain from medical costs",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "48": {
+    "summary": "Existential crisis about legacy",
+    "category": "existential_crisis",
+    "confidence": 0.7
+  },
+  "49": {
+    "summary": "Chronic pain limiting craft work",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "50": {
+    "summary": "Grief over lost youth",
+    "category": "grief",
+    "confidence": 0.65
+  },
+  "51": {
+    "summary": "Family health decline",
+    "category": "family_crisis",
+    "confidence": 0.75
+  },
+  "52": {
+    "summary": "Financial insecurity in retirement",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "53": {
+    "summary": "Chronic illness progression",
+    "category": "chronic_illness",
+    "confidence": 0.7
+  },
+  "54": {
+    "summary": "Loneliness after children leave home",
+    "category": "loneliness",
+    "confidence": 0.6
+  },
+  "55": {
+    "summary": "Grief over aging friends",
+    "category": "grief",
+    "confidence": 0.65
+  },
+  "56": {
+    "summary": "Chronic pain mobility limitations",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "57": {
+    "summary": "Financial stress from inflation",
+    "category": "financial_stress",
+    "confidence": 0.75
+  },
+  "58": {
+    "summary": "Caregiver burnout for spouse",
+    "category": "caregiver_burnout",
+    "confidence": 0.7
+  },
+  "59": {
+    "summary": "Chronic illness management",
+    "category": "chronic_illness",
+    "confidence": 0.7
+  },
+  "60": {
+    "summary": "Grief over lost independence",
+    "category": "grief",
+    "confidence": 0.6
+  },
+  "61": {
+    "summary": "Chronic pain affecting daily life",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "62": {
+    "summary": "Financial insecurity in old age",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "63": {
+    "summary": "Loneliness after spouse's death",
+    "category": "loneliness",
+    "confidence": 0.6
+  },
+  "64": {
+    "summary": "Chronic illness complications",
+    "category": "chronic_illness",
+    "confidence": 0.7
+  },
+  "65": {
+    "summary": "Grief over lost generation",
+    "category": "grief",
+    "confidence": 0.55
+  },
+  "66": {
+    "summary": "Chronic pain requiring assistance",
+    "category": "chronic_pain",
+    "confidence": 0.65
+  },
+  "67": {
+    "summary": "Financial strain on fixed income",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "68": {
+    "summary": "Loneliness in assisted living",
+    "category": "loneliness",
+    "confidence": 0.6
+  },
+  "69": {
+    "summary": "Chronic illness management",
+    "category": "chronic_illness",
+    "confidence": 0.65
+  },
+  "70": {
+    "summary": "Grief over mortality",
+    "category": "grief",
+    "confidence": 0.5
+  },
+  "71": {
+    "summary": "Chronic pain affecting mobility",
+    "category": "chronic_pain",
+    "confidence": 0.6
+  },
+  "72": {
+    "summary": "Financial insecurity in old age",
+    "category": "financial_stress",
+    "confidence": 0.65
+  },
+  "73": {
+    "summary": "Loneliness after community decline",
+    "category": "loneliness",
+    "confidence": 0.55
+  },
+  "74": {
+    "summary": "Chronic illness complications",
+    "category": "chronic_illness",
+    "confidence": 0.6
+  },
+  "75": {
+    "summary": "Grief over lost abilities",
+    "category": "grief",
+    "confidence": 0.45
+  },
+  "76": {
+    "summary": "Chronic pain requiring care",
+    "category": "chronic_pain",
+    "confidence": 0.55
+  },
+  "77": {
+    "summary": "Financial strain on limited resources",
+    "category": "financial_stress",
+    "confidence": 0.6
+  },
+  "78": {
+    "summary": "Loneliness after family loss",
+    "category": "loneliness",
+    "confidence": 0.5
+  },
+  "79": {
+    "summary": "Chronic illness management",
+    "category": "chronic_illness",
+    "confidence": 0.55
+  },
+  "80": {
+    "summary": "Grief over mortality awareness",
+    "category": "grief",
+    "confidence": 0.4
+  },
+  "81": {
+    "summary": "Chronic pain affecting independence",
+    "category": "chronic_pain",
+    "confidence": 0.5
+  },
+  "82": {
+    "summary": "Financial insecurity in old age",
+    "category": "financial_stress",
+    "confidence": 0.55
+  },
+  "83": {
+    "summary": "Loneliness after community decline",
+    "category": "loneliness",
+    "confidence": 0.45
+  },
+  "84": {
+    "summary": "Chronic illness complications",
+    "category": "chronic_illness",
+    "confidence": 0.5
+  },
+  "85": {
+    "summary": "Grief over lost generation",
+    "category": "grief",
+    "confidence": 0.35
+  },
+  "86": {
+    "summary": "Chronic pain requiring assistance",
+    "category": "chronic_pain",
+    "confidence": 0.45
+  },
+  "87": {
+    "summary": "Financial strain on limited resources",
+    "category": "financial_stress",
+    "confidence": 0.5
+  },
+  "88": {
+    "summary": "Loneliness after family loss",
+    "category": "loneliness",
+    "confidence": 0.4
+  },
+  "89": {
+    "summary": "Chronic illness management",
+    "category": "chronic_illness",
+    "confidence": 0.45
+  },
+  "90": {
+    "summary": "Grief over mortality",
+    "category": "grief",
+    "confidence": 0.3
+  },
+  "91": {
+    "summary": "Chronic pain affecting daily life",
+    "category": "chronic_pain",
+    "confidence": 0.4
+  },
+  "92": {
+    "summary": "Financial insecurity in old age",
+    "category": "financial_stress",
+    "confidence": 0.45
+  },
+  "93": {
+    "summary": "Loneliness after community decline",
+    "category": "loneliness",
+    "confidence": 0.35
+  },
+  "94": {
+    "summary": "Chronic illness complications",
+    "category": "chronic_illness",
+    "confidence": 0.4
+  },
+  "95": {
+    "summary": "Grief over lost abilities",
+    "category": "grief",
+    "confidence": 0.25
+  },
+  "96": {
+    "summary": "Chronic pain requiring care",
+    "category": "chronic_pain",
+    "confidence": 0.35
+  },
+  "97": {
+    "summary": "Financial strain on limited resources",
+    "category": "financial_stress",
+    "confidence": 0.4
+  },
+  "98": {
+    "summary": "Loneliness after family loss",
+    "category": "loneliness",
+    "confidence": 0.3
+  },
+  "99": {
+    "summary": "Chronic illness management",
+    "category": "chronic_illness",
+    "confidence": 0.35
+  },
+  "100": {
+    "summary": "Grief over mortality",
+    "category": "grief",
+    "confidence": 0.2
+  }
+}

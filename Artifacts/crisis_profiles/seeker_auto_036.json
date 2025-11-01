@@ -1,0 +1,407 @@
+{
+  "20": {
+    "summary": "Adjusting to adult life in Riyadh after migration",
+    "category": "adjustment_stress",
+    "confidence": 0.85
+  },
+  "21": {
+    "summary": "Finding stable employment matching mechanical skills",
+    "category": "career_uncertainty",
+    "confidence": 0.75
+  },
+  "22": {
+    "summary": "Balancing family expectations with personal independence",
+    "category": "role_conflict",
+    "confidence": 0.8
+  },
+  "23": {
+    "summary": "Financial strain despite frugal habits in expensive city",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "24": {
+    "summary": "Cultural dissonance between Kabul traditions and Riyadh norms",
+    "category": "cultural_identity",
+    "confidence": 0.8
+  },
+  "25": {
+    "summary": "Pressure to marry within community while valuing self-direction",
+    "category": "relationship_pressure",
+    "confidence": 0.7
+  },
+  "26": {
+    "summary": "Grief over leaving homeland while building new life",
+    "category": "grief",
+    "confidence": 0.75
+  },
+  "27": {
+    "summary": "Struggling with bureaucratic systems in new country",
+    "category": "institutional_burden",
+    "confidence": 0.65
+  },
+  "28": {
+    "summary": "Health scare disrupting work routine",
+    "category": "health_concern",
+    "confidence": 0.6
+  },
+  "29": {
+    "summary": "Conflict between religious conservatism and pragmatic problem-solving",
+    "category": "value_tension",
+    "confidence": 0.7
+  },
+  "30": {
+    "summary": "Spouse's resistance to frugal lifestyle changes",
+    "category": "relationship_tension",
+    "confidence": 0.6
+  },
+  "31": {
+    "summary": "Job loss during economic downturn affecting family stability",
+    "category": "economic_crisis",
+    "confidence": 0.7
+  },
+  "32": {
+    "summary": "Chronic back pain from manual labor",
+    "category": "chronic_pain",
+    "confidence": 0.55
+  },
+  "33": {
+    "summary": "Guilt over limited time with aging parents",
+    "category": "family_guilt",
+    "confidence": 0.65
+  },
+  "34": {
+    "summary": "Midlife career stagnation despite conscientiousness",
+    "category": "career_dissatisfaction",
+    "confidence": 0.7
+  },
+  "35": {
+    "summary": "Spouse's illness requiring care decisions",
+    "category": "caregiver_stress",
+    "confidence": 0.8
+  },
+  "36": {
+    "summary": "Financial pressure from unexpected medical bills",
+    "category": "health_cost",
+    "confidence": 0.7
+  },
+  "37": {
+    "summary": "Children's rebellion against traditional values",
+    "category": "generational_gap",
+    "confidence": 0.6
+  },
+  "38": {
+    "summary": "Marital conflict over spending habits",
+    "category": "relationship_conflict",
+    "confidence": 0.65
+  },
+  "39": {
+    "summary": "Burnout from long hours in demanding job",
+    "category": "career_burnout",
+    "confidence": 0.7
+  },
+  "40": {
+    "summary": "Health diagnosis requiring lifestyle changes",
+    "category": "health_shock",
+    "confidence": 0.75
+  },
+  "41": {
+    "summary": "Children leaving home triggering empty nest syndrome",
+    "category": "empty_nest",
+    "confidence": 0.6
+  },
+  "42": {
+    "summary": "Midlife crisis questioning traditional path",
+    "category": "existential_crisis",
+    "confidence": 0.65
+  },
+  "43": {
+    "summary": "Spouse's career setback affecting household income",
+    "category": "economic_pressure",
+    "confidence": 0.6
+  },
+  "44": {
+    "summary": "Chronic insomnia disrupting daily functioning",
+    "category": "sleep_disorder",
+    "confidence": 0.55
+  },
+  "45": {
+    "summary": "Parental health decline requiring relocation",
+    "category": "family_care",
+    "confidence": 0.7
+  },
+  "46": {
+    "summary": "Retirement anxiety after long career",
+    "category": "retirement_anxiety",
+    "confidence": 0.7
+  },
+  "47": {
+    "summary": "Grief over loss of community elders",
+    "category": "community_loss",
+    "confidence": 0.65
+  },
+  "48": {
+    "summary": "Spouse's cognitive decline requiring care",
+    "category": "caregiver_burden",
+    "confidence": 0.8
+  },
+  "49": {
+    "summary": "Financial insecurity in retirement",
+    "category": "retirement_finance",
+    "confidence": 0.7
+  },
+  "50": {
+    "summary": "Chronic joint pain limiting handicrafts",
+    "category": "mobility_issue",
+    "confidence": 0.6
+  },
+  "51": {
+    "summary": "Children's distance causing loneliness",
+    "category": "family_distance",
+    "confidence": 0.7
+  },
+  "52": {
+    "summary": "Health scare triggering existential reflection",
+    "category": "existential_reflection",
+    "confidence": 0.65
+  },
+  "53": {
+    "summary": "Spouse's death triggering complicated grief",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "54": {
+    "summary": "Retirement adjustment challenges",
+    "category": "retirement_adjustment",
+    "confidence": 0.7
+  },
+  "55": {
+    "summary": "Chronic pain requiring medication dependence",
+    "category": "substance_risk",
+    "confidence": 0.55
+  },
+  "56": {
+    "summary": "Loss of peer group through deaths",
+    "category": "social_isolation",
+    "confidence": 0.75
+  },
+  "57": {
+    "summary": "Health decline affecting gardening hobby",
+    "category": "hobby_loss",
+    "confidence": 0.6
+  },
+  "58": {
+    "summary": "Financial constraints limiting healthcare access",
+    "category": "healthcare_access",
+    "confidence": 0.6
+  },
+  "59": {
+    "summary": "Guilt over unmet family obligations",
+    "category": "family_guilt",
+    "confidence": 0.6
+  },
+  "60": {
+    "summary": "Chronic illness diagnosis requiring major lifestyle changes",
+    "category": "health_crisis",
+    "confidence": 0.8
+  },
+  "61": {
+    "summary": "Spouse's death triggering profound loneliness",
+    "category": "grief",
+    "confidence": 0.95
+  },
+  "62": {
+    "summary": "Retirement poverty threatening frugal lifestyle",
+    "category": "financial_precarity",
+    "confidence": 0.7
+  },
+  "63": {
+    "summary": "Mobility issues increasing homebound feelings",
+    "category": "isolation",
+    "confidence": 0.8
+  },
+  "64": {
+    "summary": "Chronic pain disrupting volunteer work",
+    "category": "chronic_pain",
+    "confidence": 0.75
+  },
+  "65": {
+    "summary": "Witnessing children's struggles causing distress",
+    "category": "generational_worry",
+    "confidence": 0.7
+  },
+  "66": {
+    "summary": "Health decline requiring assisted living",
+    "category": "care_transition",
+    "confidence": 0.8
+  },
+  "67": {
+    "summary": "Loss of independence through declining health",
+    "category": "autonomy_loss",
+    "confidence": 0.85
+  },
+  "68": {
+    "summary": "Guilt over burdening family with care needs",
+    "category": "family_guilt",
+    "confidence": 0.75
+  },
+  "69": {
+    "summary": "Chronic illness management fatigue",
+    "category": "care_burden",
+    "confidence": 0.8
+  },
+  "70": {
+    "summary": "Witnessing grandchildren's cultural assimilation",
+    "category": "cultural_disconnection",
+    "confidence": 0.7
+  },
+  "71": {
+    "summary": "Spouse's death triggering complicated grief",
+    "category": "grief",
+    "confidence": 0.9
+  },
+  "72": {
+    "summary": "Retirement savings depletion causing anxiety",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "73": {
+    "summary": "Chronic pain limiting storytelling activities",
+    "category": "mobility_issue",
+    "confidence": 0.75
+  },
+  "74": {
+    "summary": "Health decline requiring frequent hospital visits",
+    "category": "health_crisis",
+    "confidence": 0.85
+  },
+  "75": {
+    "summary": "Loss of remaining siblings increasing isolation",
+    "category": "social_isolation",
+    "confidence": 0.8
+  },
+  "76": {
+    "summary": "Caregiver burnout from spouse's dementia",
+    "category": "caregiver_burnout",
+    "confidence": 0.85
+  },
+  "77": {
+    "summary": "Chronic illness triggering end-of-life reflections",
+    "category": "existential_crisis",
+    "confidence": 0.8
+  },
+  "78": {
+    "summary": "Financial constraints limiting quality of life",
+    "category": "poverty",
+    "confidence": 0.75
+  },
+  "79": {
+    "summary": "Health decline requiring nursing home placement",
+    "category": "care_transition",
+    "confidence": 0.9
+  },
+  "80": {
+    "summary": "Witnessing grandchildren's distance causing grief",
+    "category": "family_loss",
+    "confidence": 0.8
+  },
+  "81": {
+    "summary": "Chronic pain management challenges",
+    "category": "chronic_pain",
+    "confidence": 0.8
+  },
+  "82": {
+    "summary": "Retirement poverty threatening basic needs",
+    "category": "poverty",
+    "confidence": 0.85
+  },
+  "83": {
+    "summary": "Health decline increasing vulnerability",
+    "category": "health_vulnerability",
+    "confidence": 0.85
+  },
+  "84": {
+    "summary": "Guilt over unfulfilled life goals",
+    "category": "existential_guilt",
+    "confidence": 0.75
+  },
+  "85": {
+    "summary": "Witnessing neighborhood changes causing nostalgia",
+    "category": "community_change",
+    "confidence": 0.7
+  },
+  "86": {
+    "summary": "Chronic illness requiring constant care",
+    "category": "care_needs",
+    "confidence": 0.9
+  },
+  "87": {
+    "summary": "Financial insecurity in extreme old age",
+    "category": "financial_precarity",
+    "confidence": 0.85
+  },
+  "88": {
+    "summary": "Health decline limiting mobility significantly",
+    "category": "mobility_issue",
+    "confidence": 0.9
+  },
+  "89": {
+    "summary": "Witnessing death of all contemporaries",
+    "category": "peer_loss",
+    "confidence": 0.9
+  },
+  "90": {
+    "summary": "Chronic pain disrupting sleep patterns",
+    "category": "sleep_disorder",
+    "confidence": 0.8
+  },
+  "91": {
+    "summary": "Retirement poverty threatening basic care",
+    "category": "poverty",
+    "confidence": 0.9
+  },
+  "92": {
+    "summary": "Health decline requiring full-time care",
+    "category": "care_needs",
+    "confidence": 0.95
+  },
+  "93": {
+    "summary": "Guilt over burdening family with expenses",
+    "category": "family_guilt",
+    "confidence": 0.85
+  },
+  "94": {
+    "summary": "Witnessing grandchildren's distance causing loneliness",
+    "category": "family_distance",
+    "confidence": 0.8
+  },
+  "95": {
+    "summary": "Chronic illness management fatigue",
+    "category": "care_burden",
+    "confidence": 0.9
+  },
+  "96": {
+    "summary": "Financial constraints limiting healthcare access",
+    "category": "healthcare_access",
+    "confidence": 0.85
+  },
+  "97": {
+    "summary": "Health decline increasing isolation",
+    "category": "isolation",
+    "confidence": 0.9
+  },
+  "98": {
+    "summary": "Witnessing death of all siblings",
+    "category": "family_loss",
+    "confidence": 0.9
+  },
+  "99": {
+    "summary": "Chronic pain management challenges",
+    "category": "chronic_pain",
+    "confidence": 0.85
+  },
+  "100": {
+    "summary": "Profound loneliness and grief after spouse's death",
+    "category": "grief",
+    "confidence": 0.95
+  }
+}

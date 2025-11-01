@@ -1,0 +1,407 @@
+{
+  "20": {
+    "summary": "Financial instability after migration, struggling to find employment in Jordan",
+    "category": "financial_stress",
+    "confidence": 0.85
+  },
+  "21": {
+    "summary": "Conflict between career ambitions and family expectations in foreign country",
+    "category": "family_conflict",
+    "confidence": 0.75
+  },
+  "22": {
+    "summary": "Failed small business venture due to limited capital and market knowledge",
+    "category": "financial_loss",
+    "confidence": 0.7
+  },
+  "23": {
+    "summary": "Cultural isolation and loneliness in Amman's expat community",
+    "category": "loneliness",
+    "confidence": 0.65
+  },
+  "24": {
+    "summary": "Job instability from frequent relocations and cultural barriers",
+    "category": "job_insecurity",
+    "confidence": 0.7
+  },
+  "25": {
+    "summary": "Pressure to marry and start family while financially vulnerable",
+    "category": "relationship_stress",
+    "confidence": 0.8
+  },
+  "26": {
+    "summary": "Financial strain from supporting child in foreign country",
+    "category": "financial_stress",
+    "confidence": 0.9
+  },
+  "27": {
+    "summary": "Burnout from overworking to achieve career goals",
+    "category": "burnout",
+    "confidence": 0.85
+  },
+  "28": {
+    "summary": "Career change anxiety and financial uncertainty",
+    "category": "career_change",
+    "confidence": 0.75
+  },
+  "29": {
+    "summary": "Existential restlessness from unfulfilling career path",
+    "category": "existential_dread",
+    "confidence": 0.65
+  },
+  "30": {
+    "summary": "Work-life balance crisis with family responsibilities",
+    "category": "family_conflict",
+    "confidence": 0.8
+  },
+  "31": {
+    "summary": "Frustration from career plateau despite high achievement drive",
+    "category": "career_stagnation",
+    "confidence": 0.75
+  },
+  "32": {
+    "summary": "Financial pressure from children's education costs",
+    "category": "financial_stress",
+    "confidence": 0.9
+  },
+  "33": {
+    "summary": "Chronic back pain from manual work and poor ergonomics",
+    "category": "chronic_pain",
+    "confidence": 0.65
+  },
+  "34": {
+    "summary": "Midlife crisis leading to impulsive decisions",
+    "category": "midlife_crisis",
+    "confidence": 0.75
+  },
+  "35": {
+    "summary": "Anxiety about inadequate retirement savings",
+    "category": "retirement_planning",
+    "confidence": 0.85
+  },
+  "36": {
+    "summary": "Family health crisis causing emotional and financial strain",
+    "category": "family_health",
+    "confidence": 0.75
+  },
+  "37": {
+    "summary": "Burnout from balancing demanding job and family",
+    "category": "burnout",
+    "confidence": 0.85
+  },
+  "38": {
+    "summary": "Financial pressure from children's education in foreign country",
+    "category": "financial_stress",
+    "confidence": 0.9
+  },
+  "39": {
+    "summary": "Frustration from stagnant career despite high achievement",
+    "category": "career_stagnation",
+    "confidence": 0.75
+  },
+  "40": {
+    "summary": "Relationship crisis from midlife reassessment",
+    "category": "relationship_crisis",
+    "confidence": 0.8
+  },
+  "41": {
+    "summary": "Anxiety about retirement financial preparedness",
+    "category": "retirement_planning",
+    "confidence": 0.85
+  },
+  "42": {
+    "summary": "Family health crisis causing emotional strain",
+    "category": "family_health",
+    "confidence": 0.75
+  },
+  "43": {
+    "summary": "Burnout from long-term work pressure",
+    "category": "burnout",
+    "confidence": 0.85
+  },
+  "44": {
+    "summary": "Financial pressure from children's education costs",
+    "category": "financial_stress",
+    "confidence": 0.9
+  },
+  "45": {
+    "summary": "Midlife crisis leading to relationship turmoil",
+    "category": "midlife_crisis",
+    "confidence": 0.8
+  },
+  "46": {
+    "summary": "Family health crisis causing emotional strain",
+    "category": "family_health",
+    "confidence": 0.75
+  },
+  "47": {
+    "summary": "Burnout from sustained high-pressure work",
+    "category": "burnout",
+    "confidence": 0.85
+  },
+  "48": {
+    "summary": "Financial pressure from children's education",
+    "category": "financial_stress",
+    "confidence": 0.9
+  },
+  "49": {
+    "summary": "Frustration from career stagnation despite achievement drive",
+    "category": "career_stagnation",
+    "confidence": 0.75
+  },
+  "50": {
+    "summary": "Relationship crisis from midlife reassessment",
+    "category": "relationship_crisis",
+    "confidence": 0.8
+  },
+  "51": {
+    "summary": "Anxiety about retirement financial preparedness",
+    "category": "retirement_planning",
+    "confidence": 0.85
+  },
+  "52": {
+    "summary": "Family health crisis causing emotional strain",
+    "category": "family_health",
+    "confidence": 0.75
+  },
+  "53": {
+    "summary": "Burnout from long-term work pressure",
+    "category": "burnout",
+    "confidence": 0.85
+  },
+  "54": {
+    "summary": "Financial pressure from children's education",
+    "category": "financial_stress",
+    "confidence": 0.9
+  },
+  "55": {
+    "summary": "Anxiety about inadequate retirement savings",
+    "category": "retirement_planning",
+    "confidence": 0.85
+  },
+  "56": {
+    "summary": "Family health crisis causing emotional strain",
+    "category": "family_health",
+    "confidence": 0.75
+  },
+  "57": {
+    "summary": "Burnout from sustained high-pressure work",
+    "category": "burnout",
+    "confidence": 0.85
+  },
+  "58": {
+    "summary": "Financial pressure from children's education",
+    "category": "financial_stress",
+    "confidence": 0.9
+  },
+  "59": {
+    "summary": "Frustration from career stagnation despite achievement drive",
+    "category": "career_stagnation",
+    "confidence": 0.75
+  },
+  "60": {
+    "summary": "Relationship crisis from midlife reassessment",
+    "category": "relationship_crisis",
+    "confidence": 0.8
+  },
+  "61": {
+    "summary": "Anxiety about retirement financial preparedness",
+    "category": "retirement_planning",
+    "confidence": 0.85
+  },
+  "62": {
+    "summary": "Family health crisis causing emotional strain",
+    "category": "family_health",
+    "confidence": 0.75
+  },
+  "63": {
+    "summary": "Burnout from long-term work pressure",
+    "category": "burnout",
+    "confidence": 0.85
+  },
+  "64": {
+    "summary": "Financial pressure from children's education",
+    "category": "financial_stress",
+    "confidence": 0.9
+  },
+  "65": {
+    "summary": "Anxiety about inadequate retirement savings",
+    "category": "retirement_planning",
+    "confidence": 0.85
+  },
+  "66": {
+    "summary": "Family health crisis causing emotional strain",
+    "category": "family_health",
+    "confidence": 0.75
+  },
+  "67": {
+    "summary": "Burnout from sustained high-pressure work",
+    "category": "burnout",
+    "confidence": 0.85
+  },
+  "68": {
+    "summary": "Financial pressure from children's education",
+    "category": "financial_stress",
+    "confidence": 0.9
+  },
+  "69": {
+    "summary": "Frustration from career stagnation despite achievement drive",
+    "category": "career_stagnation",
+    "confidence": 0.75
+  },
+  "70": {
+    "summary": "Relationship crisis from midlife reassessment",
+    "category": "relationship_crisis",
+    "confidence": 0.8
+  },
+  "71": {
+    "summary": "Anxiety about retirement financial preparedness",
+    "category": "retirement_planning",
+    "confidence": 0.85
+  },
+  "72": {
+    "summary": "Family health crisis causing emotional strain",
+    "category": "family_health",
+    "confidence": 0.75
+  },
+  "73": {
+    "summary": "Burnout from long-term work pressure",
+    "category": "burnout",
+    "confidence": 0.85
+  },
+  "74": {
+    "summary": "Financial pressure from children's education",
+    "category": "financial_stress",
+    "confidence": 0.9
+  },
+  "75": {
+    "summary": "Chronic illness and loss of independence",
+    "category": "chronic_illness",
+    "confidence": 0.8
+  },
+  "76": {
+    "summary": "Family health crisis causing emotional strain",
+    "category": "family_health",
+    "confidence": 0.75
+  },
+  "77": {
+    "summary": "Loneliness and social isolation",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "78": {
+    "summary": "Financial insecurity in retirement",
+    "category": "financial_insecurity",
+    "confidence": 0.85
+  },
+  "79": {
+    "summary": "Existential dread about mortality",
+    "category": "existential_dread",
+    "confidence": 0.8
+  },
+  "80": {
+    "summary": "Chronic pain and loss of mobility",
+    "category": "chronic_pain",
+    "confidence": 0.85
+  },
+  "81": {
+    "summary": "Family health crisis causing emotional strain",
+    "category": "family_health",
+    "confidence": 0.75
+  },
+  "82": {
+    "summary": "Loneliness and social isolation",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "83": {
+    "summary": "Financial insecurity in retirement",
+    "category": "financial_insecurity",
+    "confidence": 0.85
+  },
+  "84": {
+    "summary": "Existential dread about mortality",
+    "category": "existential_dread",
+    "confidence": 0.8
+  },
+  "85": {
+    "summary": "Chronic illness and loss of independence",
+    "category": "chronic_illness",
+    "confidence": 0.8
+  },
+  "86": {
+    "summary": "Family health crisis causing emotional strain",
+    "category": "family_health",
+    "confidence": 0.75
+  },
+  "87": {
+    "summary": "Loneliness and social isolation",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "88": {
+    "summary": "Financial insecurity in retirement",
+    "category": "financial_insecurity",
+    "confidence": 0.85
+  },
+  "89": {
+    "summary": "Existential dread about mortality",
+    "category": "existential_dread",
+    "confidence": 0.8
+  },
+  "90": {
+    "summary": "Chronic illness and loss of independence",
+    "category": "chronic_illness",
+    "confidence": 0.8
+  },
+  "91": {
+    "summary": "Family health crisis causing emotional strain",
+    "category": "family_health",
+    "confidence": 0.75
+  },
+  "92": {
+    "summary": "Loneliness and social isolation",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "93": {
+    "summary": "Financial insecurity in retirement",
+    "category": "financial_insecurity",
+    "confidence": 0.85
+  },
+  "94": {
+    "summary": "Existential dread about mortality",
+    "category": "existential_dread",
+    "confidence": 0.8
+  },
+  "95": {
+    "summary": "Chronic illness and loss of independence",
+    "category": "chronic_illness",
+    "confidence": 0.8
+  },
+  "96": {
+    "summary": "Family health crisis causing emotional strain",
+    "category": "family_health",
+    "confidence": 0.75
+  },
+  "97": {
+    "summary": "Loneliness and social isolation",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "98": {
+    "summary": "Financial insecurity in retirement",
+    "category": "financial_insecurity",
+    "confidence": 0.85
+  },
+  "99": {
+    "summary": "Existential dread about mortality",
+    "category": "existential_dread",
+    "confidence": 0.8
+  },
+  "100": {
+    "summary": "Terminal illness and end-of-life concerns",
+    "category": "terminal_illness",
+    "confidence": 0.85
+  }
+}

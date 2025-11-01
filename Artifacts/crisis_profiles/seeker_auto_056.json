@@ -1,0 +1,407 @@
+{
+  "20": {
+    "summary": "Survivor's guilt after WWII displacement",
+    "category": "grief",
+    "confidence": 0.95
+  },
+  "21": {
+    "summary": "Family separation anxiety post-war",
+    "category": "isolation",
+    "confidence": 0.9
+  },
+  "22": {
+    "summary": "Cultural identity conflict in new country",
+    "category": "identity_crisis",
+    "confidence": 0.85
+  },
+  "23": {
+    "summary": "Unemployment stress in post-war economy",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "24": {
+    "summary": "Acute anxiety following transatlantic displacement trauma",
+    "category": "trauma",
+    "confidence": 1.0
+  },
+  "25": {
+    "summary": "Career mismatch with wartime skills",
+    "category": "occupational_dissatisfaction",
+    "confidence": 0.75
+  },
+  "26": {
+    "summary": "Pressure to support family financially",
+    "category": "financial_stress",
+    "confidence": 0.9
+  },
+  "27": {
+    "summary": "Social isolation in immigrant community",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "28": {
+    "summary": "Unresolved war trauma resurfacing",
+    "category": "ptsd",
+    "confidence": 0.85
+  },
+  "29": {
+    "summary": "Cultural assimilation fatigue",
+    "category": "identity_crisis",
+    "confidence": 0.7
+  },
+  "30": {
+    "summary": "Premature aging from wartime stress",
+    "category": "chronic_health",
+    "confidence": 0.65
+  },
+  "31": {
+    "summary": "Marriage pressure conflicting with trauma",
+    "category": "relationship_stress",
+    "confidence": 0.7
+  },
+  "32": {
+    "summary": "Generational communication gaps with children",
+    "category": "family_tension",
+    "confidence": 0.65
+  },
+  "33": {
+    "summary": "Midlife crisis amid immigrant status",
+    "category": "existential_crisis",
+    "confidence": 0.6
+  },
+  "34": {
+    "summary": "Unfulfilled artistic ambitions",
+    "category": "creative_block",
+    "confidence": 0.55
+  },
+  "35": {
+    "summary": "Chronic health issues from wartime injuries",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "36": {
+    "summary": "Career stagnation in manual labor",
+    "category": "occupational_dissatisfaction",
+    "confidence": 0.6
+  },
+  "37": {
+    "summary": "Cultural nostalgia overwhelming daily life",
+    "category": "grief",
+    "confidence": 0.65
+  },
+  "38": {
+    "summary": "Financial insecurity despite hard work",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "39": {
+    "summary": "Fear of failing family legacy",
+    "category": "existential_crisis",
+    "confidence": 0.6
+  },
+  "40": {
+    "summary": "Retirement anxiety in foreign land",
+    "category": "transition_stress",
+    "confidence": 0.55
+  },
+  "41": {
+    "summary": "Unresolved displacement trauma resurfacing",
+    "category": "ptsd",
+    "confidence": 0.6
+  },
+  "42": {
+    "summary": "Health decline from wartime exposure",
+    "category": "chronic_health",
+    "confidence": 0.65
+  },
+  "43": {
+    "summary": "Children assimilating faster than self",
+    "category": "generational_gap",
+    "confidence": 0.55
+  },
+  "44": {
+    "summary": "Midlife reassessment of immigrant journey",
+    "category": "existential_crisis",
+    "confidence": 0.5
+  },
+  "45": {
+    "summary": "Chronic pain from old injuries",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "46": {
+    "summary": "Retirement adjustment difficulties",
+    "category": "transition_stress",
+    "confidence": 0.6
+  },
+  "47": {
+    "summary": "Guilt over unfulfilled artistic pursuits",
+    "category": "regret",
+    "confidence": 0.55
+  },
+  "48": {
+    "summary": "Health issues from wartime malnutrition",
+    "category": "chronic_health",
+    "confidence": 0.6
+  },
+  "49": {
+    "summary": "Children leaving home (empty nest)",
+    "category": "life_transition",
+    "confidence": 0.5
+  },
+  "50": {
+    "summary": "Retirement poverty fears",
+    "category": "financial_stress",
+    "confidence": 0.55
+  },
+  "51": {
+    "summary": "Unresolved war trauma resurfacing",
+    "category": "ptsd",
+    "confidence": 0.55
+  },
+  "52": {
+    "summary": "Chronic health decline",
+    "category": "chronic_health",
+    "confidence": 0.6
+  },
+  "53": {
+    "summary": "Guilt over unfulfilled artistic potential",
+    "category": "regret",
+    "confidence": 0.5
+  },
+  "54": {
+    "summary": "Retirement adjustment challenges",
+    "category": "transition_stress",
+    "confidence": 0.5
+  },
+  "55": {
+    "summary": "Legacy concerns with assimilated children",
+    "category": "family_tension",
+    "confidence": 0.45
+  },
+  "56": {
+    "summary": "Chronic pain limiting hobbies",
+    "category": "chronic_pain",
+    "confidence": 0.55
+  },
+  "57": {
+    "summary": "Retirement financial insecurity",
+    "category": "financial_stress",
+    "confidence": 0.5
+  },
+  "58": {
+    "summary": "Health decline impacting independence",
+    "category": "chronic_health",
+    "confidence": 0.55
+  },
+  "59": {
+    "summary": "Guilt over unfulfilled artistic dreams",
+    "category": "regret",
+    "confidence": 0.45
+  },
+  "60": {
+    "summary": "Retirement adjustment difficulties",
+    "category": "transition_stress",
+    "confidence": 0.45
+  },
+  "61": {
+    "summary": "Chronic health issues requiring care",
+    "category": "caregiver_stress",
+    "confidence": 0.5
+  },
+  "62": {
+    "summary": "Guilt over unfulfilled artistic potential",
+    "category": "regret",
+    "confidence": 0.4
+  },
+  "63": {
+    "summary": "Retirement financial strain",
+    "category": "financial_stress",
+    "confidence": 0.45
+  },
+  "64": {
+    "summary": "Chronic pain limiting mobility",
+    "category": "chronic_pain",
+    "confidence": 0.5
+  },
+  "65": {
+    "summary": "Retirement adjustment challenges",
+    "category": "transition_stress",
+    "confidence": 0.4
+  },
+  "66": {
+    "summary": "Health decline requiring assistance",
+    "category": "caregiver_stress",
+    "confidence": 0.45
+  },
+  "67": {
+    "summary": "Guilt over unfulfilled artistic pursuits",
+    "category": "regret",
+    "confidence": 0.35
+  },
+  "68": {
+    "summary": "Retirement financial insecurity",
+    "category": "financial_stress",
+    "confidence": 0.4
+  },
+  "69": {
+    "summary": "Chronic health issues impacting daily life",
+    "category": "chronic_health",
+    "confidence": 0.45
+  },
+  "70": {
+    "summary": "Retirement adjustment difficulties",
+    "category": "transition_stress",
+    "confidence": 0.35
+  },
+  "71": {
+    "summary": "Guilt over unfulfilled artistic potential",
+    "category": "regret",
+    "confidence": 0.3
+  },
+  "72": {
+    "summary": "Retirement financial strain",
+    "category": "financial_stress",
+    "confidence": 0.35
+  },
+  "73": {
+    "summary": "Chronic pain limiting activities",
+    "category": "chronic_pain",
+    "confidence": 0.4
+  },
+  "74": {
+    "summary": "Retirement adjustment challenges",
+    "category": "transition_stress",
+    "confidence": 0.3
+  },
+  "75": {
+    "summary": "Health decline requiring care",
+    "category": "caregiver_stress",
+    "confidence": 0.35
+  },
+  "76": {
+    "summary": "Guilt over unfulfilled artistic dreams",
+    "category": "regret",
+    "confidence": 0.25
+  },
+  "77": {
+    "summary": "Retirement financial insecurity",
+    "category": "financial_stress",
+    "confidence": 0.3
+  },
+  "78": {
+    "summary": "Chronic health issues impacting independence",
+    "category": "chronic_health",
+    "confidence": 0.35
+  },
+  "79": {
+    "summary": "Retirement adjustment difficulties",
+    "category": "transition_stress",
+    "confidence": 0.25
+  },
+  "80": {
+    "summary": "Guilt over unfulfilled artistic potential",
+    "category": "regret",
+    "confidence": 0.2
+  },
+  "81": {
+    "summary": "Retirement financial strain",
+    "category": "financial_stress",
+    "confidence": 0.25
+  },
+  "82": {
+    "summary": "Chronic pain limiting mobility",
+    "category": "chronic_pain",
+    "confidence": 0.3
+  },
+  "83": {
+    "summary": "Retirement adjustment challenges",
+    "category": "transition_stress",
+    "confidence": 0.2
+  },
+  "84": {
+    "summary": "Health decline requiring assistance",
+    "category": "caregiver_stress",
+    "confidence": 0.25
+  },
+  "85": {
+    "summary": "Guilt over unfulfilled artistic pursuits",
+    "category": "regret",
+    "confidence": 0.15
+  },
+  "86": {
+    "summary": "Retirement financial insecurity",
+    "category": "financial_stress",
+    "confidence": 0.2
+  },
+  "87": {
+    "summary": "Chronic health issues impacting daily life",
+    "category": "chronic_health",
+    "confidence": 0.25
+  },
+  "88": {
+    "summary": "Retirement adjustment difficulties",
+    "category": "transition_stress",
+    "confidence": 0.15
+  },
+  "89": {
+    "summary": "Guilt over unfulfilled artistic dreams",
+    "category": "regret",
+    "confidence": 0.1
+  },
+  "90": {
+    "summary": "Retirement financial strain",
+    "category": "financial_stress",
+    "confidence": 0.15
+  },
+  "91": {
+    "summary": "Chronic pain limiting activities",
+    "category": "chronic_pain",
+    "confidence": 0.2
+  },
+  "92": {
+    "summary": "Retirement adjustment challenges",
+    "category": "transition_stress",
+    "confidence": 0.1
+  },
+  "93": {
+    "summary": "Health decline requiring care",
+    "category": "caregiver_stress",
+    "confidence": 0.15
+  },
+  "94": {
+    "summary": "Guilt over unfulfilled artistic potential",
+    "category": "regret",
+    "confidence": 0.05
+  },
+  "95": {
+    "summary": "Retirement financial insecurity",
+    "category": "financial_stress",
+    "confidence": 0.1
+  },
+  "96": {
+    "summary": "Chronic health issues impacting independence",
+    "category": "chronic_health",
+    "confidence": 0.15
+  },
+  "97": {
+    "summary": "Retirement adjustment difficulties",
+    "category": "transition_stress",
+    "confidence": 0.05
+  },
+  "98": {
+    "summary": "Guilt over unfulfilled artistic pursuits",
+    "category": "regret",
+    "confidence": 0.01
+  },
+  "99": {
+    "summary": "Retirement financial strain",
+    "category": "financial_stress",
+    "confidence": 0.05
+  },
+  "100": {
+    "summary": "Chronic pain limiting mobility",
+    "category": "chronic_pain",
+    "confidence": 0.1
+  }
+}

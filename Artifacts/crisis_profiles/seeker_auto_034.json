@@ -1,0 +1,407 @@
+{
+  "20": {
+    "summary": "Identity conflict as dual-national immigrant adjusting to new country.",
+    "category": "identity_crisis",
+    "confidence": 0.7
+  },
+  "21": {
+    "summary": "Financial stress from student loans and entry-level job instability.",
+    "category": "financial_stress",
+    "confidence": 0.6
+  },
+  "22": {
+    "summary": "Burnout from overcommitting to community volunteering and work.",
+    "category": "burnout",
+    "confidence": 0.7
+  },
+  "23": {
+    "summary": "Relationship conflict due to cultural differences and immigration status.",
+    "category": "relationship_conflict",
+    "confidence": 0.6
+  },
+  "24": {
+    "summary": "Career stagnation in nonprofit sector with limited advancement.",
+    "category": "career_stagnation",
+    "confidence": 0.6
+  },
+  "25": {
+    "summary": "Social isolation from high rumination and low emotional expressiveness.",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "26": {
+    "summary": "Persistent anxiety and dissociation after witnessing intimate partner violence.",
+    "category": "trauma",
+    "confidence": 1.0
+  },
+  "27": {
+    "summary": "Struggling to integrate trauma recovery into daily life and work.",
+    "category": "trauma_recovery",
+    "confidence": 0.9
+  },
+  "28": {
+    "summary": "Microaggressions at work eroding self-esteem and professional confidence.",
+    "category": "discrimination",
+    "confidence": 0.8
+  },
+  "29": {
+    "summary": "Financial stress from high housing costs in Los Angeles.",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "30": {
+    "summary": "Career burnout from long-term community organizing efforts.",
+    "category": "burnout",
+    "confidence": 0.8
+  },
+  "31": {
+    "summary": "Relationship challenges due to differing life goals and cultural expectations.",
+    "category": "relationship_conflict",
+    "confidence": 0.6
+  },
+  "32": {
+    "summary": "Health issues from chronic stress and anxiety disorders.",
+    "category": "health_issues",
+    "confidence": 0.7
+  },
+  "33": {
+    "summary": "Midlife crisis questioning life choices and seeking greater meaning.",
+    "category": "midlife_crisis",
+    "confidence": 0.6
+  },
+  "34": {
+    "summary": "Financial planning stress for retirement and home ownership.",
+    "category": "financial_planning",
+    "confidence": 0.7
+  },
+  "35": {
+    "summary": "Family planning decisions causing stress and uncertainty.",
+    "category": "family_planning",
+    "confidence": 0.6
+  },
+  "36": {
+    "summary": "Career transition or plateau in nonprofit sector.",
+    "category": "career_transition",
+    "confidence": 0.6
+  },
+  "37": {
+    "summary": "Work-life balance challenges with young children.",
+    "category": "work_life_balance",
+    "confidence": 0.7
+  },
+  "38": {
+    "summary": "Chronic pain from stress-related conditions and aging.",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "39": {
+    "summary": "Financial stress supporting aging parents.",
+    "category": "financial_stress",
+    "confidence": 0.6
+  },
+  "40": {
+    "summary": "Midlife reassessment feeling unfulfilled in career.",
+    "category": "midlife_crisis",
+    "confidence": 0.7
+  },
+  "41": {
+    "summary": "Family stress from children's education and career choices.",
+    "category": "family_stress",
+    "confidence": 0.7
+  },
+  "42": {
+    "summary": "Chronic hypertension and anxiety disorders.",
+    "category": "chronic_health",
+    "confidence": 0.8
+  },
+  "43": {
+    "summary": "Burnout from long-term service in nonprofit sector.",
+    "category": "burnout",
+    "confidence": 0.8
+  },
+  "44": {
+    "summary": "Financial planning stress for retirement and children's education.",
+    "category": "financial_planning",
+    "confidence": 0.7
+  },
+  "45": {
+    "summary": "Family conflicts with adult children.",
+    "category": "family_conflict",
+    "confidence": 0.6
+  },
+  "46": {
+    "summary": "Arthritis and mobility issues from aging.",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "47": {
+    "summary": "Financial stress from healthcare costs.",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "48": {
+    "summary": "Career transition considering retirement or new ventures.",
+    "category": "career_transition",
+    "confidence": 0.7
+  },
+  "49": {
+    "summary": "Vision and hearing loss impacting hobbies and independence.",
+    "category": "health_issues",
+    "confidence": 0.7
+  },
+  "50": {
+    "summary": "Midlife reassessment feeling unfulfilled in life.",
+    "category": "midlife_crisis",
+    "confidence": 0.6
+  },
+  "51": {
+    "summary": "Empty nest syndrome loneliness after children leave home.",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "52": {
+    "summary": "Financial stress supporting aging parents.",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "53": {
+    "summary": "Chronic diabetes and cardiovascular issues.",
+    "category": "chronic_health",
+    "confidence": 0.8
+  },
+  "54": {
+    "summary": "Family stress caring for aging parents.",
+    "category": "family_stress",
+    "confidence": 0.7
+  },
+  "55": {
+    "summary": "Retirement planning stress and financial uncertainty.",
+    "category": "financial_planning",
+    "confidence": 0.8
+  },
+  "56": {
+    "summary": "Mobility problems and chronic pain from arthritis.",
+    "category": "chronic_pain",
+    "confidence": 0.8
+  },
+  "57": {
+    "summary": "Financial stress from escalating healthcare costs.",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "58": {
+    "summary": "Burnout from long-term service in nonprofit sector.",
+    "category": "burnout",
+    "confidence": 0.7
+  },
+  "59": {
+    "summary": "Heart disease and stroke risk from chronic conditions.",
+    "category": "chronic_health",
+    "confidence": 0.8
+  },
+  "60": {
+    "summary": "Retirement adjustment loss of identity and purpose.",
+    "category": "identity_crisis",
+    "confidence": 0.7
+  },
+  "61": {
+    "summary": "Financial stress from fixed income and living costs.",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "62": {
+    "summary": "Cognitive decline and dementia risk.",
+    "category": "chronic_health",
+    "confidence": 0.8
+  },
+  "63": {
+    "summary": "Family conflicts with adult children and grandchildren.",
+    "category": "family_conflict",
+    "confidence": 0.7
+  },
+  "64": {
+    "summary": "Financial stress from healthcare costs.",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "65": {
+    "summary": "Retirement planning stress adjusting to new lifestyle.",
+    "category": "financial_planning",
+    "confidence": 0.7
+  },
+  "66": {
+    "summary": "Chronic pain and mobility issues.",
+    "category": "chronic_pain",
+    "confidence": 0.8
+  },
+  "67": {
+    "summary": "Financial stress from healthcare and living costs.",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "68": {
+    "summary": "Vision and hearing loss impacting independence.",
+    "category": "health_issues",
+    "confidence": 0.7
+  },
+  "69": {
+    "summary": "Family stress caring for aging parents.",
+    "category": "family_stress",
+    "confidence": 0.7
+  },
+  "70": {
+    "summary": "Retirement adjustment loneliness and isolation.",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "71": {
+    "summary": "Financial stress from healthcare costs.",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "72": {
+    "summary": "Chronic conditions requiring ongoing medical care.",
+    "category": "chronic_health",
+    "confidence": 0.8
+  },
+  "73": {
+    "summary": "Family conflicts with adult children.",
+    "category": "family_conflict",
+    "confidence": 0.7
+  },
+  "74": {
+    "summary": "Financial stress from healthcare costs.",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "75": {
+    "summary": "Retirement adjustment loss of purpose.",
+    "category": "identity_crisis",
+    "confidence": 0.7
+  },
+  "76": {
+    "summary": "Mobility issues and chronic pain.",
+    "category": "chronic_pain",
+    "confidence": 0.8
+  },
+  "77": {
+    "summary": "Financial stress from healthcare costs.",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "78": {
+    "summary": "Cognitive decline requiring caregiver support.",
+    "category": "chronic_health",
+    "confidence": 0.8
+  },
+  "79": {
+    "summary": "Family stress caring for aging parents.",
+    "category": "family_stress",
+    "confidence": 0.7
+  },
+  "80": {
+    "summary": "Retirement adjustment loneliness and isolation.",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "81": {
+    "summary": "Financial stress from healthcare costs.",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "82": {
+    "summary": "Chronic conditions requiring ongoing care.",
+    "category": "chronic_health",
+    "confidence": 0.8
+  },
+  "83": {
+    "summary": "Family conflicts with adult children.",
+    "category": "family_conflict",
+    "confidence": 0.7
+  },
+  "84": {
+    "summary": "Financial stress from healthcare costs.",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "85": {
+    "summary": "Retirement adjustment loss of purpose.",
+    "category": "identity_crisis",
+    "confidence": 0.7
+  },
+  "86": {
+    "summary": "Mobility issues and chronic pain.",
+    "category": "chronic_pain",
+    "confidence": 0.8
+  },
+  "87": {
+    "summary": "Financial stress from healthcare costs.",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "88": {
+    "summary": "Cognitive decline requiring full-time care.",
+    "category": "chronic_health",
+    "confidence": 0.8
+  },
+  "89": {
+    "summary": "Family stress caring for aging parents.",
+    "category": "family_stress",
+    "confidence": 0.7
+  },
+  "90": {
+    "summary": "Retirement adjustment loneliness and isolation.",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "91": {
+    "summary": "Financial stress from healthcare costs.",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "92": {
+    "summary": "Chronic conditions requiring ongoing care.",
+    "category": "chronic_health",
+    "confidence": 0.8
+  },
+  "93": {
+    "summary": "Family conflicts with adult children.",
+    "category": "family_conflict",
+    "confidence": 0.7
+  },
+  "94": {
+    "summary": "Financial stress from healthcare costs.",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "95": {
+    "summary": "Retirement adjustment loss of purpose.",
+    "category": "identity_crisis",
+    "confidence": 0.7
+  },
+  "96": {
+    "summary": "Mobility issues and chronic pain.",
+    "category": "chronic_pain",
+    "confidence": 0.8
+  },
+  "97": {
+    "summary": "Financial stress from healthcare costs.",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "98": {
+    "summary": "Cognitive decline requiring full-time care.",
+    "category": "chronic_health",
+    "confidence": 0.8
+  },
+  "99": {
+    "summary": "Family stress caring for aging parents.",
+    "category": "family_stress",
+    "confidence": 0.7
+  },
+  "100": {
+    "summary": "Retirement adjustment loneliness and isolation.",
+    "category": "loneliness",
+    "confidence": 0.7
+  }
+}

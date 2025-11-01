@@ -1,0 +1,407 @@
+{
+  "20": {
+    "summary": "Financial instability after WWII",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "21": {
+    "summary": "Family pressure to support household",
+    "category": "family_obligation",
+    "confidence": 0.6
+  },
+  "22": {
+    "summary": "Relocation anxiety to Thailand",
+    "category": "relocation_stress",
+    "confidence": 0.5
+  },
+  "23": {
+    "summary": "Business failure risk",
+    "category": "business_failure",
+    "confidence": 0.6
+  },
+  "24": {
+    "summary": "Marital conflict avoidance",
+    "category": "marital_dissatisfaction",
+    "confidence": 0.5
+  },
+  "25": {
+    "summary": "Parenting stress with newborn",
+    "category": "parenting_stress",
+    "confidence": 0.6
+  },
+  "26": {
+    "summary": "Burnout from business demands",
+    "category": "burnout",
+    "confidence": 0.7
+  },
+  "27": {
+    "summary": "Financial crisis from market downturn",
+    "category": "financial_crisis",
+    "confidence": 0.6
+  },
+  "28": {
+    "summary": "Business competition pressure",
+    "category": "business_competition",
+    "confidence": 0.5
+  },
+  "29": {
+    "summary": "Child's health scare",
+    "category": "child_health",
+    "confidence": 0.4
+  },
+  "30": {
+    "summary": "Persistent low mood and lack of interest",
+    "category": "depression",
+    "confidence": 0.9
+  },
+  "31": {
+    "summary": "Midlife dissatisfaction with business",
+    "category": "midlife_crisis",
+    "confidence": 0.6
+  },
+  "32": {
+    "summary": "Child's behavioral issues",
+    "category": "child_behavior",
+    "confidence": 0.5
+  },
+  "33": {
+    "summary": "Business expansion stress",
+    "category": "business_expansion_stress",
+    "confidence": 0.6
+  },
+  "34": {
+    "summary": "Elderly parent's declining health",
+    "category": "family_health",
+    "confidence": 0.5
+  },
+  "35": {
+    "summary": "Existential questioning",
+    "category": "existential_crisis",
+    "confidence": 0.6
+  },
+  "36": {
+    "summary": "Business stagnation anxiety",
+    "category": "business_stagnation",
+    "confidence": 0.6
+  },
+  "37": {
+    "summary": "Retirement planning concerns",
+    "category": "financial_planning",
+    "confidence": 0.5
+  },
+  "38": {
+    "summary": "Education costs for child",
+    "category": "education_costs",
+    "confidence": 0.5
+  },
+  "39": {
+    "summary": "Political unrest affecting business",
+    "category": "political_unrest",
+    "confidence": 0.6
+  },
+  "40": {
+    "summary": "Midlife reflection on achievements",
+    "category": "midlife_reflection",
+    "confidence": 0.6
+  },
+  "41": {
+    "summary": "Economic recession impact",
+    "category": "economic_recession",
+    "confidence": 0.5
+  },
+  "42": {
+    "summary": "Spouse's health decline",
+    "category": "spouse_health",
+    "confidence": 0.5
+  },
+  "43": {
+    "summary": "Intensified business competition",
+    "category": "business_competition",
+    "confidence": 0.6
+  },
+  "44": {
+    "summary": "Inflation-induced financial strain",
+    "category": "financial_crisis",
+    "confidence": 0.6
+  },
+  "45": {
+    "summary": "Midlife crisis about life choices",
+    "category": "midlife_crisis",
+    "confidence": 0.6
+  },
+  "46": {
+    "summary": "Chronic back pain from manual work",
+    "category": "chronic_pain",
+    "confidence": 0.5
+  },
+  "47": {
+    "summary": "Business succession planning stress",
+    "category": "business_succession",
+    "confidence": 0.6
+  },
+  "48": {
+    "summary": "Retirement savings shortfall",
+    "category": "retirement_planning",
+    "confidence": 0.6
+  },
+  "49": {
+    "summary": "Elderly parent's health crisis",
+    "category": "family_health",
+    "confidence": 0.5
+  },
+  "50": {
+    "summary": "Aging anxiety and health concerns",
+    "category": "aging_anxiety",
+    "confidence": 0.6
+  },
+  "51": {
+    "summary": "Market saturation challenges",
+    "category": "market_saturation",
+    "confidence": 0.5
+  },
+  "52": {
+    "summary": "Hypertension diagnosis",
+    "category": "health_diagnosis",
+    "confidence": 0.6
+  },
+  "53": {
+    "summary": "Spouse's declining health",
+    "category": "spouse_health",
+    "confidence": 0.5
+  },
+  "54": {
+    "summary": "Retirement income management",
+    "category": "financial_planning",
+    "confidence": 0.6
+  },
+  "55": {
+    "summary": "Midlife crisis about unmet goals",
+    "category": "midlife_crisis",
+    "confidence": 0.6
+  },
+  "56": {
+    "summary": "Arthritis diagnosis",
+    "category": "chronic_pain",
+    "confidence": 0.6
+  },
+  "57": {
+    "summary": "Child's health emergency",
+    "category": "child_health",
+    "confidence": 0.5
+  },
+  "58": {
+    "summary": "Insufficient retirement savings",
+    "category": "retirement_shortfall",
+    "confidence": 0.6
+  },
+  "59": {
+    "summary": "Child's readiness for business takeover",
+    "category": "business_succession",
+    "confidence": 0.6
+  },
+  "60": {
+    "summary": "Retirement transition anxiety",
+    "category": "retirement_anxiety",
+    "confidence": 0.6
+  },
+  "61": {
+    "summary": "Heart disease diagnosis",
+    "category": "health_diagnosis",
+    "confidence": 0.6
+  },
+  "62": {
+    "summary": "Elderly parent's health decline",
+    "category": "family_health",
+    "confidence": 0.5
+  },
+  "63": {
+    "summary": "Managing retirement income",
+    "category": "financial_planning",
+    "confidence": 0.6
+  },
+  "64": {
+    "summary": "Diabetes diagnosis",
+    "category": "chronic_disease",
+    "confidence": 0.6
+  },
+  "65": {
+    "summary": "Adjusting to retirement life",
+    "category": "retirement_adjustment",
+    "confidence": 0.6
+  },
+  "66": {
+    "summary": "Social isolation and loneliness",
+    "category": "loneliness",
+    "confidence": 0.5
+  },
+  "67": {
+    "summary": "Cancer diagnosis",
+    "category": "cancer_diagnosis",
+    "confidence": 0.5
+  },
+  "68": {
+    "summary": "Spouse's health decline",
+    "category": "spouse_health",
+    "confidence": 0.5
+  },
+  "69": {
+    "summary": "Long-term care cost concerns",
+    "category": "long_term_care_costs",
+    "confidence": 0.6
+  },
+  "70": {
+    "summary": "Early dementia signs",
+    "category": "cognitive_decline",
+    "confidence": 0.5
+  },
+  "71": {
+    "summary": "Child's health emergency",
+    "category": "child_health",
+    "confidence": 0.4
+  },
+  "72": {
+    "summary": "Estate planning challenges",
+    "category": "estate_planning",
+    "confidence": 0.6
+  },
+  "73": {
+    "summary": "Stroke diagnosis",
+    "category": "health_diagnosis",
+    "confidence": 0.5
+  },
+  "74": {
+    "summary": "Spouse's death grief",
+    "category": "grief",
+    "confidence": 0.5
+  },
+  "75": {
+    "summary": "Parkinson's disease diagnosis",
+    "category": "chronic_disease",
+    "confidence": 0.5
+  },
+  "76": {
+    "summary": "Fixed income management",
+    "category": "financial_planning",
+    "confidence": 0.6
+  },
+  "77": {
+    "summary": "Heart failure diagnosis",
+    "category": "health_diagnosis",
+    "confidence": 0.5
+  },
+  "78": {
+    "summary": "Social isolation",
+    "category": "loneliness",
+    "confidence": 0.5
+  },
+  "79": {
+    "summary": "Child's health emergency",
+    "category": "child_health",
+    "confidence": 0.4
+  },
+  "80": {
+    "summary": "Alzheimer's disease diagnosis",
+    "category": "cognitive_decline",
+    "confidence": 0.5
+  },
+  "81": {
+    "summary": "Long-term care management",
+    "category": "long_term_care",
+    "confidence": 0.6
+  },
+  "82": {
+    "summary": "Chronic pain from multiple conditions",
+    "category": "chronic_pain",
+    "confidence": 0.6
+  },
+  "83": {
+    "summary": "Loss of friends isolation",
+    "category": "loneliness",
+    "confidence": 0.5
+  },
+  "84": {
+    "summary": "Diabetic complications",
+    "category": "chronic_disease",
+    "confidence": 0.6
+  },
+  "85": {
+    "summary": "Estate planning finalization",
+    "category": "estate_planning",
+    "confidence": 0.6
+  },
+  "86": {
+    "summary": "Cancer recurrence",
+    "category": "cancer_diagnosis",
+    "confidence": 0.5
+  },
+  "87": {
+    "summary": "Social isolation",
+    "category": "loneliness",
+    "confidence": 0.5
+  },
+  "88": {
+    "summary": "Heart disease progression",
+    "category": "health_diagnosis",
+    "confidence": 0.5
+  },
+  "89": {
+    "summary": "Child's health emergency",
+    "category": "child_health",
+    "confidence": 0.4
+  },
+  "90": {
+    "summary": "Dementia progression",
+    "category": "cognitive_decline",
+    "confidence": 0.5
+  },
+  "91": {
+    "summary": "Limited resource management",
+    "category": "financial_planning",
+    "confidence": 0.6
+  },
+  "92": {
+    "summary": "Chronic pain management",
+    "category": "chronic_pain",
+    "confidence": 0.6
+  },
+  "93": {
+    "summary": "Social isolation",
+    "category": "loneliness",
+    "confidence": 0.5
+  },
+  "94": {
+    "summary": "Cancer diagnosis",
+    "category": "cancer_diagnosis",
+    "confidence": 0.5
+  },
+  "95": {
+    "summary": "Child's health emergency",
+    "category": "child_health",
+    "confidence": 0.4
+  },
+  "96": {
+    "summary": "Estate planning finalization",
+    "category": "estate_planning",
+    "confidence": 0.6
+  },
+  "97": {
+    "summary": "Heart failure diagnosis",
+    "category": "health_diagnosis",
+    "confidence": 0.5
+  },
+  "98": {
+    "summary": "Social isolation",
+    "category": "loneliness",
+    "confidence": 0.5
+  },
+  "99": {
+    "summary": "Diabetic complications",
+    "category": "chronic_disease",
+    "confidence": 0.6
+  },
+  "100": {
+    "summary": "Dementia diagnosis",
+    "category": "cognitive_decline",
+    "confidence": 0.5
+  }
+}

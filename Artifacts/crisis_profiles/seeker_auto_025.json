@@ -1,0 +1,407 @@
+{
+  "20": {
+    "summary": "Career uncertainty after high school in restrictive system",
+    "category": "career_uncertainty",
+    "confidence": 0.8
+  },
+  "21": {
+    "summary": "Burnout from mandatory military service",
+    "category": "burnout",
+    "confidence": 0.7
+  },
+  "22": {
+    "summary": "Grief compounded by isolation in controlled environment",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "23": {
+    "summary": "Creative suppression leading to depressive relapse",
+    "category": "creative_block",
+    "confidence": 0.7
+  },
+  "24": {
+    "summary": "Identity conflict between values and ideological pressure",
+    "category": "identity_crisis",
+    "confidence": 0.8
+  },
+  "25": {
+    "summary": "Desire for freedom vs. fear of consequences",
+    "category": "freedom_longing",
+    "confidence": 0.7
+  },
+  "26": {
+    "summary": "Existential dissatisfaction from unmet achievements",
+    "category": "existential_dissatisfaction",
+    "confidence": 0.6
+  },
+  "27": {
+    "summary": "Relationship strain due to ideological differences",
+    "category": "relationship_strain",
+    "confidence": 0.5
+  },
+  "28": {
+    "summary": "Financial stress from precarious employment",
+    "category": "financial_stress",
+    "confidence": 0.6
+  },
+  "29": {
+    "summary": "Chronic depression from prolonged isolation",
+    "category": "chronic_depression",
+    "confidence": 0.8
+  },
+  "30": {
+    "summary": "Midlife crisis in stagnant career",
+    "category": "midlife_crisis",
+    "confidence": 0.7
+  },
+  "31": {
+    "summary": "Parenting anxiety in restrictive society",
+    "category": "parenting_anxiety",
+    "confidence": 0.6
+  },
+  "32": {
+    "summary": "Stress-related health deterioration",
+    "category": "health_issues",
+    "confidence": 0.7
+  },
+  "33": {
+    "summary": "Unresolved grief for separated family",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "34": {
+    "summary": "Burnout from long-term unfulfilling work",
+    "category": "burnout",
+    "confidence": 0.7
+  },
+  "35": {
+    "summary": "Midlife reflection and regret",
+    "category": "regret",
+    "confidence": 0.8
+  },
+  "36": {
+    "summary": "Financial pressure as family breadwinner",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "37": {
+    "summary": "Chronic health issues from stress",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "38": {
+    "summary": "Family conflict over ideological constraints",
+    "category": "family_conflict",
+    "confidence": 0.6
+  },
+  "39": {
+    "summary": "Midlife crisis over unmet potential",
+    "category": "midlife_crisis",
+    "confidence": 0.7
+  },
+  "40": {
+    "summary": "Existential despair in confined society",
+    "category": "existential_despair",
+    "confidence": 0.8
+  },
+  "41": {
+    "summary": "Health decline limiting hobbies",
+    "category": "health_issues",
+    "confidence": 0.7
+  },
+  "42": {
+    "summary": "Financial insecurity aging with low income",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "43": {
+    "summary": "Parenting anxiety for child's future",
+    "category": "parenting_anxiety",
+    "confidence": 0.6
+  },
+  "44": {
+    "summary": "Midlife crisis over stagnation",
+    "category": "midlife_crisis",
+    "confidence": 0.7
+  },
+  "45": {
+    "summary": "Aging in restrictive environment",
+    "category": "aging_struggle",
+    "confidence": 0.8
+  },
+  "46": {
+    "summary": "Chronic pain from stress-related conditions",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "47": {
+    "summary": "Retirement financial stress",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "48": {
+    "summary": "Loneliness from social isolation",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "49": {
+    "summary": "Relationship strain from ideological barriers",
+    "category": "relationship_strain",
+    "confidence": 0.6
+  },
+  "50": {
+    "summary": "Midlife crisis over unfulfilled potential",
+    "category": "midlife_crisis",
+    "confidence": 0.7
+  },
+  "51": {
+    "summary": "Health issues limiting autonomy",
+    "category": "health_issues",
+    "confidence": 0.7
+  },
+  "52": {
+    "summary": "Financial stress from fixed income",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "53": {
+    "summary": "Loss of autonomy due to health decline",
+    "category": "autonomy_loss",
+    "confidence": 0.7
+  },
+  "54": {
+    "summary": "Loneliness from dwindling social circle",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "55": {
+    "summary": "Aging in restrictive society",
+    "category": "aging_struggle",
+    "confidence": 0.8
+  },
+  "56": {
+    "summary": "Chronic health issues requiring care",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "57": {
+    "summary": "Retirement financial insecurity",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "58": {
+    "summary": "Loneliness from isolation",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "59": {
+    "summary": "Relationship strain from ideological barriers",
+    "category": "relationship_strain",
+    "confidence": 0.6
+  },
+  "60": {
+    "summary": "Midlife crisis over stagnation",
+    "category": "midlife_crisis",
+    "confidence": 0.7
+  },
+  "61": {
+    "summary": "Health decline limiting hobbies",
+    "category": "health_issues",
+    "confidence": 0.7
+  },
+  "62": {
+    "summary": "Financial stress from aging",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "63": {
+    "summary": "Loss of autonomy due to health",
+    "category": "autonomy_loss",
+    "confidence": 0.7
+  },
+  "64": {
+    "summary": "Loneliness from isolation",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "65": {
+    "summary": "Aging in restrictive society",
+    "category": "aging_struggle",
+    "confidence": 0.8
+  },
+  "66": {
+    "summary": "Chronic health issues requiring care",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "67": {
+    "summary": "Retirement financial stress",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "68": {
+    "summary": "Loneliness from isolation",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "69": {
+    "summary": "Relationship strain from ideological barriers",
+    "category": "relationship_strain",
+    "confidence": 0.6
+  },
+  "70": {
+    "summary": "Midlife crisis over stagnation",
+    "category": "midlife_crisis",
+    "confidence": 0.7
+  },
+  "71": {
+    "summary": "Health decline limiting autonomy",
+    "category": "health_issues",
+    "confidence": 0.7
+  },
+  "72": {
+    "summary": "Financial stress from aging",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "73": {
+    "summary": "Loss of autonomy due to health",
+    "category": "autonomy_loss",
+    "confidence": 0.7
+  },
+  "74": {
+    "summary": "Loneliness from isolation",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "75": {
+    "summary": "Aging in restrictive society",
+    "category": "aging_struggle",
+    "confidence": 0.8
+  },
+  "76": {
+    "summary": "Chronic health issues requiring care",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "77": {
+    "summary": "Retirement financial stress",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "78": {
+    "summary": "Loneliness from isolation",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "79": {
+    "summary": "Relationship strain from ideological barriers",
+    "category": "relationship_strain",
+    "confidence": 0.6
+  },
+  "80": {
+    "summary": "Midlife crisis over stagnation",
+    "category": "midlife_crisis",
+    "confidence": 0.7
+  },
+  "81": {
+    "summary": "Health decline limiting hobbies",
+    "category": "health_issues",
+    "confidence": 0.7
+  },
+  "82": {
+    "summary": "Financial stress from aging",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "83": {
+    "summary": "Loss of autonomy due to health",
+    "category": "autonomy_loss",
+    "confidence": 0.7
+  },
+  "84": {
+    "summary": "Loneliness from isolation",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "85": {
+    "summary": "Aging in restrictive society",
+    "category": "aging_struggle",
+    "confidence": 0.8
+  },
+  "86": {
+    "summary": "Chronic health issues requiring care",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "87": {
+    "summary": "Retirement financial stress",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "88": {
+    "summary": "Loneliness from isolation",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "89": {
+    "summary": "Relationship strain from ideological barriers",
+    "category": "relationship_strain",
+    "confidence": 0.6
+  },
+  "90": {
+    "summary": "Midlife crisis over stagnation",
+    "category": "midlife_crisis",
+    "confidence": 0.7
+  },
+  "91": {
+    "summary": "Health decline limiting autonomy",
+    "category": "health_issues",
+    "confidence": 0.7
+  },
+  "92": {
+    "summary": "Financial stress from aging",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "93": {
+    "summary": "Loss of autonomy due to health",
+    "category": "autonomy_loss",
+    "confidence": 0.7
+  },
+  "94": {
+    "summary": "Loneliness from isolation",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "95": {
+    "summary": "Aging in restrictive society",
+    "category": "aging_struggle",
+    "confidence": 0.8
+  },
+  "96": {
+    "summary": "Chronic health issues requiring care",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "97": {
+    "summary": "Retirement financial stress",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "98": {
+    "summary": "Loneliness from isolation",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "99": {
+    "summary": "Relationship strain from ideological barriers",
+    "category": "relationship_strain",
+    "confidence": 0.6
+  },
+  "100": {
+    "summary": "Midlife crisis over stagnation",
+    "category": "midlife_crisis",
+    "confidence": 0.7
+  }
+}

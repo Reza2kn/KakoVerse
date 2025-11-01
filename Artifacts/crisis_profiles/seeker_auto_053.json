@@ -1,0 +1,407 @@
+{
+  "20": {
+    "summary": "Academic pressure and immigrant identity adjustment in New Zealand",
+    "category": "identity_crisis",
+    "confidence": 0.85
+  },
+  "21": {
+    "summary": "Navigating cultural displacement during university years",
+    "category": "social_isolation",
+    "confidence": 0.8
+  },
+  "22": {
+    "summary": "Career uncertainty amid family expectations",
+    "category": "decision_stress",
+    "confidence": 0.75
+  },
+  "23": {
+    "summary": "Balancing traditional Bosnian values with Western independence",
+    "category": "value_conflict",
+    "confidence": 0.8
+  },
+  "24": {
+    "summary": "Financial strain as a young professional in Auckland",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "25": {
+    "summary": "Trauma response to Bosnian War news while abroad",
+    "category": "grief",
+    "confidence": 0.9
+  },
+  "26": {
+    "summary": "Burnout from juggling studies and part-time work",
+    "category": "career_burnout",
+    "confidence": 0.7
+  },
+  "27": {
+    "summary": "Relationship instability amid cultural differences",
+    "category": "relationship_dysfunction",
+    "confidence": 0.75
+  },
+  "28": {
+    "summary": "Ethnic identity crisis during political unrest",
+    "category": "identity_crisis",
+    "confidence": 0.85
+  },
+  "29": {
+    "summary": "Post-study work visa anxiety",
+    "category": "legal_uncertainty",
+    "confidence": 0.8
+  },
+  "30": {
+    "summary": "Career stagnation in competitive job market",
+    "category": "professional_doubt",
+    "confidence": 0.7
+  },
+  "31": {
+    "summary": "Marriage pressure conflicting with personal values",
+    "category": "relationship_pressure",
+    "confidence": 0.75
+  },
+  "32": {
+    "summary": "Creative block in nonprofit work",
+    "category": "creative_block",
+    "confidence": 0.65
+  },
+  "33": {
+    "summary": "Health scare disrupting surfing hobby",
+    "category": "health_anxiety",
+    "confidence": 0.7
+  },
+  "34": {
+    "summary": "Midlife reassessment of career path",
+    "category": "midlife_crisis",
+    "confidence": 0.8
+  },
+  "35": {
+    "summary": "Displacement trauma from Bosnian War aftermath",
+    "category": "war_trauma",
+    "confidence": 0.9
+  },
+  "36": {
+    "summary": "Expatriate loneliness in Doha",
+    "category": "social_isolation",
+    "confidence": 0.8
+  },
+  "37": {
+    "summary": "Pandemic-induced career disruption",
+    "category": "economic_uncertainty",
+    "confidence": 0.85
+  },
+  "38": {
+    "summary": "Cultural alienation during Qatar residency",
+    "category": "cultural_dissonance",
+    "confidence": 0.8
+  },
+  "39": {
+    "summary": "Burnout from humanitarian work",
+    "category": "compassion_fatigue",
+    "confidence": 0.8
+  },
+  "40": {
+    "summary": "Marital strain amid expatriate lifestyle",
+    "category": "relationship_dysfunction",
+    "confidence": 0.75
+  },
+  "41": {
+    "summary": "Parenting challenges in cross-cultural context",
+    "category": "parenting_stress",
+    "confidence": 0.7
+  },
+  "42": {
+    "summary": "Chronic pain from surfing injuries",
+    "category": "chronic_pain",
+    "confidence": 0.75
+  },
+  "43": {
+    "summary": "Midlife career reinvention pressure",
+    "category": "professional_doubt",
+    "confidence": 0.8
+  },
+  "44": {
+    "summary": "Financial planning anxiety for retirement",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "45": {
+    "summary": "Grief over lost homeland connections",
+    "category": "grief",
+    "confidence": 0.85
+  },
+  "46": {
+    "summary": "Identity crisis between Bosnian heritage and global citizenship",
+    "category": "identity_crisis",
+    "confidence": 0.8
+  },
+  "47": {
+    "summary": "Health decline from sedentary work",
+    "category": "health_concern",
+    "confidence": 0.7
+  },
+  "48": {
+    "summary": "Empty nest syndrome",
+    "category": "life_transition",
+    "confidence": 0.65
+  },
+  "49": {
+    "summary": "Career plateau in nonprofit sector",
+    "category": "professional_doubt",
+    "confidence": 0.75
+  },
+  "50": {
+    "summary": "Retirement planning stress",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "51": {
+    "summary": "Adjustment difficulties and anxiety related to cross-cultural identity",
+    "category": "cultural_adjustment",
+    "confidence": 0.9
+  },
+  "52": {
+    "summary": "Chronic loneliness in Guangzhou",
+    "category": "social_isolation",
+    "confidence": 0.8
+  },
+  "53": {
+    "summary": "Grief over distant family",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "54": {
+    "summary": "Health anxiety from aging",
+    "category": "health_anxiety",
+    "confidence": 0.75
+  },
+  "55": {
+    "summary": "Purpose crisis in later career",
+    "category": "existential_doubt",
+    "confidence": 0.8
+  },
+  "56": {
+    "summary": "Financial security concerns",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "57": {
+    "summary": "Memory trauma resurfacing",
+    "category": "trauma_reactivation",
+    "confidence": 0.8
+  },
+  "58": {
+    "summary": "Physical limitations affecting hobbies",
+    "category": "health_decline",
+    "confidence": 0.75
+  },
+  "59": {
+    "summary": "Generational communication gaps",
+    "category": "relationship_dysfunction",
+    "confidence": 0.7
+  },
+  "60": {
+    "summary": "Retirement adjustment anxiety",
+    "category": "life_transition",
+    "confidence": 0.8
+  },
+  "61": {
+    "summary": "Chronic pain management challenges",
+    "category": "chronic_pain",
+    "confidence": 0.75
+  },
+  "62": {
+    "summary": "Isolation from children's independence",
+    "category": "social_isolation",
+    "confidence": 0.8
+  },
+  "63": {
+    "summary": "Health decline from past injuries",
+    "category": "health_concern",
+    "confidence": 0.7
+  },
+  "64": {
+    "summary": "Financial planning for extended longevity",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "65": {
+    "summary": "Existential loneliness",
+    "category": "existential_doubt",
+    "confidence": 0.8
+  },
+  "66": {
+    "summary": "Caregiver stress for aging parents",
+    "category": "caregiver_burnout",
+    "confidence": 0.75
+  },
+  "67": {
+    "summary": "Physical mobility limitations",
+    "category": "health_decline",
+    "confidence": 0.7
+  },
+  "68": {
+    "summary": "Grief over lost youth",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "69": {
+    "summary": "Purpose crisis in retirement",
+    "category": "existential_doubt",
+    "confidence": 0.8
+  },
+  "70": {
+    "summary": "Chronic illness management",
+    "category": "chronic_illness",
+    "confidence": 0.85
+  },
+  "71": {
+    "summary": "Social isolation in later years",
+    "category": "social_isolation",
+    "confidence": 0.8
+  },
+  "72": {
+    "summary": "Health anxiety from multiple conditions",
+    "category": "health_anxiety",
+    "confidence": 0.75
+  },
+  "73": {
+    "summary": "Financial insecurity concerns",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "74": {
+    "summary": "Grief over lost independence",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "75": {
+    "summary": "Caregiver burden for spouse",
+    "category": "caregiver_burnout",
+    "confidence": 0.8
+  },
+  "76": {
+    "summary": "Physical decline affecting hobbies",
+    "category": "health_decline",
+    "confidence": 0.75
+  },
+  "77": {
+    "summary": "Existential loneliness",
+    "category": "existential_doubt",
+    "confidence": 0.8
+  },
+  "78": {
+    "summary": "Chronic pain management",
+    "category": "chronic_pain",
+    "confidence": 0.75
+  },
+  "79": {
+    "summary": "Social isolation from mobility issues",
+    "category": "social_isolation",
+    "confidence": 0.8
+  },
+  "80": {
+    "summary": "Health decline from aging",
+    "category": "health_concern",
+    "confidence": 0.7
+  },
+  "81": {
+    "summary": "Grief over lost loved ones",
+    "category": "grief",
+    "confidence": 0.85
+  },
+  "82": {
+    "summary": "Financial security concerns",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "83": {
+    "summary": "Purpose crisis in advanced age",
+    "category": "existential_doubt",
+    "confidence": 0.8
+  },
+  "84": {
+    "summary": "Physical limitations affecting daily life",
+    "category": "health_decline",
+    "confidence": 0.75
+  },
+  "85": {
+    "summary": "Social isolation in later years",
+    "category": "social_isolation",
+    "confidence": 0.8
+  },
+  "86": {
+    "summary": "Chronic illness management",
+    "category": "chronic_illness",
+    "confidence": 0.8
+  },
+  "87": {
+    "summary": "Grief over lost independence",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "88": {
+    "summary": "Health anxiety from multiple conditions",
+    "category": "health_anxiety",
+    "confidence": 0.75
+  },
+  "89": {
+    "summary": "Financial insecurity concerns",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "90": {
+    "summary": "Existential loneliness",
+    "category": "existential_doubt",
+    "confidence": 0.8
+  },
+  "91": {
+    "summary": "Physical decline affecting mobility",
+    "category": "health_decline",
+    "confidence": 0.75
+  },
+  "92": {
+    "summary": "Social isolation from limited mobility",
+    "category": "social_isolation",
+    "confidence": 0.8
+  },
+  "93": {
+    "summary": "Grief over lost loved ones",
+    "category": "grief",
+    "confidence": 0.85
+  },
+  "94": {
+    "summary": "Chronic pain management",
+    "category": "chronic_pain",
+    "confidence": 0.75
+  },
+  "95": {
+    "summary": "Health decline from aging",
+    "category": "health_concern",
+    "confidence": 0.7
+  },
+  "96": {
+    "summary": "Financial security concerns",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "97": {
+    "summary": "Purpose crisis in advanced age",
+    "category": "existential_doubt",
+    "confidence": 0.8
+  },
+  "98": {
+    "summary": "Physical limitations affecting daily life",
+    "category": "health_decline",
+    "confidence": 0.75
+  },
+  "99": {
+    "summary": "Social isolation in later years",
+    "category": "social_isolation",
+    "confidence": 0.8
+  },
+  "100": {
+    "summary": "Existential loneliness",
+    "category": "existential_doubt",
+    "confidence": 0.8
+  }
+}

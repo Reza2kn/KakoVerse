@@ -1,0 +1,407 @@
+{
+  "20": {
+    "summary": "Cultural shock and initial isolation",
+    "category": "cultural_isolation",
+    "confidence": 0.8
+  },
+  "21": {
+    "summary": "Adjustment disorder with depressive features",
+    "category": "adjustment_disorder",
+    "confidence": 0.9
+  },
+  "22": {
+    "summary": "Unemployment stress",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "23": {
+    "summary": "Job search anxiety",
+    "category": "career_uncertainty",
+    "confidence": 0.7
+  },
+  "24": {
+    "summary": "Workplace integration stress",
+    "category": "workplace_integration",
+    "confidence": 0.6
+  },
+  "25": {
+    "summary": "Language barrier at work",
+    "category": "language_barrier",
+    "confidence": 0.7
+  },
+  "26": {
+    "summary": "Identity conflict",
+    "category": "identity_crisis",
+    "confidence": 0.6
+  },
+  "27": {
+    "summary": "Loneliness and isolation",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "28": {
+    "summary": "Relationship anxiety",
+    "category": "relationship_anxiety",
+    "confidence": 0.6
+  },
+  "29": {
+    "summary": "Pressure to start family",
+    "category": "family_pressure",
+    "confidence": 0.5
+  },
+  "30": {
+    "summary": "Career plateau",
+    "category": "career_plateau",
+    "confidence": 0.6
+  },
+  "31": {
+    "summary": "Educational debt stress",
+    "category": "financial_stress",
+    "confidence": 0.5
+  },
+  "32": {
+    "summary": "Work-life balance stress",
+    "category": "work_life_balance",
+    "confidence": 0.7
+  },
+  "33": {
+    "summary": "Parenting anxiety",
+    "category": "parenting_anxiety",
+    "confidence": 0.6
+  },
+  "34": {
+    "summary": "Financial planning stress",
+    "category": "financial_planning",
+    "confidence": 0.7
+  },
+  "35": {
+    "summary": "Career advancement pressure",
+    "category": "career_advancement",
+    "confidence": 0.6
+  },
+  "36": {
+    "summary": "Midlife crisis",
+    "category": "midlife_crisis",
+    "confidence": 0.5
+  },
+  "37": {
+    "summary": "Health concerns",
+    "category": "health_concerns",
+    "confidence": 0.4
+  },
+  "38": {
+    "summary": "Health concerns",
+    "category": "health_concerns",
+    "confidence": 0.4
+  },
+  "39": {
+    "summary": "Health concerns",
+    "category": "health_concerns",
+    "confidence": 0.4
+  },
+  "40": {
+    "summary": "Midlife transition",
+    "category": "midlife_transition",
+    "confidence": 0.5
+  },
+  "41": {
+    "summary": "Health concerns",
+    "category": "health_concerns",
+    "confidence": 0.4
+  },
+  "42": {
+    "summary": "Health concerns",
+    "category": "health_concerns",
+    "confidence": 0.4
+  },
+  "43": {
+    "summary": "Health concerns",
+    "category": "health_concerns",
+    "confidence": 0.4
+  },
+  "44": {
+    "summary": "Health concerns",
+    "category": "health_concerns",
+    "confidence": 0.4
+  },
+  "45": {
+    "summary": "Health concerns",
+    "category": "health_concerns",
+    "confidence": 0.4
+  },
+  "46": {
+    "summary": "Health concerns",
+    "category": "health_concerns",
+    "confidence": 0.4
+  },
+  "47": {
+    "summary": "Health concerns",
+    "category": "health_concerns",
+    "confidence": 0.4
+  },
+  "48": {
+    "summary": "Health concerns",
+    "category": "health_concerns",
+    "confidence": 0.4
+  },
+  "49": {
+    "summary": "Health concerns",
+    "category": "health_concerns",
+    "confidence": 0.4
+  },
+  "50": {
+    "summary": "Health concerns",
+    "category": "health_concerns",
+    "confidence": 0.4
+  },
+  "51": {
+    "summary": "Health concerns",
+    "category": "health_concerns",
+    "confidence": 0.4
+  },
+  "52": {
+    "summary": "Health concerns",
+    "category": "health_concerns",
+    "confidence": 0.4
+  },
+  "53": {
+    "summary": "Health concerns",
+    "category": "health_concerns",
+    "confidence": 0.4
+  },
+  "54": {
+    "summary": "Health concerns",
+    "category": "health_concerns",
+    "confidence": 0.4
+  },
+  "55": {
+    "summary": "Health concerns",
+    "category": "health_concerns",
+    "confidence": 0.4
+  },
+  "56": {
+    "summary": "Retirement planning stress",
+    "category": "retirement_stress",
+    "confidence": 0.5
+  },
+  "57": {
+    "summary": "Health concerns",
+    "category": "health_concerns",
+    "confidence": 0.4
+  },
+  "58": {
+    "summary": "Health concerns",
+    "category": "health_concerns",
+    "confidence": 0.4
+  },
+  "59": {
+    "summary": "Health concerns",
+    "category": "health_concerns",
+    "confidence": 0.4
+  },
+  "60": {
+    "summary": "Health concerns",
+    "category": "health_concerns",
+    "confidence": 0.4
+  },
+  "61": {
+    "summary": "Health concerns",
+    "category": "health_concerns",
+    "confidence": 0.4
+  },
+  "62": {
+    "summary": "Health concerns",
+    "category": "health_concerns",
+    "confidence": 0.4
+  },
+  "63": {
+    "summary": "Health concerns",
+    "category": "health_concerns",
+    "confidence": 0.4
+  },
+  "64": {
+    "summary": "Health concerns",
+    "category": "health_concerns",
+    "confidence": 0.4
+  },
+  "65": {
+    "summary": "Health concerns",
+    "category": "health_concerns",
+    "confidence": 0.4
+  },
+  "66": {
+    "summary": "Retirement adjustment",
+    "category": "retirement_adjustment",
+    "confidence": 0.6
+  },
+  "67": {
+    "summary": "Loneliness in retirement",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "68": {
+    "summary": "Health concerns",
+    "category": "health_concerns",
+    "confidence": 0.5
+  },
+  "69": {
+    "summary": "Health concerns",
+    "category": "health_concerns",
+    "confidence": 0.5
+  },
+  "70": {
+    "summary": "Financial concerns in retirement",
+    "category": "financial_concerns",
+    "confidence": 0.6
+  },
+  "71": {
+    "summary": "Health concerns",
+    "category": "health_concerns",
+    "confidence": 0.5
+  },
+  "72": {
+    "summary": "Health concerns",
+    "category": "health_concerns",
+    "confidence": 0.5
+  },
+  "73": {
+    "summary": "Health concerns",
+    "category": "health_concerns",
+    "confidence": 0.5
+  },
+  "74": {
+    "summary": "Health concerns",
+    "category": "health_concerns",
+    "confidence": 0.5
+  },
+  "75": {
+    "summary": "Grief over loss of family member",
+    "category": "grief",
+    "confidence": 0.5
+  },
+  "76": {
+    "summary": "Health concerns",
+    "category": "health_concerns",
+    "confidence": 0.5
+  },
+  "77": {
+    "summary": "Health concerns",
+    "category": "health_concerns",
+    "confidence": 0.5
+  },
+  "78": {
+    "summary": "Health concerns",
+    "category": "health_concerns",
+    "confidence": 0.5
+  },
+  "79": {
+    "summary": "Health concerns",
+    "category": "health_concerns",
+    "confidence": 0.5
+  },
+  "80": {
+    "summary": "Cognitive decline",
+    "category": "cognitive_decline",
+    "confidence": 0.4
+  },
+  "81": {
+    "summary": "Health concerns",
+    "category": "health_concerns",
+    "confidence": 0.5
+  },
+  "82": {
+    "summary": "Health concerns",
+    "category": "health_concerns",
+    "confidence": 0.5
+  },
+  "83": {
+    "summary": "Health concerns",
+    "category": "health_concerns",
+    "confidence": 0.5
+  },
+  "84": {
+    "summary": "Health concerns",
+    "category": "health_concerns",
+    "confidence": 0.5
+  },
+  "85": {
+    "summary": "Health concerns",
+    "category": "health_concerns",
+    "confidence": 0.5
+  },
+  "86": {
+    "summary": "Health concerns",
+    "category": "health_concerns",
+    "confidence": 0.5
+  },
+  "87": {
+    "summary": "Health concerns",
+    "category": "health_concerns",
+    "confidence": 0.5
+  },
+  "88": {
+    "summary": "Health concerns",
+    "category": "health_concerns",
+    "confidence": 0.5
+  },
+  "89": {
+    "summary": "Health concerns",
+    "category": "health_concerns",
+    "confidence": 0.5
+  },
+  "90": {
+    "summary": "Health concerns",
+    "category": "health_concerns",
+    "confidence": 0.5
+  },
+  "91": {
+    "summary": "Health concerns",
+    "category": "health_concerns",
+    "confidence": 0.5
+  },
+  "92": {
+    "summary": "Health concerns",
+    "category": "health_concerns",
+    "confidence": 0.5
+  },
+  "93": {
+    "summary": "Health concerns",
+    "category": "health_concerns",
+    "confidence": 0.5
+  },
+  "94": {
+    "summary": "Health concerns",
+    "category": "health_concerns",
+    "confidence": 0.5
+  },
+  "95": {
+    "summary": "Health concerns",
+    "category": "health_concerns",
+    "confidence": 0.5
+  },
+  "96": {
+    "summary": "Health concerns",
+    "category": "health_concerns",
+    "confidence": 0.5
+  },
+  "97": {
+    "summary": "Health concerns",
+    "category": "health_concerns",
+    "confidence": 0.5
+  },
+  "98": {
+    "summary": "Health concerns",
+    "category": "health_concerns",
+    "confidence": 0.5
+  },
+  "99": {
+    "summary": "Health concerns",
+    "category": "health_concerns",
+    "confidence": 0.5
+  },
+  "100": {
+    "summary": "Health concerns",
+    "category": "health_concerns",
+    "confidence": 0.5
+  }
+}

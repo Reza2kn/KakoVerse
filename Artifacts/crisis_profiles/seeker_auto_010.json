@@ -1,0 +1,407 @@
+{
+  "20": {
+    "summary": "Identity conflict between Qatari roots and NZ individualism",
+    "category": "identity_crisis",
+    "confidence": 0.65
+  },
+  "21": {
+    "summary": "Navigating NZ's post-pandemic social isolation",
+    "category": "social_isolation",
+    "confidence": 0.7
+  },
+  "22": {
+    "summary": "Pressure to choose between heritage preservation and creative arts",
+    "category": "career_dilemma",
+    "confidence": 0.6
+  },
+  "23": {
+    "summary": "Financial strain from international relocation costs",
+    "category": "financial_stress",
+    "confidence": 0.75
+  },
+  "24": {
+    "summary": "Cultural code-switching fatigue in multicultural NZ",
+    "category": "cultural_tension",
+    "confidence": 0.68
+  },
+  "25": {
+    "summary": "Grief over delayed family reunification plans",
+    "category": "grief",
+    "confidence": 0.72
+  },
+  "26": {
+    "summary": "Discrimination in NZ workplace despite qualifications",
+    "category": "discrimination",
+    "confidence": 0.6
+  },
+  "27": {
+    "summary": "Burnout from juggling heritage work and creative side hustles",
+    "category": "career_burnout",
+    "confidence": 0.78
+  },
+  "28": {
+    "summary": "Marital pressure conflicting with personal freedom values",
+    "category": "relationship_tension",
+    "confidence": 0.65
+  },
+  "29": {
+    "summary": "Anxiety about permanent residency renewal uncertainties",
+    "category": "legal_uncertainty",
+    "confidence": 0.8
+  },
+  "30": {
+    "summary": "Identity crisis between Qatari tradition and NZ individualism",
+    "category": "identity_crisis",
+    "confidence": 0.75
+  },
+  "31": {
+    "summary": "Pressure to conform to NZ work culture vs. Qatari family expectations",
+    "category": "cultural_tension",
+    "confidence": 0.7
+  },
+  "32": {
+    "summary": "Creative block in digital art practice",
+    "category": "creative_block",
+    "confidence": 0.6
+  },
+  "33": {
+    "summary": "Marital dissatisfaction conflicting with self-direction values",
+    "category": "relationship_dissatisfaction",
+    "confidence": 0.7
+  },
+  "34": {
+    "summary": "Parenting challenges with delayed family support system",
+    "category": "parenting_stress",
+    "confidence": 0.68
+  },
+  "35": {
+    "summary": "Midlife reassessment of career path alignment",
+    "category": "career_doubt",
+    "confidence": 0.8
+  },
+  "36": {
+    "summary": "Health anxiety from pandemic exposure history",
+    "category": "health_anxiety",
+    "confidence": 0.72
+  },
+  "37": {
+    "summary": "Financial pressure from children's education costs",
+    "category": "financial_stress",
+    "confidence": 0.77
+  },
+  "38": {
+    "summary": "Marital conflict over relocation decisions",
+    "category": "relationship_tension",
+    "confidence": 0.8
+  },
+  "39": {
+    "summary": "Identity crisis after leaving NZ for Europe",
+    "category": "identity_crisis",
+    "confidence": 0.85
+  },
+  "40": {
+    "summary": "Career stagnation in heritage conservation field",
+    "category": "career_stagnation",
+    "confidence": 0.78
+  },
+  "41": {
+    "summary": "Parenting guilt over international relocation impact",
+    "category": "parenting_guilt",
+    "confidence": 0.82
+  },
+  "42": {
+    "summary": "Marital strain from prolonged separation",
+    "category": "relationship_dissatisfaction",
+    "confidence": 0.88
+  },
+  "43": {
+    "summary": "Health decline from accumulated stress",
+    "category": "chronic_health",
+    "confidence": 0.75
+  },
+  "44": {
+    "summary": "Financial pressure from adult children's expenses",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "45": {
+    "summary": "Midlife crisis questioning life trajectory",
+    "category": "midlife_crisis",
+    "confidence": 0.9
+  },
+  "46": {
+    "summary": "Grief over spouse's declining health",
+    "category": "grief",
+    "confidence": 0.85
+  },
+  "47": {
+    "summary": "Caregiver burnout for aging parents",
+    "category": "caregiver_burnout",
+    "confidence": 0.8
+  },
+  "48": {
+    "summary": "Retirement anxiety despite stable finances",
+    "category": "retirement_anxiety",
+    "confidence": 0.77
+  },
+  "49": {
+    "summary": "Marital conflict over relocation decisions",
+    "category": "relationship_tension",
+    "confidence": 0.82
+  },
+  "50": {
+    "summary": "Identity crisis after leaving NZ for Europe",
+    "category": "identity_crisis",
+    "confidence": 0.88
+  },
+  "51": {
+    "summary": "Parenting guilt over international relocation impact",
+    "category": "parenting_guilt",
+    "confidence": 0.85
+  },
+  "52": {
+    "summary": "Marital strain from prolonged separation",
+    "category": "relationship_dissatisfaction",
+    "confidence": 0.9
+  },
+  "53": {
+    "summary": "Health decline from accumulated stress",
+    "category": "chronic_health",
+    "confidence": 0.8
+  },
+  "54": {
+    "summary": "Financial pressure from adult children's expenses",
+    "category": "financial_stress",
+    "confidence": 0.85
+  },
+  "55": {
+    "summary": "Adjustment difficulties after international relocation and family loss",
+    "category": "adjustment_disorder",
+    "confidence": 0.95
+  },
+  "56": {
+    "summary": "Grief over spouse's death compounded by language barriers",
+    "category": "grief",
+    "confidence": 0.9
+  },
+  "57": {
+    "summary": "Loneliness in new cultural environment",
+    "category": "social_isolation",
+    "confidence": 0.85
+  },
+  "58": {
+    "summary": "Chronic pain from past judo injuries",
+    "category": "chronic_pain",
+    "confidence": 0.75
+  },
+  "59": {
+    "summary": "Caregiver burden for grandchildren",
+    "category": "caregiver_burnout",
+    "confidence": 0.8
+  },
+  "60": {
+    "summary": "Retirement adjustment challenges",
+    "category": "retirement_adjustment",
+    "confidence": 0.8
+  },
+  "61": {
+    "summary": "Health anxiety from aging and past exposures",
+    "category": "health_anxiety",
+    "confidence": 0.78
+  },
+  "62": {
+    "summary": "Financial insecurity despite stability",
+    "category": "financial_concern",
+    "confidence": 0.7
+  },
+  "63": {
+    "summary": "Guilt over delayed family reunification",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "64": {
+    "summary": "Loneliness from children's relocation",
+    "category": "social_isolation",
+    "confidence": 0.85
+  },
+  "65": {
+    "summary": "Chronic illness management challenges",
+    "category": "chronic_illness",
+    "confidence": 0.8
+  },
+  "66": {
+    "summary": "Caregiver burnout for aging spouse",
+    "category": "caregiver_burnout",
+    "confidence": 0.85
+  },
+  "67": {
+    "summary": "Retirement income anxiety",
+    "category": "financial_stress",
+    "confidence": 0.75
+  },
+  "68": {
+    "summary": "Guilt over past relocation decisions",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "69": {
+    "summary": "Social isolation from limited language skills",
+    "category": "social_isolation",
+    "confidence": 0.88
+  },
+  "70": {
+    "summary": "Chronic pain limiting community activities",
+    "category": "chronic_pain",
+    "confidence": 0.8
+  },
+  "71": {
+    "summary": "Caregiver burden for grandchildren",
+    "category": "caregiver_burnout",
+    "confidence": 0.85
+  },
+  "72": {
+    "summary": "Financial pressure from grandchildren's education",
+    "category": "financial_stress",
+    "confidence": 0.78
+  },
+  "73": {
+    "summary": "Guilt over delayed family reunification",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "74": {
+    "summary": "Loneliness from children's relocation",
+    "category": "social_isolation",
+    "confidence": 0.9
+  },
+  "75": {
+    "summary": "Health decline from accumulated stress",
+    "category": "chronic_health",
+    "confidence": 0.85
+  },
+  "76": {
+    "summary": "Caregiver burnout for aging spouse",
+    "category": "caregiver_burnout",
+    "confidence": 0.9
+  },
+  "77": {
+    "summary": "Retirement income insecurity",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "78": {
+    "summary": "Guilt over past relocation decisions",
+    "category": "grief",
+    "confidence": 0.85
+  },
+  "79": {
+    "summary": "Social isolation from limited language skills",
+    "category": "social_isolation",
+    "confidence": 0.9
+  },
+  "80": {
+    "summary": "Chronic pain limiting mobility",
+    "category": "chronic_pain",
+    "confidence": 0.85
+  },
+  "81": {
+    "summary": "Caregiver burden for grandchildren",
+    "category": "caregiver_burnout",
+    "confidence": 0.85
+  },
+  "82": {
+    "summary": "Financial pressure from grandchildren's expenses",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "83": {
+    "summary": "Guilt over delayed family reunification",
+    "category": "grief",
+    "confidence": 0.85
+  },
+  "84": {
+    "summary": "Loneliness from children's relocation",
+    "category": "social_isolation",
+    "confidence": 0.9
+  },
+  "85": {
+    "summary": "Health decline from accumulated stress",
+    "category": "chronic_health",
+    "confidence": 0.85
+  },
+  "86": {
+    "summary": "Caregiver burnout for aging spouse",
+    "category": "caregiver_burnout",
+    "confidence": 0.9
+  },
+  "87": {
+    "summary": "Retirement income anxiety",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "88": {
+    "summary": "Guilt over past relocation decisions",
+    "category": "grief",
+    "confidence": 0.85
+  },
+  "89": {
+    "summary": "Social isolation from limited language skills",
+    "category": "social_isolation",
+    "confidence": 0.9
+  },
+  "90": {
+    "summary": "Chronic pain limiting daily activities",
+    "category": "chronic_pain",
+    "confidence": 0.85
+  },
+  "91": {
+    "summary": "Caregiver burden for grandchildren",
+    "category": "caregiver_burnout",
+    "confidence": 0.85
+  },
+  "92": {
+    "summary": "Financial pressure from grandchildren's education",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "93": {
+    "summary": "Guilt over delayed family reunification",
+    "category": "grief",
+    "confidence": 0.85
+  },
+  "94": {
+    "summary": "Loneliness from children's relocation",
+    "category": "social_isolation",
+    "confidence": 0.9
+  },
+  "95": {
+    "summary": "Health decline from accumulated stress",
+    "category": "chronic_health",
+    "confidence": 0.85
+  },
+  "96": {
+    "summary": "Caregiver burnout for aging spouse",
+    "category": "caregiver_burnout",
+    "confidence": 0.9
+  },
+  "97": {
+    "summary": "Retirement income insecurity",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "98": {
+    "summary": "Guilt over past relocation decisions",
+    "category": "grief",
+    "confidence": 0.85
+  },
+  "99": {
+    "summary": "Social isolation from limited language skills",
+    "category": "social_isolation",
+    "confidence": 0.9
+  },
+  "100": {
+    "summary": "Chronic pain limiting mobility",
+    "category": "chronic_pain",
+    "confidence": 0.85
+  }
+}

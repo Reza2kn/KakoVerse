@@ -1,0 +1,407 @@
+{
+  "20": {
+    "summary": "Discrimination and isolation as foreign worker",
+    "category": "discrimination_stress",
+    "confidence": 0.85
+  },
+  "21": {
+    "summary": "Persistent anxiety from displacement trauma",
+    "category": "trauma",
+    "confidence": 0.8
+  },
+  "22": {
+    "summary": "Financial precarity and housing instability",
+    "category": "financial_stress",
+    "confidence": 0.75
+  },
+  "23": {
+    "summary": "Loneliness and difficulty forming relationships",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "24": {
+    "summary": "Cultural disconnection and identity crisis",
+    "category": "identity_crisis",
+    "confidence": 0.7
+  },
+  "25": {
+    "summary": "Health concerns from manual labor strain",
+    "category": "occupational_health",
+    "confidence": 0.65
+  },
+  "26": {
+    "summary": "Grief over lost homeland and family",
+    "category": "grief",
+    "confidence": 0.7
+  },
+  "27": {
+    "summary": "Fear of deportation or legal status issues",
+    "category": "legal_stress",
+    "confidence": 0.6
+  },
+  "28": {
+    "summary": "Burnout from demanding work and isolation",
+    "category": "burnout",
+    "confidence": 0.65
+  },
+  "29": {
+    "summary": "Midlife reflection and existential doubt",
+    "category": "midlife_crisis",
+    "confidence": 0.6
+  },
+  "30": {
+    "summary": "Physical health decline from years of labor",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "31": {
+    "summary": "Financial insecurity and job loss risk",
+    "category": "financial_stress",
+    "confidence": 0.75
+  },
+  "32": {
+    "summary": "Loss of close friend or mentor",
+    "category": "grief",
+    "confidence": 0.6
+  },
+  "33": {
+    "summary": "Health scare and fear of mortality",
+    "category": "health_anxiety",
+    "confidence": 0.65
+  },
+  "34": {
+    "summary": "Caregiving responsibilities for aging parents",
+    "category": "caregiver_stress",
+    "confidence": 0.6
+  },
+  "35": {
+    "summary": "Marital strain and family conflicts",
+    "category": "relationship_dysfunction",
+    "confidence": 0.65
+  },
+  "36": {
+    "summary": "Job insecurity and career stagnation",
+    "category": "career_stagnation",
+    "confidence": 0.6
+  },
+  "37": {
+    "summary": "Health issues requiring medical treatment",
+    "category": "chronic_illness",
+    "confidence": 0.65
+  },
+  "38": {
+    "summary": "Retirement planning anxiety",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "39": {
+    "summary": "Chronic pain and reduced mobility",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "40": {
+    "summary": "Grief over loss of spouse",
+    "category": "grief",
+    "confidence": 0.75
+  },
+  "41": {
+    "summary": "Financial worries about retirement savings",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "42": {
+    "summary": "Health management and medication costs",
+    "category": "financial_stress",
+    "confidence": 0.75
+  },
+  "43": {
+    "summary": "Loneliness and social isolation",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "44": {
+    "summary": "Fear of becoming a burden",
+    "category": "burden_fear",
+    "confidence": 0.7
+  },
+  "45": {
+    "summary": "Health decline and chronic conditions",
+    "category": "chronic_illness",
+    "confidence": 0.75
+  },
+  "46": {
+    "summary": "Loss of independence and mobility",
+    "category": "loss_of_independence",
+    "confidence": 0.7
+  },
+  "47": {
+    "summary": "Grief over loss of friends and community",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "48": {
+    "summary": "Retirement adjustment and identity loss",
+    "category": "retirement_stress",
+    "confidence": 0.75
+  },
+  "49": {
+    "summary": "Health issues requiring long-term care",
+    "category": "caregiver_stress",
+    "confidence": 0.7
+  },
+  "50": {
+    "summary": "Advanced age and frailty",
+    "category": "end_of_life",
+    "confidence": 0.75
+  },
+  "51": {
+    "summary": "Financial insecurity in retirement",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "52": {
+    "summary": "Health management and chronic conditions",
+    "category": "chronic_illness",
+    "confidence": 0.75
+  },
+  "53": {
+    "summary": "Loss of independence and need for assistance",
+    "category": "loss_of_independence",
+    "confidence": 0.7
+  },
+  "54": {
+    "summary": "Grief over loss of spouse",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "55": {
+    "summary": "Fear of becoming a burden",
+    "category": "burden_fear",
+    "confidence": 0.75
+  },
+  "56": {
+    "summary": "Health decline and frailty",
+    "category": "chronic_illness",
+    "confidence": 0.75
+  },
+  "57": {
+    "summary": "Financial worries about long-term care",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "58": {
+    "summary": "Loneliness and social isolation",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "59": {
+    "summary": "Grief over loss of friends and family",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "60": {
+    "summary": "End-of-life concerns and legacy reflection",
+    "category": "end_of_life",
+    "confidence": 0.8
+  },
+  "61": {
+    "summary": "Health management and chronic conditions",
+    "category": "chronic_illness",
+    "confidence": 0.75
+  },
+  "62": {
+    "summary": "Financial insecurity and retirement income",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "63": {
+    "summary": "Loss of independence and need for care",
+    "category": "loss_of_independence",
+    "confidence": 0.75
+  },
+  "64": {
+    "summary": "Grief over loss of spouse",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "65": {
+    "summary": "Health decline and chronic pain",
+    "category": "chronic_pain",
+    "confidence": 0.75
+  },
+  "66": {
+    "summary": "Retirement adjustment and identity loss",
+    "category": "retirement_stress",
+    "confidence": 0.75
+  },
+  "67": {
+    "summary": "Financial worries about end-of-life care",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "68": {
+    "summary": "Loneliness and social isolation",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "69": {
+    "summary": "Grief over loss of friends and family",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "70": {
+    "summary": "Health management and chronic conditions",
+    "category": "chronic_illness",
+    "confidence": 0.75
+  },
+  "71": {
+    "summary": "Fear of becoming a burden",
+    "category": "burden_fear",
+    "confidence": 0.75
+  },
+  "72": {
+    "summary": "Loss of independence and need for assistance",
+    "category": "loss_of_independence",
+    "confidence": 0.7
+  },
+  "73": {
+    "summary": "End-of-life concerns and legacy reflection",
+    "category": "end_of_life",
+    "confidence": 0.8
+  },
+  "74": {
+    "summary": "Financial insecurity in old age",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "75": {
+    "summary": "Health decline and frailty",
+    "category": "chronic_illness",
+    "confidence": 0.75
+  },
+  "76": {
+    "summary": "Grief over loss of spouse",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "77": {
+    "summary": "Loneliness and social isolation",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "78": {
+    "summary": "Loss of independence and need for care",
+    "category": "loss_of_independence",
+    "confidence": 0.75
+  },
+  "79": {
+    "summary": "Grief over loss of friends and family",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "80": {
+    "summary": "Advanced age and frailty",
+    "category": "end_of_life",
+    "confidence": 0.8
+  },
+  "81": {
+    "summary": "Health management and chronic conditions",
+    "category": "chronic_illness",
+    "confidence": 0.75
+  },
+  "82": {
+    "summary": "Financial worries about end-of-life care",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "83": {
+    "summary": "Loss of independence and need for assistance",
+    "category": "loss_of_independence",
+    "confidence": 0.75
+  },
+  "84": {
+    "summary": "Grief over loss of spouse",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "85": {
+    "summary": "Health decline and chronic pain",
+    "category": "chronic_pain",
+    "confidence": 0.75
+  },
+  "86": {
+    "summary": "Retirement adjustment and identity loss",
+    "category": "retirement_stress",
+    "confidence": 0.75
+  },
+  "87": {
+    "summary": "Loneliness and social isolation",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "88": {
+    "summary": "Grief over loss of friends and family",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "89": {
+    "summary": "Health management and chronic conditions",
+    "category": "chronic_illness",
+    "confidence": 0.75
+  },
+  "90": {
+    "summary": "Fear of becoming a burden",
+    "category": "burden_fear",
+    "confidence": 0.75
+  },
+  "91": {
+    "summary": "Loss of independence and need for care",
+    "category": "loss_of_independence",
+    "confidence": 0.7
+  },
+  "92": {
+    "summary": "End-of-life concerns and legacy reflection",
+    "category": "end_of_life",
+    "confidence": 0.8
+  },
+  "93": {
+    "summary": "Financial insecurity in old age",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "94": {
+    "summary": "Health decline and frailty",
+    "category": "chronic_illness",
+    "confidence": 0.75
+  },
+  "95": {
+    "summary": "Grief over loss of spouse",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "96": {
+    "summary": "Loneliness and social isolation",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "97": {
+    "summary": "Loss of independence and need for assistance",
+    "category": "loss_of_independence",
+    "confidence": 0.75
+  },
+  "98": {
+    "summary": "Grief over loss of friends and family",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "99": {
+    "summary": "Health management and chronic conditions",
+    "category": "chronic_illness",
+    "confidence": 0.75
+  },
+  "100": {
+    "summary": "End-of-life concerns and legacy reflection",
+    "category": "end_of_life",
+    "confidence": 0.8
+  }
+}

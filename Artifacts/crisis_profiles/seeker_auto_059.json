@@ -1,0 +1,407 @@
+{
+  "20": {
+    "summary": "Adjusting to Manila's urban challenges as a young immigrant",
+    "category": "acculturation_stress",
+    "confidence": 0.85
+  },
+  "21": {
+    "summary": "Navigating martial law restrictions and political uncertainty",
+    "category": "political_repression",
+    "confidence": 0.78
+  },
+  "22": {
+    "summary": "Balancing family expectations with personal career aspirations",
+    "category": "intergenerational_conflict",
+    "confidence": 0.82
+  },
+  "23": {
+    "summary": "Financial strain from supporting extended family back home",
+    "category": "financial_stress",
+    "confidence": 0.75
+  },
+  "24": {
+    "summary": "Cultural identity crisis between Bosnian heritage and Filipino environment",
+    "category": "identity_dissonance",
+    "confidence": 0.8
+  },
+  "25": {
+    "summary": "Career stagnation in teaching profession amid economic constraints",
+    "category": "occupational_dissatisfaction",
+    "confidence": 0.7
+  },
+  "26": {
+    "summary": "Pressure to marry and establish family before age 30",
+    "category": "relationship_pressure",
+    "confidence": 0.77
+  },
+  "27": {
+    "summary": "Witnessing political violence during student activism",
+    "category": "trauma_exposure",
+    "confidence": 0.68
+  },
+  "28": {
+    "summary": "Grief over first major family loss while establishing independence",
+    "category": "grief",
+    "confidence": 0.85
+  },
+  "29": {
+    "summary": "Struggling to balance teaching career with family responsibilities",
+    "category": "work_life_balance",
+    "confidence": 0.73
+  },
+  "30": {
+    "summary": "Questioning career path after 10 years in same teaching position",
+    "category": "mid_career_doubt",
+    "confidence": 0.65
+  },
+  "31": {
+    "summary": "Marital conflict over relocation plans between countries",
+    "category": "relationship_tension",
+    "confidence": 0.72
+  },
+  "32": {
+    "summary": "Parenting challenges with first child in unstable economic conditions",
+    "category": "parenting_stress",
+    "confidence": 0.79
+  },
+  "33": {
+    "summary": "Health scare triggering existential anxiety about mortality",
+    "category": "health_anxiety",
+    "confidence": 0.6
+  },
+  "34": {
+    "summary": "Professional isolation in teaching amid educational reforms",
+    "category": "professional_loneliness",
+    "confidence": 0.58
+  },
+  "35": {
+    "summary": "Midlife crisis questioning life choices and cultural identity",
+    "category": "existential_crisis",
+    "confidence": 0.62
+  },
+  "36": {
+    "summary": "Spousal conflict over refugee resettlement decisions",
+    "category": "migration_dilemma",
+    "confidence": 0.75
+  },
+  "37": {
+    "summary": "Witnessing community violence forcing family displacement",
+    "category": "forced_migration_trauma",
+    "confidence": 0.88
+  },
+  "38": {
+    "summary": "Adjusting to refugee camp life with children's education concerns",
+    "category": "displacement_stress",
+    "confidence": 0.85
+  },
+  "39": {
+    "summary": "Grief over lost homeland and unfulfilled dreams",
+    "category": "collective_grief",
+    "confidence": 0.9
+  },
+  "40": {
+    "summary": "Chronic health issues from wartime exposure manifesting",
+    "category": "chronic_illness",
+    "confidence": 0.7
+  },
+  "41": {
+    "summary": "Caretaking burden for aging parents in refugee status",
+    "category": "caregiver_burnout",
+    "confidence": 0.78
+  },
+  "42": {
+    "summary": "Cultural assimilation pressure conflicting with traditional values",
+    "category": "cultural_dissonance",
+    "confidence": 0.82
+  },
+  "43": {
+    "summary": "Economic insecurity despite professional qualifications",
+    "category": "underemployment",
+    "confidence": 0.75
+  },
+  "44": {
+    "summary": "Generational conflict with children's assimilation pace",
+    "category": "intergenerational_gap",
+    "confidence": 0.8
+  },
+  "45": {
+    "summary": "Midlife reassessment of refugee identity and future prospects",
+    "category": "identity_reconciliation",
+    "confidence": 0.73
+  },
+  "46": {
+    "summary": "Spousal health decline requiring increased caregiving",
+    "category": "caregiver_stress",
+    "confidence": 0.88
+  },
+  "47": {
+    "summary": "Retirement anxiety amid limited pension options",
+    "category": "financial_uncertainty",
+    "confidence": 0.77
+  },
+  "48": {
+    "summary": "Chronic pain from old injuries affecting daily activities",
+    "category": "chronic_pain",
+    "confidence": 0.85
+  },
+  "49": {
+    "summary": "Grandparenting challenges with grandchildren's trauma",
+    "category": "intergenerational_trauma",
+    "confidence": 0.82
+  },
+  "50": {
+    "summary": "Marital strain after 30 years combined with displacement stress",
+    "category": "relationship_deterioration",
+    "confidence": 0.8
+  },
+  "51": {
+    "summary": "Health decline requiring medical decisions with limited resources",
+    "category": "healthcare_access",
+    "confidence": 0.75
+  },
+  "52": {
+    "summary": "Witnessing community violence affecting mental health",
+    "category": "vicarious_trauma",
+    "confidence": 0.88
+  },
+  "53": {
+    "summary": "Grief over loss of Bosnian homeland community",
+    "category": "collective_grief",
+    "confidence": 0.92
+  },
+  "54": {
+    "summary": "Caretaking burden for spouse with chronic illness",
+    "category": "caregiver_burnout",
+    "confidence": 0.9
+  },
+  "55": {
+    "summary": "Retirement adjustment with financial constraints",
+    "category": "financial_stress",
+    "confidence": 0.78
+  },
+  "56": {
+    "summary": "Chronic health conditions requiring medication management",
+    "category": "health_management",
+    "confidence": 0.85
+  },
+  "57": {
+    "summary": "Social isolation despite family presence",
+    "category": "loneliness",
+    "confidence": 0.82
+  },
+  "58": {
+    "summary": "Witnessing neighborhood violence causing hypervigilance",
+    "category": "PTSD_symptoms",
+    "confidence": 0.87
+  },
+  "59": {
+    "summary": "Guilt over unfulfilled teaching career dreams",
+    "category": "regret",
+    "confidence": 0.75
+  },
+  "60": {
+    "summary": "Health decline limiting gardening and cooking hobbies",
+    "category": "activity_restriction",
+    "confidence": 0.8
+  },
+  "61": {
+    "summary": "Caretaking for spouse with dementia onset",
+    "category": "caregiver_burnout",
+    "confidence": 0.92
+  },
+  "62": {
+    "summary": "Financial insecurity from inflation and limited income",
+    "category": "financial_uncertainty",
+    "confidence": 0.85
+  },
+  "63": {
+    "summary": "Chronic pain affecting mobility and independence",
+    "category": "chronic_pain",
+    "confidence": 0.88
+  },
+  "64": {
+    "summary": "Witnessing political instability causing anxiety",
+    "category": "political_anxiety",
+    "confidence": 0.83
+  },
+  "65": {
+    "summary": "Grief over loss of teaching legacy and cultural knowledge",
+    "category": "legacy_concerns",
+    "confidence": 0.77
+  },
+  "66": {
+    "summary": "Health issues requiring medical procedures with limited access",
+    "category": "healthcare_access",
+    "confidence": 0.8
+  },
+  "67": {
+    "summary": "Social isolation despite family visits",
+    "category": "loneliness",
+    "confidence": 0.85
+  },
+  "68": {
+    "summary": "Witnessing violence affecting mental health stability",
+    "category": "PTSD_symptoms",
+    "confidence": 0.9
+  },
+  "69": {
+    "summary": "Chronic illness management with limited resources",
+    "category": "health_management",
+    "confidence": 0.87
+  },
+  "70": {
+    "summary": "Caretaking burden for spouse with advanced dementia",
+    "category": "caregiver_burnout",
+    "confidence": 0.95
+  },
+  "71": {
+    "summary": "Guilt over unmet family obligations",
+    "category": "regret",
+    "confidence": 0.82
+  },
+  "72": {
+    "summary": "Health decline limiting storytelling and mentoring",
+    "category": "activity_restriction",
+    "confidence": 0.85
+  },
+  "73": {
+    "summary": "Witnessing community violence causing persistent anxiety",
+    "category": "political_anxiety",
+    "confidence": 0.88
+  },
+  "74": {
+    "summary": "Chronic pain affecting gardening and cooking",
+    "category": "chronic_pain",
+    "confidence": 0.9
+  },
+  "75": {
+    "summary": "Social isolation despite grandchildren's visits",
+    "category": "loneliness",
+    "confidence": 0.92
+  },
+  "76": {
+    "summary": "Health issues requiring constant medical attention",
+    "category": "healthcare_access",
+    "confidence": 0.85
+  },
+  "77": {
+    "summary": "Witnessing violence affecting mental health",
+    "category": "PTSD_symptoms",
+    "confidence": 0.93
+  },
+  "78": {
+    "summary": "Guilt over unfulfilled teaching legacy",
+    "category": "regret",
+    "confidence": 0.8
+  },
+  "79": {
+    "summary": "Chronic illness limiting cooking and gardening",
+    "category": "activity_restriction",
+    "confidence": 0.87
+  },
+  "80": {
+    "summary": "Caretaking for spouse with advanced dementia",
+    "category": "caregiver_burnout",
+    "confidence": 0.97
+  },
+  "81": {
+    "summary": "Health decline requiring mobility assistance",
+    "category": "health_management",
+    "confidence": 0.9
+  },
+  "82": {
+    "summary": "Witnessing community violence causing hypervigilance",
+    "category": "PTSD_symptoms",
+    "confidence": 0.95
+  },
+  "83": {
+    "summary": "Guilt over unmet family obligations",
+    "category": "regret",
+    "confidence": 0.85
+  },
+  "84": {
+    "summary": "Chronic pain affecting storytelling and mentoring",
+    "category": "chronic_pain",
+    "confidence": 0.92
+  },
+  "85": {
+    "summary": "Depressive episode following spousal loss",
+    "category": "grief",
+    "confidence": 0.98
+  },
+  "86": {
+    "summary": "Health issues requiring medical procedures",
+    "category": "healthcare_access",
+    "confidence": 0.9
+  },
+  "87": {
+    "summary": "Social isolation despite family visits",
+    "category": "loneliness",
+    "confidence": 0.95
+  },
+  "88": {
+    "summary": "Witnessing violence affecting mental health",
+    "category": "PTSD_symptoms",
+    "confidence": 0.93
+  },
+  "89": {
+    "summary": "Chronic illness management with limited resources",
+    "category": "health_management",
+    "confidence": 0.9
+  },
+  "90": {
+    "summary": "Guilt over unfulfilled teaching legacy",
+    "category": "regret",
+    "confidence": 0.88
+  },
+  "91": {
+    "summary": "Caretaking burden for spouse with advanced dementia",
+    "category": "caregiver_burnout",
+    "confidence": 0.99
+  },
+  "92": {
+    "summary": "Health decline limiting gardening and cooking",
+    "category": "activity_restriction",
+    "confidence": 0.92
+  },
+  "93": {
+    "summary": "Witnessing community violence causing persistent anxiety",
+    "category": "political_anxiety",
+    "confidence": 0.9
+  },
+  "94": {
+    "summary": "Chronic pain affecting storytelling",
+    "category": "chronic_pain",
+    "confidence": 0.95
+  },
+  "95": {
+    "summary": "Social isolation despite grandchildren's visits",
+    "category": "loneliness",
+    "confidence": 0.97
+  },
+  "96": {
+    "summary": "Health issues requiring constant medical attention",
+    "category": "healthcare_access",
+    "confidence": 0.93
+  },
+  "97": {
+    "summary": "Witnessing violence affecting mental health stability",
+    "category": "PTSD_symptoms",
+    "confidence": 0.95
+  },
+  "98": {
+    "summary": "Guilt over unmet family obligations",
+    "category": "regret",
+    "confidence": 0.9
+  },
+  "99": {
+    "summary": "Chronic illness limiting cooking and gardening",
+    "category": "activity_restriction",
+    "confidence": 0.92
+  },
+  "100": {
+    "summary": "Existential concerns about legacy and mortality",
+    "category": "existential_crisis",
+    "confidence": 0.85
+  }
+}

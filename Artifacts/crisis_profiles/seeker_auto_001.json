@@ -1,0 +1,407 @@
+{
+  "20": {
+    "summary": "Adjusting to refugee status in Karachi amid pandemic lockdowns",
+    "category": "displacement_trauma",
+    "confidence": 0.95
+  },
+  "21": {
+    "summary": "Navigating Jordan's asylum bureaucracy with limited social support",
+    "category": "legal_bureaucracy",
+    "confidence": 0.9
+  },
+  "22": {
+    "summary": "Language barrier and cultural isolation in Amman's expat communities",
+    "category": "cultural_isolation",
+    "confidence": 0.85
+  },
+  "23": {
+    "summary": "Financial precarity after failed freelance writing pitches",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "24": {
+    "summary": "Grief over lost academic aspirations in LA due to forced relocation",
+    "category": "unmet_ambitions",
+    "confidence": 0.75
+  },
+  "25": {
+    "summary": "Identity conflict between American roots and South Asian refugee experience",
+    "category": "identity_crisis",
+    "confidence": 0.9
+  },
+  "26": {
+    "summary": "Burnout from juggling translation gigs and volunteer work",
+    "category": "career_burnout",
+    "confidence": 0.8
+  },
+  "27": {
+    "summary": "Loneliness during pandemic lockdowns in Karachi refugee camps",
+    "category": "isolation",
+    "confidence": 0.9
+  },
+  "28": {
+    "summary": "Post-traumatic stress from Karachi displacement memories",
+    "category": "ptsd",
+    "confidence": 0.85
+  },
+  "29": {
+    "summary": "Discrimination in Jordanian job market as refugee",
+    "category": "discrimination",
+    "confidence": 0.8
+  },
+  "30": {
+    "summary": "Marriage pressure conflicting with personal independence values",
+    "category": "relationship_dilemma",
+    "confidence": 0.7
+  },
+  "31": {
+    "summary": "Guilt over leaving extended family networks behind",
+    "category": "family_guilt",
+    "confidence": 0.85
+  },
+  "32": {
+    "summary": "Writer's block after traumatic experiences affect creativity",
+    "category": "creative_block",
+    "confidence": 0.75
+  },
+  "33": {
+    "summary": "Health anxiety from pandemic exposure in crowded cities",
+    "category": "health_anxiety",
+    "confidence": 0.8
+  },
+  "34": {
+    "summary": "Visa renewal stress threatening residency in Jordan",
+    "category": "legal_uncertainty",
+    "confidence": 0.8
+  },
+  "35": {
+    "summary": "Midlife crisis questioning refugee narrative identity",
+    "category": "midlife_crisis",
+    "confidence": 0.7
+  },
+  "36": {
+    "summary": "Parenting anxiety without stable family support system",
+    "category": "parenting_anxiety",
+    "confidence": 0.65
+  },
+  "37": {
+    "summary": "Exploitative freelance contracts affecting financial security",
+    "category": "employment_exploitation",
+    "confidence": 0.7
+  },
+  "38": {
+    "summary": "Cultural dissonance between American individualism and immigrant expectations",
+    "category": "cultural_dissonance",
+    "confidence": 0.75
+  },
+  "39": {
+    "summary": "Chronic pain from past displacement injuries",
+    "category": "chronic_pain",
+    "confidence": 0.6
+  },
+  "40": {
+    "summary": "Career stagnation despite qualifications in new country",
+    "category": "career_stagnation",
+    "confidence": 0.8
+  },
+  "41": {
+    "summary": "Grief over parents' declining health in homeland",
+    "category": "distant_grief",
+    "confidence": 0.7
+  },
+  "42": {
+    "summary": "Financial insecurity as freelance work dries up",
+    "category": "economic_precarity",
+    "confidence": 0.85
+  },
+  "43": {
+    "summary": "Identity erosion through repeated refugee status changes",
+    "category": "identity_erosion",
+    "confidence": 0.8
+  },
+  "44": {
+    "summary": "Marital strain from unmet emotional needs in Madrid",
+    "category": "relationship_dissatisfaction",
+    "confidence": 0.7
+  },
+  "45": {
+    "summary": "Burnout from juggling writing, volunteering, and caregiving",
+    "category": "caregiver_burnout",
+    "confidence": 0.75
+  },
+  "46": {
+    "summary": "Health deterioration from chronic anxiety and poor diet",
+    "category": "health_decline",
+    "confidence": 0.7
+  },
+  "47": {
+    "summary": "Guilt over perceived failure to provide for family",
+    "category": "survivor_guilt",
+    "confidence": 0.8
+  },
+  "48": {
+    "summary": "Social isolation despite professional success",
+    "category": "loneliness",
+    "confidence": 0.85
+  },
+  "49": {
+    "summary": "Chronic anxiety and adjustment disorder after forced relocation",
+    "category": "adjustment_disorder",
+    "confidence": 0.95
+  },
+  "50": {
+    "summary": "Retirement planning anxiety with precarious finances",
+    "category": "retirement_fear",
+    "confidence": 0.8
+  },
+  "51": {
+    "summary": "Grief over distant family members lost to conflict",
+    "category": "ambiguous_loss",
+    "confidence": 0.75
+  },
+  "52": {
+    "summary": "Health anxiety from aging with chronic stress effects",
+    "category": "health_anxiety",
+    "confidence": 0.8
+  },
+  "53": {
+    "summary": "Legacy concerns about refugee narrative for future generations",
+    "category": "legacy_concerns",
+    "confidence": 0.7
+  },
+  "54": {
+    "summary": "Social isolation from shrinking support networks",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "55": {
+    "summary": "Financial insecurity in retirement with limited savings",
+    "category": "retirement_insecurity",
+    "confidence": 0.85
+  },
+  "56": {
+    "summary": "Chronic pain from past injuries and stress-related conditions",
+    "category": "chronic_pain",
+    "confidence": 0.75
+  },
+  "57": {
+    "summary": "Guilt over unmet family obligations abroad",
+    "category": "family_guilt",
+    "confidence": 0.7
+  },
+  "58": {
+    "summary": "Identity crisis after decades of displacement",
+    "category": "identity_crisis",
+    "confidence": 0.7
+  },
+  "59": {
+    "summary": "Caregiver burden for aging parents with health issues",
+    "category": "caregiver_stress",
+    "confidence": 0.65
+  },
+  "60": {
+    "summary": "Retirement adjustment anxiety with limited social connections",
+    "category": "retirement_anxiety",
+    "confidence": 0.7
+  },
+  "61": {
+    "summary": "Health decline from accumulated stress and aging",
+    "category": "health_decline",
+    "confidence": 0.8
+  },
+  "62": {
+    "summary": "Grief over loss of cultural homeland",
+    "category": "homesickness",
+    "confidence": 0.75
+  },
+  "63": {
+    "summary": "Financial strain from healthcare costs and inflation",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "64": {
+    "summary": "Loneliness after partner's death",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "65": {
+    "summary": "Existential crisis about life meaning after displacement",
+    "category": "existential_crisis",
+    "confidence": 0.7
+  },
+  "66": {
+    "summary": "Health complications from chronic conditions",
+    "category": "chronic_illness",
+    "confidence": 0.75
+  },
+  "67": {
+    "summary": "Social isolation from limited mobility and shrinking networks",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "68": {
+    "summary": "Guilt over unfulfilled ambitions from earlier life",
+    "category": "regret",
+    "confidence": 0.7
+  },
+  "69": {
+    "summary": "Financial insecurity with fixed income",
+    "category": "economic_precarity",
+    "confidence": 0.7
+  },
+  "70": {
+    "summary": "Caregiver burden for declining spouse",
+    "category": "caregiver_burnout",
+    "confidence": 0.65
+  },
+  "71": {
+    "summary": "Health decline requiring assisted living",
+    "category": "aging_health",
+    "confidence": 0.8
+  },
+  "72": {
+    "summary": "Grief over loss of independence",
+    "category": "loss_of_autonomy",
+    "confidence": 0.75
+  },
+  "73": {
+    "summary": "Loneliness after losing most peers",
+    "category": "social_isolation",
+    "confidence": 0.8
+  },
+  "74": {
+    "summary": "Financial strain from long-term care costs",
+    "category": "financial_burden",
+    "confidence": 0.7
+  },
+  "75": {
+    "summary": "Existential crisis about legacy and mortality",
+    "category": "existential_crisis",
+    "confidence": 0.7
+  },
+  "76": {
+    "summary": "Health complications from multiple chronic conditions",
+    "category": "comorbidity",
+    "confidence": 0.75
+  },
+  "77": {
+    "summary": "Guilt over burdening family with care needs",
+    "category": "family_guilt",
+    "confidence": 0.65
+  },
+  "78": {
+    "summary": "Social isolation from reduced mobility",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "79": {
+    "summary": "Financial insecurity with limited assets",
+    "category": "economic_precarity",
+    "confidence": 0.7
+  },
+  "80": {
+    "summary": "Caregiver burden for declining spouse",
+    "category": "caregiver_stress",
+    "confidence": 0.6
+  },
+  "81": {
+    "summary": "Grief over loss of spouse",
+    "category": "bereavement",
+    "confidence": 0.75
+  },
+  "82": {
+    "summary": "Health decline requiring full-time care",
+    "category": "aging_health",
+    "confidence": 0.8
+  },
+  "83": {
+    "summary": "Loneliness after losing most social connections",
+    "category": "social_isolation",
+    "confidence": 0.8
+  },
+  "84": {
+    "summary": "Financial strain from healthcare costs",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "85": {
+    "summary": "Existential crisis about life meaning",
+    "category": "existential_crisis",
+    "confidence": 0.7
+  },
+  "86": {
+    "summary": "Health complications from frailty",
+    "category": "chronic_illness",
+    "confidence": 0.75
+  },
+  "87": {
+    "summary": "Guilt over unmet personal goals",
+    "category": "regret",
+    "confidence": 0.65
+  },
+  "88": {
+    "summary": "Social isolation from limited mobility",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "89": {
+    "summary": "Financial insecurity with minimal savings",
+    "category": "economic_precarity",
+    "confidence": 0.7
+  },
+  "90": {
+    "summary": "Caregiver burden for declining spouse",
+    "category": "caregiver_burnout",
+    "confidence": 0.6
+  },
+  "91": {
+    "summary": "Grief over loss of independence",
+    "category": "loss_of_autonomy",
+    "confidence": 0.75
+  },
+  "92": {
+    "summary": "Health decline requiring institutional care",
+    "category": "aging_health",
+    "confidence": 0.8
+  },
+  "93": {
+    "summary": "Loneliness after losing most peers",
+    "category": "social_isolation",
+    "confidence": 0.8
+  },
+  "94": {
+    "summary": "Financial strain from long-term care",
+    "category": "financial_burden",
+    "confidence": 0.7
+  },
+  "95": {
+    "summary": "Existential crisis about mortality",
+    "category": "existential_crisis",
+    "confidence": 0.7
+  },
+  "96": {
+    "summary": "Health complications from multiple chronic conditions",
+    "category": "comorbidity",
+    "confidence": 0.75
+  },
+  "97": {
+    "summary": "Guilt over burdening family",
+    "category": "family_guilt",
+    "confidence": 0.65
+  },
+  "98": {
+    "summary": "Social isolation from reduced mobility",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "99": {
+    "summary": "Financial insecurity with limited assets",
+    "category": "economic_precarity",
+    "confidence": 0.7
+  },
+  "100": {
+    "summary": "Legacy concerns about refugee narrative",
+    "category": "legacy_concerns",
+    "confidence": 0.65
+  }
+}

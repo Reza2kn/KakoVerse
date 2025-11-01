@@ -1,0 +1,407 @@
+{
+  "20": {
+    "summary": "Anxiety over family safety during WWII",
+    "category": "war_related_anxiety",
+    "confidence": 0.8
+  },
+  "21": {
+    "summary": "Financial strain from economic instability",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "22": {
+    "summary": "Fear of losing remaining family to war",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "23": {
+    "summary": "Post-war adjustment struggles",
+    "category": "adjustment_stress",
+    "confidence": 0.7
+  },
+  "24": {
+    "summary": "Relocation anxiety about leaving homeland",
+    "category": "relocation_anxiety",
+    "confidence": 0.6
+  },
+  "25": {
+    "summary": "Decision paralysis about emigration",
+    "category": "decision_anxiety",
+    "confidence": 0.7
+  },
+  "26": {
+    "summary": "Severe anxiety and insomnia after family losses",
+    "category": "trauma",
+    "confidence": 1.0
+  },
+  "27": {
+    "summary": "Workplace stress from hazardous factory conditions",
+    "category": "work_related_stress",
+    "confidence": 0.8
+  },
+  "28": {
+    "summary": "Financial precarity in unstable economy",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "29": {
+    "summary": "Social isolation in new country",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "30": {
+    "summary": "Relationship formation difficulties",
+    "category": "relationship_difficulty",
+    "confidence": 0.7
+  },
+  "31": {
+    "summary": "Future anxiety about repeating past losses",
+    "category": "future_anxiety",
+    "confidence": 0.8
+  },
+  "32": {
+    "summary": "Burnout from repetitive factory work",
+    "category": "burnout",
+    "confidence": 0.7
+  },
+  "33": {
+    "summary": "Hypochondria from chemical exposure",
+    "category": "health_anxiety",
+    "confidence": 0.6
+  },
+  "34": {
+    "summary": "Financial pressure for future security",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "35": {
+    "summary": "Midlife regret over life choices",
+    "category": "midlife_reflection",
+    "confidence": 0.6
+  },
+  "36": {
+    "summary": "Existential crisis about purpose",
+    "category": "existential_crisis",
+    "confidence": 0.7
+  },
+  "37": {
+    "summary": "Aging anxiety from declining health",
+    "category": "aging_anxiety",
+    "confidence": 0.8
+  },
+  "38": {
+    "summary": "Retirement planning stress",
+    "category": "retirement_planning",
+    "confidence": 0.7
+  },
+  "39": {
+    "summary": "Social pressure to conform",
+    "category": "social_pressure",
+    "confidence": 0.8
+  },
+  "40": {
+    "summary": "Chronic respiratory illness",
+    "category": "chronic_illness",
+    "confidence": 0.7
+  },
+  "41": {
+    "summary": "Family health concerns",
+    "category": "family_health_concerns",
+    "confidence": 0.6
+  },
+  "42": {
+    "summary": "Financial instability fears",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "43": {
+    "summary": "Social isolation",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "44": {
+    "summary": "Job insecurity anxiety",
+    "category": "job_insecurity",
+    "confidence": 0.7
+  },
+  "45": {
+    "summary": "Midlife crisis with regret",
+    "category": "midlife_crisis",
+    "confidence": 0.6
+  },
+  "46": {
+    "summary": "Chronic pain from chemical exposure",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "47": {
+    "summary": "Medical expense strain",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "48": {
+    "summary": "Retirement anxiety",
+    "category": "retirement_anxiety",
+    "confidence": 0.8
+  },
+  "49": {
+    "summary": "Persistent loneliness",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "50": {
+    "summary": "Chronic pain management issues",
+    "category": "chronic_pain",
+    "confidence": 0.8
+  },
+  "51": {
+    "summary": "Retirement financial planning",
+    "category": "financial_planning",
+    "confidence": 0.7
+  },
+  "52": {
+    "summary": "Mortality anxiety",
+    "category": "aging_anxiety",
+    "confidence": 0.8
+  },
+  "53": {
+    "summary": "Social withdrawal",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "54": {
+    "summary": "Health decline fears",
+    "category": "health_anxiety",
+    "confidence": 0.7
+  },
+  "55": {
+    "summary": "Poverty anxiety in old age",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "56": {
+    "summary": "Mobility-limiting chronic pain",
+    "category": "chronic_pain",
+    "confidence": 0.8
+  },
+  "57": {
+    "summary": "Loss of independence",
+    "category": "loss_of_independence",
+    "confidence": 0.8
+  },
+  "58": {
+    "summary": "Social isolation",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "59": {
+    "summary": "Medical debt stress",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "60": {
+    "summary": "Retirement adjustment difficulties",
+    "category": "retirement_adjustment",
+    "confidence": 0.7
+  },
+  "61": {
+    "summary": "Multiple chronic conditions",
+    "category": "chronic_illness",
+    "confidence": 0.8
+  },
+  "62": {
+    "summary": "Loneliness after spouse loss",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "63": {
+    "summary": "Long-term care financial planning",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "64": {
+    "summary": "Chronic pain and limited mobility",
+    "category": "chronic_pain",
+    "confidence": 0.8
+  },
+  "65": {
+    "summary": "Retirement income insecurity",
+    "category": "retirement_financial_stress",
+    "confidence": 0.7
+  },
+  "66": {
+    "summary": "Health decline anxiety",
+    "category": "health_anxiety",
+    "confidence": 0.8
+  },
+  "67": {
+    "summary": "Social isolation",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "68": {
+    "summary": "Medical expense strain",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "69": {
+    "summary": "Chronic pain management",
+    "category": "chronic_pain",
+    "confidence": 0.8
+  },
+  "70": {
+    "summary": "Grief over losing remaining family",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "71": {
+    "summary": "Social isolation",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "72": {
+    "summary": "Care cost financial planning",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "73": {
+    "summary": "Multiple chronic conditions",
+    "category": "chronic_illness",
+    "confidence": 0.8
+  },
+  "74": {
+    "summary": "Mobility-limiting pain",
+    "category": "chronic_pain",
+    "confidence": 0.8
+  },
+  "75": {
+    "summary": "Loss of independence",
+    "category": "loss_of_independence",
+    "confidence": 0.8
+  },
+  "76": {
+    "summary": "Care cost financial strain",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "77": {
+    "summary": "Social isolation",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "78": {
+    "summary": "Chronic pain and frailty",
+    "category": "chronic_pain",
+    "confidence": 0.8
+  },
+  "79": {
+    "summary": "End-of-life financial concerns",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "80": {
+    "summary": "Frailty and chronic illness",
+    "category": "chronic_illness",
+    "confidence": 0.8
+  },
+  "81": {
+    "summary": "Social isolation",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "82": {
+    "summary": "Medical expense strain",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "83": {
+    "summary": "Chronic pain management",
+    "category": "chronic_pain",
+    "confidence": 0.8
+  },
+  "84": {
+    "summary": "Loss of independence",
+    "category": "loss_of_independence",
+    "confidence": 0.8
+  },
+  "85": {
+    "summary": "Grief over losing remaining family",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "86": {
+    "summary": "End-of-life financial planning",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "87": {
+    "summary": "Social isolation",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "88": {
+    "summary": "Chronic pain and frailty",
+    "category": "chronic_pain",
+    "confidence": 0.8
+  },
+  "89": {
+    "summary": "Care cost financial strain",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "90": {
+    "summary": "Loss of independence",
+    "category": "loss_of_independence",
+    "confidence": 0.8
+  },
+  "91": {
+    "summary": "Social isolation",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "92": {
+    "summary": "Care cost financial planning",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "93": {
+    "summary": "Chronic pain management",
+    "category": "chronic_pain",
+    "confidence": 0.8
+  },
+  "94": {
+    "summary": "Loss of independence",
+    "category": "loss_of_independence",
+    "confidence": 0.8
+  },
+  "95": {
+    "summary": "Social isolation",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "96": {
+    "summary": "Care cost financial strain",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "97": {
+    "summary": "Chronic pain and frailty",
+    "category": "chronic_pain",
+    "confidence": 0.8
+  },
+  "98": {
+    "summary": "Grief over losing remaining family",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "99": {
+    "summary": "Social isolation",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "100": {
+    "summary": "Existential reflection at end of life",
+    "category": "existential_crisis",
+    "confidence": 0.8
+  }
+}

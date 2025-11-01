@@ -1,0 +1,407 @@
+{
+  "20": {
+    "summary": "Navigating cultural identity as immigrant student",
+    "category": "identity_crisis",
+    "confidence": 0.85
+  },
+  "21": {
+    "summary": "Academic pressure balancing family expectations",
+    "category": "academic_stress",
+    "confidence": 0.78
+  },
+  "22": {
+    "summary": "First major career uncertainty post-graduation",
+    "category": "career_uncertainty",
+    "confidence": 0.82
+  },
+  "23": {
+    "summary": "Financial instability in expensive city",
+    "category": "financial_stress",
+    "confidence": 0.75
+  },
+  "24": {
+    "summary": "Loneliness during cultural adjustment",
+    "category": "social_isolation",
+    "confidence": 0.88
+  },
+  "25": {
+    "summary": "Relationship commitment anxiety",
+    "category": "relationship_doubt",
+    "confidence": 0.7
+  },
+  "26": {
+    "summary": "Career path disillusionment",
+    "category": "existential_crisis",
+    "confidence": 0.8
+  },
+  "27": {
+    "summary": "Parental pressure about life choices",
+    "category": "family_expectations",
+    "confidence": 0.9
+  },
+  "28": {
+    "summary": "First major relocation stress",
+    "category": "transition_anxiety",
+    "confidence": 0.85
+  },
+  "29": {
+    "summary": "Burnout from high-pressure job",
+    "category": "career_burnout",
+    "confidence": 0.77
+  },
+  "30": {
+    "summary": "Identity conflict between cultures",
+    "category": "cultural_dissonance",
+    "confidence": 0.92
+  },
+  "31": {
+    "summary": "Delayed life milestones anxiety",
+    "category": "time_pressure",
+    "confidence": 0.8
+  },
+  "32": {
+    "summary": "Creative block in freelance work",
+    "category": "professional_stagnation",
+    "confidence": 0.73
+  },
+  "33": {
+    "summary": "Health concerns from chronic stress",
+    "category": "health_anxiety",
+    "confidence": 0.79
+  },
+  "34": {
+    "summary": "Midlife reassessment of values",
+    "category": "existential_reflection",
+    "confidence": 0.88
+  },
+  "35": {
+    "summary": "Parental health crisis",
+    "category": "caregiver_stress",
+    "confidence": 0.85
+  },
+  "36": {
+    "summary": "Financial planning urgency",
+    "category": "retirement_concern",
+    "confidence": 0.76
+  },
+  "37": {
+    "summary": "Creative block in translation work",
+    "category": "professional_stagnation",
+    "confidence": 0.81
+  },
+  "38": {
+    "summary": "Geographic displacement trauma",
+    "category": "place_attachment",
+    "confidence": 0.9
+  },
+  "39": {
+    "summary": "Identity erosion through assimilation",
+    "category": "cultural_loss",
+    "confidence": 0.93
+  },
+  "40": {
+    "summary": "Midlife career pivot anxiety",
+    "category": "career_transition",
+    "confidence": 0.87
+  },
+  "41": {
+    "summary": "Parental empty nest syndrome",
+    "category": "family_change",
+    "confidence": 0.74
+  },
+  "42": {
+    "summary": "Chronic pain from sedentary work",
+    "category": "chronic_pain",
+    "confidence": 0.78
+  },
+  "43": {
+    "summary": "Existential crisis about legacy",
+    "category": "legacy_concern",
+    "confidence": 0.89
+  },
+  "44": {
+    "summary": "Social isolation in foreign country",
+    "category": "loneliness",
+    "confidence": 0.95
+  },
+  "45": {
+    "summary": "Chronic anxiety disorder exacerbated by transition",
+    "category": "mental_health",
+    "confidence": 0.98
+  },
+  "46": {
+    "summary": "Midlife reassessment of relationships",
+    "category": "relationship_doubt",
+    "confidence": 0.84
+  },
+  "47": {
+    "summary": "Health decline from past stress",
+    "category": "chronic_illness",
+    "confidence": 0.82
+  },
+  "48": {
+    "summary": "Cultural disconnection from homeland",
+    "category": "homesickness",
+    "confidence": 0.91
+  },
+  "49": {
+    "summary": "Financial insecurity in retirement transition",
+    "category": "financial_uncertainty",
+    "confidence": 0.79
+  },
+  "50": {
+    "summary": "Existential crisis about mortality",
+    "category": "mortality_anxiety",
+    "confidence": 0.94
+  },
+  "51": {
+    "summary": "Grandparenting identity challenges",
+    "category": "role_transition",
+    "confidence": 0.86
+  },
+  "52": {
+    "summary": "Chronic pain management struggles",
+    "category": "chronic_pain",
+    "confidence": 0.88
+  },
+  "53": {
+    "summary": "Social isolation deepening",
+    "category": "loneliness",
+    "confidence": 0.93
+  },
+  "54": {
+    "summary": "Retirement adjustment difficulties",
+    "category": "transition_anxiety",
+    "confidence": 0.85
+  },
+  "55": {
+    "summary": "Health decline impacting independence",
+    "category": "aging_concern",
+    "confidence": 0.9
+  },
+  "56": {
+    "summary": "Cultural alienation in adopted country",
+    "category": "social_isolation",
+    "confidence": 0.92
+  },
+  "57": {
+    "summary": "Existential questioning of life path",
+    "category": "existential_crisis",
+    "confidence": 0.95
+  },
+  "58": {
+    "summary": "Chronic illness management",
+    "category": "health_crisis",
+    "confidence": 0.87
+  },
+  "59": {
+    "summary": "Social network contraction",
+    "category": "loneliness",
+    "confidence": 0.94
+  },
+  "60": {
+    "summary": "End-of-life planning anxiety",
+    "category": "existential_crisis",
+    "confidence": 0.96
+  },
+  "61": {
+    "summary": "Health deterioration concerns",
+    "category": "health_anxiety",
+    "confidence": 0.91
+  },
+  "62": {
+    "summary": "Social isolation intensifying",
+    "category": "loneliness",
+    "confidence": 0.97
+  },
+  "63": {
+    "summary": "Chronic pain limiting activities",
+    "category": "chronic_pain",
+    "confidence": 0.9
+  },
+  "64": {
+    "summary": "Existential crisis about legacy",
+    "category": "legacy_concern",
+    "confidence": 0.93
+  },
+  "65": {
+    "summary": "Health decline impacting autonomy",
+    "category": "aging_concern",
+    "confidence": 0.95
+  },
+  "66": {
+    "summary": "Social isolation becoming severe",
+    "category": "loneliness",
+    "confidence": 0.98
+  },
+  "67": {
+    "summary": "Chronic illness management challenges",
+    "category": "health_crisis",
+    "confidence": 0.92
+  },
+  "68": {
+    "summary": "Existential questioning of purpose",
+    "category": "existential_reflection",
+    "confidence": 0.94
+  },
+  "69": {
+    "summary": "Health decline accelerating",
+    "category": "aging_concern",
+    "confidence": 0.96
+  },
+  "70": {
+    "summary": "Social isolation deepening",
+    "category": "loneliness",
+    "confidence": 0.99
+  },
+  "71": {
+    "summary": "Chronic pain limiting mobility",
+    "category": "chronic_pain",
+    "confidence": 0.93
+  },
+  "72": {
+    "summary": "Existential crisis about mortality",
+    "category": "mortality_anxiety",
+    "confidence": 0.95
+  },
+  "73": {
+    "summary": "Health decline impacting daily life",
+    "category": "aging_concern",
+    "confidence": 0.97
+  },
+  "74": {
+    "summary": "Social isolation becoming critical",
+    "category": "loneliness",
+    "confidence": 0.99
+  },
+  "75": {
+    "summary": "Chronic illness management struggles",
+    "category": "health_crisis",
+    "confidence": 0.94
+  },
+  "76": {
+    "summary": "Existential crisis about legacy",
+    "category": "legacy_concern",
+    "confidence": 0.96
+  },
+  "77": {
+    "summary": "Health decline impacting independence",
+    "category": "aging_concern",
+    "confidence": 0.98
+  },
+  "78": {
+    "summary": "Social isolation intensifying",
+    "category": "loneliness",
+    "confidence": 0.99
+  },
+  "79": {
+    "summary": "Chronic pain management challenges",
+    "category": "chronic_pain",
+    "confidence": 0.95
+  },
+  "80": {
+    "summary": "Existential crisis about mortality",
+    "category": "mortality_anxiety",
+    "confidence": 0.97
+  },
+  "81": {
+    "summary": "Health decline accelerating",
+    "category": "aging_concern",
+    "confidence": 0.98
+  },
+  "82": {
+    "summary": "Social isolation becoming severe",
+    "category": "loneliness",
+    "confidence": 0.99
+  },
+  "83": {
+    "summary": "Chronic illness management struggles",
+    "category": "health_crisis",
+    "confidence": 0.96
+  },
+  "84": {
+    "summary": "Existential questioning of life",
+    "category": "existential_reflection",
+    "confidence": 0.97
+  },
+  "85": {
+    "summary": "Health decline impacting autonomy",
+    "category": "aging_concern",
+    "confidence": 0.98
+  },
+  "86": {
+    "summary": "Social isolation deepening",
+    "category": "loneliness",
+    "confidence": 0.99
+  },
+  "87": {
+    "summary": "Chronic pain limiting activities",
+    "category": "chronic_pain",
+    "confidence": 0.95
+  },
+  "88": {
+    "summary": "Existential crisis about legacy",
+    "category": "legacy_concern",
+    "confidence": 0.96
+  },
+  "89": {
+    "summary": "Health decline becoming critical",
+    "category": "aging_concern",
+    "confidence": 0.97
+  },
+  "90": {
+    "summary": "Social isolation intensifying",
+    "category": "loneliness",
+    "confidence": 0.99
+  },
+  "91": {
+    "summary": "Chronic illness management challenges",
+    "category": "health_crisis",
+    "confidence": 0.96
+  },
+  "92": {
+    "summary": "Existential crisis about mortality",
+    "category": "mortality_anxiety",
+    "confidence": 0.97
+  },
+  "93": {
+    "summary": "Health decline impacting daily life",
+    "category": "aging_concern",
+    "confidence": 0.98
+  },
+  "94": {
+    "summary": "Social isolation becoming severe",
+    "category": "loneliness",
+    "confidence": 0.99
+  },
+  "95": {
+    "summary": "Chronic pain management struggles",
+    "category": "chronic_pain",
+    "confidence": 0.95
+  },
+  "96": {
+    "summary": "Existential questioning of purpose",
+    "category": "existential_reflection",
+    "confidence": 0.96
+  },
+  "97": {
+    "summary": "Health decline impacting independence",
+    "category": "aging_concern",
+    "confidence": 0.97
+  },
+  "98": {
+    "summary": "Social isolation deepening",
+    "category": "loneliness",
+    "confidence": 0.99
+  },
+  "99": {
+    "summary": "Chronic illness management challenges",
+    "category": "health_crisis",
+    "confidence": 0.96
+  },
+  "100": {
+    "summary": "Existential crisis about legacy",
+    "category": "legacy_concern",
+    "confidence": 0.97
+  }
+}

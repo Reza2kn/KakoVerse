@@ -1,0 +1,407 @@
+{
+  "20": {
+    "summary": "Career uncertainty in competitive tech job market",
+    "category": "career_uncertainty",
+    "confidence": 0.7
+  },
+  "21": {
+    "summary": "Cultural identity conflict between Malaysia and China",
+    "category": "identity_crisis",
+    "confidence": 0.8
+  },
+  "22": {
+    "summary": "Financial stress from student debt and relocation",
+    "category": "financial_stress",
+    "confidence": 0.75
+  },
+  "23": {
+    "summary": "Workplace integration challenges in foreign country",
+    "category": "cross_cultural_stress",
+    "confidence": 0.85
+  },
+  "24": {
+    "summary": "Romantic relationship instability amid career focus",
+    "category": "relationship_dysfunction",
+    "confidence": 0.65
+  },
+  "25": {
+    "summary": "Family pressure to return to Malaysia",
+    "category": "family_obligation",
+    "confidence": 0.7
+  },
+  "26": {
+    "summary": "Burnout from demanding entry-level tech job",
+    "category": "work_burnout",
+    "confidence": 0.8
+  },
+  "27": {
+    "summary": "Loneliness during cultural transition",
+    "category": "social_isolation",
+    "confidence": 0.75
+  },
+  "28": {
+    "summary": "Career stagnation after initial promotions",
+    "category": "career_plateau",
+    "confidence": 0.7
+  },
+  "29": {
+    "summary": "Existential crisis about life direction",
+    "category": "mid_twenties_crisis",
+    "confidence": 0.8
+  },
+  "30": {
+    "summary": "Work-life balance collapse with family expectations",
+    "category": "family_pressure",
+    "confidence": 0.85
+  },
+  "31": {
+    "summary": "Parental health concerns from Malaysia",
+    "category": "family_health",
+    "confidence": 0.7
+  },
+  "32": {
+    "summary": "Financial strain from housing costs",
+    "category": "housing_cost",
+    "confidence": 0.7
+  },
+  "33": {
+    "summary": "Midlife reassessment of career path",
+    "category": "midlife_crisis",
+    "confidence": 0.8
+  },
+  "34": {
+    "summary": "Workplace discrimination in multinational setting",
+    "category": "discrimination",
+    "confidence": 0.6
+  },
+  "35": {
+    "summary": "Burnout from high-pressure tech role",
+    "category": "work_burnout",
+    "confidence": 0.9
+  },
+  "36": {
+    "summary": "Cultural assimilation fatigue",
+    "category": "cultural_integration",
+    "confidence": 0.8
+  },
+  "37": {
+    "summary": "Existential anxiety about legacy",
+    "category": "existential_crisis",
+    "confidence": 0.75
+  },
+  "38": {
+    "summary": "Health decline from sedentary work",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "39": {
+    "summary": "Career transition paralysis",
+    "category": "career_change",
+    "confidence": 0.65
+  },
+  "40": {
+    "summary": "Emotional detachment from work stress",
+    "category": "emotional_detachment",
+    "confidence": 0.85
+  },
+  "41": {
+    "summary": "Anxiety about aging parents abroad",
+    "category": "family_grief",
+    "confidence": 0.75
+  },
+  "42": {
+    "summary": "Financial planning stress for retirement",
+    "category": "retirement_planning",
+    "confidence": 0.7
+  },
+  "43": {
+    "summary": "Cross-cultural loneliness in expat community",
+    "category": "social_isolation",
+    "confidence": 0.8
+  },
+  "44": {
+    "summary": "Chronic back pain from running habit",
+    "category": "chronic_pain",
+    "confidence": 0.65
+  },
+  "45": {
+    "summary": "Midlife regret over career choices",
+    "category": "existential_crisis",
+    "confidence": 0.7
+  },
+  "46": {
+    "summary": "Workplace burnout crisis",
+    "category": "work_burnout",
+    "confidence": 0.9
+  },
+  "47": {
+    "summary": "Family pressure to return to Malaysia",
+    "category": "family_obligation",
+    "confidence": 0.8
+  },
+  "48": {
+    "summary": "Job insecurity fears",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "49": {
+    "summary": "Chronic anxiety and emotional detachment",
+    "category": "mental_health",
+    "confidence": 0.95
+  },
+  "50": {
+    "summary": "Retirement anxiety and identity loss",
+    "category": "existential_crisis",
+    "confidence": 0.8
+  },
+  "51": {
+    "summary": "Loneliness in expat retirement",
+    "category": "social_isolation",
+    "confidence": 0.85
+  },
+  "52": {
+    "summary": "Chronic joint pain from aging",
+    "category": "chronic_pain",
+    "confidence": 0.75
+  },
+  "53": {
+    "summary": "Financial insecurity in retirement",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "54": {
+    "summary": "Grief over Malaysian relatives' deaths",
+    "category": "family_grief",
+    "confidence": 0.8
+  },
+  "55": {
+    "summary": "Purpose crisis in retirement",
+    "category": "existential_crisis",
+    "confidence": 0.75
+  },
+  "56": {
+    "summary": "Healthcare access challenges abroad",
+    "category": "healthcare_access",
+    "confidence": 0.65
+  },
+  "57": {
+    "summary": "Grief over spouse's death",
+    "category": "family_grief",
+    "confidence": 0.8
+  },
+  "58": {
+    "summary": "Unexpected medical expenses",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "59": {
+    "summary": "Health decline and dependency fears",
+    "category": "health_anxiety",
+    "confidence": 0.75
+  },
+  "60": {
+    "summary": "Retirement adjustment loneliness",
+    "category": "social_isolation",
+    "confidence": 0.8
+  },
+  "61": {
+    "summary": "Chronic pain limiting hobbies",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "62": {
+    "summary": "Financial insecurity in old age",
+    "category": "financial_stress",
+    "confidence": 0.75
+  },
+  "63": {
+    "summary": "Grief over losing friends",
+    "category": "social_grief",
+    "confidence": 0.8
+  },
+  "64": {
+    "summary": "Social isolation in community",
+    "category": "social_isolation",
+    "confidence": 0.8
+  },
+  "65": {
+    "summary": "Health decline and mobility issues",
+    "category": "health_decline",
+    "confidence": 0.75
+  },
+  "66": {
+    "summary": "Medical debt stress",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "67": {
+    "summary": "Chronic illness management",
+    "category": "chronic_illness",
+    "confidence": 0.75
+  },
+  "68": {
+    "summary": "Grief over losing children",
+    "category": "family_grief",
+    "confidence": 0.8
+  },
+  "69": {
+    "summary": "Loneliness without family support",
+    "category": "social_isolation",
+    "confidence": 0.8
+  },
+  "70": {
+    "summary": "Financial insecurity and health costs",
+    "category": "financial_stress",
+    "confidence": 0.75
+  },
+  "71": {
+    "summary": "Chronic pain limiting independence",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "72": {
+    "summary": "Grief over losing spouse",
+    "category": "family_grief",
+    "confidence": 0.8
+  },
+  "73": {
+    "summary": "Financial stress from long-term care",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "74": {
+    "summary": "Chronic illness and pain",
+    "category": "chronic_illness",
+    "confidence": 0.75
+  },
+  "75": {
+    "summary": "Social isolation in old age",
+    "category": "social_isolation",
+    "confidence": 0.8
+  },
+  "76": {
+    "summary": "Grief over losing children",
+    "category": "family_grief",
+    "confidence": 0.8
+  },
+  "77": {
+    "summary": "Financial insecurity and health decline",
+    "category": "financial_stress",
+    "confidence": 0.75
+  },
+  "78": {
+    "summary": "Chronic pain and mobility issues",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "79": {
+    "summary": "Grief over losing grandchildren",
+    "category": "family_grief",
+    "confidence": 0.8
+  },
+  "80": {
+    "summary": "Financial stress and health issues",
+    "category": "financial_stress",
+    "confidence": 0.75
+  },
+  "81": {
+    "summary": "Chronic illness management",
+    "category": "chronic_illness",
+    "confidence": 0.75
+  },
+  "82": {
+    "summary": "Social isolation and loneliness",
+    "category": "social_isolation",
+    "confidence": 0.8
+  },
+  "83": {
+    "summary": "Grief over losing all family",
+    "category": "family_grief",
+    "confidence": 0.85
+  },
+  "84": {
+    "summary": "Financial insecurity and health decline",
+    "category": "financial_stress",
+    "confidence": 0.75
+  },
+  "85": {
+    "summary": "Chronic pain and mobility issues",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "86": {
+    "summary": "Grief over losing spouse",
+    "category": "family_grief",
+    "confidence": 0.8
+  },
+  "87": {
+    "summary": "Financial stress and health costs",
+    "category": "financial_stress",
+    "confidence": 0.75
+  },
+  "88": {
+    "summary": "Chronic illness and pain",
+    "category": "chronic_illness",
+    "confidence": 0.75
+  },
+  "89": {
+    "summary": "Social isolation and loneliness",
+    "category": "social_isolation",
+    "confidence": 0.8
+  },
+  "90": {
+    "summary": "Grief over losing all family",
+    "category": "family_grief",
+    "confidence": 0.85
+  },
+  "91": {
+    "summary": "Financial insecurity and health decline",
+    "category": "financial_stress",
+    "confidence": 0.75
+  },
+  "92": {
+    "summary": "Chronic pain and mobility issues",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "93": {
+    "summary": "Grief over losing children",
+    "category": "family_grief",
+    "confidence": 0.8
+  },
+  "94": {
+    "summary": "Financial stress and health issues",
+    "category": "financial_stress",
+    "confidence": 0.75
+  },
+  "95": {
+    "summary": "Chronic illness and pain",
+    "category": "chronic_illness",
+    "confidence": 0.75
+  },
+  "96": {
+    "summary": "Social isolation and loneliness",
+    "category": "social_isolation",
+    "confidence": 0.8
+  },
+  "97": {
+    "summary": "Grief over losing grandchildren",
+    "category": "family_grief",
+    "confidence": 0.8
+  },
+  "98": {
+    "summary": "Financial insecurity and health decline",
+    "category": "financial_stress",
+    "confidence": 0.75
+  },
+  "99": {
+    "summary": "Chronic pain and mobility issues",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "100": {
+    "summary": "Grief over losing all family and friends",
+    "category": "family_grief",
+    "confidence": 0.9
+  }
+}

@@ -1,0 +1,407 @@
+{
+  "20": {
+    "summary": "Financial instability as a new freelance artist",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "21": {
+    "summary": "Identity crisis and self-doubt in competitive art scene",
+    "category": "identity_crisis",
+    "confidence": 0.7
+  },
+  "22": {
+    "summary": "Creative block and anxiety about future career",
+    "category": "creative_block",
+    "confidence": 0.7
+  },
+  "23": {
+    "summary": "Social anxiety and loneliness in Manchester",
+    "category": "social_anxiety",
+    "confidence": 0.6
+  },
+  "24": {
+    "summary": "Financial stress from client rejections",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "25": {
+    "summary": "Burnout from overwork and lack of recognition",
+    "category": "burnout",
+    "confidence": 0.7
+  },
+  "26": {
+    "summary": "Social isolation despite long-term residence",
+    "category": "loneliness",
+    "confidence": 0.6
+  },
+  "27": {
+    "summary": "Identity crisis questioning artistic direction",
+    "category": "identity_crisis",
+    "confidence": 0.7
+  },
+  "28": {
+    "summary": "Creative stagnation and financial pressure",
+    "category": "creative_block",
+    "confidence": 0.7
+  },
+  "29": {
+    "summary": "Anxiety and isolation in new city",
+    "category": "social_anxiety",
+    "confidence": 0.9
+  },
+  "30": {
+    "summary": "Career stagnation and financial planning stress",
+    "category": "career_stagnation",
+    "confidence": 0.7
+  },
+  "31": {
+    "summary": "Balancing creative work with relationship strain",
+    "category": "relationship_balance",
+    "confidence": 0.7
+  },
+  "32": {
+    "summary": "Midlife crisis questioning life choices",
+    "category": "midlife_crisis",
+    "confidence": 0.8
+  },
+  "33": {
+    "summary": "Unexpected financial expenses causing stress",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "34": {
+    "summary": "Burnout from unsustainable work pace",
+    "category": "burnout",
+    "confidence": 0.8
+  },
+  "35": {
+    "summary": "Family planning pressure and societal expectations",
+    "category": "family_planning",
+    "confidence": 0.7
+  },
+  "36": {
+    "summary": "Identity crisis seeking major life change",
+    "category": "identity_crisis",
+    "confidence": 0.8
+  },
+  "37": {
+    "summary": "Financial stress and career burnout",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "38": {
+    "summary": "Health issues from chronic stress",
+    "category": "chronic_illness",
+    "confidence": 0.7
+  },
+  "39": {
+    "summary": "Social isolation and loneliness",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "40": {
+    "summary": "Existential crisis and midlife reassessment",
+    "category": "existential_crisis",
+    "confidence": 0.8
+  },
+  "41": {
+    "summary": "Retirement planning and financial uncertainty",
+    "category": "financial_planning",
+    "confidence": 0.7
+  },
+  "42": {
+    "summary": "Creative block and loss of passion",
+    "category": "creative_block",
+    "confidence": 0.7
+  },
+  "43": {
+    "summary": "Relationship strain and family responsibilities",
+    "category": "relationship_issues",
+    "confidence": 0.7
+  },
+  "44": {
+    "summary": "Career burnout and desire for change",
+    "category": "burnout",
+    "confidence": 0.8
+  },
+  "45": {
+    "summary": "Financial stress and emerging health problems",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "46": {
+    "summary": "Grief over loss of loved ones",
+    "category": "grief",
+    "confidence": 0.7
+  },
+  "47": {
+    "summary": "Chronic pain and mobility limitations",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "48": {
+    "summary": "Financial insecurity and health decline",
+    "category": "financial_insecurity",
+    "confidence": 0.7
+  },
+  "49": {
+    "summary": "Social isolation and loneliness",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "50": {
+    "summary": "Retirement identity loss and planning stress",
+    "category": "retirement_planning",
+    "confidence": 0.7
+  },
+  "51": {
+    "summary": "Chronic illness and health decline",
+    "category": "chronic_illness",
+    "confidence": 0.7
+  },
+  "52": {
+    "summary": "Loneliness and social isolation",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "53": {
+    "summary": "Financial insecurity in retirement",
+    "category": "financial_insecurity",
+    "confidence": 0.7
+  },
+  "54": {
+    "summary": "Grief over loss of independence",
+    "category": "grief",
+    "confidence": 0.7
+  },
+  "55": {
+    "summary": "Chronic pain and mobility issues",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "56": {
+    "summary": "Financial stress and health problems",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "57": {
+    "summary": "Depression and loneliness",
+    "category": "depression",
+    "confidence": 0.7
+  },
+  "58": {
+    "summary": "Health decline and dependency",
+    "category": "health_decline",
+    "confidence": 0.7
+  },
+  "59": {
+    "summary": "Financial insecurity and family conflicts",
+    "category": "financial_insecurity",
+    "confidence": 0.7
+  },
+  "60": {
+    "summary": "Retirement identity crisis",
+    "category": "identity_crisis",
+    "confidence": 0.7
+  },
+  "61": {
+    "summary": "Chronic illness and pain",
+    "category": "chronic_illness",
+    "confidence": 0.7
+  },
+  "62": {
+    "summary": "Social isolation and loneliness",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "63": {
+    "summary": "Financial stress and health issues",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "64": {
+    "summary": "Grief and loss of loved ones",
+    "category": "grief",
+    "confidence": 0.7
+  },
+  "65": {
+    "summary": "Chronic pain and mobility limitations",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "66": {
+    "summary": "Financial insecurity and health decline",
+    "category": "financial_insecurity",
+    "confidence": 0.7
+  },
+  "67": {
+    "summary": "Depression and loneliness",
+    "category": "depression",
+    "confidence": 0.7
+  },
+  "68": {
+    "summary": "Health decline and dependency",
+    "category": "health_decline",
+    "confidence": 0.7
+  },
+  "69": {
+    "summary": "Financial stress and family conflicts",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "70": {
+    "summary": "Retirement and identity reassessment",
+    "category": "retirement_planning",
+    "confidence": 0.7
+  },
+  "71": {
+    "summary": "Chronic illness and pain",
+    "category": "chronic_illness",
+    "confidence": 0.7
+  },
+  "72": {
+    "summary": "Social isolation and loneliness",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "73": {
+    "summary": "Financial insecurity and health problems",
+    "category": "financial_insecurity",
+    "confidence": 0.7
+  },
+  "74": {
+    "summary": "Grief over loss of independence",
+    "category": "grief",
+    "confidence": 0.7
+  },
+  "75": {
+    "summary": "Chronic pain and mobility issues",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "76": {
+    "summary": "Financial stress and health decline",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "77": {
+    "summary": "Depression and loneliness",
+    "category": "depression",
+    "confidence": 0.7
+  },
+  "78": {
+    "summary": "Health decline and dependency",
+    "category": "health_decline",
+    "confidence": 0.7
+  },
+  "79": {
+    "summary": "Financial insecurity and family conflicts",
+    "category": "financial_insecurity",
+    "confidence": 0.7
+  },
+  "80": {
+    "summary": "Retirement identity loss",
+    "category": "identity_crisis",
+    "confidence": 0.7
+  },
+  "81": {
+    "summary": "Chronic illness and pain",
+    "category": "chronic_illness",
+    "confidence": 0.7
+  },
+  "82": {
+    "summary": "Social isolation and loneliness",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "83": {
+    "summary": "Financial stress and health issues",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "84": {
+    "summary": "Grief and loss of loved ones",
+    "category": "grief",
+    "confidence": 0.7
+  },
+  "85": {
+    "summary": "Chronic pain and mobility limitations",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "86": {
+    "summary": "Financial insecurity and health decline",
+    "category": "financial_insecurity",
+    "confidence": 0.7
+  },
+  "87": {
+    "summary": "Depression and loneliness",
+    "category": "depression",
+    "confidence": 0.7
+  },
+  "88": {
+    "summary": "Health decline and dependency",
+    "category": "health_decline",
+    "confidence": 0.7
+  },
+  "89": {
+    "summary": "Financial stress and family conflicts",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "90": {
+    "summary": "Retirement and legacy concerns",
+    "category": "existential_crisis",
+    "confidence": 0.7
+  },
+  "91": {
+    "summary": "Chronic illness and pain",
+    "category": "chronic_illness",
+    "confidence": 0.7
+  },
+  "92": {
+    "summary": "Social isolation and loneliness",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "93": {
+    "summary": "Financial insecurity and health problems",
+    "category": "financial_insecurity",
+    "confidence": 0.7
+  },
+  "94": {
+    "summary": "Grief over loss of independence",
+    "category": "grief",
+    "confidence": 0.7
+  },
+  "95": {
+    "summary": "Chronic pain and mobility issues",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "96": {
+    "summary": "Financial stress and health decline",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "97": {
+    "summary": "Depression and loneliness",
+    "category": "depression",
+    "confidence": 0.7
+  },
+  "98": {
+    "summary": "Health decline and dependency",
+    "category": "health_decline",
+    "confidence": 0.7
+  },
+  "99": {
+    "summary": "Financial insecurity and family conflicts",
+    "category": "financial_insecurity",
+    "confidence": 0.7
+  },
+  "100": {
+    "summary": "End-of-life reflections and legacy concerns",
+    "category": "existential_crisis",
+    "confidence": 0.7
+  }
+}

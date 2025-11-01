@@ -1,0 +1,407 @@
+{
+  "20": {
+    "summary": "First-year career jitters in unfamiliar Buenos Aires",
+    "category": "career_adjustment",
+    "confidence": 0.85
+  },
+  "21": {
+    "summary": "Navigating language barriers and cultural isolation",
+    "category": "social_isolation",
+    "confidence": 0.8
+  },
+  "22": {
+    "summary": "Financial stress from Argentina's economic volatility",
+    "category": "financial_stress",
+    "confidence": 0.75
+  },
+  "23": {
+    "summary": "Imposter syndrome in competitive tech industry",
+    "category": "career_doubt",
+    "confidence": 0.7
+  },
+  "24": {
+    "summary": "Homesickness for Tokyo's structured environment",
+    "category": "grief",
+    "confidence": 0.65
+  },
+  "25": {
+    "summary": "Balancing Japanese traditions with local relationships",
+    "category": "identity_conflict",
+    "confidence": 0.8
+  },
+  "26": {
+    "summary": "Burnout from overworking to prove worth",
+    "category": "career_burnout",
+    "confidence": 0.7
+  },
+  "27": {
+    "summary": "Adjusting to life in Buenos Aires after relocation",
+    "category": "adjustment_disorder",
+    "confidence": 0.9
+  },
+  "28": {
+    "summary": "Pressure to establish roots in unstable economy",
+    "category": "financial_uncertainty",
+    "confidence": 0.75
+  },
+  "29": {
+    "summary": "Loneliness despite professional success",
+    "category": "social_isolation",
+    "confidence": 0.8
+  },
+  "30": {
+    "summary": "Mid-career identity crisis questioning values",
+    "category": "existential_crisis",
+    "confidence": 0.7
+  },
+  "31": {
+    "summary": "Family expectations vs personal freedom",
+    "category": "family_pressure",
+    "confidence": 0.65
+  },
+  "32": {
+    "summary": "Health anxiety from chronic stress",
+    "category": "chronic_health",
+    "confidence": 0.6
+  },
+  "33": {
+    "summary": "Ethical conflicts in corporate tech work",
+    "category": "moral_dilemma",
+    "confidence": 0.7
+  },
+  "34": {
+    "summary": "Midlife reassessment of cultural identity",
+    "category": "identity_crisis",
+    "confidence": 0.6
+  },
+  "35": {
+    "summary": "Financial planning paralysis amid inflation",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "36": {
+    "summary": "Marriage pressure conflicting with independence",
+    "category": "relationship_dilemma",
+    "confidence": 0.6
+  },
+  "37": {
+    "summary": "Parental health crises triggering anxiety",
+    "category": "family_grief",
+    "confidence": 0.65
+  },
+  "38": {
+    "summary": "Career plateau after rapid early advancement",
+    "category": "career_stagnation",
+    "confidence": 0.7
+  },
+  "39": {
+    "summary": "Guilt over cultural assimilation",
+    "category": "identity_guilt",
+    "confidence": 0.6
+  },
+  "40": {
+    "summary": "Midlife health decline from past stress",
+    "category": "chronic_pain",
+    "confidence": 0.75
+  },
+  "41": {
+    "summary": "Empty nest syndrome after children leave",
+    "category": "family_loss",
+    "confidence": 0.6
+  },
+  "42": {
+    "summary": "Retirement anxiety in unstable economy",
+    "category": "financial_uncertainty",
+    "confidence": 0.8
+  },
+  "43": {
+    "summary": "Grief over loss of Japanese community ties",
+    "category": "social_isolation",
+    "confidence": 0.7
+  },
+  "44": {
+    "summary": "Chronic illness diagnosis disrupting routines",
+    "category": "health_crisis",
+    "confidence": 0.7
+  },
+  "45": {
+    "summary": "Wealth disparity anxiety despite stability",
+    "category": "financial_stress",
+    "confidence": 0.65
+  },
+  "46": {
+    "summary": "Caregiving burden for aging parents",
+    "category": "family_duty",
+    "confidence": 0.7
+  },
+  "47": {
+    "summary": "Existential crisis about cultural legacy",
+    "category": "identity_crisis",
+    "confidence": 0.6
+  },
+  "48": {
+    "summary": "Social isolation from reduced mobility",
+    "category": "loneliness",
+    "confidence": 0.75
+  },
+  "49": {
+    "summary": "Retirement adjustment struggles",
+    "category": "transition_crisis",
+    "confidence": 0.7
+  },
+  "50": {
+    "summary": "Chronic pain limiting traditional hobbies",
+    "category": "chronic_pain",
+    "confidence": 0.8
+  },
+  "51": {
+    "summary": "Grandparenting challenges with cultural gaps",
+    "category": "family_duty",
+    "confidence": 0.65
+  },
+  "52": {
+    "summary": "Financial insecurity despite savings",
+    "category": "financial_uncertainty",
+    "confidence": 0.7
+  },
+  "53": {
+    "summary": "Grief over loss of close friends",
+    "category": "social_isolation",
+    "confidence": 0.75
+  },
+  "54": {
+    "summary": "Health decline requiring lifestyle changes",
+    "category": "health_crisis",
+    "confidence": 0.8
+  },
+  "55": {
+    "summary": "Retirement income shortfalls",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "56": {
+    "summary": "Caregiving exhaustion for spouse",
+    "category": "family_duty",
+    "confidence": 0.85
+  },
+  "57": {
+    "summary": "Identity crisis after career retirement",
+    "category": "existential_crisis",
+    "confidence": 0.7
+  },
+  "58": {
+    "summary": "Chronic illness management struggles",
+    "category": "chronic_health",
+    "confidence": 0.8
+  },
+  "59": {
+    "summary": "Social isolation from declining mobility",
+    "category": "loneliness",
+    "confidence": 0.85
+  },
+  "60": {
+    "summary": "Grief over loss of independence",
+    "category": "family_loss",
+    "confidence": 0.75
+  },
+  "61": {
+    "summary": "Financial anxiety from inflation",
+    "category": "financial_uncertainty",
+    "confidence": 0.8
+  },
+  "62": {
+    "summary": "Health crises requiring assisted living",
+    "category": "health_crisis",
+    "confidence": 0.9
+  },
+  "63": {
+    "summary": "Loneliness after spouse's death",
+    "category": "grief",
+    "confidence": 0.9
+  },
+  "64": {
+    "summary": "Caregiving for declining parents",
+    "category": "family_duty",
+    "confidence": 0.85
+  },
+  "65": {
+    "summary": "Retirement adjustment to inactivity",
+    "category": "transition_crisis",
+    "confidence": 0.8
+  },
+  "66": {
+    "summary": "Chronic pain limiting cultural practices",
+    "category": "chronic_pain",
+    "confidence": 0.85
+  },
+  "67": {
+    "summary": "Financial insecurity in retirement",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "68": {
+    "summary": "Guilt over reduced family involvement",
+    "category": "family_guilt",
+    "confidence": 0.75
+  },
+  "69": {
+    "summary": "Social isolation from declining health",
+    "category": "loneliness",
+    "confidence": 0.9
+  },
+  "70": {
+    "summary": "Chronic illness management challenges",
+    "category": "health_crisis",
+    "confidence": 0.9
+  },
+  "71": {
+    "summary": "Grief over loss of peers",
+    "category": "social_isolation",
+    "confidence": 0.85
+  },
+  "72": {
+    "summary": "Financial anxiety from rising costs",
+    "category": "financial_uncertainty",
+    "confidence": 0.8
+  },
+  "73": {
+    "summary": "Loneliness after children move away",
+    "category": "family_loss",
+    "confidence": 0.85
+  },
+  "74": {
+    "summary": "Caregiving exhaustion for spouse",
+    "category": "family_duty",
+    "confidence": 0.9
+  },
+  "75": {
+    "summary": "Chronic pain limiting mobility",
+    "category": "chronic_pain",
+    "confidence": 0.9
+  },
+  "76": {
+    "summary": "Retirement income shortfalls",
+    "category": "financial_stress",
+    "confidence": 0.85
+  },
+  "77": {
+    "summary": "Guilt over reduced cultural engagement",
+    "category": "identity_guilt",
+    "confidence": 0.8
+  },
+  "78": {
+    "summary": "Social isolation from declining health",
+    "category": "loneliness",
+    "confidence": 0.9
+  },
+  "79": {
+    "summary": "Health crises requiring full-time care",
+    "category": "health_crisis",
+    "confidence": 0.95
+  },
+  "80": {
+    "summary": "Chronic pain and loneliness",
+    "category": "chronic_pain",
+    "confidence": 0.95
+  },
+  "81": {
+    "summary": "Financial insecurity in advanced age",
+    "category": "financial_uncertainty",
+    "confidence": 0.9
+  },
+  "82": {
+    "summary": "Grief over loss of independence",
+    "category": "family_loss",
+    "confidence": 0.85
+  },
+  "83": {
+    "summary": "Loneliness after spouse's death",
+    "category": "grief",
+    "confidence": 0.9
+  },
+  "84": {
+    "summary": "Caregiving exhaustion for declining parents",
+    "category": "family_duty",
+    "confidence": 0.9
+  },
+  "85": {
+    "summary": "Chronic illness management struggles",
+    "category": "health_crisis",
+    "confidence": 0.95
+  },
+  "86": {
+    "summary": "Financial anxiety from rising costs",
+    "category": "financial_uncertainty",
+    "confidence": 0.9
+  },
+  "87": {
+    "summary": "Social isolation from declining health",
+    "category": "loneliness",
+    "confidence": 0.95
+  },
+  "88": {
+    "summary": "Guilt over reduced family involvement",
+    "category": "family_guilt",
+    "confidence": 0.85
+  },
+  "89": {
+    "summary": "Health crises requiring assisted living",
+    "category": "health_crisis",
+    "confidence": 0.95
+  },
+  "90": {
+    "summary": "Chronic pain and loneliness",
+    "category": "chronic_pain",
+    "confidence": 0.95
+  },
+  "91": {
+    "summary": "Financial insecurity in advanced age",
+    "category": "financial_uncertainty",
+    "confidence": 0.9
+  },
+  "92": {
+    "summary": "Grief over loss of peers",
+    "category": "social_isolation",
+    "confidence": 0.9
+  },
+  "93": {
+    "summary": "Caregiving exhaustion for spouse",
+    "category": "family_duty",
+    "confidence": 0.95
+  },
+  "94": {
+    "summary": "Chronic illness management challenges",
+    "category": "health_crisis",
+    "confidence": 0.95
+  },
+  "95": {
+    "summary": "Financial anxiety from rising costs",
+    "category": "financial_uncertainty",
+    "confidence": 0.9
+  },
+  "96": {
+    "summary": "Loneliness after children move away",
+    "category": "family_loss",
+    "confidence": 0.9
+  },
+  "97": {
+    "summary": "Guilt over reduced cultural engagement",
+    "category": "identity_guilt",
+    "confidence": 0.85
+  },
+  "98": {
+    "summary": "Health crises requiring full-time care",
+    "category": "health_crisis",
+    "confidence": 0.95
+  },
+  "99": {
+    "summary": "Chronic pain and loneliness",
+    "category": "chronic_pain",
+    "confidence": 0.95
+  },
+  "100": {
+    "summary": "Grief over loss of independence",
+    "category": "family_loss",
+    "confidence": 0.9
+  }
+}

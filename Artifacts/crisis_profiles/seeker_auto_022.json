@@ -1,0 +1,407 @@
+{
+  "20": {
+    "summary": "Financial stress from unstable job market and economic hardship",
+    "category": "financial_stress",
+    "confidence": 0.85
+  },
+  "21": {
+    "summary": "Identity crisis balancing artistic passion with financial security",
+    "category": "identity_crisis",
+    "confidence": 0.75
+  },
+  "22": {
+    "summary": "Career uncertainty in competitive urban environment",
+    "category": "career_uncertainty",
+    "confidence": 0.7
+  },
+  "23": {
+    "summary": "Relationship strain due to conflicting values with peers",
+    "category": "relationship_strain",
+    "confidence": 0.65
+  },
+  "24": {
+    "summary": "Burnout from high-pressure entry-level position",
+    "category": "burnout",
+    "confidence": 0.6
+  },
+  "25": {
+    "summary": "Financial pressure supporting family during economic downturn",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "26": {
+    "summary": "Grief over loss of extended family support network",
+    "category": "grief",
+    "confidence": 0.7
+  },
+  "27": {
+    "summary": "Health anxiety from sedentary lifestyle and stress",
+    "category": "health_anxiety",
+    "confidence": 0.6
+  },
+  "28": {
+    "summary": "Career stagnation in field not matching diverse talents",
+    "category": "career_stagnation",
+    "confidence": 0.7
+  },
+  "29": {
+    "summary": "Parental pressure to pursue stable career path",
+    "category": "family_pressure",
+    "confidence": 0.75
+  },
+  "30": {
+    "summary": "Work-life balance crisis with growing responsibilities",
+    "category": "work_life_balance",
+    "confidence": 0.8
+  },
+  "31": {
+    "summary": "Midlife reflection leading to dissatisfaction",
+    "category": "midlife_crisis",
+    "confidence": 0.7
+  },
+  "32": {
+    "summary": "Financial stress from unexpected medical expenses",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "33": {
+    "summary": "Burnout from high achievement standards",
+    "category": "burnout",
+    "confidence": 0.7
+  },
+  "34": {
+    "summary": "Climate change anxiety impacting mental health",
+    "category": "climate_anxiety",
+    "confidence": 0.65
+  },
+  "35": {
+    "summary": "Career transition anxiety amid economic volatility",
+    "category": "career_transition",
+    "confidence": 0.7
+  },
+  "36": {
+    "summary": "Health decline from years of stress and poor sleep",
+    "category": "health_concern",
+    "confidence": 0.6
+  },
+  "37": {
+    "summary": "Parental relationship strain with new family dynamics",
+    "category": "relationship_strain",
+    "confidence": 0.7
+  },
+  "38": {
+    "summary": "Financial stress from supporting aging parents",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "39": {
+    "summary": "Chronic pain from sedentary work habits",
+    "category": "chronic_pain",
+    "confidence": 0.6
+  },
+  "40": {
+    "summary": "Midlife reassessment of career and life goals",
+    "category": "midlife_crisis",
+    "confidence": 0.7
+  },
+  "41": {
+    "summary": "Retirement planning anxiety with market instability",
+    "category": "retirement_anxiety",
+    "confidence": 0.75
+  },
+  "42": {
+    "summary": "Burnout from professional transition and parental demands",
+    "category": "burnout",
+    "confidence": 0.8
+  },
+  "43": {
+    "summary": "Loneliness despite social circle due to low expressiveness",
+    "category": "loneliness",
+    "confidence": 0.65
+  },
+  "44": {
+    "summary": "Financial stress from healthcare cost inflation",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "45": {
+    "summary": "Parental relationship strain amid career transition",
+    "category": "relationship_strain",
+    "confidence": 0.75
+  },
+  "46": {
+    "summary": "Grief over loss of cultural heritage amid displacement",
+    "category": "grief",
+    "confidence": 0.7
+  },
+  "47": {
+    "summary": "Burnout and parental relationship strain",
+    "category": "burnout",
+    "confidence": 0.9
+  },
+  "48": {
+    "summary": "Health concerns from aging and past stress",
+    "category": "health_concern",
+    "confidence": 0.65
+  },
+  "49": {
+    "summary": "Financial stress from supporting adult children",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "50": {
+    "summary": "Retirement adjustment and identity loss",
+    "category": "retirement_adjustment",
+    "confidence": 0.7
+  },
+  "51": {
+    "summary": "Chronic illness management impacting independence",
+    "category": "chronic_illness",
+    "confidence": 0.6
+  },
+  "52": {
+    "summary": "Loneliness from reduced social engagement",
+    "category": "loneliness",
+    "confidence": 0.6
+  },
+  "53": {
+    "summary": "Financial stress from long-term care costs",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "54": {
+    "summary": "Mobility issues from chronic pain",
+    "category": "health_concern",
+    "confidence": 0.6
+  },
+  "55": {
+    "summary": "Grief over loss of spouse/friends",
+    "category": "grief",
+    "confidence": 0.7
+  },
+  "56": {
+    "summary": "Caregiver burnout for aging parents",
+    "category": "burnout",
+    "confidence": 0.65
+  },
+  "57": {
+    "summary": "Financial stress from inflation and reduced income",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "58": {
+    "summary": "Health decline requiring assisted living",
+    "category": "health_concern",
+    "confidence": 0.6
+  },
+  "59": {
+    "summary": "Loneliness from social isolation",
+    "category": "loneliness",
+    "confidence": 0.6
+  },
+  "60": {
+    "summary": "Retirement adjustment and legacy concerns",
+    "category": "retirement_adjustment",
+    "confidence": 0.7
+  },
+  "61": {
+    "summary": "Financial stress from healthcare expenses",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "62": {
+    "summary": "Chronic pain limiting daily activities",
+    "category": "chronic_pain",
+    "confidence": 0.6
+  },
+  "63": {
+    "summary": "Grief over loss of peers",
+    "category": "grief",
+    "confidence": 0.7
+  },
+  "64": {
+    "summary": "Health concerns from frailty",
+    "category": "health_concern",
+    "confidence": 0.6
+  },
+  "65": {
+    "summary": "Financial stress from long-term care",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "66": {
+    "summary": "Mobility issues requiring wheelchair use",
+    "category": "health_concern",
+    "confidence": 0.6
+  },
+  "67": {
+    "summary": "Loneliness from limited mobility",
+    "category": "loneliness",
+    "confidence": 0.6
+  },
+  "68": {
+    "summary": "Grief over loss of children",
+    "category": "grief",
+    "confidence": 0.7
+  },
+  "69": {
+    "summary": "Financial stress from insurance gaps",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "70": {
+    "summary": "Chronic illness requiring nursing care",
+    "category": "chronic_illness",
+    "confidence": 0.6
+  },
+  "71": {
+    "summary": "Health decline and dependency",
+    "category": "health_concern",
+    "confidence": 0.6
+  },
+  "72": {
+    "summary": "Financial stress from healthcare costs",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "73": {
+    "summary": "Loneliness from social isolation",
+    "category": "loneliness",
+    "confidence": 0.6
+  },
+  "74": {
+    "summary": "Grief over loss of grandchildren",
+    "category": "grief",
+    "confidence": 0.7
+  },
+  "75": {
+    "summary": "Retirement adjustment and finding purpose",
+    "category": "retirement_adjustment",
+    "confidence": 0.7
+  },
+  "76": {
+    "summary": "Chronic pain limiting independence",
+    "category": "chronic_pain",
+    "confidence": 0.6
+  },
+  "77": {
+    "summary": "Health concerns from frailty",
+    "category": "health_concern",
+    "confidence": 0.6
+  },
+  "78": {
+    "summary": "Financial stress from long-term care",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "79": {
+    "summary": "Loneliness from reduced mobility",
+    "category": "loneliness",
+    "confidence": 0.6
+  },
+  "80": {
+    "summary": "Chronic illness and frailty",
+    "category": "chronic_illness",
+    "confidence": 0.6
+  },
+  "81": {
+    "summary": "Financial stress from healthcare expenses",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "82": {
+    "summary": "Health decline requiring nursing home",
+    "category": "health_concern",
+    "confidence": 0.6
+  },
+  "83": {
+    "summary": "Grief over loss of spouse",
+    "category": "grief",
+    "confidence": 0.7
+  },
+  "84": {
+    "summary": "Loneliness from social isolation",
+    "category": "loneliness",
+    "confidence": 0.6
+  },
+  "85": {
+    "summary": "Financial stress from inflation",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "86": {
+    "summary": "Mobility issues from chronic pain",
+    "category": "health_concern",
+    "confidence": 0.6
+  },
+  "87": {
+    "summary": "Retirement adjustment and legacy concerns",
+    "category": "retirement_adjustment",
+    "confidence": 0.7
+  },
+  "88": {
+    "summary": "Grief over loss of children",
+    "category": "grief",
+    "confidence": 0.7
+  },
+  "89": {
+    "summary": "Financial stress from long-term care",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "90": {
+    "summary": "Chronic illness and frailty",
+    "category": "chronic_illness",
+    "confidence": 0.6
+  },
+  "91": {
+    "summary": "Health concerns from aging",
+    "category": "health_concern",
+    "confidence": 0.6
+  },
+  "92": {
+    "summary": "Loneliness from social isolation",
+    "category": "loneliness",
+    "confidence": 0.6
+  },
+  "93": {
+    "summary": "Financial stress from healthcare costs",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "94": {
+    "summary": "Grief over loss of peers",
+    "category": "grief",
+    "confidence": 0.7
+  },
+  "95": {
+    "summary": "Retirement adjustment and finding meaning",
+    "category": "retirement_adjustment",
+    "confidence": 0.7
+  },
+  "96": {
+    "summary": "Chronic pain limiting independence",
+    "category": "chronic_pain",
+    "confidence": 0.6
+  },
+  "97": {
+    "summary": "Health decline requiring assisted living",
+    "category": "health_concern",
+    "confidence": 0.6
+  },
+  "98": {
+    "summary": "Financial stress from long-term care",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "99": {
+    "summary": "Loneliness from social isolation",
+    "category": "loneliness",
+    "confidence": 0.6
+  },
+  "100": {
+    "summary": "Chronic illness and frailty",
+    "category": "chronic_illness",
+    "confidence": 0.6
+  }
+}

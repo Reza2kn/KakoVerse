@@ -1,0 +1,407 @@
+{
+  "20": {
+    "summary": "Identity conflict between Istanbul roots and Toronto assimilation",
+    "category": "identity_crisis",
+    "confidence": 0.9
+  },
+  "21": {
+    "summary": "Navigating permanent residency constraints in 1970s Toronto",
+    "category": "legal_burden",
+    "confidence": 0.85
+  },
+  "22": {
+    "summary": "Cultural alienation in immigrant community dynamics",
+    "category": "social_isolation",
+    "confidence": 0.8
+  },
+  "23": {
+    "summary": "Financial strain balancing education and family remittances",
+    "category": "financial_stress",
+    "confidence": 0.75
+  },
+  "24": {
+    "summary": "Career uncertainty in post-oil-shock Toronto job market",
+    "category": "career_doubt",
+    "confidence": 0.8
+  },
+  "25": {
+    "summary": "Intergenerational value clashes with Turkish parents",
+    "category": "family_tension",
+    "confidence": 0.7
+  },
+  "26": {
+    "summary": "Grief over irreversible Istanbul homeland changes",
+    "category": "homesickness",
+    "confidence": 0.85
+  },
+  "27": {
+    "summary": "Pressure to conform to Canadian individualism vs Turkish collectivism",
+    "category": "cultural_dissonance",
+    "confidence": 0.9
+  },
+  "28": {
+    "summary": "Marriage decisions conflicting with refugee status limitations",
+    "category": "relationship_stress",
+    "confidence": 0.7
+  },
+  "29": {
+    "summary": "Discovering family's undocumented refugee status complexities",
+    "category": "family_secrets",
+    "confidence": 0.8
+  },
+  "30": {
+    "summary": "Midlife identity crisis between Eastern heritage and Western life",
+    "category": "existential_dread",
+    "confidence": 0.85
+  },
+  "31": {
+    "summary": "Career stagnation amid Toronto's stagflation economy",
+    "category": "professional_frustration",
+    "confidence": 0.8
+  },
+  "32": {
+    "summary": "Parental pressure to pursue stable profession vs artistic calling",
+    "category": "vocational_conflict",
+    "confidence": 0.75
+  },
+  "33": {
+    "summary": "Witnessing 1970s social realignment impact immigrant communities",
+    "category": "community_change",
+    "confidence": 0.7
+  },
+  "34": {
+    "summary": "Grief over irreversible loss of Istanbul cultural touchstones",
+    "category": "cultural_grief",
+    "confidence": 0.8
+  },
+  "35": {
+    "summary": "Balancing traditional family obligations with Canadian individualism",
+    "category": "value_clash",
+    "confidence": 0.9
+  },
+  "36": {
+    "summary": "Health anxiety emerging from family's wartime trauma history",
+    "category": "health_anxiety",
+    "confidence": 0.7
+  },
+  "37": {
+    "summary": "Midlife crisis amid refugee status uncertainty",
+    "category": "existential_dread",
+    "confidence": 0.85
+  },
+  "38": {
+    "summary": "Career burnout in academic/philosophical field",
+    "category": "career_burnout",
+    "confidence": 0.7
+  },
+  "39": {
+    "summary": "Guilt over perceived abandonment of Turkish community",
+    "category": "moral_doubt",
+    "confidence": 0.8
+  },
+  "40": {
+    "summary": "Identity crisis between Iranian refugee and Canadian resident",
+    "category": "identity_crisis",
+    "confidence": 0.9
+  },
+  "41": {
+    "summary": "Financial pressure from aging parents' healthcare needs",
+    "category": "caregiver_stress",
+    "confidence": 0.75
+  },
+  "42": {
+    "summary": "Witnessing Shiraz's pandemic-era social fragmentation",
+    "category": "community_loss",
+    "confidence": 0.8
+  },
+  "43": {
+    "summary": "Grief over lost homeland cultural institutions",
+    "category": "cultural_grief",
+    "confidence": 0.85
+  },
+  "44": {
+    "summary": "Displacement trauma resurfacing during curfews",
+    "category": "trauma_flashbacks",
+    "confidence": 0.8
+  },
+  "45": {
+    "summary": "Midlife reassessment of refugee journey's purpose",
+    "category": "existential_dread",
+    "confidence": 0.85
+  },
+  "46": {
+    "summary": "Health decline from accumulated wartime trauma",
+    "category": "chronic_health",
+    "confidence": 0.75
+  },
+  "47": {
+    "summary": "Guilt over children's cultural disconnection",
+    "category": "parental_guilt",
+    "confidence": 0.8
+  },
+  "48": {
+    "summary": "Social isolation in Shiraz's mosque closures",
+    "category": "social_isolation",
+    "confidence": 0.8
+  },
+  "49": {
+    "summary": "Financial strain from oil shock economic aftershocks",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "50": {
+    "summary": "Identity crisis between Iranian and Canadian identities",
+    "category": "identity_crisis",
+    "confidence": 0.9
+  },
+  "51": {
+    "summary": "Grief over loss of Shiraz's traditional community structures",
+    "category": "community_grief",
+    "confidence": 0.85
+  },
+  "52": {
+    "summary": "Caregiver burnout for aging refugee relatives",
+    "category": "caregiver_burnout",
+    "confidence": 0.8
+  },
+  "53": {
+    "summary": "Cultural nostalgia overwhelming daily life",
+    "category": "homesickness",
+    "confidence": 0.8
+  },
+  "54": {
+    "summary": "Health anxiety from pandemic exposure fears",
+    "category": "health_anxiety",
+    "confidence": 0.75
+  },
+  "55": {
+    "summary": "Existential crisis amid refugee status limbo",
+    "category": "existential_dread",
+    "confidence": 0.85
+  },
+  "56": {
+    "summary": "Guilt over unfulfilled artistic/calligraphy ambitions",
+    "category": "regret",
+    "confidence": 0.7
+  },
+  "57": {
+    "summary": "Social isolation from community displacement",
+    "category": "social_isolation",
+    "confidence": 0.8
+  },
+  "58": {
+    "summary": "Midlife reassessment of philosophical career path",
+    "category": "existential_dread",
+    "confidence": 0.8
+  },
+  "59": {
+    "summary": "Grief over loss of Shiraz's cultural landmarks",
+    "category": "cultural_grief",
+    "confidence": 0.85
+  },
+  "60": {
+    "summary": "Identity crisis between Iranian, Canadian, and Turkish identities",
+    "category": "identity_crisis",
+    "confidence": 0.9
+  },
+  "61": {
+    "summary": "Caregiver stress for declining spouse/relatives",
+    "category": "caregiver_stress",
+    "confidence": 0.8
+  },
+  "62": {
+    "summary": "Financial insecurity despite stable status",
+    "category": "financial_anxiety",
+    "confidence": 0.7
+  },
+  "63": {
+    "summary": "Guilt over interrupted calligraphy tradition",
+    "category": "moral_doubt",
+    "confidence": 0.75
+  },
+  "64": {
+    "summary": "Social isolation from urban Mumbai's fast pace",
+    "category": "social_isolation",
+    "confidence": 0.85
+  },
+  "65": {
+    "summary": "Existential crisis amid centenarian status",
+    "category": "existential_dread",
+    "confidence": 0.9
+  },
+  "66": {
+    "summary": "Grief over loss of Mumbai's community networks",
+    "category": "community_grief",
+    "confidence": 0.8
+  },
+  "67": {
+    "summary": "Health decline from accumulated trauma",
+    "category": "chronic_health",
+    "confidence": 0.75
+  },
+  "68": {
+    "summary": "Social isolation from digital exclusion",
+    "category": "digital_isolation",
+    "confidence": 0.85
+  },
+  "69": {
+    "summary": "Caregiver burnout for declining relatives",
+    "category": "caregiver_burnout",
+    "confidence": 0.8
+  },
+  "70": {
+    "summary": "Identity crisis between immigrant and host cultures",
+    "category": "identity_crisis",
+    "confidence": 0.9
+  },
+  "71": {
+    "summary": "Guilt over unfulfilled philosophical legacy",
+    "category": "regret",
+    "confidence": 0.75
+  },
+  "72": {
+    "summary": "Financial strain from healthcare costs",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "73": {
+    "summary": "Grief over loss of Mumbai's traditional community",
+    "category": "community_grief",
+    "confidence": 0.8
+  },
+  "74": {
+    "summary": "Social isolation from shrinking social circle",
+    "category": "social_isolation",
+    "confidence": 0.85
+  },
+  "75": {
+    "summary": "Existential crisis amid centenarian status",
+    "category": "existential_dread",
+    "confidence": 0.9
+  },
+  "76": {
+    "summary": "Guilt over interrupted garden/horticulture practice",
+    "category": "moral_doubt",
+    "confidence": 0.7
+  },
+  "77": {
+    "summary": "Health anxiety from age-related decline",
+    "category": "health_anxiety",
+    "confidence": 0.75
+  },
+  "78": {
+    "summary": "Social isolation from urban Mumbai's fast pace",
+    "category": "social_isolation",
+    "confidence": 0.85
+  },
+  "79": {
+    "summary": "Caregiver stress for declining relatives",
+    "category": "caregiver_stress",
+    "confidence": 0.8
+  },
+  "80": {
+    "summary": "Identity crisis between immigrant generations",
+    "category": "identity_crisis",
+    "confidence": 0.9
+  },
+  "81": {
+    "summary": "Grief over loss of Mumbai's community networks",
+    "category": "community_grief",
+    "confidence": 0.8
+  },
+  "82": {
+    "summary": "Financial insecurity from inflation",
+    "category": "financial_anxiety",
+    "confidence": 0.7
+  },
+  "83": {
+    "summary": "Guilt over unfulfilled storytelling legacy",
+    "category": "regret",
+    "confidence": 0.75
+  },
+  "84": {
+    "summary": "Social isolation from digital exclusion",
+    "category": "digital_isolation",
+    "confidence": 0.85
+  },
+  "85": {
+    "summary": "Existential crisis amid centenarian status",
+    "category": "existential_dread",
+    "confidence": 0.9
+  },
+  "86": {
+    "summary": "Health decline from cumulative trauma",
+    "category": "chronic_health",
+    "confidence": 0.75
+  },
+  "87": {
+    "summary": "Grief over loss of Mumbai's traditional community",
+    "category": "community_grief",
+    "confidence": 0.8
+  },
+  "88": {
+    "summary": "Social isolation from shrinking social circle",
+    "category": "social_isolation",
+    "confidence": 0.85
+  },
+  "89": {
+    "summary": "Caregiver burnout for declining relatives",
+    "category": "caregiver_burnout",
+    "confidence": 0.8
+  },
+  "90": {
+    "summary": "Identity crisis between immigrant and host cultures",
+    "category": "identity_crisis",
+    "confidence": 0.9
+  },
+  "91": {
+    "summary": "Guilt over interrupted calligraphy tradition",
+    "category": "moral_doubt",
+    "confidence": 0.75
+  },
+  "92": {
+    "summary": "Financial strain from healthcare costs",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "93": {
+    "summary": "Grief over loss of Mumbai's community networks",
+    "category": "community_grief",
+    "confidence": 0.8
+  },
+  "94": {
+    "summary": "Social isolation from digital exclusion",
+    "category": "digital_isolation",
+    "confidence": 0.85
+  },
+  "95": {
+    "summary": "Existential crisis amid centenarian status",
+    "category": "existential_dread",
+    "confidence": 0.9
+  },
+  "96": {
+    "summary": "Health anxiety from age-related decline",
+    "category": "health_anxiety",
+    "confidence": 0.75
+  },
+  "97": {
+    "summary": "Guilt over unfulfilled philosophical legacy",
+    "category": "regret",
+    "confidence": 0.75
+  },
+  "98": {
+    "summary": "Social isolation from shrinking social circle",
+    "category": "social_isolation",
+    "confidence": 0.85
+  },
+  "99": {
+    "summary": "Identity crisis between immigrant generations",
+    "category": "identity_crisis",
+    "confidence": 0.9
+  },
+  "100": {
+    "summary": "Existential despair and profound loneliness",
+    "category": "existential_dread",
+    "confidence": 0.95
+  }
+}

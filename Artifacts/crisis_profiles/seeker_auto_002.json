@@ -1,0 +1,407 @@
+{
+  "20": {
+    "summary": "Navigating refugee status processing and unstable housing",
+    "category": "legal_bureaucracy",
+    "confidence": 0.85
+  },
+  "21": {
+    "summary": "Isolation in new country with limited social support",
+    "category": "loneliness",
+    "confidence": 0.78
+  },
+  "22": {
+    "summary": "Exploitative digital platform work exhaustion",
+    "category": "occupational_burnout",
+    "confidence": 0.82
+  },
+  "23": {
+    "summary": "Cultural adjustment stress in Dhaka's dense urban environment",
+    "category": "acculturative_stress",
+    "confidence": 0.75
+  },
+  "24": {
+    "summary": "Financial precarity impacting basic needs",
+    "category": "poverty_stress",
+    "confidence": 0.88
+  },
+  "25": {
+    "summary": "Re-experiencing trauma during crowded transit commutes",
+    "category": "trauma_flashbacks",
+    "confidence": 0.9
+  },
+  "26": {
+    "summary": "Chronic emotional exhaustion and dissociation",
+    "category": "complex_trauma",
+    "confidence": 0.95
+  },
+  "27": {
+    "summary": "Career stagnation in precarious gig work",
+    "category": "occupational_dissatisfaction",
+    "confidence": 0.7
+  },
+  "28": {
+    "summary": "Grief over unresolved family separation",
+    "category": "disenfranchised_grief",
+    "confidence": 0.85
+  },
+  "29": {
+    "summary": "Health anxiety from pandemic-era childhood",
+    "category": "health_anxiety",
+    "confidence": 0.7
+  },
+  "30": {
+    "summary": "Burnout from balancing multiple low-wage jobs",
+    "category": "financial_burnout",
+    "confidence": 0.8
+  },
+  "31": {
+    "summary": "Identity conflict between Vietnamese/Brazilian heritage",
+    "category": "cultural_identity",
+    "confidence": 0.65
+  },
+  "32": {
+    "summary": "Creative block despite artistic talents",
+    "category": "creative_block",
+    "confidence": 0.6
+  },
+  "33": {
+    "summary": "Hypervigilance in crowded public spaces",
+    "category": "anxiety_disorder",
+    "confidence": 0.8
+  },
+  "34": {
+    "summary": "Stigma preventing mental health help-seeking",
+    "category": "mental_health_stigma",
+    "confidence": 0.9
+  },
+  "35": {
+    "summary": "Chronic pain from unresolved trauma",
+    "category": "chronic_pain",
+    "confidence": 0.75
+  },
+  "36": {
+    "summary": "Midlife crisis questioning refugee journey",
+    "category": "existential_crisis",
+    "confidence": 0.6
+  },
+  "37": {
+    "summary": "Social isolation despite online connections",
+    "category": "digital_isolation",
+    "confidence": 0.7
+  },
+  "38": {
+    "summary": "Career plateau in service industry",
+    "category": "occupational_stagnation",
+    "confidence": 0.65
+  },
+  "39": {
+    "summary": "Intergenerational trauma transmission concerns",
+    "category": "transgenerational_trauma",
+    "confidence": 0.7
+  },
+  "40": {
+    "summary": "Health decline from chronic stress",
+    "category": "somatization",
+    "confidence": 0.7
+  },
+  "41": {
+    "summary": "Retirement planning anxiety",
+    "category": "financial_uncertainty",
+    "confidence": 0.6
+  },
+  "42": {
+    "summary": "Creative renaissance through art therapy",
+    "category": "creative_catharsis",
+    "confidence": 0.55
+  },
+  "43": {
+    "summary": "Grief over lost childhood stability",
+    "category": "complicated_grief",
+    "confidence": 0.7
+  },
+  "44": {
+    "summary": "Social anxiety in community settings",
+    "category": "social_anxiety",
+    "confidence": 0.65
+  },
+  "45": {
+    "summary": "Chronic insomnia from hypervigilance",
+    "category": "sleep_disorder",
+    "confidence": 0.8
+  },
+  "46": {
+    "summary": "Caregiver burden for aging relatives",
+    "category": "caregiver_stress",
+    "confidence": 0.55
+  },
+  "47": {
+    "summary": "Existential questioning of refugee identity",
+    "category": "identity_crisis",
+    "confidence": 0.6
+  },
+  "48": {
+    "summary": "Physical health deterioration",
+    "category": "age-related_decline",
+    "confidence": 0.7
+  },
+  "49": {
+    "summary": "Financial insecurity in later career",
+    "category": "economic_precarity",
+    "confidence": 0.6
+  },
+  "50": {
+    "summary": "Guilt over survival and privilege",
+    "category": "survivor_guilt",
+    "confidence": 0.75
+  },
+  "51": {
+    "summary": "Social isolation in retirement",
+    "category": "elder_loneliness",
+    "confidence": 0.65
+  },
+  "52": {
+    "summary": "Chronic pain management challenges",
+    "category": "pain_management",
+    "confidence": 0.7
+  },
+  "53": {
+    "summary": "Legacy anxiety about trauma inheritance",
+    "category": "generational_legacy",
+    "confidence": 0.6
+  },
+  "54": {
+    "summary": "Medication side effects from long-term treatment",
+    "category": "pharmacological_side_effects",
+    "confidence": 0.55
+  },
+  "55": {
+    "summary": "Loss of autonomy in assisted living",
+    "category": "loss_of_independence",
+    "confidence": 0.6
+  },
+  "56": {
+    "summary": "Grief over multiple losses",
+    "category": "cumulative_grief",
+    "confidence": 0.7
+  },
+  "57": {
+    "summary": "Existential despair about life meaning",
+    "category": "existential_despair",
+    "confidence": 0.65
+  },
+  "58": {
+    "summary": "Social isolation despite digital connectivity",
+    "category": "digital_isolation",
+    "confidence": 0.6
+  },
+  "59": {
+    "summary": "Health anxiety about terminal illnesses",
+    "category": "health_anxiety",
+    "confidence": 0.7
+  },
+  "60": {
+    "summary": "Financial insecurity in retirement",
+    "category": "retirement_poverty",
+    "confidence": 0.65
+  },
+  "61": {
+    "summary": "Guilt over unmet family expectations",
+    "category": "intergenerational_guilt",
+    "confidence": 0.55
+  },
+  "62": {
+    "summary": "Chronic loneliness in assisted living",
+    "category": "institutional_loneliness",
+    "confidence": 0.7
+  },
+  "63": {
+    "summary": "Physical decline impacting creative expression",
+    "category": "functional_decline",
+    "confidence": 0.6
+  },
+  "64": {
+    "summary": "Existential crisis about mortality",
+    "category": "mortality_anxiety",
+    "confidence": 0.7
+  },
+  "65": {
+    "summary": "Social isolation from physical limitations",
+    "category": "social_isolation",
+    "confidence": 0.65
+  },
+  "66": {
+    "summary": "Grief over loss of independence",
+    "category": "loss_of_autonomy",
+    "confidence": 0.6
+  },
+  "67": {
+    "summary": "Chronic pain management challenges",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "68": {
+    "summary": "Financial insecurity in advanced age",
+    "category": "economic_precarity",
+    "confidence": 0.6
+  },
+  "69": {
+    "summary": "Social isolation despite family obligations",
+    "category": "familial_isolation",
+    "confidence": 0.55
+  },
+  "70": {
+    "summary": "Existential despair about legacy",
+    "category": "legacy_concerns",
+    "confidence": 0.6
+  },
+  "71": {
+    "summary": "Physical decline impacting mobility",
+    "category": "mobility_decline",
+    "confidence": 0.65
+  },
+  "72": {
+    "summary": "Grief over multiple losses",
+    "category": "cumulative_grief",
+    "confidence": 0.7
+  },
+  "73": {
+    "summary": "Social isolation in advanced age",
+    "category": "elder_loneliness",
+    "confidence": 0.65
+  },
+  "74": {
+    "summary": "Financial insecurity in late retirement",
+    "category": "retirement_poverty",
+    "confidence": 0.6
+  },
+  "75": {
+    "summary": "Existential crisis about life meaning",
+    "category": "existential_crisis",
+    "confidence": 0.6
+  },
+  "76": {
+    "summary": "Chronic health decline",
+    "category": "age-related_illness",
+    "confidence": 0.7
+  },
+  "77": {
+    "summary": "Social isolation from physical limitations",
+    "category": "social_isolation",
+    "confidence": 0.6
+  },
+  "78": {
+    "summary": "Guilt over unmet family expectations",
+    "category": "intergenerational_guilt",
+    "confidence": 0.55
+  },
+  "79": {
+    "summary": "Financial insecurity in advanced age",
+    "category": "economic_precarity",
+    "confidence": 0.6
+  },
+  "80": {
+    "summary": "Existential despair about mortality",
+    "category": "mortality_anxiety",
+    "confidence": 0.65
+  },
+  "81": {
+    "summary": "Physical decline impacting daily living",
+    "category": "functional_decline",
+    "confidence": 0.6
+  },
+  "82": {
+    "summary": "Social isolation despite family obligations",
+    "category": "familial_isolation",
+    "confidence": 0.55
+  },
+  "83": {
+    "summary": "Grief over loss of independence",
+    "category": "loss_of_autonomy",
+    "confidence": 0.6
+  },
+  "84": {
+    "summary": "Chronic pain management challenges",
+    "category": "chronic_pain",
+    "confidence": 0.65
+  },
+  "85": {
+    "summary": "Financial insecurity in late retirement",
+    "category": "retirement_poverty",
+    "confidence": 0.55
+  },
+  "86": {
+    "summary": "Existential crisis about legacy",
+    "category": "legacy_concerns",
+    "confidence": 0.6
+  },
+  "87": {
+    "summary": "Physical decline impacting creative expression",
+    "category": "functional_decline",
+    "confidence": 0.55
+  },
+  "88": {
+    "summary": "Social isolation in advanced age",
+    "category": "elder_loneliness",
+    "confidence": 0.6
+  },
+  "89": {
+    "summary": "Grief over multiple losses",
+    "category": "cumulative_grief",
+    "confidence": 0.65
+  },
+  "90": {
+    "summary": "Existential despair about life meaning",
+    "category": "existential_despair",
+    "confidence": 0.6
+  },
+  "91": {
+    "summary": "Physical decline impacting mobility",
+    "category": "mobility_decline",
+    "confidence": 0.55
+  },
+  "92": {
+    "summary": "Social isolation from physical limitations",
+    "category": "social_isolation",
+    "confidence": 0.55
+  },
+  "93": {
+    "summary": "Financial insecurity in advanced age",
+    "category": "economic_precarity",
+    "confidence": 0.5
+  },
+  "94": {
+    "summary": "Guilt over unmet family expectations",
+    "category": "intergenerational_guilt",
+    "confidence": 0.5
+  },
+  "95": {
+    "summary": "Existential crisis about mortality",
+    "category": "mortality_anxiety",
+    "confidence": 0.55
+  },
+  "96": {
+    "summary": "Physical decline impacting daily living",
+    "category": "functional_decline",
+    "confidence": 0.5
+  },
+  "97": {
+    "summary": "Social isolation despite family obligations",
+    "category": "familial_isolation",
+    "confidence": 0.45
+  },
+  "98": {
+    "summary": "Chronic pain management challenges",
+    "category": "chronic_pain",
+    "confidence": 0.5
+  },
+  "99": {
+    "summary": "Financial insecurity in late retirement",
+    "category": "retirement_poverty",
+    "confidence": 0.4
+  },
+  "100": {
+    "summary": "Existential despair about legacy",
+    "category": "legacy_concerns",
+    "confidence": 0.45
+  }
+}

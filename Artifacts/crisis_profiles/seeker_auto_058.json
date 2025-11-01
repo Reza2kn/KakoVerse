@@ -1,0 +1,357 @@
+{
+  "20": {
+    "summary": "Cultural shock adjusting to Taipei life",
+    "category": "cultural_shock",
+    "confidence": 0.85
+  },
+  "21": {
+    "summary": "Language barriers hindering daily communication",
+    "category": "communication_barrier",
+    "confidence": 0.8
+  },
+  "22": {
+    "summary": "Financial instability as a new immigrant",
+    "category": "financial_stress",
+    "confidence": 0.9
+  },
+  "23": {
+    "summary": "Isolation in small expat community",
+    "category": "loneliness",
+    "confidence": 0.85
+  },
+  "24": {
+    "summary": "Career uncertainty in journalism field",
+    "category": "career_doubt",
+    "confidence": 0.8
+  },
+  "25": {
+    "summary": "Severe depressive episode after breakup",
+    "category": "depression",
+    "confidence": 0.95
+  },
+  "26": {
+    "summary": "Navigating political censorship at work",
+    "category": "work_pressure",
+    "confidence": 0.85
+  },
+  "27": {
+    "summary": "Identity crisis balancing Cuban roots and new life",
+    "category": "identity_crisis",
+    "confidence": 0.8
+  },
+  "28": {
+    "summary": "Burnout from precarious journalism job",
+    "category": "career_burnout",
+    "confidence": 0.85
+  },
+  "29": {
+    "summary": "Anxiety about family in Cuba under Batista",
+    "category": "family_worry",
+    "confidence": 0.75
+  },
+  "30": {
+    "summary": "Midlife questioning life choices",
+    "category": "midlife_crisis",
+    "confidence": 0.7
+  },
+  "31": {
+    "summary": "Grief over Cuba's political changes",
+    "category": "grief",
+    "confidence": 0.7
+  },
+  "32": {
+    "summary": "Financial strain supporting Cuban relatives",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "33": {
+    "summary": "Heightened anxiety during Cold War tensions",
+    "category": "political_anxiety",
+    "confidence": 0.75
+  },
+  "34": {
+    "summary": "Existential crisis about purpose",
+    "category": "existential_crisis",
+    "confidence": 0.65
+  },
+  "35": {
+    "summary": "Work-life balance struggles",
+    "category": "family_balance",
+    "confidence": 0.7
+  },
+  "36": {
+    "summary": "Fertility concerns in relationships",
+    "category": "relationship_stress",
+    "confidence": 0.6
+  },
+  "37": {
+    "summary": "Parenting challenges as immigrant",
+    "category": "parenting_stress",
+    "confidence": 0.75
+  },
+  "38": {
+    "summary": "Midlife reassessment of career",
+    "category": "career_doubt",
+    "confidence": 0.7
+  },
+  "39": {
+    "summary": "Health anxiety from chronic stress",
+    "category": "health_anxiety",
+    "confidence": 0.65
+  },
+  "40": {
+    "summary": "Chronic back pain from desk work",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "41": {
+    "summary": "Diagnosis of hypertension",
+    "category": "health_diagnosis",
+    "confidence": 0.75
+  },
+  "42": {
+    "summary": "Financial pressure from medical bills",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "43": {
+    "summary": "Debt accumulation from family needs",
+    "category": "financial_stress",
+    "confidence": 0.85
+  },
+  "44": {
+    "summary": "Career plateau in journalism",
+    "category": "career_stagnation",
+    "confidence": 0.75
+  },
+  "45": {
+    "summary": "Midlife crisis about legacy",
+    "category": "midlife_crisis",
+    "confidence": 0.7
+  },
+  "46": {
+    "summary": "Marital strain from communication issues",
+    "category": "relationship_drama",
+    "confidence": 0.7
+  },
+  "47": {
+    "summary": "Empty nest syndrome loneliness",
+    "category": "loneliness",
+    "confidence": 0.75
+  },
+  "48": {
+    "summary": "Loss of identity after children leave",
+    "category": "identity_loss",
+    "confidence": 0.65
+  },
+  "49": {
+    "summary": "Managing arthritis pain",
+    "category": "chronic_pain",
+    "confidence": 0.8
+  },
+  "50": {
+    "summary": "Caregiving burden for aging parents",
+    "category": "caregiver_stress",
+    "confidence": 0.8
+  },
+  "51": {
+    "summary": "Burnout from long-term caregiving",
+    "category": "caregiver_burnout",
+    "confidence": 0.85
+  },
+  "52": {
+    "summary": "Financial strain from medical costs",
+    "category": "financial_stress",
+    "confidence": 0.9
+  },
+  "53": {
+    "summary": "Retirement planning anxiety",
+    "category": "retirement_stress",
+    "confidence": 0.8
+  },
+  "54": {
+    "summary": "Uncertainty about pension security",
+    "category": "financial_stress",
+    "confidence": 0.85
+  },
+  "55": {
+    "summary": "Diagnosis of diabetes",
+    "category": "health_diagnosis",
+    "confidence": 0.8
+  },
+  "56": {
+    "summary": "Chronic neuropathy pain",
+    "category": "chronic_pain",
+    "confidence": 0.85
+  },
+  "57": {
+    "summary": "Social isolation from mobility issues",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "58": {
+    "summary": "Grief over spouse's death",
+    "category": "grief",
+    "confidence": 0.9
+  },
+  "59": {
+    "summary": "Profound loneliness after loss",
+    "category": "loneliness",
+    "confidence": 0.9
+  },
+  "60": {
+    "summary": "Retirement adjustment struggles",
+    "category": "retirement_adjustment",
+    "confidence": 0.85
+  },
+  "61": {
+    "summary": "Financial insecurity in retirement",
+    "category": "financial_stress",
+    "confidence": 0.85
+  },
+  "62": {
+    "summary": "Managing Alzheimer's in family",
+    "category": "caregiver_stress",
+    "confidence": 0.9
+  },
+  "63": {
+    "summary": "Chronic illness management fatigue",
+    "category": "health_anxiety",
+    "confidence": 0.85
+  },
+  "64": {
+    "summary": "Mobility limitations from arthritis",
+    "category": "mobility_issues",
+    "confidence": 0.8
+  },
+  "65": {
+    "summary": "Loss of independence concerns",
+    "category": "identity_loss",
+    "confidence": 0.75
+  },
+  "66": {
+    "summary": "Grief over friend's death",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "67": {
+    "summary": "Persistent loneliness",
+    "category": "loneliness",
+    "confidence": 0.85
+  },
+  "68": {
+    "summary": "Early cognitive decline worries",
+    "category": "health_anxiety",
+    "confidence": 0.75
+  },
+  "69": {
+    "summary": "Dementia diagnosis",
+    "category": "health_diagnosis",
+    "confidence": 0.9
+  },
+  "70": {
+    "summary": "Caregiver burden for spouse",
+    "category": "caregiver_stress",
+    "confidence": 0.9
+  },
+  "71": {
+    "summary": "Financial strain from dementia care",
+    "category": "financial_stress",
+    "confidence": 0.85
+  },
+  "72": {
+    "summary": "Complications from diabetes",
+    "category": "health_complications",
+    "confidence": 0.8
+  },
+  "73": {
+    "summary": "Social isolation from health decline",
+    "category": "loneliness",
+    "confidence": 0.85
+  },
+  "74": {
+    "summary": "Grief over sibling's death",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "75": {
+    "summary": "Chronic pain management",
+    "category": "chronic_pain",
+    "confidence": 0.85
+  },
+  "76": {
+    "summary": "End-of-life reflections",
+    "category": "existential_crisis",
+    "confidence": 0.75
+  },
+  "77": {
+    "summary": "Fear of mortality",
+    "category": "existential_anxiety",
+    "confidence": 0.7
+  },
+  "78": {
+    "summary": "Grief over friend's death",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "79": {
+    "summary": "Profound loneliness",
+    "category": "loneliness",
+    "confidence": 0.85
+  },
+  "80": {
+    "summary": "Health decline from multiple conditions",
+    "category": "health_complications",
+    "confidence": 0.8
+  },
+  "81": {
+    "summary": "Caregiving for spouse with dementia",
+    "category": "caregiver_burnout",
+    "confidence": 0.9
+  },
+  "82": {
+    "summary": "Financial strain from care costs",
+    "category": "financial_stress",
+    "confidence": 0.85
+  },
+  "83": {
+    "summary": "Grief over spouse's death",
+    "category": "grief",
+    "confidence": 0.95
+  },
+  "84": {
+    "summary": "Managing multiple chronic illnesses",
+    "category": "chronic_illness",
+    "confidence": 0.85
+  },
+  "85": {
+    "summary": "End-of-life transition",
+    "category": "existential_crisis",
+    "confidence": 0.9
+  },
+  "86": {
+    "summary": "Advanced dementia progression",
+    "category": "cognitive_decline",
+    "confidence": 0.9
+  },
+  "87": {
+    "summary": "Loss of independence",
+    "category": "identity_loss",
+    "confidence": 0.85
+  },
+  "88": {
+    "summary": "Social isolation from immobility",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "89": {
+    "summary": "Grief over friend's death",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "90": {
+    "summary": "Managing end-stage arthritis",
+    "category": "chronic_pain",
+    "confidence": 0.85
+  }
+}

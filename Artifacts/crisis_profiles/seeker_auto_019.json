@@ -1,0 +1,407 @@
+{
+  "20": {
+    "summary": "Academic stress and career uncertainty during university years",
+    "category": "academic_stress",
+    "confidence": 0.8
+  },
+  "21": {
+    "summary": "Financial precarity and part-time job burnout",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "22": {
+    "summary": "Identity crisis amid cultural heritage pride vs. global influences",
+    "category": "identity_crisis",
+    "confidence": 0.6
+  },
+  "23": {
+    "summary": "Relationship instability and loneliness",
+    "category": "loneliness",
+    "confidence": 0.6
+  },
+  "24": {
+    "summary": "Adjustment disorder with depressive symptoms after relocation",
+    "category": "adjustment_disorder",
+    "confidence": 1.0
+  },
+  "25": {
+    "summary": "Cultural isolation and academic pressure in foreign environment",
+    "category": "cultural_isolation",
+    "confidence": 0.9
+  },
+  "26": {
+    "summary": "Identity conflict between British pragmatism and local values",
+    "category": "identity_crisis",
+    "confidence": 0.8
+  },
+  "27": {
+    "summary": "Career stagnation in art history field",
+    "category": "career_stagnation",
+    "confidence": 0.7
+  },
+  "28": {
+    "summary": "Burnout from academic pressure and financial precarity",
+    "category": "burnout",
+    "confidence": 0.8
+  },
+  "29": {
+    "summary": "Social withdrawal and rumination tendencies",
+    "category": "rumination",
+    "confidence": 0.7
+  },
+  "30": {
+    "summary": "Midlife reflection and questioning life choices",
+    "category": "midlife_reflection",
+    "confidence": 0.6
+  },
+  "31": {
+    "summary": "Anxiety about long-term goals and financial planning",
+    "category": "anxiety",
+    "confidence": 0.7
+  },
+  "32": {
+    "summary": "Work-life balance crisis in demanding career",
+    "category": "work_life_balance",
+    "confidence": 0.7
+  },
+  "33": {
+    "summary": "Chronic pain from sedentary work and tai chi imbalance",
+    "category": "chronic_pain",
+    "confidence": 0.6
+  },
+  "34": {
+    "summary": "Relationship dissatisfaction and emotional suppression",
+    "category": "relationship_dissatisfaction",
+    "confidence": 0.6
+  },
+  "35": {
+    "summary": "Midlife crisis with career reinvention desires",
+    "category": "midlife_crisis",
+    "confidence": 0.8
+  },
+  "36": {
+    "summary": "Financial planning stress for retirement",
+    "category": "financial_planning",
+    "confidence": 0.7
+  },
+  "37": {
+    "summary": "Grief over lost opportunities and aging parents",
+    "category": "grief",
+    "confidence": 0.7
+  },
+  "38": {
+    "summary": "Burnout from overwork and perfectionism",
+    "category": "burnout",
+    "confidence": 0.8
+  },
+  "39": {
+    "summary": "Health anxiety and chronic illness onset",
+    "category": "chronic_illness",
+    "confidence": 0.7
+  },
+  "40": {
+    "summary": "Existential crisis questioning life purpose",
+    "category": "existential_crisis",
+    "confidence": 0.7
+  },
+  "41": {
+    "summary": "Financial insecurity despite career achievements",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "42": {
+    "summary": "Social isolation despite professional success",
+    "category": "loneliness",
+    "confidence": 0.6
+  },
+  "43": {
+    "summary": "Midlife health decline and chronic pain",
+    "category": "chronic_pain",
+    "confidence": 0.8
+  },
+  "44": {
+    "summary": "Retirement anxiety and identity loss",
+    "category": "retirement_anxiety",
+    "confidence": 0.7
+  },
+  "45": {
+    "summary": "Grief over spouse/partner's declining health",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "46": {
+    "summary": "Caregiver burden for aging parents",
+    "category": "caregiver_burnout",
+    "confidence": 0.7
+  },
+  "47": {
+    "summary": "Chronic illness management challenges",
+    "category": "chronic_illness",
+    "confidence": 0.8
+  },
+  "48": {
+    "summary": "Financial strain from medical expenses",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "49": {
+    "summary": "Loneliness and social network erosion",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "50": {
+    "summary": "Retirement adjustment difficulties",
+    "category": "retirement_adjustment",
+    "confidence": 0.7
+  },
+  "51": {
+    "summary": "Chronic pain and mobility limitations",
+    "category": "chronic_pain",
+    "confidence": 0.8
+  },
+  "52": {
+    "summary": "Grief over loss of independence",
+    "category": "grief",
+    "confidence": 0.7
+  },
+  "53": {
+    "summary": "Caregiver exhaustion for spouse",
+    "category": "caregiver_burnout",
+    "confidence": 0.8
+  },
+  "54": {
+    "summary": "Financial precarity in retirement",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "55": {
+    "summary": "Chronic illness complications and frailty",
+    "category": "frailty",
+    "confidence": 0.8
+  },
+  "56": {
+    "summary": "Grief over loss of friends/peers",
+    "category": "grief",
+    "confidence": 0.7
+  },
+  "57": {
+    "summary": "Social isolation and loneliness",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "58": {
+    "summary": "Frailty and dependence on others",
+    "category": "frailty",
+    "confidence": 0.8
+  },
+  "59": {
+    "summary": "Health decline and chronic pain",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "60": {
+    "summary": "Retirement loneliness and purpose crisis",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "61": {
+    "summary": "Grief over loss of spouse",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "62": {
+    "summary": "Frailty and chronic illness management",
+    "category": "frailty",
+    "confidence": 0.8
+  },
+  "63": {
+    "summary": "Financial insecurity and health decline",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "64": {
+    "summary": "Social isolation and loneliness",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "65": {
+    "summary": "End-of-life concerns and legacy questions",
+    "category": "end_of_life",
+    "confidence": 0.8
+  },
+  "66": {
+    "summary": "Grief over loss of siblings",
+    "category": "grief",
+    "confidence": 0.7
+  },
+  "67": {
+    "summary": "Frailty and chronic pain",
+    "category": "frailty",
+    "confidence": 0.8
+  },
+  "68": {
+    "summary": "Loneliness and health decline",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "69": {
+    "summary": "Caregiver burden for children",
+    "category": "caregiver_burnout",
+    "confidence": 0.7
+  },
+  "70": {
+    "summary": "Grief over loss of children",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "71": {
+    "summary": "Financial precarity and frailty",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "72": {
+    "summary": "Chronic illness and loneliness",
+    "category": "chronic_illness",
+    "confidence": 0.8
+  },
+  "73": {
+    "summary": "Frailty and loss of independence",
+    "category": "frailty",
+    "confidence": 0.8
+  },
+  "74": {
+    "summary": "Grief over loss of grandchildren",
+    "category": "grief",
+    "confidence": 0.7
+  },
+  "75": {
+    "summary": "End-of-life concerns and chronic pain",
+    "category": "end_of_life",
+    "confidence": 0.8
+  },
+  "76": {
+    "summary": "Loneliness and frailty",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "77": {
+    "summary": "Caregiver exhaustion for spouse",
+    "category": "caregiver_burnout",
+    "confidence": 0.7
+  },
+  "78": {
+    "summary": "Frailty and chronic illness",
+    "category": "frailty",
+    "confidence": 0.8
+  },
+  "79": {
+    "summary": "Financial stress and loneliness",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "80": {
+    "summary": "Grief over loss of spouse",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "81": {
+    "summary": "Frailty and chronic pain",
+    "category": "frailty",
+    "confidence": 0.8
+  },
+  "82": {
+    "summary": "Loneliness and health decline",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "83": {
+    "summary": "End-of-life concerns and frailty",
+    "category": "end_of_life",
+    "confidence": 0.8
+  },
+  "84": {
+    "summary": "Grief over loss of friends",
+    "category": "grief",
+    "confidence": 0.7
+  },
+  "85": {
+    "summary": "Financial precarity and frailty",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "86": {
+    "summary": "Loneliness and chronic illness",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "87": {
+    "summary": "Frailty and end-of-life concerns",
+    "category": "frailty",
+    "confidence": 0.8
+  },
+  "88": {
+    "summary": "Grief over loss of family",
+    "category": "grief",
+    "confidence": 0.7
+  },
+  "89": {
+    "summary": "Chronic pain and frailty",
+    "category": "chronic_pain",
+    "confidence": 0.8
+  },
+  "90": {
+    "summary": "Loneliness and frailty",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "91": {
+    "summary": "End-of-life concerns and grief",
+    "category": "end_of_life",
+    "confidence": 0.8
+  },
+  "92": {
+    "summary": "Frailty and chronic illness",
+    "category": "frailty",
+    "confidence": 0.8
+  },
+  "93": {
+    "summary": "Grief over loss of spouse",
+    "category": "grief",
+    "confidence": 0.7
+  },
+  "94": {
+    "summary": "Loneliness and frailty",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "95": {
+    "summary": "End-of-life concerns and chronic pain",
+    "category": "end_of_life",
+    "confidence": 0.8
+  },
+  "96": {
+    "summary": "Frailty and grief",
+    "category": "frailty",
+    "confidence": 0.8
+  },
+  "97": {
+    "summary": "Loneliness and end-of-life concerns",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "98": {
+    "summary": "Frailty and chronic illness",
+    "category": "frailty",
+    "confidence": 0.8
+  },
+  "99": {
+    "summary": "Grief over loss of family",
+    "category": "grief",
+    "confidence": 0.7
+  },
+  "100": {
+    "summary": "End-of-life concerns and frailty",
+    "category": "end_of_life",
+    "confidence": 0.8
+  }
+}

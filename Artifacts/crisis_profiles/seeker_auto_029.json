@@ -1,0 +1,407 @@
+{
+  "20": {
+    "summary": "Identity crisis navigating independence vs family expectations",
+    "category": "identity_crisis",
+    "confidence": 0.85
+  },
+  "21": {
+    "summary": "Career uncertainty after college graduation",
+    "category": "career_uncertainty",
+    "confidence": 0.8
+  },
+  "22": {
+    "summary": "Relationship conflict with partner",
+    "category": "relationship_conflict",
+    "confidence": 0.75
+  },
+  "23": {
+    "summary": "Financial strain from student debt",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "24": {
+    "summary": "Academic pressure in graduate studies",
+    "category": "academic_stress",
+    "confidence": 0.65
+  },
+  "25": {
+    "summary": "Job instability in volatile economy",
+    "category": "employment_uncertainty",
+    "confidence": 0.7
+  },
+  "26": {
+    "summary": "Cultural dissonance adapting to new city",
+    "category": "cultural_dissonance",
+    "confidence": 0.6
+  },
+  "27": {
+    "summary": "Health anxiety from family history",
+    "category": "health_anxiety",
+    "confidence": 0.55
+  },
+  "28": {
+    "summary": "Parental pressure about life choices",
+    "category": "family_pressure",
+    "confidence": 0.6
+  },
+  "29": {
+    "summary": "Midlife reflection on career path",
+    "category": "midlife_reflection",
+    "confidence": 0.5
+  },
+  "30": {
+    "summary": "Marital adjustment challenges",
+    "category": "relationship_dissatisfaction",
+    "confidence": 0.7
+  },
+  "31": {
+    "summary": "Financial planning stress for future",
+    "category": "financial_planning",
+    "confidence": 0.65
+  },
+  "32": {
+    "summary": "Work-life balance exhaustion",
+    "category": "burnout",
+    "confidence": 0.7
+  },
+  "33": {
+    "summary": "Parenting stress with young children",
+    "category": "parenting_stress",
+    "confidence": 0.6
+  },
+  "34": {
+    "summary": "Career plateau frustration",
+    "category": "career_stagnation",
+    "confidence": 0.75
+  },
+  "35": {
+    "summary": "Identity crisis questioning life direction",
+    "category": "identity_crisis",
+    "confidence": 0.8
+  },
+  "36": {
+    "summary": "Chronic pain onset from overwork",
+    "category": "chronic_pain",
+    "confidence": 0.6
+  },
+  "37": {
+    "summary": "Financial insecurity after job loss",
+    "category": "financial_insecurity",
+    "confidence": 0.7
+  },
+  "38": {
+    "summary": "Marital dissatisfaction emerging",
+    "category": "relationship_dissatisfaction",
+    "confidence": 0.65
+  },
+  "39": {
+    "summary": "Parental pressure about grandchildren",
+    "category": "family_pressure",
+    "confidence": 0.55
+  },
+  "40": {
+    "summary": "Midlife crisis with existential doubts",
+    "category": "midlife_crisis",
+    "confidence": 0.85
+  },
+  "41": {
+    "summary": "Career transition challenges",
+    "category": "career_change",
+    "confidence": 0.7
+  },
+  "42": {
+    "summary": "Empty nest syndrome loneliness",
+    "category": "loneliness",
+    "confidence": 0.75
+  },
+  "43": {
+    "summary": "Health decline concerns",
+    "category": "health_concerns",
+    "confidence": 0.65
+  },
+  "44": {
+    "summary": "Retirement planning anxiety",
+    "category": "financial_planning",
+    "confidence": 0.7
+  },
+  "45": {
+    "summary": "Relocation stress to Pyongyang",
+    "category": "relocation_stress",
+    "confidence": 0.9
+  },
+  "46": {
+    "summary": "Cultural adaptation struggles in North Korea",
+    "category": "cultural_dissonance",
+    "confidence": 0.85
+  },
+  "47": {
+    "summary": "Isolation in foreign society",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "48": {
+    "summary": "Chronic health condition diagnosis",
+    "category": "chronic_illness",
+    "confidence": 0.7
+  },
+  "49": {
+    "summary": "Career limitations abroad",
+    "category": "career_stagnation",
+    "confidence": 0.75
+  },
+  "50": {
+    "summary": "Family separation from children",
+    "category": "family_dissolution",
+    "confidence": 0.65
+  },
+  "51": {
+    "summary": "Health decline progression",
+    "category": "health_decline",
+    "confidence": 0.7
+  },
+  "52": {
+    "summary": "Financial insecurity about retirement",
+    "category": "financial_insecurity",
+    "confidence": 0.75
+  },
+  "53": {
+    "summary": "Loneliness from social network loss",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "54": {
+    "summary": "Identity loss in foreign culture",
+    "category": "identity_loss",
+    "confidence": 0.7
+  },
+  "55": {
+    "summary": "Cultural dissonance between home and host",
+    "category": "cultural_dissonance",
+    "confidence": 0.65
+  },
+  "56": {
+    "summary": "Chronic pain flare-up",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "57": {
+    "summary": "Financial insecurity from inflation",
+    "category": "financial_insecurity",
+    "confidence": 0.6
+  },
+  "58": {
+    "summary": "Family dissolution through children's relocation",
+    "category": "family_dissolution",
+    "confidence": 0.7
+  },
+  "59": {
+    "summary": "Career uncertainty approaching retirement",
+    "category": "career_uncertainty",
+    "confidence": 0.65
+  },
+  "60": {
+    "summary": "Retirement adjustment difficulties",
+    "category": "retirement_stress",
+    "confidence": 0.75
+  },
+  "61": {
+    "summary": "Health decline with multiple conditions",
+    "category": "health_decline",
+    "confidence": 0.8
+  },
+  "62": {
+    "summary": "Loneliness from spouse/partner loss",
+    "category": "grief",
+    "confidence": 0.85
+  },
+  "63": {
+    "summary": "Financial stress from medical bills",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "64": {
+    "summary": "Identity crisis in retirement",
+    "category": "identity_crisis",
+    "confidence": 0.75
+  },
+  "65": {
+    "summary": "Chronic pain management challenges",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "66": {
+    "summary": "Social isolation from neighbor loss",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "67": {
+    "summary": "Grief over friend's death",
+    "category": "grief",
+    "confidence": 0.75
+  },
+  "68": {
+    "summary": "Diagnosis of serious chronic illness",
+    "category": "chronic_illness",
+    "confidence": 0.7
+  },
+  "69": {
+    "summary": "Financial insecurity from inflation",
+    "category": "financial_insecurity",
+    "confidence": 0.65
+  },
+  "70": {
+    "summary": "Family dissolution through children's distance",
+    "category": "family_dissolution",
+    "confidence": 0.7
+  },
+  "71": {
+    "summary": "Loneliness from limited social contact",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "72": {
+    "summary": "Health decline with mobility issues",
+    "category": "health_decline",
+    "confidence": 0.85
+  },
+  "73": {
+    "summary": "Financial planning for long-term care",
+    "category": "financial_planning",
+    "confidence": 0.75
+  },
+  "74": {
+    "summary": "Identity loss feeling useless",
+    "category": "identity_loss",
+    "confidence": 0.7
+  },
+  "75": {
+    "summary": "Persistent chronic pain",
+    "category": "chronic_pain",
+    "confidence": 0.75
+  },
+  "76": {
+    "summary": "Social isolation from neighbor loss",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "77": {
+    "summary": "Grief over grandchild's death",
+    "category": "grief",
+    "confidence": 0.85
+  },
+  "78": {
+    "summary": "Health flare-up requiring hospitalization",
+    "category": "health_concerns",
+    "confidence": 0.8
+  },
+  "79": {
+    "summary": "Financial concerns from medical expenses",
+    "category": "financial_stress",
+    "confidence": 0.7
+  },
+  "80": {
+    "summary": "Relocation stress to Tehran",
+    "category": "relocation_stress",
+    "confidence": 0.9
+  },
+  "81": {
+    "summary": "Cultural adaptation challenges in Iran",
+    "category": "cultural_dissonance",
+    "confidence": 0.85
+  },
+  "82": {
+    "summary": "Loneliness from limited social network",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "83": {
+    "summary": "Health decline with mobility issues",
+    "category": "health_decline",
+    "confidence": 0.85
+  },
+  "84": {
+    "summary": "Identity crisis feeling out of place",
+    "category": "identity_crisis",
+    "confidence": 0.8
+  },
+  "85": {
+    "summary": "Financial insecurity from pension shortfall",
+    "category": "financial_insecurity",
+    "confidence": 0.75
+  },
+  "86": {
+    "summary": "Social isolation from family loss",
+    "category": "loneliness",
+    "confidence": 0.85
+  },
+  "87": {
+    "summary": "Grief over close friend's death",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "88": {
+    "summary": "Diagnosis of serious illness",
+    "category": "chronic_illness",
+    "confidence": 0.75
+  },
+  "89": {
+    "summary": "Financial planning for end-of-life care",
+    "category": "financial_planning",
+    "confidence": 0.7
+  },
+  "90": {
+    "summary": "Persistent chronic pain",
+    "category": "chronic_pain",
+    "confidence": 0.8
+  },
+  "91": {
+    "summary": "Loneliness from limited contact",
+    "category": "loneliness",
+    "confidence": 0.85
+  },
+  "92": {
+    "summary": "Health decline with multiple conditions",
+    "category": "health_decline",
+    "confidence": 0.9
+  },
+  "93": {
+    "summary": "Identity loss feeling forgotten",
+    "category": "identity_loss",
+    "confidence": 0.8
+  },
+  "94": {
+    "summary": "Financial stress from medical bills",
+    "category": "financial_stress",
+    "confidence": 0.75
+  },
+  "95": {
+    "summary": "Social isolation from network loss",
+    "category": "loneliness",
+    "confidence": 0.85
+  },
+  "96": {
+    "summary": "Grief over grandchild's death",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "97": {
+    "summary": "Health flare-up requiring hospitalization",
+    "category": "health_concerns",
+    "confidence": 0.8
+  },
+  "98": {
+    "summary": "Financial insecurity from inflation",
+    "category": "financial_insecurity",
+    "confidence": 0.7
+  },
+  "99": {
+    "summary": "Loneliness from isolation",
+    "category": "loneliness",
+    "confidence": 0.85
+  },
+  "100": {
+    "summary": "Severe depressive episode after partner loss",
+    "category": "depression",
+    "confidence": 0.95
+  }
+}

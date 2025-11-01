@@ -1,0 +1,407 @@
+{
+  "20": {
+    "summary": "Initial relocation stress and cultural adjustment",
+    "category": "cultural_transition_stress",
+    "confidence": 0.85
+  },
+  "21": {
+    "summary": "Adjustment difficulties after relocation to Canada",
+    "category": "cultural_transition_stress",
+    "confidence": 0.95
+  },
+  "22": {
+    "summary": "Academic pressure balancing studies and part-time work",
+    "category": "academic_pressure",
+    "confidence": 0.7
+  },
+  "23": {
+    "summary": "Financial instability affecting basic needs",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "24": {
+    "summary": "Social isolation despite online connections",
+    "category": "social_isolation",
+    "confidence": 0.75
+  },
+  "25": {
+    "summary": "Career uncertainty in creative fields",
+    "category": "career_uncertainty",
+    "confidence": 0.85
+  },
+  "26": {
+    "summary": "Work-life balance struggles",
+    "category": "work_life_balance",
+    "confidence": 0.7
+  },
+  "27": {
+    "summary": "Identity conflict between Greek and Canadian cultures",
+    "category": "identity_crisis",
+    "confidence": 0.8
+  },
+  "28": {
+    "summary": "Burnout from part-time work and creative projects",
+    "category": "career_burnout",
+    "confidence": 0.75
+  },
+  "29": {
+    "summary": "Unresolved grief over leaving Athens",
+    "category": "grief",
+    "confidence": 0.7
+  },
+  "30": {
+    "summary": "Midlife reflection on life trajectory",
+    "category": "midlife_crossroads",
+    "confidence": 0.65
+  },
+  "31": {
+    "summary": "Relationship instability due to cultural differences",
+    "category": "relationship_dysfunction",
+    "confidence": 0.7
+  },
+  "32": {
+    "summary": "Creative block in music production",
+    "category": "creative_block",
+    "confidence": 0.6
+  },
+  "33": {
+    "summary": "Health anxiety from pandemic-era stress",
+    "category": "health_anxiety",
+    "confidence": 0.7
+  },
+  "34": {
+    "summary": "Housing insecurity in expensive city",
+    "category": "housing_crisis",
+    "confidence": 0.8
+  },
+  "35": {
+    "summary": "Career stagnation in creative industries",
+    "category": "career_stagnation",
+    "confidence": 0.75
+  },
+  "36": {
+    "summary": "Parenting challenges if applicable",
+    "category": "parenting_stress",
+    "confidence": 0.5
+  },
+  "37": {
+    "summary": "Midlife health decline",
+    "category": "chronic_health_issues",
+    "confidence": 0.65
+  },
+  "38": {
+    "summary": "Financial planning anxiety",
+    "category": "retirement_anxiety",
+    "confidence": 0.7
+  },
+  "39": {
+    "summary": "Creative reinvention pressure",
+    "category": "creative_block",
+    "confidence": 0.6
+  },
+  "40": {
+    "summary": "Midlife reflection on legacy",
+    "category": "existential_dread",
+    "confidence": 0.6
+  },
+  "41": {
+    "summary": "Chronic pain from sedentary work",
+    "category": "chronic_pain",
+    "confidence": 0.7
+  },
+  "42": {
+    "summary": "Caregiving responsibilities emerging",
+    "category": "caregiving_dilemmas",
+    "confidence": 0.55
+  },
+  "43": {
+    "summary": "Identity reassessment in new country",
+    "category": "identity_crisis",
+    "confidence": 0.6
+  },
+  "44": {
+    "summary": "Financial insecurity in retirement transition",
+    "category": "retirement_anxiety",
+    "confidence": 0.7
+  },
+  "45": {
+    "summary": "Health decline impacting independence",
+    "category": "mobility_limitations",
+    "confidence": 0.65
+  },
+  "46": {
+    "summary": "Grief over loss of parents",
+    "category": "grief",
+    "confidence": 0.7
+  },
+  "47": {
+    "summary": "Social isolation in later years",
+    "category": "loneliness",
+    "confidence": 0.75
+  },
+  "48": {
+    "summary": "Chronic illness management",
+    "category": "chronic_health_issues",
+    "confidence": 0.8
+  },
+  "49": {
+    "summary": "Existential questioning",
+    "category": "existential_dread",
+    "confidence": 0.65
+  },
+  "50": {
+    "summary": "Financial strain from healthcare costs",
+    "category": "financial_strain",
+    "confidence": 0.7
+  },
+  "51": {
+    "summary": "Caregiving burden for spouse",
+    "category": "caregiving_dilemmas",
+    "confidence": 0.65
+  },
+  "52": {
+    "summary": "Physical decline impacting hobbies",
+    "category": "mobility_limitations",
+    "confidence": 0.7
+  },
+  "53": {
+    "summary": "Social isolation from declining health",
+    "category": "loneliness",
+    "confidence": 0.75
+  },
+  "54": {
+    "summary": "Chronic pain management",
+    "category": "chronic_pain",
+    "confidence": 0.8
+  },
+  "55": {
+    "summary": "End-of-life planning stress",
+    "category": "existential_dread",
+    "confidence": 0.7
+  },
+  "56": {
+    "summary": "Financial insecurity in retirement",
+    "category": "financial_strain",
+    "confidence": 0.75
+  },
+  "57": {
+    "summary": "Health decline impacting mobility",
+    "category": "mobility_limitations",
+    "confidence": 0.8
+  },
+  "58": {
+    "summary": "Loneliness from losing peers",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "59": {
+    "summary": "Chronic illness progression",
+    "category": "chronic_health_issues",
+    "confidence": 0.85
+  },
+  "60": {
+    "summary": "Caregiving dilemmas for aging parents",
+    "category": "caregiving_dilemmas",
+    "confidence": 0.75
+  },
+  "61": {
+    "summary": "Financial strain from healthcare",
+    "category": "financial_strain",
+    "confidence": 0.8
+  },
+  "62": {
+    "summary": "Mobility limitations affecting independence",
+    "category": "mobility_limitations",
+    "confidence": 0.85
+  },
+  "63": {
+    "summary": "Loneliness from social isolation",
+    "category": "loneliness",
+    "confidence": 0.85
+  },
+  "64": {
+    "summary": "Chronic pain management challenges",
+    "category": "chronic_pain",
+    "confidence": 0.9
+  },
+  "65": {
+    "summary": "End-of-life existential dread",
+    "category": "existential_dread",
+    "confidence": 0.85
+  },
+  "66": {
+    "summary": "Financial insecurity in final years",
+    "category": "financial_strain",
+    "confidence": 0.8
+  },
+  "67": {
+    "summary": "Mobility limitations requiring assistance",
+    "category": "mobility_limitations",
+    "confidence": 0.85
+  },
+  "68": {
+    "summary": "Loneliness from declining health",
+    "category": "loneliness",
+    "confidence": 0.85
+  },
+  "69": {
+    "summary": "Chronic illness management",
+    "category": "chronic_health_issues",
+    "confidence": 0.9
+  },
+  "70": {
+    "summary": "Caregiving dilemmas for spouse",
+    "category": "caregiving_dilemmas",
+    "confidence": 0.8
+  },
+  "71": {
+    "summary": "Financial strain from healthcare costs",
+    "category": "financial_strain",
+    "confidence": 0.85
+  },
+  "72": {
+    "summary": "Mobility limitations impacting daily life",
+    "category": "mobility_limitations",
+    "confidence": 0.9
+  },
+  "73": {
+    "summary": "Loneliness from social isolation",
+    "category": "loneliness",
+    "confidence": 0.85
+  },
+  "74": {
+    "summary": "Chronic pain management",
+    "category": "chronic_pain",
+    "confidence": 0.9
+  },
+  "75": {
+    "summary": "Existential dread about mortality",
+    "category": "existential_dread",
+    "confidence": 0.85
+  },
+  "76": {
+    "summary": "Financial insecurity in final years",
+    "category": "financial_strain",
+    "confidence": 0.8
+  },
+  "77": {
+    "summary": "Mobility limitations requiring full assistance",
+    "category": "mobility_limitations",
+    "confidence": 0.9
+  },
+  "78": {
+    "summary": "Loneliness from declining health",
+    "category": "loneliness",
+    "confidence": 0.85
+  },
+  "79": {
+    "summary": "Chronic illness progression",
+    "category": "chronic_health_issues",
+    "confidence": 0.9
+  },
+  "80": {
+    "summary": "Caregiving dilemmas for spouse",
+    "category": "caregiving_dilemmas",
+    "confidence": 0.85
+  },
+  "81": {
+    "summary": "Financial strain from healthcare",
+    "category": "financial_strain",
+    "confidence": 0.85
+  },
+  "82": {
+    "summary": "Mobility limitations impacting independence",
+    "category": "mobility_limitations",
+    "confidence": 0.9
+  },
+  "83": {
+    "summary": "Loneliness from social isolation",
+    "category": "loneliness",
+    "confidence": 0.85
+  },
+  "84": {
+    "summary": "Chronic pain management",
+    "category": "chronic_pain",
+    "confidence": 0.9
+  },
+  "85": {
+    "summary": "Existential dread about mortality",
+    "category": "existential_dread",
+    "confidence": 0.85
+  },
+  "86": {
+    "summary": "Financial insecurity in final years",
+    "category": "financial_strain",
+    "confidence": 0.8
+  },
+  "87": {
+    "summary": "Mobility limitations requiring full assistance",
+    "category": "mobility_limitations",
+    "confidence": 0.9
+  },
+  "88": {
+    "summary": "Loneliness from declining health",
+    "category": "loneliness",
+    "confidence": 0.85
+  },
+  "89": {
+    "summary": "Chronic illness management",
+    "category": "chronic_health_issues",
+    "confidence": 0.9
+  },
+  "90": {
+    "summary": "Caregiving dilemmas for spouse",
+    "category": "caregiving_dilemmas",
+    "confidence": 0.85
+  },
+  "91": {
+    "summary": "Financial strain from healthcare costs",
+    "category": "financial_strain",
+    "confidence": 0.85
+  },
+  "92": {
+    "summary": "Mobility limitations impacting daily life",
+    "category": "mobility_limitations",
+    "confidence": 0.9
+  },
+  "93": {
+    "summary": "Loneliness from social isolation",
+    "category": "loneliness",
+    "confidence": 0.85
+  },
+  "94": {
+    "summary": "Chronic pain management",
+    "category": "chronic_pain",
+    "confidence": 0.9
+  },
+  "95": {
+    "summary": "Existential dread about mortality",
+    "category": "existential_dread",
+    "confidence": 0.85
+  },
+  "96": {
+    "summary": "Financial insecurity in final years",
+    "category": "financial_strain",
+    "confidence": 0.8
+  },
+  "97": {
+    "summary": "Mobility limitations requiring full assistance",
+    "category": "mobility_limitations",
+    "confidence": 0.9
+  },
+  "98": {
+    "summary": "Loneliness from declining health",
+    "category": "loneliness",
+    "confidence": 0.85
+  },
+  "99": {
+    "summary": "Chronic illness management",
+    "category": "chronic_health_issues",
+    "confidence": 0.9
+  },
+  "100": {
+    "summary": "Existential dread about mortality",
+    "category": "existential_dread",
+    "confidence": 0.85
+  }
+}

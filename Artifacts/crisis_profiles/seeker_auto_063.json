@@ -1,0 +1,407 @@
+{
+  "20": {
+    "summary": "Adjusting to life in Warsaw after immigration",
+    "category": "relocation_stress",
+    "confidence": 0.8
+  },
+  "21": {
+    "summary": "Struggling to find stable employment in software engineering",
+    "category": "job_insecurity",
+    "confidence": 0.7
+  },
+  "22": {
+    "summary": "Facing cultural integration challenges in Poland",
+    "category": "cultural_isolation",
+    "confidence": 0.7
+  },
+  "23": {
+    "summary": "Dealing with financial strain as a new immigrant",
+    "category": "financial_stress",
+    "confidence": 0.8
+  },
+  "24": {
+    "summary": "Pressure to establish career and relationships in new country",
+    "category": "career_pressure",
+    "confidence": 0.7
+  },
+  "25": {
+    "summary": "Navigating difficult relationship dynamics",
+    "category": "relationship_drama",
+    "confidence": 0.6
+  },
+  "26": {
+    "summary": "Severe depressive episode following breakup and housing instability",
+    "category": "depression",
+    "confidence": 1.0
+  },
+  "27": {
+    "summary": "Recovering from depression and rebuilding social connections",
+    "category": "mental_health_recovery",
+    "confidence": 0.8
+  },
+  "28": {
+    "summary": "Facing career burnout in demanding software role",
+    "category": "career_burnout",
+    "confidence": 0.7
+  },
+  "29": {
+    "summary": "Dealing with housing instability and financial stress",
+    "category": "housing_insecurity",
+    "confidence": 0.7
+  },
+  "30": {
+    "summary": "Pressure to settle down and start family",
+    "category": "family_planning",
+    "confidence": 0.6
+  },
+  "31": {
+    "summary": "Midlife crisis questioning career and life choices",
+    "category": "midlife_crisis",
+    "confidence": 0.7
+  },
+  "32": {
+    "summary": "Dealing with chronic back pain from running",
+    "category": "chronic_pain",
+    "confidence": 0.6
+  },
+  "33": {
+    "summary": "Facing financial planning challenges for retirement",
+    "category": "retirement_planning",
+    "confidence": 0.7
+  },
+  "34": {
+    "summary": "Struggling with work-life balance in demanding job",
+    "category": "work_life_balance",
+    "confidence": 0.8
+  },
+  "35": {
+    "summary": "Dealing with parent's health crisis",
+    "category": "family_caregiving",
+    "confidence": 0.7
+  },
+  "36": {
+    "summary": "Midlife reassessment pursuing new hobbies",
+    "category": "life_reassessment",
+    "confidence": 0.6
+  },
+  "37": {
+    "summary": "Facing career plateau and seeking advancement",
+    "category": "career_plateau",
+    "confidence": 0.7
+  },
+  "38": {
+    "summary": "Dealing with health issues from past lifestyle",
+    "category": "health_consequences",
+    "confidence": 0.6
+  },
+  "39": {
+    "summary": "Navigating new relationship after breakup",
+    "category": "relationship_recovery",
+    "confidence": 0.7
+  },
+  "40": {
+    "summary": "Midlife reflection existential concerns about legacy",
+    "category": "existential_crisis",
+    "confidence": 0.7
+  },
+  "41": {
+    "summary": "Facing retirement planning urgency",
+    "category": "retirement_preparation",
+    "confidence": 0.8
+  },
+  "42": {
+    "summary": "Dealing with children's education financial burden",
+    "category": "family_financial",
+    "confidence": 0.7
+  },
+  "43": {
+    "summary": "Struggling with midlife weight gain and health",
+    "category": "health_decline",
+    "confidence": 0.7
+  },
+  "44": {
+    "summary": "Facing career transition or downsizing",
+    "category": "career_transition",
+    "confidence": 0.6
+  },
+  "45": {
+    "summary": "Dealing with empty nest syndrome",
+    "category": "empty_nest",
+    "confidence": 0.7
+  },
+  "46": {
+    "summary": "Navigating new career path or entrepreneurship",
+    "category": "career_change",
+    "confidence": 0.6
+  },
+  "47": {
+    "summary": "Facing health issues hypertension or diabetes",
+    "category": "chronic_disease",
+    "confidence": 0.7
+  },
+  "48": {
+    "summary": "Dealing with children leaving home changing dynamics",
+    "category": "family_change",
+    "confidence": 0.7
+  },
+  "49": {
+    "summary": "Struggling with financial security for retirement",
+    "category": "retirement_financial",
+    "confidence": 0.8
+  },
+  "50": {
+    "summary": "Midlife reassessment pursuing personal passions",
+    "category": "life_pursuits",
+    "confidence": 0.6
+  },
+  "51": {
+    "summary": "Facing retirement and loss of career identity",
+    "category": "retirement_identity",
+    "confidence": 0.8
+  },
+  "52": {
+    "summary": "Dealing with chronic health conditions arthritis",
+    "category": "chronic_illness",
+    "confidence": 0.8
+  },
+  "53": {
+    "summary": "Navigating social isolation in retirement",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "54": {
+    "summary": "Struggling with memory lapses and cognitive decline",
+    "category": "cognitive_decline",
+    "confidence": 0.7
+  },
+  "55": {
+    "summary": "Dealing with spouse's health issues",
+    "category": "spousal_health",
+    "confidence": 0.7
+  },
+  "56": {
+    "summary": "Facing financial constraints due to healthcare costs",
+    "category": "healthcare_cost",
+    "confidence": 0.8
+  },
+  "57": {
+    "summary": "Navigating end-of-life planning for self or family",
+    "category": "end_of_life_planning",
+    "confidence": 0.7
+  },
+  "58": {
+    "summary": "Dealing with loss of independence due to health",
+    "category": "loss_of_independence",
+    "confidence": 0.8
+  },
+  "59": {
+    "summary": "Struggling with grief over loss of peers",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "60": {
+    "summary": "Facing retirement and adjusting to new lifestyle",
+    "category": "retirement_adjustment",
+    "confidence": 0.8
+  },
+  "61": {
+    "summary": "Dealing with chronic pain and mobility issues",
+    "category": "chronic_pain_mobility",
+    "confidence": 0.8
+  },
+  "62": {
+    "summary": "Navigating social isolation and loneliness",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "63": {
+    "summary": "Struggling with financial insecurity in retirement",
+    "category": "retirement_financial",
+    "confidence": 0.7
+  },
+  "64": {
+    "summary": "Dealing with health decline and dependency",
+    "category": "health_dependency",
+    "confidence": 0.8
+  },
+  "65": {
+    "summary": "Facing existential concerns about mortality",
+    "category": "mortality_concern",
+    "confidence": 0.8
+  },
+  "66": {
+    "summary": "Navigating loss of spouse or partner",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "67": {
+    "summary": "Dealing with chronic illness management",
+    "category": "chronic_illness_management",
+    "confidence": 0.8
+  },
+  "68": {
+    "summary": "Struggling with memory loss and dementia risk",
+    "category": "dementia_risk",
+    "confidence": 0.8
+  },
+  "69": {
+    "summary": "Facing financial strain due to long-term care",
+    "category": "long_term_care_cost",
+    "confidence": 0.8
+  },
+  "70": {
+    "summary": "Dealing with physical frailty and falls",
+    "category": "frailty",
+    "confidence": 0.8
+  },
+  "71": {
+    "summary": "Navigating social isolation and lack of support",
+    "category": "social_isolation",
+    "confidence": 0.8
+  },
+  "72": {
+    "summary": "Struggling with chronic pain and limited mobility",
+    "category": "chronic_pain_mobility",
+    "confidence": 0.8
+  },
+  "73": {
+    "summary": "Dealing with health crises and hospitalizations",
+    "category": "health_crisis",
+    "confidence": 0.8
+  },
+  "74": {
+    "summary": "Facing financial insecurity and reliance on savings",
+    "category": "financial_insecurity",
+    "confidence": 0.8
+  },
+  "75": {
+    "summary": "Navigating end-of-life decisions",
+    "category": "end_of_life_decisions",
+    "confidence": 0.8
+  },
+  "76": {
+    "summary": "Dealing with loss of loved ones and grief",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "77": {
+    "summary": "Struggling with chronic illness and declining health",
+    "category": "chronic_illness",
+    "confidence": 0.8
+  },
+  "78": {
+    "summary": "Facing loneliness and social withdrawal",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "79": {
+    "summary": "Dealing with memory loss and cognitive impairment",
+    "category": "cognitive_impairment",
+    "confidence": 0.8
+  },
+  "80": {
+    "summary": "Navigating health complications and dependency",
+    "category": "health_complications",
+    "confidence": 0.8
+  },
+  "81": {
+    "summary": "Struggling with financial constraints for care",
+    "category": "financial_constraints",
+    "confidence": 0.8
+  },
+  "82": {
+    "summary": "Dealing with chronic pain and mobility issues",
+    "category": "chronic_pain_mobility",
+    "confidence": 0.8
+  },
+  "83": {
+    "summary": "Facing existential concerns and legacy",
+    "category": "existential_concern",
+    "confidence": 0.8
+  },
+  "84": {
+    "summary": "Navigating loss of independence and care needs",
+    "category": "loss_of_independence",
+    "confidence": 0.8
+  },
+  "85": {
+    "summary": "Dealing with health decline and mortality",
+    "category": "health_decline",
+    "confidence": 0.8
+  },
+  "86": {
+    "summary": "Struggling with loneliness and social isolation",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "87": {
+    "summary": "Facing financial insecurity due to healthcare costs",
+    "category": "healthcare_cost",
+    "confidence": 0.8
+  },
+  "88": {
+    "summary": "Dealing with chronic illness and frailty",
+    "category": "chronic_illness",
+    "confidence": 0.8
+  },
+  "89": {
+    "summary": "Navigating end-of-life and mortality",
+    "category": "mortality",
+    "confidence": 0.8
+  },
+  "90": {
+    "summary": "Facing health complications and dependency",
+    "category": "health_complications",
+    "confidence": 0.8
+  },
+  "91": {
+    "summary": "Struggling with memory loss and dementia",
+    "category": "dementia",
+    "confidence": 0.8
+  },
+  "92": {
+    "summary": "Dealing with chronic pain and mobility issues",
+    "category": "chronic_pain_mobility",
+    "confidence": 0.8
+  },
+  "93": {
+    "summary": "Facing loneliness and social isolation",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "94": {
+    "summary": "Navigating financial constraints for care",
+    "category": "financial_constraints",
+    "confidence": 0.8
+  },
+  "95": {
+    "summary": "Dealing with health decline and mortality",
+    "category": "health_decline",
+    "confidence": 0.8
+  },
+  "96": {
+    "summary": "Struggling with chronic illness and frailty",
+    "category": "chronic_illness",
+    "confidence": 0.8
+  },
+  "97": {
+    "summary": "Facing existential concerns and legacy",
+    "category": "existential_concern",
+    "confidence": 0.8
+  },
+  "98": {
+    "summary": "Dealing with loss of independence and care needs",
+    "category": "loss_of_independence",
+    "confidence": 0.8
+  },
+  "99": {
+    "summary": "Navigating end-of-life and mortality",
+    "category": "mortality",
+    "confidence": 0.8
+  },
+  "100": {
+    "summary": "Facing health complications and mortality",
+    "category": "health_complications",
+    "confidence": 0.8
+  }
+}

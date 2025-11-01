@@ -1,0 +1,407 @@
+{
+  "20": {
+    "summary": "Language barrier hinders integration and job progression",
+    "category": "language_barrier",
+    "confidence": 0.85
+  },
+  "21": {
+    "summary": "Apprenticeship stress from demanding physical work and technical pressure",
+    "category": "occupational_stress",
+    "confidence": 0.78
+  },
+  "22": {
+    "summary": "Isolation from limited social circle and cultural distance",
+    "category": "loneliness",
+    "confidence": 0.82
+  },
+  "23": {
+    "summary": "Identity conflict between South Asian heritage and European environment",
+    "category": "identity_crisis",
+    "confidence": 0.75
+  },
+  "24": {
+    "summary": "Financial strain from supporting family back home",
+    "category": "financial_stress",
+    "confidence": 0.68
+  },
+  "25": {
+    "summary": "Burnout from heating engineering workload and long hours",
+    "category": "career_burnout",
+    "confidence": 0.8
+  },
+  "26": {
+    "summary": "Unresolved grief over displacement from multiple homelands",
+    "category": "grief",
+    "confidence": 0.7
+  },
+  "27": {
+    "summary": "Stagnation in career advancement due to immigrant status",
+    "category": "career_stagnation",
+    "confidence": 0.73
+  },
+  "28": {
+    "summary": "Physical strain from manual labor causing early joint issues",
+    "category": "chronic_pain",
+    "confidence": 0.65
+  },
+  "29": {
+    "summary": "Pressure to conform to traditional family expectations",
+    "category": "family_pressure",
+    "confidence": 0.77
+  },
+  "30": {
+    "summary": "Midlife anxiety about cultural belonging and life trajectory",
+    "category": "existential_crisis",
+    "confidence": 0.72
+  },
+  "31": {
+    "summary": "Relationship challenges due to emotional restraint and communication style",
+    "category": "relationship_conflict",
+    "confidence": 0.67
+  },
+  "32": {
+    "summary": "Health concerns from accumulated occupational strain",
+    "category": "health_anxiety",
+    "confidence": 0.63
+  },
+  "33": {
+    "summary": "Creative frustration with limited outlets for photography/dance",
+    "category": "creative_block",
+    "confidence": 0.75
+  },
+  "34": {
+    "summary": "Economic uncertainty during regional instability",
+    "category": "economic_uncertainty",
+    "confidence": 0.78
+  },
+  "35": {
+    "summary": "Parental pressure regarding marriage and settlement",
+    "category": "family_duty",
+    "confidence": 0.8
+  },
+  "36": {
+    "summary": "Midlife reassessment of career path and values",
+    "category": "career_shift",
+    "confidence": 0.74
+  },
+  "37": {
+    "summary": "Chronic pain from years of manual labor affecting daily life",
+    "category": "chronic_pain",
+    "confidence": 0.85
+  },
+  "38": {
+    "summary": "Generational disconnect with children regarding cultural identity",
+    "category": "generational_gap",
+    "confidence": 0.76
+  },
+  "39": {
+    "summary": "Retirement anxiety despite stable career",
+    "category": "retirement_anxiety",
+    "confidence": 0.71
+  },
+  "40": {
+    "summary": "Health decline from accumulated occupational wear",
+    "category": "health_decline",
+    "confidence": 0.82
+  },
+  "41": {
+    "summary": "Financial pressure from children's education costs",
+    "category": "financial_stress",
+    "confidence": 0.79
+  },
+  "42": {
+    "summary": "Caregiver stress for aging parents",
+    "category": "caregiver_burnout",
+    "confidence": 0.84
+  },
+  "43": {
+    "summary": "Existential crisis about legacy and purpose",
+    "category": "existential_crisis",
+    "confidence": 0.77
+  },
+  "44": {
+    "summary": "Physical limitations impacting repair work",
+    "category": "mobility_issues",
+    "confidence": 0.81
+  },
+  "45": {
+    "summary": "Retirement adjustment difficulties",
+    "category": "transition_stress",
+    "confidence": 0.75
+  },
+  "46": {
+    "summary": "Chronic health condition requiring lifestyle changes",
+    "category": "health_condition",
+    "confidence": 0.83
+  },
+  "47": {
+    "summary": "Social isolation from children moving away",
+    "category": "loneliness",
+    "confidence": 0.8
+  },
+  "48": {
+    "summary": "Financial strain from healthcare costs",
+    "category": "financial_stress",
+    "confidence": 0.78
+  },
+  "49": {
+    "summary": "Guilt over unfulfilled creative pursuits",
+    "category": "regret",
+    "confidence": 0.72
+  },
+  "50": {
+    "summary": "Ageism in technical field limiting opportunities",
+    "category": "age_discrimination",
+    "confidence": 0.76
+  },
+  "51": {
+    "summary": "Health decline impacting independence",
+    "category": "health_decline",
+    "confidence": 0.85
+  },
+  "52": {
+    "summary": "Caregiver burden for spouse with chronic illness",
+    "category": "caregiver_burnout",
+    "confidence": 0.87
+  },
+  "53": {
+    "summary": "Retirement savings shortfall anxiety",
+    "category": "financial_stress",
+    "confidence": 0.81
+  },
+  "54": {
+    "summary": "Physical frailty affecting hobbies and mobility",
+    "category": "mobility_issues",
+    "confidence": 0.83
+  },
+  "55": {
+    "summary": "Existential crisis about legacy and mortality",
+    "category": "existential_crisis",
+    "confidence": 0.8
+  },
+  "56": {
+    "summary": "Chronic pain management challenges",
+    "category": "chronic_pain",
+    "confidence": 0.88
+  },
+  "57": {
+    "summary": "Social isolation from shrinking social circle",
+    "category": "loneliness",
+    "confidence": 0.84
+  },
+  "58": {
+    "summary": "Health complications from accumulated occupational strain",
+    "category": "health_condition",
+    "confidence": 0.86
+  },
+  "59": {
+    "summary": "Financial pressure from grandchildren's needs",
+    "category": "financial_stress",
+    "confidence": 0.79
+  },
+  "60": {
+    "summary": "Retirement adjustment and purpose crisis",
+    "category": "existential_crisis",
+    "confidence": 0.82
+  },
+  "61": {
+    "summary": "Physical limitations impacting daily activities",
+    "category": "mobility_issues",
+    "confidence": 0.85
+  },
+  "62": {
+    "summary": "Health decline requiring assisted living decisions",
+    "category": "care_transition",
+    "confidence": 0.89
+  },
+  "63": {
+    "summary": "Guilt over unmet personal aspirations",
+    "category": "regret",
+    "confidence": 0.81
+  },
+  "64": {
+    "summary": "Chronic pain management struggles",
+    "category": "chronic_pain",
+    "confidence": 0.9
+  },
+  "65": {
+    "summary": "Social isolation in later life",
+    "category": "loneliness",
+    "confidence": 0.87
+  },
+  "66": {
+    "summary": "Health complications from aging",
+    "category": "health_condition",
+    "confidence": 0.92
+  },
+  "67": {
+    "summary": "Financial insecurity in retirement",
+    "category": "financial_stress",
+    "confidence": 0.85
+  },
+  "68": {
+    "summary": "Physical frailty and loss of independence",
+    "category": "mobility_issues",
+    "confidence": 0.91
+  },
+  "69": {
+    "summary": "Existential crisis about mortality",
+    "category": "existential_crisis",
+    "confidence": 0.88
+  },
+  "70": {
+    "summary": "Chronic pain and health decline",
+    "category": "chronic_pain",
+    "confidence": 0.93
+  },
+  "71": {
+    "summary": "Social isolation and loneliness",
+    "category": "loneliness",
+    "confidence": 0.9
+  },
+  "72": {
+    "summary": "Health complications requiring medical care",
+    "category": "health_condition",
+    "confidence": 0.94
+  },
+  "73": {
+    "summary": "Financial strain from healthcare costs",
+    "category": "financial_stress",
+    "confidence": 0.86
+  },
+  "74": {
+    "summary": "Physical limitations impacting daily life",
+    "category": "mobility_issues",
+    "confidence": 0.92
+  },
+  "75": {
+    "summary": "Existential crisis about legacy",
+    "category": "existential_crisis",
+    "confidence": 0.89
+  },
+  "76": {
+    "summary": "Chronic pain management challenges",
+    "category": "chronic_pain",
+    "confidence": 0.95
+  },
+  "77": {
+    "summary": "Social isolation in later years",
+    "category": "loneliness",
+    "confidence": 0.91
+  },
+  "78": {
+    "summary": "Health decline requiring significant care",
+    "category": "health_condition",
+    "confidence": 0.96
+  },
+  "79": {
+    "summary": "Financial insecurity in advanced age",
+    "category": "financial_stress",
+    "confidence": 0.88
+  },
+  "80": {
+    "summary": "Physical frailty and loss of independence",
+    "category": "mobility_issues",
+    "confidence": 0.94
+  },
+  "81": {
+    "summary": "Existential crisis about mortality",
+    "category": "existential_crisis",
+    "confidence": 0.9
+  },
+  "82": {
+    "summary": "Chronic pain and health complications",
+    "category": "chronic_pain",
+    "confidence": 0.97
+  },
+  "83": {
+    "summary": "Social isolation and loneliness",
+    "category": "loneliness",
+    "confidence": 0.92
+  },
+  "84": {
+    "summary": "Health decline requiring end-of-life care",
+    "category": "health_condition",
+    "confidence": 0.98
+  },
+  "85": {
+    "summary": "Financial strain from medical expenses",
+    "category": "financial_stress",
+    "confidence": 0.9
+  },
+  "86": {
+    "summary": "Physical limitations impacting daily activities",
+    "category": "mobility_issues",
+    "confidence": 0.95
+  },
+  "87": {
+    "summary": "Existential crisis about legacy and mortality",
+    "category": "existential_crisis",
+    "confidence": 0.93
+  },
+  "88": {
+    "summary": "Chronic pain management struggles",
+    "category": "chronic_pain",
+    "confidence": 0.98
+  },
+  "89": {
+    "summary": "Social isolation in final years",
+    "category": "loneliness",
+    "confidence": 0.94
+  },
+  "90": {
+    "summary": "Health complications from aging",
+    "category": "health_condition",
+    "confidence": 0.99
+  },
+  "91": {
+    "summary": "Financial insecurity in advanced age",
+    "category": "financial_stress",
+    "confidence": 0.91
+  },
+  "92": {
+    "summary": "Physical frailty and loss of independence",
+    "category": "mobility_issues",
+    "confidence": 0.96
+  },
+  "93": {
+    "summary": "Existential crisis about mortality",
+    "category": "existential_crisis",
+    "confidence": 0.94
+  },
+  "94": {
+    "summary": "Chronic pain and health decline",
+    "category": "chronic_pain",
+    "confidence": 0.99
+  },
+  "95": {
+    "summary": "Social isolation and loneliness",
+    "category": "loneliness",
+    "confidence": 0.95
+  },
+  "96": {
+    "summary": "Health decline requiring palliative care",
+    "category": "health_condition",
+    "confidence": 0.99
+  },
+  "97": {
+    "summary": "Financial strain from medical expenses",
+    "category": "financial_stress",
+    "confidence": 0.92
+  },
+  "98": {
+    "summary": "Physical limitations impacting daily life",
+    "category": "mobility_issues",
+    "confidence": 0.97
+  },
+  "99": {
+    "summary": "Existential crisis about legacy",
+    "category": "existential_crisis",
+    "confidence": 0.95
+  },
+  "100": {
+    "summary": "Chronic pain and health complications",
+    "category": "chronic_pain",
+    "confidence": 1.0
+  }
+}

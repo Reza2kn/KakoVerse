@@ -1,0 +1,407 @@
+{
+  "20": {
+    "summary": "Adjustment disorder after war trauma and displacement",
+    "category": "adjustment_disorder",
+    "confidence": 0.85
+  },
+  "21": {
+    "summary": "Financial instability and family survival pressure",
+    "category": "financial_stress",
+    "confidence": 0.75
+  },
+  "22": {
+    "summary": "Academic pressure to support family through education",
+    "category": "academic_stress",
+    "confidence": 0.65
+  },
+  "23": {
+    "summary": "Discrimination as immigrant in post-war society",
+    "category": "discrimination",
+    "confidence": 0.7
+  },
+  "24": {
+    "summary": "Unemployment and inability to contribute to family",
+    "category": "unemployment",
+    "confidence": 0.7
+  },
+  "25": {
+    "summary": "War trauma reactivation during Korean conflict",
+    "category": "war_trauma",
+    "confidence": 0.9
+  },
+  "26": {
+    "summary": "Displacement and loss of home during war",
+    "category": "displacement",
+    "confidence": 0.85
+  },
+  "27": {
+    "summary": "Grief over lost family members and property",
+    "category": "grief",
+    "confidence": 0.8
+  },
+  "28": {
+    "summary": "Adjusting to peace while managing unresolved trauma",
+    "category": "adjustment_disorder",
+    "confidence": 0.75
+  },
+  "29": {
+    "summary": "Career stagnation and financial strain",
+    "category": "career_stagnation",
+    "confidence": 0.65
+  },
+  "30": {
+    "summary": "Marital conflict and family planning stress",
+    "category": "marital_conflict",
+    "confidence": 0.7
+  },
+  "31": {
+    "summary": "Parenting stress and financial burden",
+    "category": "parenting_stress",
+    "confidence": 0.7
+  },
+  "32": {
+    "summary": "Chronic health issues from war-related stress",
+    "category": "chronic_health",
+    "confidence": 0.6
+  },
+  "33": {
+    "summary": "Career burnout from overwork and perfectionism",
+    "category": "burnout",
+    "confidence": 0.7
+  },
+  "34": {
+    "summary": "Midlife crisis and identity reassessment",
+    "category": "midlife_crisis",
+    "confidence": 0.6
+  },
+  "35": {
+    "summary": "Existential crisis about purpose and legacy",
+    "category": "existential_crisis",
+    "confidence": 0.6
+  },
+  "36": {
+    "summary": "Empty nest syndrome after children leave home",
+    "category": "empty_nest",
+    "confidence": 0.5
+  },
+  "37": {
+    "summary": "Chronic pain from aging and war injuries",
+    "category": "chronic_pain",
+    "confidence": 0.6
+  },
+  "38": {
+    "summary": "Retirement anxiety and financial insecurity",
+    "category": "retirement_anxiety",
+    "confidence": 0.6
+  },
+  "39": {
+    "summary": "Depression and social withdrawal",
+    "category": "depression",
+    "confidence": 0.7
+  },
+  "40": {
+    "summary": "Midlife crisis and career reassessment",
+    "category": "midlife_crisis",
+    "confidence": 0.6
+  },
+  "41": {
+    "summary": "Caregiving for aging parents",
+    "category": "caregiving",
+    "confidence": 0.7
+  },
+  "42": {
+    "summary": "Chronic illness management challenges",
+    "category": "chronic_illness",
+    "confidence": 0.6
+  },
+  "43": {
+    "summary": "Political disillusionment and social change stress",
+    "category": "political_stress",
+    "confidence": 0.6
+  },
+  "44": {
+    "summary": "Divorce or marital separation",
+    "category": "divorce",
+    "confidence": 0.5
+  },
+  "45": {
+    "summary": "Career transition and loss of professional identity",
+    "category": "career_transition",
+    "confidence": 0.6
+  },
+  "46": {
+    "summary": "Loneliness and isolation",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "47": {
+    "summary": "Grief over loss of a child",
+    "category": "grief",
+    "confidence": 0.6
+  },
+  "48": {
+    "summary": "Chronic pain and reduced mobility",
+    "category": "chronic_pain",
+    "confidence": 0.6
+  },
+  "49": {
+    "summary": "Empty nest syndrome",
+    "category": "empty_nest",
+    "confidence": 0.5
+  },
+  "50": {
+    "summary": "Depression and anxiety",
+    "category": "depression",
+    "confidence": 0.7
+  },
+  "51": {
+    "summary": "Caregiving for aging spouse",
+    "category": "caregiving",
+    "confidence": 0.7
+  },
+  "52": {
+    "summary": "Chronic illness and medication side effects",
+    "category": "chronic_illness",
+    "confidence": 0.6
+  },
+  "53": {
+    "summary": "Grief over loss of a parent",
+    "category": "grief",
+    "confidence": 0.6
+  },
+  "54": {
+    "summary": "Loneliness and social isolation",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "55": {
+    "summary": "Chronic pain and disability",
+    "category": "chronic_pain",
+    "confidence": 0.6
+  },
+  "56": {
+    "summary": "Divorce or separation",
+    "category": "divorce",
+    "confidence": 0.5
+  },
+  "57": {
+    "summary": "Depression and anxiety",
+    "category": "depression",
+    "confidence": 0.7
+  },
+  "58": {
+    "summary": "Grief over loss of a child",
+    "category": "grief",
+    "confidence": 0.6
+  },
+  "59": {
+    "summary": "Chronic illness and frailty",
+    "category": "chronic_illness",
+    "confidence": 0.6
+  },
+  "60": {
+    "summary": "Retirement adjustment and loss of identity",
+    "category": "retirement_anxiety",
+    "confidence": 0.7
+  },
+  "61": {
+    "summary": "Loneliness and isolation",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "62": {
+    "summary": "Caregiving for aging parents",
+    "category": "caregiving",
+    "confidence": 0.7
+  },
+  "63": {
+    "summary": "Chronic pain and disability",
+    "category": "chronic_pain",
+    "confidence": 0.6
+  },
+  "64": {
+    "summary": "Grief over loss of a spouse",
+    "category": "grief",
+    "confidence": 0.6
+  },
+  "65": {
+    "summary": "Depression and anxiety",
+    "category": "depression",
+    "confidence": 0.7
+  },
+  "66": {
+    "summary": "Empty nest syndrome",
+    "category": "empty_nest",
+    "confidence": 0.5
+  },
+  "67": {
+    "summary": "Chronic illness and frailty",
+    "category": "chronic_illness",
+    "confidence": 0.6
+  },
+  "68": {
+    "summary": "Grief over loss of a child",
+    "category": "grief",
+    "confidence": 0.6
+  },
+  "69": {
+    "summary": "Loneliness and social isolation",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "70": {
+    "summary": "Chronic pain and reduced mobility",
+    "category": "chronic_pain",
+    "confidence": 0.6
+  },
+  "71": {
+    "summary": "Caregiving for aging parents",
+    "category": "caregiving",
+    "confidence": 0.7
+  },
+  "72": {
+    "summary": "Depression and anxiety",
+    "category": "depression",
+    "confidence": 0.7
+  },
+  "73": {
+    "summary": "Grief over loss of a spouse",
+    "category": "grief",
+    "confidence": 0.6
+  },
+  "74": {
+    "summary": "Chronic illness and frailty",
+    "category": "chronic_illness",
+    "confidence": 0.6
+  },
+  "75": {
+    "summary": "Loneliness and isolation",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "76": {
+    "summary": "Empty nest syndrome",
+    "category": "empty_nest",
+    "confidence": 0.5
+  },
+  "77": {
+    "summary": "Chronic pain and disability",
+    "category": "chronic_pain",
+    "confidence": 0.6
+  },
+  "78": {
+    "summary": "Grief over loss of a child",
+    "category": "grief",
+    "confidence": 0.6
+  },
+  "79": {
+    "summary": "Depression and anxiety",
+    "category": "depression",
+    "confidence": 0.7
+  },
+  "80": {
+    "summary": "Chronic illness and frailty",
+    "category": "chronic_illness",
+    "confidence": 0.6
+  },
+  "81": {
+    "summary": "Caregiving for aging parents",
+    "category": "caregiving",
+    "confidence": 0.7
+  },
+  "82": {
+    "summary": "Loneliness and social isolation",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "83": {
+    "summary": "Grief over loss of a spouse",
+    "category": "grief",
+    "confidence": 0.6
+  },
+  "84": {
+    "summary": "Chronic pain and reduced mobility",
+    "category": "chronic_pain",
+    "confidence": 0.6
+  },
+  "85": {
+    "summary": "Empty nest syndrome",
+    "category": "empty_nest",
+    "confidence": 0.5
+  },
+  "86": {
+    "summary": "Depression and anxiety",
+    "category": "depression",
+    "confidence": 0.7
+  },
+  "87": {
+    "summary": "Grief over loss of a child",
+    "category": "grief",
+    "confidence": 0.6
+  },
+  "88": {
+    "summary": "Chronic illness and frailty",
+    "category": "chronic_illness",
+    "confidence": 0.6
+  },
+  "89": {
+    "summary": "Loneliness and social isolation",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "90": {
+    "summary": "Chronic pain and disability",
+    "category": "chronic_pain",
+    "confidence": 0.6
+  },
+  "91": {
+    "summary": "Caregiving for aging parents",
+    "category": "caregiving",
+    "confidence": 0.7
+  },
+  "92": {
+    "summary": "Depression and anxiety",
+    "category": "depression",
+    "confidence": 0.7
+  },
+  "93": {
+    "summary": "Grief over loss of a spouse",
+    "category": "grief",
+    "confidence": 0.6
+  },
+  "94": {
+    "summary": "Chronic illness and frailty",
+    "category": "chronic_illness",
+    "confidence": 0.6
+  },
+  "95": {
+    "summary": "Loneliness and isolation",
+    "category": "loneliness",
+    "confidence": 0.7
+  },
+  "96": {
+    "summary": "Empty nest syndrome",
+    "category": "empty_nest",
+    "confidence": 0.5
+  },
+  "97": {
+    "summary": "Chronic pain and disability",
+    "category": "chronic_pain",
+    "confidence": 0.6
+  },
+  "98": {
+    "summary": "Grief over loss of a child",
+    "category": "grief",
+    "confidence": 0.6
+  },
+  "99": {
+    "summary": "Depression and anxiety",
+    "category": "depression",
+    "confidence": 0.7
+  },
+  "100": {
+    "summary": "Chronic illness and frailty",
+    "category": "chronic_illness",
+    "confidence": 0.6
+  }
+}
