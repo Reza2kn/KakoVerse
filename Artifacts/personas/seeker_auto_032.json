@@ -1,0 +1,104 @@
+{
+  "agent": "Seeker",
+  "id": "seeker_auto_032",
+  "gender_at_birth": "male",
+  "birth_context": {
+    "decade": "1920s",
+    "city": "Dubai",
+    "country": "UAE",
+    "metadata": "1920s: Dubai felt interwar modernization, mass culture, and uneven prosperity alongside resource politics, conservative‑religious currents, and sanctions or reforms; locals commonly emphasized frugality or new consumer tastes, family obligation, and neighborhood reciprocity and honor, hospitality, and care in public expression."
+  },
+  "formative_context": [
+    {
+      "decade": "1920s",
+      "city": "Santiago",
+      "country": "Chile",
+      "age_group_at_time": "pre-teen",
+      "citizenship_status": "citizen",
+      "metadata": "1920s: Santiago felt interwar modernization, mass culture, and uneven prosperity alongside oscillating populism and economic volatility; locals commonly emphasized frugality or new consumer tastes, family obligation, and neighborhood reciprocity and tight‑knit kinship and street‑level solidarity."
+    }
+  ],
+  "natural_tendencies": [
+    "writing_memoirs",
+    "playing_acoustic_guitar",
+    "community_volunteering",
+    "reading_classics",
+    "cooking的传统菜肴",
+    "tidying_archives"
+  ],
+  "schwartz_basic_values": {
+    "power": 15,
+    "achievement": 35,
+    "hedonism": 20,
+    "stimulation": 30,
+    "self_direction": 55,
+    "universalism": 75,
+    "benevolence": 85,
+    "tradition": 80,
+    "conformity": 65,
+    "security": 70
+  },
+  "hexaco": {
+    "honesty_humility": 80,
+    "emotionality": 65,
+    "extraversion": 35,
+    "agreeableness": 70,
+    "conscientiousness": 60,
+    "openness_to_experience": 40
+  },
+  "csi": {
+    "directness": 40,
+    "emotional_expressiveness": 55,
+    "self_disclosure_tendency": 25,
+    "openness_to_questions": 60,
+    "reflective_listening_tolerance": 65,
+    "rumination_tendency": 75,
+    "conflict_avoidance": 85
+  },
+  "current_socio_demographics": {
+    "year": 2027,
+    "age": 105,
+    "location_current": "Oslo, Norway",
+    "household": "lives_alone_with_cat",
+    "employment": "retired_researcher",
+    "financial_status": "stable",
+    "social_network": "small_family_circle",
+    "societal_perceptions": "as a centenarian immigrant in Norway, expected to be quiet and unassuming; societal pressure to minimize reliance on services",
+    "current_location": "Oslo, Norway"
+  },
+  "presenting_problem": {
+    "summary": "severe grief reaction following sudden loss of spouse and close friends",
+    "symptoms": [
+      "persistent_sadness",
+      "sleep_disruption",
+      "reduced_appetite",
+      "social_withdrawal",
+      "rumination"
+    ],
+    "duration_months": 7,
+    "triggers": [
+      "death_of_spouse",
+      "declining_health",
+      "winter_darkness"
+    ],
+    "risk": {
+      "self_harm_ideation": "denied",
+      "substance_use": "none",
+      "violence": "none_reported"
+    }
+  },
+  "meta": {
+    "created_from": "Prompts/Kakoverse_Global_Cities_1920s_2020s.csv",
+    "city_keys": [
+      "Dubai|UAE|1920s",
+      "Santiago|Chile|1920s",
+      "Oslo|Norway|2020s"
+    ],
+    "version": "0.2",
+    "included_cities": [
+      "Dubai|UAE|1920s",
+      "Santiago|Chile|1920s",
+      "Oslo|Norway|2020s"
+    ]
+  }
+}

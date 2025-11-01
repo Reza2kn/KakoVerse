@@ -1,0 +1,103 @@
+{
+  "agent": "Seeker",
+  "id": "seeker_auto_047",
+  "gender_at_birth": "male",
+  "birth_context": {
+    "decade": "1920s",
+    "city": "Barcelona",
+    "country": "Spain",
+    "metadata": "1920s: Barcelona felt interwar modernization, mass culture, and uneven prosperity alongside integration and welfare‑state recalibration; locals commonly emphasized frugality or new consumer tastes, family obligation, and neighborhood reciprocity and civic rules, unions, and cultural heritage pride."
+  },
+  "formative_context": [
+    {
+      "decade": "1970s",
+      "city": "São Paulo",
+      "country": "Brazil",
+      "age_group_at_time": "adult",
+      "citizenship_status": "permanent_resident",
+      "metadata": "1970s: São Paulo felt oil shocks, stagflation or state expansion, and social realignment alongside oscillating populism and economic volatility; locals commonly emphasized pragmatism, extended family safety nets, and informal hustles and tight‑knit kinship and street‑level solidarity."
+    }
+  ],
+  "natural_tendencies": [
+    "classical_guitar",
+    "mediterranean_cooking",
+    "public_history_tour_guiding",
+    "bird_watching",
+    "knitting_for_the_poor"
+  ],
+  "schwartz_basic_values": {
+    "power": 32,
+    "achievement": 48,
+    "hedonism": 19,
+    "stimulation": 37,
+    "self_direction": 62,
+    "universalism": 77,
+    "benevolence": 84,
+    "tradition": 73,
+    "conformity": 53,
+    "security": 81
+  },
+  "hexaco": {
+    "honesty_humility": 71,
+    "emotionality": 38,
+    "extraversion": 44,
+    "agreeableness": 68,
+    "conscientiousness": 66,
+    "openness_to_experience": 41
+  },
+  "csi": {
+    "directness": 47,
+    "emotional_expressiveness": 28,
+    "self_disclosure_tendency": 22,
+    "openness_to_questions": 78,
+    "reflective_listening_tolerance": 72,
+    "rumination_tendency": 69,
+    "conflict_avoidance": 63
+  },
+  "current_socio_demographics": {
+    "year": 2028,
+    "age": 100,
+    "location_current": "Toronto, Canada",
+    "household": "lives_alone",
+    "employment": "retired_academic",
+    "financial_status": "stable",
+    "social_network": "small_family_circle_and_online",
+    "societal_perceptions": "as an elderly immigrant, expected to be passive but also valued for life experiences; stigma around seeking mental health support persists",
+    "current_location": "Toronto, Canada"
+  },
+  "presenting_problem": {
+    "summary": "depression following spousal loss and declining mobility",
+    "symptoms": [
+      "persistent_sadness",
+      "social_withdrawal",
+      "fatigue",
+      "reduced_appetite",
+      "unexplained_headaches"
+    ],
+    "duration_months": 6,
+    "triggers": [
+      "recent_death_of_spouse",
+      "inability_to_visit_family",
+      "declining_health"
+    ],
+    "risk": {
+      "self_harm_ideation": "denied",
+      "substance_use": "none",
+      "violence": "none_reported"
+    }
+  },
+  "meta": {
+    "created_from": "Prompts/Kakoverse_Global_Cities_1920s_2020s.csv",
+    "city_keys": [
+      "Barcelona|Spain|1920s",
+      "São Paulo|Brazil|1970s",
+      "Toronto|Canada|2020s"
+    ],
+    "version": "0.2",
+    "included_cities": [
+      "Barcelona|Spain|1920s",
+      "São Paulo|Brazil|1970s",
+      "Toronto|Canada|2020s"
+    ]
+  }
+}

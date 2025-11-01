@@ -1,0 +1,109 @@
+{
+  "agent": "Seeker",
+  "id": "seeker_auto_023",
+  "gender_at_birth": "female",
+  "birth_context": {
+    "decade": "2020s",
+    "city": "Lima",
+    "country": "Peru",
+    "metadata": "2020s: Pandemic years reshaped Lima; Long restrictions and economic strain hit hard; neighborhoods relied on solidarity, remittances, and informal work."
+  },
+  "formative_context": [
+    {
+      "decade": "2020s",
+      "city": "Osaka",
+      "country": "Japan",
+      "age_group_at_time": "childhood",
+      "citizenship_status": "temporary_worker",
+      "metadata": "2020s: Pandemic years reshaped Osaka; Early masking and border controls in some places; digital tracing and high social compliance shaped norms."
+    },
+    {
+      "decade": "2020s",
+      "city": "Caracas",
+      "country": "Venezuela",
+      "age_group_at_time": "teen",
+      "citizenship_status": "permanent_resident",
+      "metadata": "2020s: Pandemic years reshaped Caracas; Long restrictions and economic strain hit hard; neighborhoods relied on solidarity, remittances, and informal work."
+    }
+  ],
+  "natural_tendencies": [
+    "street_photography",
+    "classical_guitar",
+    "distance_running",
+    "home_cooking_south_american",
+    "diy_electronics",
+    "language_learning",
+    "urban_hiking"
+  ],
+  "schwartz_basic_values": {
+    "power": 18,
+    "achievement": 58,
+    "hedonism": 32,
+    "stimulation": 40,
+    "self_direction": 72,
+    "universalism": 68,
+    "benevolence": 75,
+    "tradition": 28,
+    "conformity": 35,
+    "security": 62
+  },
+  "hexaco": {
+    "honesty_humility": 65,
+    "emotionality": 62,
+    "extraversion": 45,
+    "agreeableness": 70,
+    "conscientiousness": 78,
+    "openness_to_experience": 88
+  },
+  "csi": {
+    "directness": 42,
+    "emotional_expressiveness": 33,
+    "self_disclosure_tendency": 28,
+    "openness_to_questions": 72,
+    "reflective_listening_tolerance": 63,
+    "rumination_tendency": 82,
+    "conflict_avoidance": 67
+  },
+  "current_socio_demographics": {
+    "year": 2050,
+    "age": 29,
+    "current_location": "Sydney, Australia",
+    "household": "lives_with_roommate",
+    "employment": "tech_startup_engineer",
+    "financial_status": "stable_upper_middle_income",
+    "social_network": "small_circle_mostly_online_friends",
+    "societal_perceptions": "As an immigrant professional in Australia, expected to be resilient but faces subtle cultural expectations and stigma around mental health",
+    "location_current": "Sydney, Australia"
+  },
+  "presenting_problem": {
+    "summary": "chronic burnout and identity dislocation",
+    "symptoms": [
+      "emotional_numbness",
+      "cognitive_fatigue",
+      "social_withdrawal",
+      "sleep_disturbances",
+      "difficulty_cognitively"
+    ],
+    "duration_months": 6,
+    "triggers": [
+      "work_deadlines",
+      "acculturative_stress",
+      "social_isolation"
+    ],
+    "risk": {
+      "self_harm_ideation": "denied",
+      "substance_use": "none_reported",
+      "violence": "none_reported"
+    }
+  },
+  "meta": {
+    "created_from": "Prompts/Kakoverse_Global_Cities_1920s_2020s.csv",
+    "included_cities": [
+      "Lima|Peru|2020s",
+      "Osaka|Japan|2020s",
+      "Caracas|Venezuela|2020s",
+      "Sydney|Australia|2020s"
+    ],
+    "version": "0.2"
+  }
+}

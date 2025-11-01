@@ -8,3 +8,10 @@ wheels/
 
 # Virtual environments
 .venv
+.venv_uv
+
+# Local secrets / OS cruft
+.env
+*.env
+*.DS_Store
+Artifacts/personas_plan_backup_*/
