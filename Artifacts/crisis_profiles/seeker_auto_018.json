@@ -1,407 +1,407 @@
 {
   "20": {
-    "summary": "Navigating migration from Nairobi to Chile amid political instability",
-    "category": "displacement",
-    "confidence": 0.9
+    "summary": "First job struggles amid Nairobi's economic shifts",
+    "category": "financial_employment",
+    "confidence": 0.85
   },
   "21": {
-    "summary": "Cultural alienation and language barriers in new country",
-    "category": "acculturation_stress",
-    "confidence": 0.8
+    "summary": "Balancing family expectations with personal ambitions",
+    "category": "caregiver_burden",
+    "confidence": 0.7
   },
   "22": {
-    "summary": "Financial precarity after leaving Nairobi's community networks",
-    "category": "financial_stress",
+    "summary": "Surviving urban violence in segregated Nairobi",
+    "category": "violence_abuse",
     "confidence": 0.9
   },
   "23": {
-    "summary": "Identity conflict between Kenyan traditions and Chilean norms",
-    "category": "identity_crisis",
-    "confidence": 0.7
-  },
-  "24": {
-    "summary": "Family estrangement due to political differences",
-    "category": "family_conflict",
+    "summary": "Housing instability in colonial-era slums",
+    "category": "legal_housing",
     "confidence": 0.8
   },
+  "24": {
+    "summary": "Academic pressure conflicting with community duties",
+    "category": "academic_stress",
+    "confidence": 0.75
+  },
   "25": {
-    "summary": "Employment discrimination as African immigrant in Chile",
-    "category": "discrimination",
+    "summary": "Early depression from unmet societal expectations",
+    "category": "mental_health_crisis",
     "confidence": 0.8
   },
   "26": {
-    "summary": "Grief over loss of Nairobi community ties",
-    "category": "grief",
-    "confidence": 0.8
+    "summary": "Navigating colonial labor laws as a migrant worker",
+    "category": "immigration",
+    "confidence": 0.7
   },
   "27": {
-    "summary": "Pressure to support extended family financially from afar",
-    "category": "financial_burden",
-    "confidence": 0.7
+    "summary": "Grief over ancestral homeland's transformation",
+    "category": "grief_bereavement",
+    "confidence": 0.85
   },
   "28": {
-    "summary": "Cultural isolation during political violence in Chile",
-    "category": "political_violence",
-    "confidence": 0.9
+    "summary": "Failed marriage due to economic migration",
+    "category": "relationship_breakup",
+    "confidence": 0.7
   },
   "29": {
-    "summary": "Marriage difficulties due to cultural expectations",
-    "category": "relationship_conflict",
-    "confidence": 0.6
+    "summary": "Isolation despite urban surroundings",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
   },
   "30": {
-    "summary": "Stagnation in community health worker career path",
-    "category": "career_stagnation",
-    "confidence": 0.7
+    "summary": "Chronic pain from manual labor injuries",
+    "category": "chronic_health_pain",
+    "confidence": 0.75
   },
   "31": {
-    "summary": "Health issues from environmental changes",
-    "category": "health_concern",
-    "confidence": 0.6
+    "summary": "Financial strain after colonial independence",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "32": {
-    "summary": "Generational conflict with Chilean-born children",
-    "category": "generational_gap",
-    "confidence": 0.7
+    "summary": "Caregiving exhaustion for sick relatives",
+    "category": "caregiver_burden",
+    "confidence": 0.85
   },
   "33": {
-    "summary": "Loss of traditional skills in urban Chilean setting",
-    "category": "skill_atrophy",
-    "confidence": 0.6
+    "summary": "Domestic violence in arranged marriage",
+    "category": "violence_abuse",
+    "confidence": 0.7
   },
   "34": {
-    "summary": "Pressure to assimilate while maintaining Kenyan identity",
-    "category": "identity_balance",
-    "confidence": 0.7
+    "summary": "Land rights disputes with colonial authorities",
+    "category": "legal_housing",
+    "confidence": 0.8
   },
   "35": {
-    "summary": "Midlife crisis questioning migration choices",
-    "category": "existential_crisis",
-    "confidence": 0.8
+    "summary": "Academic failure affecting family honor",
+    "category": "academic_stress",
+    "confidence": 0.7
   },
   "36": {
-    "summary": "Chronic financial insecurity affecting family stability",
-    "category": "financial_uncertainty",
-    "confidence": 0.8
+    "summary": "Depression from political imprisonment",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "37": {
-    "summary": "Health deterioration from prolonged stress",
-    "category": "chronic_illness",
-    "confidence": 0.7
-  },
-  "38": {
-    "summary": "Community role conflict between Kenyan and Chilean norms",
-    "category": "role_conflict",
-    "confidence": 0.7
-  },
-  "39": {
-    "summary": "Grief over Nairobi family deaths without support",
-    "category": "bereavement",
+    "summary": "Deportation threats after activism",
+    "category": "immigration",
     "confidence": 0.8
   },
+  "38": {
+    "summary": "Bereavement of political leader sparking grief",
+    "category": "grief_bereavement",
+    "confidence": 0.85
+  },
+  "39": {
+    "summary": "Divorce amid post-colonial identity crisis",
+    "category": "relationship_breakup",
+    "confidence": 0.7
+  },
   "40": {
-    "summary": "Burnout from community health work amid systemic neglect",
-    "category": "career_burnout",
+    "summary": "Isolation in new urban community",
+    "category": "loneliness_isolation",
     "confidence": 0.8
   },
   "41": {
-    "summary": "Political disillusionment during Chilean dictatorship",
-    "category": "political_disillusionment",
-    "confidence": 0.9
+    "summary": "Chronic illness from environmental exposure",
+    "category": "chronic_health_pain",
+    "confidence": 0.75
   },
   "42": {
-    "summary": "Physical pain from aging carpentry work",
-    "category": "chronic_pain",
-    "confidence": 0.7
-  },
-  "43": {
-    "summary": "Cultural nostalgia affecting mental health",
-    "category": "nostalgia",
-    "confidence": 0.7
-  },
-  "44": {
-    "summary": "Family estrangement deepening due to distance",
-    "category": "family_isolation",
+    "summary": "Financial crisis after independence reforms",
+    "category": "financial_employment",
     "confidence": 0.8
   },
+  "43": {
+    "summary": "Caregiver burnout for aging parents",
+    "category": "caregiver_burden",
+    "confidence": 0.85
+  },
+  "44": {
+    "summary": "Domestic abuse in patriarchal household",
+    "category": "violence_abuse",
+    "confidence": 0.7
+  },
   "45": {
-    "summary": "Identity crisis between Kenyan heritage and Chilean life",
-    "category": "identity_crisis",
+    "summary": "Housing evictions during urban renewal",
+    "category": "legal_housing",
     "confidence": 0.8
   },
   "46": {
-    "summary": "Economic hardship during Chilean economic crises",
-    "category": "financial_crisis",
-    "confidence": 0.9
-  },
-  "47": {
-    "summary": "Health issues from environmental adaptation",
-    "category": "health_decline",
+    "summary": "Academic pressure on children's education",
+    "category": "academic_stress",
     "confidence": 0.7
   },
+  "47": {
+    "summary": "Depression from political repression",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
+  },
   "48": {
-    "summary": "Grief over loss of Nairobi community connections",
-    "category": "grief",
+    "summary": "Deportation fears after activism",
+    "category": "immigration",
     "confidence": 0.8
   },
   "49": {
-    "summary": "Cultural displacement affecting family relationships",
-    "category": "cultural_displacement",
-    "confidence": 0.7
+    "summary": "Grief over lost homeland identity",
+    "category": "grief_bereavement",
+    "confidence": 0.85
   },
   "50": {
-    "summary": "Persistent sadness from economic hardship",
-    "category": "depression",
-    "confidence": 0.9
+    "summary": "Divorce amid economic migration",
+    "category": "relationship_breakup",
+    "confidence": 0.7
   },
   "51": {
-    "summary": "Physical pain from aging carpentry work",
-    "category": "chronic_pain",
+    "summary": "Isolation despite extended family",
+    "category": "loneliness_isolation",
     "confidence": 0.8
   },
   "52": {
-    "summary": "Family estrangement causing loneliness",
-    "category": "loneliness",
-    "confidence": 0.8
+    "summary": "Chronic pain from manual labor",
+    "category": "chronic_health_pain",
+    "confidence": 0.75
   },
   "53": {
-    "summary": "Grief over Nairobi family deaths",
-    "category": "bereavement",
+    "summary": "Financial strain after political exile",
+    "category": "financial_employment",
     "confidence": 0.8
   },
   "54": {
-    "summary": "Persistent sadness and emotional numbness",
-    "category": "depression",
-    "confidence": 1.0
+    "summary": "Caregiver burden amid family displacement",
+    "category": "caregiver_burden",
+    "confidence": 0.9
   },
   "55": {
-    "summary": "Chronic pain affecting community work",
-    "category": "chronic_pain",
-    "confidence": 0.8
+    "summary": "Domestic violence in new country",
+    "category": "violence_abuse",
+    "confidence": 0.7
   },
   "56": {
-    "summary": "Loneliness from limited social network",
-    "category": "loneliness",
+    "summary": "Housing discrimination in Chile",
+    "category": "legal_housing",
     "confidence": 0.8
   },
   "57": {
-    "summary": "Health decline from aging",
-    "category": "health_decline",
+    "summary": "Academic pressure on children",
+    "category": "academic_stress",
     "confidence": 0.7
   },
   "58": {
-    "summary": "Grief over loss of community role",
-    "category": "grief",
-    "confidence": 0.7
+    "summary": "Depression from political trauma",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "59": {
-    "summary": "Financial insecurity in retirement",
-    "category": "financial_uncertainty",
+    "summary": "Deportation threats after activism",
+    "category": "immigration",
     "confidence": 0.8
   },
   "60": {
-    "summary": "Chronic pain limiting traditional skills",
-    "category": "chronic_pain",
-    "confidence": 0.7
+    "summary": "Grief over lost homeland",
+    "category": "grief_bereavement",
+    "confidence": 0.85
   },
   "61": {
-    "summary": "Loneliness from family distance",
-    "category": "loneliness",
-    "confidence": 0.8
+    "summary": "Divorce amid cultural clashes",
+    "category": "relationship_breakup",
+    "confidence": 0.7
   },
   "62": {
-    "summary": "Health issues from environmental adaptation",
-    "category": "health_decline",
-    "confidence": 0.7
+    "summary": "Isolation in new country",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
   },
   "63": {
-    "summary": "Grief over loss of Nairobi community",
-    "category": "grief",
-    "confidence": 0.7
+    "summary": "Chronic illness from environmental exposure",
+    "category": "chronic_health_pain",
+    "confidence": 0.75
   },
   "64": {
-    "summary": "Financial insecurity affecting basic needs",
-    "category": "financial_stress",
+    "summary": "Financial crisis after political exile",
+    "category": "financial_employment",
     "confidence": 0.8
   },
   "65": {
-    "summary": "Physical decline affecting carpentry",
-    "category": "physical_decline",
-    "confidence": 0.7
+    "summary": "Caregiver burden amid family displacement",
+    "category": "caregiver_burden",
+    "confidence": 0.9
   },
   "66": {
-    "summary": "Loneliness from limited social connections",
-    "category": "loneliness",
-    "confidence": 0.8
-  },
-  "67": {
-    "summary": "Health concerns from aging",
-    "category": "health_concern",
+    "summary": "Domestic violence in new country",
+    "category": "violence_abuse",
     "confidence": 0.7
   },
+  "67": {
+    "summary": "Housing discrimination in Chile",
+    "category": "legal_housing",
+    "confidence": 0.8
+  },
   "68": {
-    "summary": "Grief over loss of family members",
-    "category": "bereavement",
+    "summary": "Academic pressure on children",
+    "category": "academic_stress",
     "confidence": 0.7
   },
   "69": {
-    "summary": "Financial insecurity in old age",
-    "category": "financial_uncertainty",
-    "confidence": 0.8
+    "summary": "Depression from political trauma",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "70": {
-    "summary": "Chronic pain limiting mobility",
-    "category": "chronic_pain",
-    "confidence": 0.7
-  },
-  "71": {
-    "summary": "Loneliness from isolation",
-    "category": "loneliness",
+    "summary": "Deportation threats after activism",
+    "category": "immigration",
     "confidence": 0.8
   },
+  "71": {
+    "summary": "Grief over lost homeland",
+    "category": "grief_bereavement",
+    "confidence": 0.85
+  },
   "72": {
-    "summary": "Health decline requiring assistance",
-    "category": "health_decline",
+    "summary": "Divorce amid cultural clashes",
+    "category": "relationship_breakup",
     "confidence": 0.7
   },
   "73": {
-    "summary": "Grief over loss of independence",
-    "category": "grief",
-    "confidence": 0.7
+    "summary": "Isolation in new country",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
   },
   "74": {
-    "summary": "Financial insecurity affecting care",
-    "category": "financial_uncertainty",
-    "confidence": 0.8
+    "summary": "Chronic illness from environmental exposure",
+    "category": "chronic_health_pain",
+    "confidence": 0.75
   },
   "75": {
-    "summary": "Physical decline affecting daily activities",
-    "category": "physical_decline",
-    "confidence": 0.7
-  },
-  "76": {
-    "summary": "Loneliness from limited social network",
-    "category": "loneliness",
+    "summary": "Financial crisis after political exile",
+    "category": "financial_employment",
     "confidence": 0.8
   },
+  "76": {
+    "summary": "Caregiver burden amid family displacement",
+    "category": "caregiver_burden",
+    "confidence": 0.9
+  },
   "77": {
-    "summary": "Health issues requiring medical care",
-    "category": "health_concern",
+    "summary": "Domestic violence in new country",
+    "category": "violence_abuse",
     "confidence": 0.7
   },
   "78": {
-    "summary": "Grief over loss of community role",
-    "category": "grief",
-    "confidence": 0.7
-  },
-  "79": {
-    "summary": "Financial insecurity affecting basic needs",
-    "category": "financial_stress",
+    "summary": "Housing discrimination in Chile",
+    "category": "legal_housing",
     "confidence": 0.8
   },
-  "80": {
-    "summary": "Chronic pain affecting quality of life",
-    "category": "chronic_pain",
+  "79": {
+    "summary": "Academic pressure on children",
+    "category": "academic_stress",
     "confidence": 0.7
   },
+  "80": {
+    "summary": "Depression from political trauma",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
+  },
   "81": {
-    "summary": "Loneliness from isolation",
-    "category": "loneliness",
+    "summary": "Deportation threats after activism",
+    "category": "immigration",
     "confidence": 0.8
   },
   "82": {
-    "summary": "Health decline requiring assistance",
-    "category": "health_decline",
-    "confidence": 0.7
+    "summary": "Grief over lost homeland",
+    "category": "grief_bereavement",
+    "confidence": 0.85
   },
   "83": {
-    "summary": "Grief over loss of independence",
-    "category": "grief",
+    "summary": "Divorce amid cultural clashes",
+    "category": "relationship_breakup",
     "confidence": 0.7
   },
   "84": {
-    "summary": "Financial insecurity affecting care",
-    "category": "financial_uncertainty",
+    "summary": "Isolation in new country",
+    "category": "loneliness_isolation",
     "confidence": 0.8
   },
   "85": {
-    "summary": "Physical decline affecting mobility",
-    "category": "physical_decline",
-    "confidence": 0.7
+    "summary": "Chronic illness from environmental exposure",
+    "category": "chronic_health_pain",
+    "confidence": 0.75
   },
   "86": {
-    "summary": "Loneliness from limited social connections",
-    "category": "loneliness",
+    "summary": "Financial crisis after political exile",
+    "category": "financial_employment",
     "confidence": 0.8
   },
   "87": {
-    "summary": "Health issues requiring medical care",
-    "category": "health_concern",
-    "confidence": 0.7
+    "summary": "Caregiver burden amid family displacement",
+    "category": "caregiver_burden",
+    "confidence": 0.9
   },
   "88": {
-    "summary": "Grief over loss of community role",
-    "category": "grief",
+    "summary": "Domestic violence in new country",
+    "category": "violence_abuse",
     "confidence": 0.7
   },
   "89": {
-    "summary": "Financial insecurity affecting basic needs",
-    "category": "financial_stress",
+    "summary": "Housing discrimination in Chile",
+    "category": "legal_housing",
     "confidence": 0.8
   },
   "90": {
-    "summary": "Chronic pain affecting daily life",
-    "category": "chronic_pain",
+    "summary": "Academic pressure on children",
+    "category": "academic_stress",
     "confidence": 0.7
   },
   "91": {
-    "summary": "Loneliness from isolation",
-    "category": "loneliness",
-    "confidence": 0.8
+    "summary": "Depression from political trauma",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "92": {
-    "summary": "Health decline requiring assistance",
-    "category": "health_decline",
-    "confidence": 0.7
+    "summary": "Deportation threats after activism",
+    "category": "immigration",
+    "confidence": 0.8
   },
   "93": {
-    "summary": "Grief over loss of independence",
-    "category": "grief",
-    "confidence": 0.7
+    "summary": "Grief over lost homeland",
+    "category": "grief_bereavement",
+    "confidence": 0.85
   },
   "94": {
-    "summary": "Financial insecurity affecting care",
-    "category": "financial_uncertainty",
-    "confidence": 0.8
+    "summary": "Divorce amid cultural clashes",
+    "category": "relationship_breakup",
+    "confidence": 0.7
   },
   "95": {
-    "summary": "Physical decline affecting mobility",
-    "category": "physical_decline",
-    "confidence": 0.7
+    "summary": "Isolation in new country",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
   },
   "96": {
-    "summary": "Loneliness from limited social network",
-    "category": "loneliness",
-    "confidence": 0.8
+    "summary": "Chronic illness from environmental exposure",
+    "category": "chronic_health_pain",
+    "confidence": 0.75
   },
   "97": {
-    "summary": "Health issues requiring medical care",
-    "category": "health_concern",
-    "confidence": 0.7
-  },
-  "98": {
-    "summary": "Grief over loss of community role",
-    "category": "grief",
-    "confidence": 0.7
-  },
-  "99": {
-    "summary": "Financial insecurity affecting basic needs",
-    "category": "financial_stress",
+    "summary": "Financial crisis after political exile",
+    "category": "financial_employment",
     "confidence": 0.8
   },
-  "100": {
-    "summary": "Chronic pain affecting quality of life",
-    "category": "chronic_pain",
+  "98": {
+    "summary": "Caregiver burden amid family displacement",
+    "category": "caregiver_burden",
+    "confidence": 0.9
+  },
+  "99": {
+    "summary": "Domestic violence in new country",
+    "category": "violence_abuse",
     "confidence": 0.7
+  },
+  "100": {
+    "summary": "",
+    "category": "legal_housing",
+    "confidence": 0.75
   }
 }

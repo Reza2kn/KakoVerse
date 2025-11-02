@@ -2,11 +2,10 @@
 """
 Generate multi-turn conversations between Seeker and Supporter agents using OpenRouter.
 
-Each persona card receives one conversation thread of 15-20 turns using
-alibaba/tongyi-deepresearch-30b-a3b:free with explicit reasoning. The Seeker and
-Supporter share the persona context but otherwise run with separate system prompts.
-For every Seeker message, three Supporter variants (care levels 0.1, 0.5, 0.9) are
-produced alongside their hidden thoughts to enable downstream A/B evaluation.
+Each persona card receives one conversation thread of 15-20 turns. Seeker and
+Supporter run in separate OpenRouter contexts (Seeker: alibaba/tongyi-deepresearch-30b-a3b:free,
+Supporter: minimax/minimax-m2:free). For every Seeker message, we generate three
+Supporter variants (baseline, empathetic, cold) to drive empathy reward modelling.
 """
 
 from __future__ import annotations
@@ -25,13 +24,32 @@ import re
 import requests
 
 OPENROUTER_ENDPOINT = "https://openrouter.ai/api/v1/chat/completions"
-DEFAULT_MODEL = "alibaba/tongyi-deepresearch-30b-a3b:free"
-CARE_LEVELS = (0.1, 0.5, 0.9)
-CARE_LEVEL_DECODERS = {
-    0.1: {"temperature": 0.4, "top_p": 0.8},
-    0.5: {"temperature": 0.7, "top_p": 0.92},
-    0.9: {"temperature": 0.9, "top_p": 0.98},
-}
+DEFAULT_SEEKER_MODEL = "alibaba/tongyi-deepresearch-30b-a3b:free"
+DEFAULT_SUPPORTER_MODEL = "minimax/minimax-m2:free"
+
+RESPONSE_STYLES = (
+    {
+        "label": "baseline",
+        "care_level": 0.6,
+        "description": "balanced warmth, keeps conversation progressing",
+        "temperature": 0.7,
+        "top_p": 0.92,
+    },
+    {
+        "label": "empathetic",
+        "care_level": 0.9,
+        "description": "high empathy, rich validation",
+        "temperature": 0.9,
+        "top_p": 0.98,
+    },
+    {
+        "label": "cold",
+        "care_level": 0.2,
+        "description": "terse, low-affect, minimal empathy",
+        "temperature": 0.35,
+        "top_p": 0.75,
+    },
+)
 DEFAULT_MIN_TURNS = 15
 DEFAULT_MAX_TURNS = 20
 MAX_AGENT_ATTEMPTS = 5
@@ -143,6 +161,29 @@ class RequestThrottler:
 
     def mark(self) -> None:
         self._last_call_time = time.monotonic()
+
+
+def load_category_plan(path: Path) -> Dict[str, Dict[str, str]]:
+    with path.open("r", encoding="utf-8") as handle:
+        data = json.load(handle)
+    plan = data.get("plan")
+    if not isinstance(plan, dict):
+        raise ValueError(f"Invalid category plan at {path}")
+    normalized: Dict[str, Dict[str, str]] = {}
+    for persona_id, mapping in plan.items():
+        if not isinstance(mapping, dict):
+            continue
+        normalized[persona_id] = {str(k): str(v) for k, v in mapping.items()}
+    return normalized
+
+
+def load_crisis_profile(profile_dir: Path, persona_id: str) -> Dict[str, Dict[str, object]]:
+    path = profile_dir / f"{persona_id}.json"
+    if not path.exists():
+        raise FileNotFoundError(f"Crisis profile missing for {persona_id}: {path}")
+    with path.open("r", encoding="utf-8") as handle:
+        data = json.load(handle)
+    return {str(age): entry for age, entry in data.items()}
 
 
 def openrouter_generate_text(
@@ -258,6 +299,7 @@ def persona_to_json_string(persona: Dict[str, object]) -> str:
 def build_seeker_system_prompt(
     seeker_prompt_text: str,
     persona_json: Dict[str, object],
+    target_turns: int,
 ) -> str:
     persona_block = persona_to_json_string(persona_json)
     instructions = (
@@ -274,6 +316,8 @@ def build_seeker_system_prompt(
         "{what you actually say aloud, 1-3 sentences}\n"
         "</MESSAGE>\n"
         "Keep the message plain text (no brackets) and avoid double quotes unless you escape them."
+        f" Aim for a natural, meaningful close to the conversation around turn {target_turns},"
+        " but only conclude when it feels appropriate to you."
     )
     return (
         f"{instructions}\n\n"
@@ -288,6 +332,7 @@ def build_seeker_system_prompt(
 def build_supporter_system_prompt(
     supporter_prompt_text: str,
     persona_json: Dict[str, object],
+    target_turns: int,
 ) -> str:
     persona_block = persona_to_json_string(persona_json)
     instructions = (
@@ -295,7 +340,8 @@ def build_supporter_system_prompt(
         "rules exactly. The Seeker persona card is provided for context. Respond only "
         "to the latest Seeker utterance. Always use the <THOUGHT>...</THOUGHT> and "
         "<MESSAGE>...</MESSAGE> template, keeping the outward message plain text "
-        "without annotations."
+        "without annotations. Aim for an organic close around the instructed turn "
+        "count, following the Seeker's readiness rather than forcing an ending."
     )
     return (
         f"{instructions}\n\n"
@@ -314,12 +360,18 @@ def seeker_initial_user_prompt() -> str:
     )
 
 
-def support_user_prompt(seeker_message: str, care_level: float) -> str:
+def support_user_prompt(
+    seeker_message: str,
+    style_label: str,
+    care_level: float,
+    style_description: str,
+) -> str:
     return (
         "The Seeker says:\n"
         f"{seeker_message.strip()}\n\n"
         f"Respond as the Supporter using care_level={care_level:.1f}. "
-        "Follow the style and safety rules. Provide one consolidated reply. "
+        f"Style cue: {style_label} ({style_description}). Ensure safety rules are met. "
+        "Provide one consolidated reply. "
         "Think privately before speaking, then respond using EXACTLY this template "
         "(no extra text, no Markdown fences):\n"
         "<THOUGHT>\n"
@@ -339,6 +391,7 @@ class ConversationTurn:
     seeker_thought: str
     supporter_variants: List[Dict[str, object]]
     canonical_care_level: float
+    canonical_style: str
 
 
 def generate_seeker_message(
@@ -428,19 +481,23 @@ def generate_supporter_variants(
         "Your previous reply did not follow the required template. Format exactly as "
         "<THOUGHT>...</THOUGHT> and <MESSAGE>...</MESSAGE> with no extra text."
     )
-    for care_level in CARE_LEVELS:
-        decoder = CARE_LEVEL_DECODERS[care_level]
-        messages = (
+    for style in RESPONSE_STYLES:
+        care_level = style["care_level"]
+        base_messages = (
             [{"role": "system", "content": system_prompt}]
             + history_to_messages(history)
             + [
                 {
                     "role": "user",
-                    "content": support_user_prompt(seeker_message, care_level),
+                    "content": support_user_prompt(
+                        seeker_message,
+                        style_label=style["label"],
+                        care_level=care_level,
+                        style_description=style["description"],
+                    ),
                 }
             ]
         )
-        base_messages = list(messages)
         last_cleaned = ""
         last_error: Optional[Exception] = None
         for attempt in range(1, MAX_AGENT_ATTEMPTS + 1):
@@ -454,8 +511,8 @@ def generate_supporter_variants(
                     api_key=api_key,
                     model=model_name,
                     messages=attempt_messages,
-                    temperature=decoder["temperature"],
-                    top_p=decoder["top_p"],
+                    temperature=style["temperature"],
+                    top_p=style["top_p"],
                     max_tokens=2048,
                     throttler=throttler,
                 )
@@ -464,14 +521,13 @@ def generate_supporter_variants(
                 if delay:
                     sleep_for = delay + rng.uniform(0, 1.5)
                     print(
-                        f"[wait] Rate limit hit for supporter model "
-                        f"(care_level={care_level:.1f}); sleeping {sleep_for:.1f}s."
+                        f"[wait] Rate limit hit for supporter model ({style['label']}); sleeping {sleep_for:.1f}s."
                     )
                     time.sleep(sleep_for)
                     continue
                 if attempt == MAX_AGENT_ATTEMPTS:
                     raise ConversationError(
-                        f"Supporter model error (care_level={care_level:.1f}): {err}"
+                        f"Supporter model error ({style['label']}): {err}"
                     ) from err
                 time.sleep(1.5 * attempt)
                 continue
@@ -483,11 +539,12 @@ def generate_supporter_variants(
                 last_error = err
                 if attempt == MAX_AGENT_ATTEMPTS:
                     print(
-                        f"[warn] Forcing fallback formatting for supporter (care_level={care_level:.1f}): {err}"
+                        f"[warn] Forcing fallback formatting for supporter ({style['label']}): {err}"
                     )
                     variants.append(
                         {
-                            "care_level": round(care_level, 1),
+                            "style": style["label"],
+                            "care_level": round(care_level, 2),
                             "message": cleaned,
                             "thought": "Auto-generated thought because model omitted required tags.",
                         }
@@ -498,11 +555,12 @@ def generate_supporter_variants(
             if not parsed["message"]:
                 if attempt == MAX_AGENT_ATTEMPTS:
                     print(
-                        f"[warn] Supporter produced empty outward message (care_level={care_level:.1f}); using fallback."
+                        f"[warn] Supporter produced empty outward message ({style['label']}); using fallback."
                     )
                     variants.append(
                         {
-                            "care_level": round(care_level, 1),
+                            "style": style["label"],
+                            "care_level": round(care_level, 2),
                             "message": last_cleaned,
                             "thought": parsed.get("thought", ""),
                         }
@@ -512,7 +570,8 @@ def generate_supporter_variants(
                 continue
             variants.append(
                 {
-                    "care_level": round(care_level, 1),
+                    "style": style["label"],
+                    "care_level": round(care_level, 2),
                     "message": parsed["message"],
                     "thought": parsed["thought"],
                 }
@@ -520,7 +579,7 @@ def generate_supporter_variants(
             break
         else:
             raise ConversationError(
-                f"Supporter failed after retries (care_level={care_level:.1f}): {last_error}; payload={last_cleaned!r}"
+                f"Supporter failed after retries ({style['label']}): {last_error}; payload={last_cleaned!r}"
             )
     return variants
 
@@ -562,10 +621,16 @@ def build_arg_parser() -> argparse.ArgumentParser:
         help="Path to .env file with OPENROUTER_API_KEY.",
     )
     parser.add_argument(
-        "--model",
+        "--seeker-model",
         type=str,
-        default=DEFAULT_MODEL,
-        help=f"OpenRouter model identifier (default: {DEFAULT_MODEL}).",
+        default=DEFAULT_SEEKER_MODEL,
+        help=f"Model for Seeker messages (default: {DEFAULT_SEEKER_MODEL}).",
+    )
+    parser.add_argument(
+        "--supporter-model",
+        type=str,
+        default=DEFAULT_SUPPORTER_MODEL,
+        help=f"Model for Supporter messages (default: {DEFAULT_SUPPORTER_MODEL}).",
     )
     parser.add_argument(
         "--min-turns",
@@ -584,6 +649,12 @@ def build_arg_parser() -> argparse.ArgumentParser:
         type=int,
         default=None,
         help="Optional cap on number of personas to process.",
+    )
+    parser.add_argument(
+        "--offset",
+        type=int,
+        default=0,
+        help="Number of personas to skip from the sorted list before processing.",
     )
     parser.add_argument(
         "--seed",
@@ -627,6 +698,18 @@ def build_arg_parser() -> argparse.ArgumentParser:
         default=DEFAULT_REQUEST_JITTER,
         help="Additional random jitter applied to the inter-request delay.",
     )
+    parser.add_argument(
+        "--crisis-profiles-dir",
+        type=Path,
+        default=Path("Artifacts/crisis_profiles"),
+        help="Directory containing per-persona crisis profile JSON files.",
+    )
+    parser.add_argument(
+        "--category-plan",
+        type=Path,
+        default=Path("Artifacts/crisis_category_plan.json"),
+        help="JSON plan mapping persona IDs to age→category assignments.",
+    )
     return parser
 
 
@@ -647,13 +730,18 @@ def main(argv: Sequence[str] | None = None) -> int:
 
     project_root = Path(__file__).resolve().parent.parent
     prompts_dir = project_root / "Prompts"
-    seeker_prompt_path = prompts_dir / "Seeker_System_Prompt.json"
-    supporter_prompt_path = prompts_dir / "Supporter_System_Prompt.json"
+    seeker_prompt_text = load_text(prompts_dir / "Seeker_System_Prompt.json")
+    supporter_prompt_text = load_text(prompts_dir / "Supporter_System_Prompt.json")
 
-    seeker_prompt_text = load_text(seeker_prompt_path)
-    supporter_prompt_text = load_text(supporter_prompt_path)
+    try:
+        category_plan = load_category_plan(args.category_plan)
+    except (FileNotFoundError, ValueError) as err:
+        parser.error(str(err))
+        return 1
 
     persona_files = sorted(args.personas_dir.glob("*.json"))
+    if args.offset:
+        persona_files = persona_files[args.offset :]
     if args.limit:
         persona_files = persona_files[: args.limit]
     if not persona_files:
@@ -662,6 +750,8 @@ def main(argv: Sequence[str] | None = None) -> int:
 
     output_dir: Path = args.output_dir
     output_dir.mkdir(parents=True, exist_ok=True)
+
+    crisis_profiles_dir: Path = args.crisis_profiles_dir
 
     throttler = RequestThrottler(
         min_interval=args.min_request_interval,
@@ -677,16 +767,60 @@ def main(argv: Sequence[str] | None = None) -> int:
             print(f"[skip] {persona_id} already has a conversation.")
             continue
 
+        category_map = category_plan.get(persona_id)
+        if not category_map:
+            print(f"[warn] No category plan entry for {persona_id}; skipping.")
+            continue
+        try:
+            crisis_profile = load_crisis_profile(crisis_profiles_dir, persona_id)
+        except FileNotFoundError as err:
+            print(f"[warn] {err}; skipping {persona_id}.")
+            continue
+
+        age_keys = sorted(map(int, category_map.keys()))
+        if not age_keys:
+            print(f"[warn] Empty category plan for {persona_id}; skipping.")
+            continue
+        selected_age = age_keys[index % len(age_keys)]
+        age_str = str(selected_age)
+        selected_category = category_map[age_str]
+        crisis_entry = crisis_profile.get(age_str)
+        if not crisis_entry:
+            print(
+                f"[warn] Crisis profile missing age {age_str} for {persona_id}; skipping."
+            )
+            continue
+        crisis_summary = str(crisis_entry.get("summary", "")).strip()
+        crisis_confidence = crisis_entry.get("confidence")
+
+        persona_view = json.loads(json.dumps(persona))
+        presenting = persona_view.setdefault("presenting_problem", {})
+        presenting["summary"] = crisis_summary
+        presenting["category"] = selected_category
+        presenting["age_context"] = {
+            "age": selected_age,
+            "source": "crisis_profile",
+            "confidence": crisis_confidence,
+        }
+        current_demo = persona_view.get("current_socio_demographics")
+        if isinstance(current_demo, dict):
+            current_demo["age"] = selected_age
+
         turn_target = rng.randint(args.min_turns, args.max_turns)
         print(
             f"[{index}/{len(persona_files)}] Persona {persona_id}: generating "
             f"{turn_target} turns."
         )
 
-        seeker_system = build_seeker_system_prompt(seeker_prompt_text, persona)
+        seeker_system = build_seeker_system_prompt(
+            seeker_prompt_text,
+            persona_view,
+            turn_target,
+        )
         supporter_system = build_supporter_system_prompt(
             supporter_prompt_text,
-            persona,
+            persona_view,
+            turn_target,
         )
 
         seeker_history: List[Dict[str, str]] = [
@@ -699,7 +833,7 @@ def main(argv: Sequence[str] | None = None) -> int:
             try:
                 seeker_output = generate_seeker_message(
                     api_key=api_key,
-                    model_name=args.model,
+                    model_name=args.seeker_model,
                     system_prompt=seeker_system,
                     history=seeker_history,
                     rng=rng,
@@ -715,7 +849,7 @@ def main(argv: Sequence[str] | None = None) -> int:
             try:
                 supporter_variants = generate_supporter_variants(
                     api_key=api_key,
-                    model_name=args.model,
+                    model_name=args.supporter_model,
                     system_prompt=supporter_system,
                     history=supporter_history,
                     seeker_message=seeker_message,
@@ -730,7 +864,7 @@ def main(argv: Sequence[str] | None = None) -> int:
                 (
                     variant
                     for variant in supporter_variants
-                    if variant["care_level"] == 0.5
+                    if variant["style"] == "baseline"
                 ),
                 supporter_variants[0],
             )
@@ -742,6 +876,7 @@ def main(argv: Sequence[str] | None = None) -> int:
                     seeker_thought=seeker_thought,
                     supporter_variants=supporter_variants,
                     canonical_care_level=canonical["care_level"],
+                    canonical_style=canonical["style"],
                 )
             )
 
@@ -762,9 +897,16 @@ def main(argv: Sequence[str] | None = None) -> int:
         conversation_payload = {
             "persona_id": persona_id,
             "persona_path": str(persona_path),
-            "model": args.model,
+            "seeker_model": args.seeker_model,
+            "supporter_model": args.supporter_model,
             "turns_recorded": len(turns),
             "desired_turns": turn_target,
+            "crisis_context": {
+                "age": selected_age,
+                "summary": crisis_summary,
+                "category": selected_category,
+                "confidence": crisis_confidence,
+            },
             "seeker_system_prompt": seeker_system,
             "supporter_system_prompt": supporter_system,
             "turns": [
@@ -774,6 +916,7 @@ def main(argv: Sequence[str] | None = None) -> int:
                     "seeker_thought": turn.seeker_thought,
                     "supporter_responses": turn.supporter_variants,
                     "canonical_care_level": turn.canonical_care_level,
+                    "canonical_style": turn.canonical_style,
                 }
                 for turn in turns
             ],

@@ -1,407 +1,407 @@
 {
   "20": {
-    "summary": "Identity crisis navigating Jakarta's pandemic job market",
-    "category": "career_uncertainty",
+    "summary": "Entered informal trading amid 1990s economic volatility.",
+    "category": "financial_employment",
     "confidence": 0.85
   },
   "21": {
-    "summary": "Financial strain adjusting to Jakarta's digital economy",
-    "category": "financial_stress",
-    "confidence": 0.8
+    "summary": "Supported aging parents during family relocation stress.",
+    "category": "caregiver_burden",
+    "confidence": 0.78
   },
   "22": {
-    "summary": "Cultural dissonance between HK roots and Jkt adaptation",
-    "category": "identity_conflict",
-    "confidence": 0.75
+    "summary": "Survived neighborhood conflicts during Jakarta's pandemic lockdowns.",
+    "category": "violence_abuse",
+    "confidence": 0.82
   },
   "23": {
-    "summary": "Pandemic isolation affecting social connections",
-    "category": "social_isolation",
-    "confidence": 0.7
+    "summary": "Faced housing disputes after sudden Jakarta residency changes.",
+    "category": "legal_housing",
+    "confidence": 0.75
   },
   "24": {
-    "summary": "Balancing family expectations with personal ambitions",
-    "category": "family_pressure",
+    "summary": "Struggled with academic expectations in new cultural context.",
+    "category": "academic_stress",
     "confidence": 0.7
   },
   "25": {
-    "summary": "Career stagnation in competitive Jakarta",
-    "category": "career_plateau",
-    "confidence": 0.7
+    "summary": "First anxiety episode during pandemic-induced job insecurity.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "26": {
-    "summary": "Economic precarity impacting life decisions",
-    "category": "financial_insecurity",
-    "confidence": 0.8
+    "summary": "Navigated complex immigration processes for permanent residency.",
+    "category": "immigration",
+    "confidence": 0.88
   },
   "27": {
-    "summary": "Grief over HK homeland changes",
-    "category": "grief",
-    "confidence": 0.65
-  },
-  "28": {
-    "summary": "Relationship stress from relocation",
-    "category": "relationship_tension",
-    "confidence": 0.7
-  },
-  "29": {
-    "summary": "Skill obsolescence fears in digital economy",
-    "category": "career_anxiety",
-    "confidence": 0.75
-  },
-  "30": {
-    "summary": "Midlife reassessment of values and direction",
-    "category": "existential_crisis",
+    "summary": "Grieved loss of Hong Kong childhood amid Jakarta transition.",
+    "category": "grief_bereavement",
     "confidence": 0.8
   },
-  "31": {
-    "summary": "Parental pressure for stability",
-    "category": "family_expectations",
-    "confidence": 0.7
+  "28": {
+    "summary": "Ended unstable relationship during cultural adjustment period.",
+    "category": "relationship_breakup",
+    "confidence": 0.75
   },
-  "32": {
-    "summary": "Burnout from hustling in informal economy",
-    "category": "career_burnout",
+  "29": {
+    "summary": "Felt isolated despite community ties in unfamiliar city.",
+    "category": "loneliness_isolation",
     "confidence": 0.85
   },
+  "30": {
+    "summary": "Managed chronic back pain from manual trading work.",
+    "category": "chronic_health_pain",
+    "confidence": 0.7
+  },
+  "31": {
+    "summary": "Financial strain from supporting family across three countries.",
+    "category": "financial_employment",
+    "confidence": 0.9
+  },
+  "32": {
+    "summary": "Caregiver burnout during spouse's health crisis.",
+    "category": "caregiver_burden",
+    "confidence": 0.8
+  },
   "33": {
-    "summary": "Cultural assimilation challenges",
-    "category": "identity_struggle",
+    "summary": "Survived domestic violence during early marriage years.",
+    "category": "violence_abuse",
     "confidence": 0.7
   },
   "34": {
-    "summary": "Health anxiety from pandemic exposure",
-    "category": "health_worry",
-    "confidence": 0.65
-  },
-  "35": {
-    "summary": "Marriage planning conflicts with career goals",
-    "category": "relationship_dilemma",
+    "summary": "Legal battles over disputed Jakarta property.",
+    "category": "legal_housing",
     "confidence": 0.75
   },
+  "35": {
+    "summary": "Academic pressure to validate immigrant credentials.",
+    "category": "academic_stress",
+    "confidence": 0.65
+  },
   "36": {
-    "summary": "Parenting stress in new cultural context",
-    "category": "parenting_challenges",
-    "confidence": 0.8
+    "summary": "Mental health crisis during Jerusalem relocation.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "37": {
-    "summary": "Financial pressure from family support",
-    "category": "economic_burden",
+    "summary": "Immigration status threats during regional political tensions.",
+    "category": "immigration",
     "confidence": 0.8
   },
   "38": {
-    "summary": "Midlife career reassessment",
-    "category": "career_shift",
+    "summary": "Grief over ancestral Hong Kong home demolition.",
+    "category": "grief_bereavement",
     "confidence": 0.85
   },
   "39": {
-    "summary": "Cultural identity negotiation",
-    "category": "identity_conflict",
-    "confidence": 0.75
+    "summary": "Relationship breakdown after cultural expectation clashes.",
+    "category": "relationship_breakup",
+    "confidence": 0.78
   },
   "40": {
-    "summary": "Spousal relationship strain from relocation",
-    "category": "relationship_tension",
-    "confidence": 0.7
-  },
-  "41": {
-    "summary": "Parenting challenges balancing traditions",
-    "category": "family_dynamics",
+    "summary": "Isolation despite large family due to cultural divides.",
+    "category": "loneliness_isolation",
     "confidence": 0.8
   },
+  "41": {
+    "summary": "Chronic pain limiting heritage conservation work.",
+    "category": "chronic_health_pain",
+    "confidence": 0.75
+  },
   "42": {
-    "summary": "Economic instability affecting family security",
-    "category": "financial_stress",
+    "summary": "Financial instability from cultural project funding cuts.",
+    "category": "financial_employment",
     "confidence": 0.85
   },
   "43": {
-    "summary": "Health concerns from accumulated stress",
-    "category": "health_anxiety",
-    "confidence": 0.75
+    "summary": "Caregiver exhaustion with aging parents in new country.",
+    "category": "caregiver_burden",
+    "confidence": 0.8
   },
   "44": {
-    "summary": "Cultural integration fatigue",
-    "category": "acculturation_stress",
+    "summary": "Survived workplace harassment in conservation sector.",
+    "category": "violence_abuse",
     "confidence": 0.7
   },
   "45": {
-    "summary": "Career plateau in conservation field",
-    "category": "career_stagnation",
-    "confidence": 0.8
-  },
-  "46": {
-    "summary": "Parenting transition to empty nest",
-    "category": "family_change",
+    "summary": "Legal disputes over Jerusalem housing affordability.",
+    "category": "legal_housing",
     "confidence": 0.75
   },
+  "46": {
+    "summary": "Academic pressure to upskill amid changing job market.",
+    "category": "academic_stress",
+    "confidence": 0.65
+  },
   "47": {
-    "summary": "Midlife reassessment of legacy",
-    "category": "existential_crisis",
-    "confidence": 0.8
+    "summary": "Mental health relapse during financial hardship.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "48": {
-    "summary": "Financial precarity impacting retirement planning",
-    "category": "retirement_concern",
-    "confidence": 0.85
+    "summary": "Immigration status uncertainty during regional conflict.",
+    "category": "immigration",
+    "confidence": 0.8
   },
   "49": {
-    "summary": "Cultural identity conflicts resurface",
-    "category": "identity_dissonance",
-    "confidence": 0.7
+    "summary": "Grief over loss of Jakarta community networks.",
+    "category": "grief_bereavement",
+    "confidence": 0.8
   },
   "50": {
-    "summary": "Parenting challenges with adult children",
-    "category": "family_dynamics",
+    "summary": "Relationship breakdown after prolonged cultural adaptation.",
+    "category": "relationship_breakup",
     "confidence": 0.75
   },
   "51": {
-    "summary": "Career reassessment at midlife",
-    "category": "career_shift",
+    "summary": "Isolation despite family presence in foreign culture.",
+    "category": "loneliness_isolation",
     "confidence": 0.8
   },
   "52": {
-    "summary": "Chronic stress from economic instability",
-    "category": "chronic_stress",
-    "confidence": 0.9
+    "summary": "Chronic pain affecting heritage work capacity.",
+    "category": "chronic_health_pain",
+    "confidence": 0.75
   },
   "53": {
-    "summary": "Cultural identity conflicts",
-    "category": "identity_conflict",
-    "confidence": 0.85
+    "summary": "Current financial precarity impacting family stability.",
+    "category": "financial_employment",
+    "confidence": 0.9
   },
   "54": {
-    "summary": "Health decline from accumulated stress",
-    "category": "chronic_pain",
-    "confidence": 0.75
-  },
-  "55": {
-    "summary": "Retirement planning anxiety",
-    "category": "financial_worry",
+    "summary": "Caregiver burden straining family dynamics.",
+    "category": "caregiver_burden",
     "confidence": 0.8
   },
-  "56": {
-    "summary": "Family health crises",
-    "category": "grief",
+  "55": {
+    "summary": "Survived workplace discrimination in conservation field.",
+    "category": "violence_abuse",
     "confidence": 0.7
   },
-  "57": {
-    "summary": "Social isolation in new cultural context",
-    "category": "loneliness",
+  "56": {
+    "summary": "Legal challenges over Jerusalem housing costs.",
+    "category": "legal_housing",
     "confidence": 0.75
   },
-  "58": {
-    "summary": "Career obsolescence fears",
-    "category": "career_anxiety",
-    "confidence": 0.7
-  },
-  "59": {
-    "summary": "Parenting legacy concerns",
-    "category": "family_pressure",
+  "57": {
+    "summary": "Academic pressure to validate cross-cultural expertise.",
+    "category": "academic_stress",
     "confidence": 0.65
   },
+  "58": {
+    "summary": "Mental health crisis amid cultural identity conflicts.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
+  },
+  "59": {
+    "summary": "Immigration status anxiety during regional instability.",
+    "category": "immigration",
+    "confidence": 0.8
+  },
   "60": {
-    "summary": "Chronic health conditions",
-    "category": "chronic_illness",
+    "summary": "Grief over lost opportunities in homeland.",
+    "category": "grief_bereavement",
     "confidence": 0.8
   },
   "61": {
-    "summary": "Retirement adjustment stress",
-    "category": "life_transition",
+    "summary": "Relationship breakdown after prolonged cultural adaptation.",
+    "category": "relationship_breakup",
     "confidence": 0.75
   },
   "62": {
-    "summary": "Financial insecurity in retirement",
-    "category": "financial_stress",
+    "summary": "Isolation despite family presence in foreign culture.",
+    "category": "loneliness_isolation",
     "confidence": 0.8
   },
   "63": {
-    "summary": "Grief over lost cultural connections",
-    "category": "grief",
-    "confidence": 0.7
-  },
-  "64": {
-    "summary": "Social isolation in old age",
-    "category": "loneliness",
+    "summary": "Chronic pain limiting cultural heritage work.",
+    "category": "chronic_health_pain",
     "confidence": 0.75
   },
+  "64": {
+    "summary": "Financial instability from irregular heritage project funding.",
+    "category": "financial_employment",
+    "confidence": 0.85
+  },
   "65": {
-    "summary": "Health decline and dependency",
-    "category": "caregiving_stress",
+    "summary": "Caregiver burden straining family dynamics.",
+    "category": "caregiver_burden",
     "confidence": 0.8
   },
   "66": {
-    "summary": "Existential crisis about legacy",
-    "category": "existential_crisis",
+    "summary": "Survived workplace discrimination in conservation field.",
+    "category": "violence_abuse",
     "confidence": 0.7
   },
   "67": {
-    "summary": "Chronic pain management",
-    "category": "chronic_pain",
+    "summary": "Legal challenges over Jerusalem housing costs.",
+    "category": "legal_housing",
     "confidence": 0.75
   },
   "68": {
-    "summary": "Family role transition",
-    "category": "family_dynamics",
+    "summary": "Academic pressure to validate cross-cultural expertise.",
+    "category": "academic_stress",
     "confidence": 0.65
   },
   "69": {
-    "summary": "Financial strain in retirement",
-    "category": "financial_worry",
-    "confidence": 0.7
+    "summary": "Mental health crisis amid cultural identity conflicts.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "70": {
-    "summary": "Health decline and mortality awareness",
-    "category": "health_anxiety",
+    "summary": "Immigration status anxiety during regional instability.",
+    "category": "immigration",
     "confidence": 0.8
   },
   "71": {
-    "summary": "Social isolation and loneliness",
-    "category": "loneliness",
-    "confidence": 0.75
-  },
-  "72": {
-    "summary": "Grief over lost loved ones",
-    "category": "grief",
+    "summary": "Grief over lost opportunities in homeland.",
+    "category": "grief_bereavement",
     "confidence": 0.8
   },
+  "72": {
+    "summary": "Relationship breakdown after prolonged cultural adaptation.",
+    "category": "relationship_breakup",
+    "confidence": 0.75
+  },
   "73": {
-    "summary": "Caregiving responsibilities",
-    "category": "caregiving_stress",
-    "confidence": 0.7
+    "summary": "Isolation despite family presence in foreign culture.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
   },
   "74": {
-    "summary": "Financial insecurity in old age",
-    "category": "financial_stress",
+    "summary": "Chronic pain limiting cultural heritage work.",
+    "category": "chronic_health_pain",
     "confidence": 0.75
   },
   "75": {
-    "summary": "Chronic health conditions",
-    "category": "chronic_illness",
-    "confidence": 0.8
+    "summary": "Financial instability from irregular heritage project funding.",
+    "category": "financial_employment",
+    "confidence": 0.85
   },
   "76": {
-    "summary": "Existential crisis about purpose",
-    "category": "existential_crisis",
-    "confidence": 0.7
-  },
-  "77": {
-    "summary": "Social isolation",
-    "category": "loneliness",
-    "confidence": 0.75
-  },
-  "78": {
-    "summary": "Health decline and mortality",
-    "category": "health_anxiety",
+    "summary": "Caregiver burden straining family dynamics.",
+    "category": "caregiver_burden",
     "confidence": 0.8
   },
-  "79": {
-    "summary": "Financial strain",
-    "category": "financial_worry",
+  "77": {
+    "summary": "Survived workplace discrimination in conservation field.",
+    "category": "violence_abuse",
     "confidence": 0.7
   },
-  "80": {
-    "summary": "Grief over lost independence",
-    "category": "grief",
+  "78": {
+    "summary": "Legal challenges over Jerusalem housing costs.",
+    "category": "legal_housing",
     "confidence": 0.75
   },
+  "79": {
+    "summary": "Academic pressure to validate cross-cultural expertise.",
+    "category": "academic_stress",
+    "confidence": 0.65
+  },
+  "80": {
+    "summary": "Mental health crisis amid cultural identity conflicts.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
+  },
   "81": {
-    "summary": "Chronic pain and mobility issues",
-    "category": "chronic_pain",
+    "summary": "Immigration status anxiety during regional instability.",
+    "category": "immigration",
     "confidence": 0.8
   },
   "82": {
-    "summary": "Social isolation",
-    "category": "loneliness",
-    "confidence": 0.75
-  },
-  "83": {
-    "summary": "Existential crisis",
-    "category": "existential_crisis",
-    "confidence": 0.7
-  },
-  "84": {
-    "summary": "Financial insecurity",
-    "category": "financial_stress",
-    "confidence": 0.7
-  },
-  "85": {
-    "summary": "Health decline and mortality awareness",
-    "category": "health_anxiety",
+    "summary": "Grief over lost opportunities in homeland.",
+    "category": "grief_bereavement",
     "confidence": 0.8
   },
-  "86": {
-    "summary": "Grief over lost loved ones",
-    "category": "grief",
+  "83": {
+    "summary": "Relationship breakdown after prolonged cultural adaptation.",
+    "category": "relationship_breakup",
     "confidence": 0.75
+  },
+  "84": {
+    "summary": "Isolation despite family presence in foreign culture.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
+  },
+  "85": {
+    "summary": "Chronic pain limiting cultural heritage work.",
+    "category": "chronic_health_pain",
+    "confidence": 0.75
+  },
+  "86": {
+    "summary": "Financial instability from irregular heritage project funding.",
+    "category": "financial_employment",
+    "confidence": 0.85
   },
   "87": {
-    "summary": "Social isolation",
-    "category": "loneliness",
-    "confidence": 0.7
+    "summary": "Caregiver burden straining family dynamics.",
+    "category": "caregiver_burden",
+    "confidence": 0.8
   },
   "88": {
-    "summary": "Chronic health conditions",
-    "category": "chronic_illness",
-    "confidence": 0.75
+    "summary": "Survived workplace discrimination in conservation field.",
+    "category": "violence_abuse",
+    "confidence": 0.7
   },
   "89": {
-    "summary": "Caregiving responsibilities",
-    "category": "caregiving_stress",
-    "confidence": 0.65
-  },
-  "90": {
-    "summary": "Existential crisis about legacy",
-    "category": "existential_crisis",
-    "confidence": 0.7
-  },
-  "91": {
-    "summary": "Financial strain",
-    "category": "financial_worry",
-    "confidence": 0.6
-  },
-  "92": {
-    "summary": "Health decline",
-    "category": "chronic_pain",
-    "confidence": 0.7
-  },
-  "93": {
-    "summary": "Social isolation",
-    "category": "loneliness",
-    "confidence": 0.65
-  },
-  "94": {
-    "summary": "Grief over lost independence",
-    "category": "grief",
-    "confidence": 0.7
-  },
-  "95": {
-    "summary": "Chronic health conditions",
-    "category": "chronic_illness",
+    "summary": "Legal challenges over Jerusalem housing costs.",
+    "category": "legal_housing",
     "confidence": 0.75
   },
-  "96": {
-    "summary": "Existential crisis",
-    "category": "existential_crisis",
-    "confidence": 0.6
-  },
-  "97": {
-    "summary": "Financial insecurity",
-    "category": "financial_stress",
+  "90": {
+    "summary": "Academic pressure to validate cross-cultural expertise.",
+    "category": "academic_stress",
     "confidence": 0.65
   },
+  "91": {
+    "summary": "Mental health crisis amid cultural identity conflicts.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
+  },
+  "92": {
+    "summary": "Immigration status anxiety during regional instability.",
+    "category": "immigration",
+    "confidence": 0.8
+  },
+  "93": {
+    "summary": "Grief over lost opportunities in homeland.",
+    "category": "grief_bereavement",
+    "confidence": 0.8
+  },
+  "94": {
+    "summary": "Relationship breakdown after prolonged cultural adaptation.",
+    "category": "relationship_breakup",
+    "confidence": 0.75
+  },
+  "95": {
+    "summary": "Isolation despite family presence in foreign culture.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
+  },
+  "96": {
+    "summary": "Chronic pain limiting cultural heritage work.",
+    "category": "chronic_health_pain",
+    "confidence": 0.75
+  },
+  "97": {
+    "summary": "Financial instability from irregular heritage project funding.",
+    "category": "financial_employment",
+    "confidence": 0.85
+  },
   "98": {
-    "summary": "Health decline",
-    "category": "health_anxiety",
-    "confidence": 0.7
+    "summary": "Caregiver burden straining family dynamics.",
+    "category": "caregiver_burden",
+    "confidence": 0.8
   },
   "99": {
-    "summary": "Social isolation",
-    "category": "loneliness",
-    "confidence": 0.6
+    "summary": "Survived workplace discrimination in conservation field.",
+    "category": "violence_abuse",
+    "confidence": 0.7
   },
   "100": {
-    "summary": "Legacy concerns and mortality",
-    "category": "existential_crisis",
-    "confidence": 0.55
+    "summary": "Legal challenges over Jerusalem housing costs.",
+    "category": "legal_housing",
+    "confidence": 0.75
   }
 }

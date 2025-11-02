@@ -1,407 +1,407 @@
 {
   "20": {
-    "summary": "Navigating refugee status processing and unstable housing",
-    "category": "legal_bureaucracy",
-    "confidence": 0.85
+    "summary": "Navigating refugee status and asylum in Bangladesh amid family separation.",
+    "category": "immigration",
+    "confidence": 0.9
   },
   "21": {
-    "summary": "Isolation in new country with limited social support",
-    "category": "loneliness",
-    "confidence": 0.78
+    "summary": "Grieving loss of family members separated during refugee journey.",
+    "category": "grief_bereavement",
+    "confidence": 0.9
   },
   "22": {
-    "summary": "Exploitative digital platform work exhaustion",
-    "category": "occupational_burnout",
-    "confidence": 0.82
+    "summary": "Recovering from a recent romantic breakup.",
+    "category": "relationship_breakup",
+    "confidence": 0.7
   },
   "23": {
-    "summary": "Cultural adjustment stress in Dhaka's dense urban environment",
-    "category": "acculturative_stress",
-    "confidence": 0.75
+    "summary": "Feeling isolated in Dhaka with limited social connections.",
+    "category": "loneliness_isolation",
+    "confidence": 0.9
   },
   "24": {
-    "summary": "Financial precarity impacting basic needs",
-    "category": "poverty_stress",
-    "confidence": 0.88
+    "summary": "Managing chronic fatigue and dissociation from past trauma.",
+    "category": "chronic_health_pain",
+    "confidence": 0.8
   },
   "25": {
-    "summary": "Re-experiencing trauma during crowded transit commutes",
-    "category": "trauma_flashbacks",
-    "confidence": 0.9
+    "summary": "Worried about unstable income as a digital platform nanny.",
+    "category": "financial_employment",
+    "confidence": 1.0
   },
   "26": {
-    "summary": "Chronic emotional exhaustion and dissociation",
-    "category": "complex_trauma",
-    "confidence": 0.95
+    "summary": "Overwhelmed by caregiving demands and emotional toll.",
+    "category": "caregiver_burden",
+    "confidence": 1.0
   },
   "27": {
-    "summary": "Career stagnation in precarious gig work",
-    "category": "occupational_dissatisfaction",
-    "confidence": 0.7
-  },
-  "28": {
-    "summary": "Grief over unresolved family separation",
-    "category": "disenfranchised_grief",
-    "confidence": 0.85
-  },
-  "29": {
-    "summary": "Health anxiety from pandemic-era childhood",
-    "category": "health_anxiety",
-    "confidence": 0.7
-  },
-  "30": {
-    "summary": "Burnout from balancing multiple low-wage jobs",
-    "category": "financial_burnout",
-    "confidence": 0.8
-  },
-  "31": {
-    "summary": "Identity conflict between Vietnamese/Brazilian heritage",
-    "category": "cultural_identity",
-    "confidence": 0.65
-  },
-  "32": {
-    "summary": "Creative block despite artistic talents",
-    "category": "creative_block",
-    "confidence": 0.6
-  },
-  "33": {
-    "summary": "Hypervigilance in crowded public spaces",
-    "category": "anxiety_disorder",
-    "confidence": 0.8
-  },
-  "34": {
-    "summary": "Stigma preventing mental health help-seeking",
-    "category": "mental_health_stigma",
+    "summary": "Re-experiencing trauma from past abuse during stressful moments.",
+    "category": "violence_abuse",
     "confidence": 0.9
   },
-  "35": {
-    "summary": "Chronic pain from unresolved trauma",
-    "category": "chronic_pain",
-    "confidence": 0.75
+  "28": {
+    "summary": "Fearing eviction and seeking stable housing.",
+    "category": "legal_housing",
+    "confidence": 0.8
   },
-  "36": {
-    "summary": "Midlife crisis questioning refugee journey",
-    "category": "existential_crisis",
+  "29": {
+    "summary": "Stressed about vocational training for better employment.",
+    "category": "academic_stress",
     "confidence": 0.6
   },
-  "37": {
-    "summary": "Social isolation despite online connections",
-    "category": "digital_isolation",
+  "30": {
+    "summary": "Severe anxiety and dissociation impacting daily functioning.",
+    "category": "mental_health_crisis",
+    "confidence": 1.0
+  },
+  "31": {
+    "summary": "Navigating renewed immigration challenges and residency renewal.",
+    "category": "immigration",
     "confidence": 0.7
   },
+  "32": {
+    "summary": "Continuing to grieve loss of family members.",
+    "category": "grief_bereavement",
+    "confidence": 0.8
+  },
+  "33": {
+    "summary": "Dealing with lingering effects of a past relationship breakup.",
+    "category": "relationship_breakup",
+    "confidence": 0.7
+  },
+  "34": {
+    "summary": "Feeling increasingly isolated despite online connections.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
+  },
+  "35": {
+    "summary": "Managing chronic pain and fatigue from past trauma.",
+    "category": "chronic_health_pain",
+    "confidence": 0.8
+  },
+  "36": {
+    "summary": "Struggling with low wages and financial instability.",
+    "category": "financial_employment",
+    "confidence": 0.9
+  },
+  "37": {
+    "summary": "Experiencing burnout from long hours as a caregiver.",
+    "category": "caregiver_burden",
+    "confidence": 0.8
+  },
   "38": {
-    "summary": "Career plateau in service industry",
-    "category": "occupational_stagnation",
-    "confidence": 0.65
+    "summary": "Triggered by daily stressors, re-experiencing past abuse.",
+    "category": "violence_abuse",
+    "confidence": 0.8
   },
   "39": {
-    "summary": "Intergenerational trauma transmission concerns",
-    "category": "transgenerational_trauma",
+    "summary": "Fearing eviction and seeking legal assistance.",
+    "category": "legal_housing",
     "confidence": 0.7
   },
   "40": {
-    "summary": "Health decline from chronic stress",
-    "category": "somatization",
-    "confidence": 0.7
+    "summary": "Studying for certification to improve career prospects.",
+    "category": "academic_stress",
+    "confidence": 0.5
   },
   "41": {
-    "summary": "Retirement planning anxiety",
-    "category": "financial_uncertainty",
-    "confidence": 0.6
+    "summary": "Severe dissociation and anxiety impacting daily life.",
+    "category": "mental_health_crisis",
+    "confidence": 1.0
   },
   "42": {
-    "summary": "Creative renaissance through art therapy",
-    "category": "creative_catharsis",
-    "confidence": 0.55
-  },
-  "43": {
-    "summary": "Grief over lost childhood stability",
-    "category": "complicated_grief",
+    "summary": "Dealing with bureaucratic hurdles for residency renewal.",
+    "category": "immigration",
     "confidence": 0.7
   },
+  "43": {
+    "summary": "Grieving loss of a close friend.",
+    "category": "grief_bereavement",
+    "confidence": 0.8
+  },
   "44": {
-    "summary": "Social anxiety in community settings",
-    "category": "social_anxiety",
-    "confidence": 0.65
+    "summary": "Navigating single life after a recent breakup.",
+    "category": "relationship_breakup",
+    "confidence": 0.7
   },
   "45": {
-    "summary": "Chronic insomnia from hypervigilance",
-    "category": "sleep_disorder",
+    "summary": "Feeling lonely despite efforts to connect with others.",
+    "category": "loneliness_isolation",
     "confidence": 0.8
   },
   "46": {
-    "summary": "Caregiver burden for aging relatives",
-    "category": "caregiver_stress",
-    "confidence": 0.55
+    "summary": "Managing chronic health issues that flare up under stress.",
+    "category": "chronic_health_pain",
+    "confidence": 0.8
   },
   "47": {
-    "summary": "Existential questioning of refugee identity",
-    "category": "identity_crisis",
-    "confidence": 0.6
+    "summary": "Concerned about job loss and financial insecurity.",
+    "category": "financial_employment",
+    "confidence": 0.9
   },
   "48": {
-    "summary": "Physical health deterioration",
-    "category": "age-related_decline",
-    "confidence": 0.7
+    "summary": "Burnout from caregiving responsibilities and low pay.",
+    "category": "caregiver_burden",
+    "confidence": 0.8
   },
   "49": {
-    "summary": "Financial insecurity in later career",
-    "category": "economic_precarity",
-    "confidence": 0.6
+    "summary": "Re-experiencing past abuse during stressful moments.",
+    "category": "violence_abuse",
+    "confidence": 0.8
   },
   "50": {
-    "summary": "Guilt over survival and privilege",
-    "category": "survivor_guilt",
-    "confidence": 0.75
+    "summary": "Fighting for stable housing as a senior citizen.",
+    "category": "legal_housing",
+    "confidence": 0.7
   },
   "51": {
-    "summary": "Social isolation in retirement",
-    "category": "elder_loneliness",
-    "confidence": 0.65
+    "summary": "Studying for a degree to change career paths.",
+    "category": "academic_stress",
+    "confidence": 0.4
   },
   "52": {
-    "summary": "Chronic pain management challenges",
-    "category": "pain_management",
-    "confidence": 0.7
+    "summary": "Severe mental health crisis with dissociation and nightmares.",
+    "category": "mental_health_crisis",
+    "confidence": 1.0
   },
   "53": {
-    "summary": "Legacy anxiety about trauma inheritance",
-    "category": "generational_legacy",
-    "confidence": 0.6
-  },
-  "54": {
-    "summary": "Medication side effects from long-term treatment",
-    "category": "pharmacological_side_effects",
-    "confidence": 0.55
-  },
-  "55": {
-    "summary": "Loss of autonomy in assisted living",
-    "category": "loss_of_independence",
-    "confidence": 0.6
-  },
-  "56": {
-    "summary": "Grief over multiple losses",
-    "category": "cumulative_grief",
+    "summary": "Fearing deportation and navigating complex immigration laws.",
+    "category": "immigration",
     "confidence": 0.7
   },
+  "54": {
+    "summary": "Grieving loss of a long-time friend.",
+    "category": "grief_bereavement",
+    "confidence": 0.8
+  },
+  "55": {
+    "summary": "Dealing with the aftermath of a breakup in midlife.",
+    "category": "relationship_breakup",
+    "confidence": 0.7
+  },
+  "56": {
+    "summary": "Feeling isolated in later life despite social efforts.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
+  },
   "57": {
-    "summary": "Existential despair about life meaning",
-    "category": "existential_despair",
-    "confidence": 0.65
+    "summary": "Managing chronic pain that limits daily activities.",
+    "category": "chronic_health_pain",
+    "confidence": 0.8
   },
   "58": {
-    "summary": "Social isolation despite digital connectivity",
-    "category": "digital_isolation",
-    "confidence": 0.6
+    "summary": "Concerned about retirement savings and job insecurity.",
+    "category": "financial_employment",
+    "confidence": 0.9
   },
   "59": {
-    "summary": "Health anxiety about terminal illnesses",
-    "category": "health_anxiety",
+    "summary": "Overwhelmed by caregiving for an elderly relative.",
+    "category": "caregiver_burden",
     "confidence": 0.7
   },
   "60": {
-    "summary": "Financial insecurity in retirement",
-    "category": "retirement_poverty",
-    "confidence": 0.65
+    "summary": "Re-experiencing past abuse during moments of vulnerability.",
+    "category": "violence_abuse",
+    "confidence": 0.8
   },
   "61": {
-    "summary": "Guilt over unmet family expectations",
-    "category": "intergenerational_guilt",
-    "confidence": 0.55
-  },
-  "62": {
-    "summary": "Chronic loneliness in assisted living",
-    "category": "institutional_loneliness",
+    "summary": "Seeking legal help to secure stable housing.",
+    "category": "legal_housing",
     "confidence": 0.7
   },
+  "62": {
+    "summary": "Studying to learn new technology skills.",
+    "category": "academic_stress",
+    "confidence": 0.4
+  },
   "63": {
-    "summary": "Physical decline impacting creative expression",
-    "category": "functional_decline",
-    "confidence": 0.6
+    "summary": "Severe anxiety and depression affecting quality of life.",
+    "category": "mental_health_crisis",
+    "confidence": 1.0
   },
   "64": {
-    "summary": "Existential crisis about mortality",
-    "category": "mortality_anxiety",
+    "summary": "Dealing with immigration status as a senior refugee.",
+    "category": "immigration",
     "confidence": 0.7
   },
   "65": {
-    "summary": "Social isolation from physical limitations",
-    "category": "social_isolation",
-    "confidence": 0.65
+    "summary": "Grieving the loss of a spouse or close family member.",
+    "category": "grief_bereavement",
+    "confidence": 0.8
   },
   "66": {
-    "summary": "Grief over loss of independence",
-    "category": "loss_of_autonomy",
-    "confidence": 0.6
-  },
-  "67": {
-    "summary": "Chronic pain management challenges",
-    "category": "chronic_pain",
+    "summary": "Adjusting to life after a long-term relationship ends.",
+    "category": "relationship_breakup",
     "confidence": 0.7
   },
+  "67": {
+    "summary": "Feeling isolated in old age with limited social support.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
+  },
   "68": {
-    "summary": "Financial insecurity in advanced age",
-    "category": "economic_precarity",
-    "confidence": 0.6
+    "summary": "Managing chronic pain that impacts mobility.",
+    "category": "chronic_health_pain",
+    "confidence": 0.8
   },
   "69": {
-    "summary": "Social isolation despite family obligations",
-    "category": "familial_isolation",
-    "confidence": 0.55
+    "summary": "Concerned about financial stability in retirement.",
+    "category": "financial_employment",
+    "confidence": 0.9
   },
   "70": {
-    "summary": "Existential despair about legacy",
-    "category": "legacy_concerns",
-    "confidence": 0.6
+    "summary": "Experiencing burnout from caregiving for a disabled family member.",
+    "category": "caregiver_burden",
+    "confidence": 0.7
   },
   "71": {
-    "summary": "Physical decline impacting mobility",
-    "category": "mobility_decline",
-    "confidence": 0.65
+    "summary": "Re-experiencing past abuse during stressful events.",
+    "category": "violence_abuse",
+    "confidence": 0.8
   },
   "72": {
-    "summary": "Grief over multiple losses",
-    "category": "cumulative_grief",
+    "summary": "Seeking legal help to secure stable housing.",
+    "category": "legal_housing",
     "confidence": 0.7
   },
   "73": {
-    "summary": "Social isolation in advanced age",
-    "category": "elder_loneliness",
-    "confidence": 0.65
-  },
-  "74": {
-    "summary": "Financial insecurity in late retirement",
-    "category": "retirement_poverty",
-    "confidence": 0.6
-  },
-  "75": {
-    "summary": "Existential crisis about life meaning",
-    "category": "existential_crisis",
-    "confidence": 0.6
-  },
-  "76": {
-    "summary": "Chronic health decline",
-    "category": "age-related_illness",
-    "confidence": 0.7
-  },
-  "77": {
-    "summary": "Social isolation from physical limitations",
-    "category": "social_isolation",
-    "confidence": 0.6
-  },
-  "78": {
-    "summary": "Guilt over unmet family expectations",
-    "category": "intergenerational_guilt",
-    "confidence": 0.55
-  },
-  "79": {
-    "summary": "Financial insecurity in advanced age",
-    "category": "economic_precarity",
-    "confidence": 0.6
-  },
-  "80": {
-    "summary": "Existential despair about mortality",
-    "category": "mortality_anxiety",
-    "confidence": 0.65
-  },
-  "81": {
-    "summary": "Physical decline impacting daily living",
-    "category": "functional_decline",
-    "confidence": 0.6
-  },
-  "82": {
-    "summary": "Social isolation despite family obligations",
-    "category": "familial_isolation",
-    "confidence": 0.55
-  },
-  "83": {
-    "summary": "Grief over loss of independence",
-    "category": "loss_of_autonomy",
-    "confidence": 0.6
-  },
-  "84": {
-    "summary": "Chronic pain management challenges",
-    "category": "chronic_pain",
-    "confidence": 0.65
-  },
-  "85": {
-    "summary": "Financial insecurity in late retirement",
-    "category": "retirement_poverty",
-    "confidence": 0.55
-  },
-  "86": {
-    "summary": "Existential crisis about legacy",
-    "category": "legacy_concerns",
-    "confidence": 0.6
-  },
-  "87": {
-    "summary": "Physical decline impacting creative expression",
-    "category": "functional_decline",
-    "confidence": 0.55
-  },
-  "88": {
-    "summary": "Social isolation in advanced age",
-    "category": "elder_loneliness",
-    "confidence": 0.6
-  },
-  "89": {
-    "summary": "Grief over multiple losses",
-    "category": "cumulative_grief",
-    "confidence": 0.65
-  },
-  "90": {
-    "summary": "Existential despair about life meaning",
-    "category": "existential_despair",
-    "confidence": 0.6
-  },
-  "91": {
-    "summary": "Physical decline impacting mobility",
-    "category": "mobility_decline",
-    "confidence": 0.55
-  },
-  "92": {
-    "summary": "Social isolation from physical limitations",
-    "category": "social_isolation",
-    "confidence": 0.55
-  },
-  "93": {
-    "summary": "Financial insecurity in advanced age",
-    "category": "economic_precarity",
-    "confidence": 0.5
-  },
-  "94": {
-    "summary": "Guilt over unmet family expectations",
-    "category": "intergenerational_guilt",
-    "confidence": 0.5
-  },
-  "95": {
-    "summary": "Existential crisis about mortality",
-    "category": "mortality_anxiety",
-    "confidence": 0.55
-  },
-  "96": {
-    "summary": "Physical decline impacting daily living",
-    "category": "functional_decline",
-    "confidence": 0.5
-  },
-  "97": {
-    "summary": "Social isolation despite family obligations",
-    "category": "familial_isolation",
-    "confidence": 0.45
-  },
-  "98": {
-    "summary": "Chronic pain management challenges",
-    "category": "chronic_pain",
-    "confidence": 0.5
-  },
-  "99": {
-    "summary": "Financial insecurity in late retirement",
-    "category": "retirement_poverty",
+    "summary": "Studying to complete a degree later in life.",
+    "category": "academic_stress",
     "confidence": 0.4
   },
+  "74": {
+    "summary": "Severe mental health crisis with persistent dissociation.",
+    "category": "mental_health_crisis",
+    "confidence": 1.0
+  },
+  "75": {
+    "summary": "Navigating immigration challenges in later life.",
+    "category": "immigration",
+    "confidence": 0.7
+  },
+  "76": {
+    "summary": "Grieving the loss of a close friend.",
+    "category": "grief_bereavement",
+    "confidence": 0.8
+  },
+  "77": {
+    "summary": "Dealing with the end of a long-term relationship.",
+    "category": "relationship_breakup",
+    "confidence": 0.7
+  },
+  "78": {
+    "summary": "Feeling isolated in later years.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
+  },
+  "79": {
+    "summary": "Managing chronic pain that limits daily activities.",
+    "category": "chronic_health_pain",
+    "confidence": 0.8
+  },
+  "80": {
+    "summary": "Struggling with financial insecurity in retirement.",
+    "category": "financial_employment",
+    "confidence": 0.9
+  },
+  "81": {
+    "summary": "Overwhelmed by caregiving for an aging parent.",
+    "category": "caregiver_burden",
+    "confidence": 0.7
+  },
+  "82": {
+    "summary": "Re-experiencing past abuse during moments of vulnerability.",
+    "category": "violence_abuse",
+    "confidence": 0.8
+  },
+  "83": {
+    "summary": "Fighting for stable housing as a senior.",
+    "category": "legal_housing",
+    "confidence": 0.7
+  },
+  "84": {
+    "summary": "Studying to learn new technology.",
+    "category": "academic_stress",
+    "confidence": 0.4
+  },
+  "85": {
+    "summary": "Severe mental health crisis with dissociation.",
+    "category": "mental_health_crisis",
+    "confidence": 1.0
+  },
+  "86": {
+    "summary": "Dealing with immigration status as an elderly refugee.",
+    "category": "immigration",
+    "confidence": 0.7
+  },
+  "87": {
+    "summary": "Grieving the loss of a family member.",
+    "category": "grief_bereavement",
+    "confidence": 0.8
+  },
+  "88": {
+    "summary": "Adjusting to life after a breakup.",
+    "category": "relationship_breakup",
+    "confidence": 0.7
+  },
+  "89": {
+    "summary": "Feeling isolated in old age.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
+  },
+  "90": {
+    "summary": "Managing chronic pain that impacts quality of life.",
+    "category": "chronic_health_pain",
+    "confidence": 0.8
+  },
+  "91": {
+    "summary": "Concerned about financial stability in old age.",
+    "category": "financial_employment",
+    "confidence": 0.9
+  },
+  "92": {
+    "summary": "Experiencing burnout from caregiving.",
+    "category": "caregiver_burden",
+    "confidence": 0.7
+  },
+  "93": {
+    "summary": "Re-experiencing past abuse.",
+    "category": "violence_abuse",
+    "confidence": 0.8
+  },
+  "94": {
+    "summary": "Seeking legal help for housing.",
+    "category": "legal_housing",
+    "confidence": 0.7
+  },
+  "95": {
+    "summary": "Studying to learn new technology.",
+    "category": "academic_stress",
+    "confidence": 0.4
+  },
+  "96": {
+    "summary": "Severe mental health crisis with dissociation.",
+    "category": "mental_health_crisis",
+    "confidence": 1.0
+  },
+  "97": {
+    "summary": "Navigating immigration challenges in old age.",
+    "category": "immigration",
+    "confidence": 0.7
+  },
+  "98": {
+    "summary": "Grieving the loss of a friend.",
+    "category": "grief_bereavement",
+    "confidence": 0.8
+  },
+  "99": {
+    "summary": "Dealing with the end of a relationship.",
+    "category": "relationship_breakup",
+    "confidence": 0.7
+  },
   "100": {
-    "summary": "Existential despair about legacy",
-    "category": "legacy_concerns",
-    "confidence": 0.45
+    "summary": "Feeling isolated in the final years of life.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
   }
 }

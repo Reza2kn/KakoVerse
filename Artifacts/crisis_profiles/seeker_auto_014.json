@@ -1,407 +1,407 @@
 {
   "20": {
-    "summary": "Identity conflict between refugee roots and host culture",
-    "category": "identity_crisis",
+    "summary": "Loss of a close family member during early adulthood.",
+    "category": "grief_bereavement",
     "confidence": 0.85
   },
   "21": {
-    "summary": "Political disillusionment amid Rome's 1970s turmoil",
-    "category": "political_stress",
-    "confidence": 0.75
+    "summary": "Intense emotional fallout from a romantic relationship ending.",
+    "category": "relationship_breakup",
+    "confidence": 0.9
   },
   "22": {
-    "summary": "Family pressure to conform to traditional expectations",
-    "category": "family_pressure",
-    "confidence": 0.7
-  },
-  "23": {
-    "summary": "Academic burnout in competitive research environment",
-    "category": "career_burnout",
+    "summary": "Persistent loneliness after relocating for studies.",
+    "category": "loneliness_isolation",
     "confidence": 0.8
   },
+  "23": {
+    "summary": "Chronic pain from childhood injury affecting daily life.",
+    "category": "chronic_health_pain",
+    "confidence": 0.75
+  },
   "24": {
-    "summary": "Financial instability as permanent resident",
-    "category": "financial_stress",
-    "confidence": 0.7
+    "summary": "Job loss amid economic instability in early career.",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "25": {
-    "summary": "Grief over lost childhood homeland",
-    "category": "grief",
+    "summary": "Overwhelmed by caregiving responsibilities for aging parent.",
+    "category": "caregiver_burden",
     "confidence": 0.9
   },
   "26": {
-    "summary": "Cultural alienation in Italian society",
-    "category": "social_isolation",
-    "confidence": 0.8
+    "summary": "Surviving domestic violence and seeking safety.",
+    "category": "violence_abuse",
+    "confidence": 0.85
   },
   "27": {
-    "summary": "Ethnic discrimination in workplace",
-    "category": "discrimination",
+    "summary": "Homelessness after eviction during housing crisis.",
+    "category": "legal_housing",
     "confidence": 0.7
   },
   "28": {
-    "summary": "Creative frustration with photography/poetry",
-    "category": "creative_block",
-    "confidence": 0.6
+    "summary": "Academic failure threatening career aspirations.",
+    "category": "academic_stress",
+    "confidence": 0.8
   },
   "29": {
-    "summary": "Unresolved refugee trauma resurfacing",
-    "category": "trauma",
-    "confidence": 0.85
+    "summary": "Suicidal ideation during untreated depression crisis.",
+    "category": "mental_health_crisis",
+    "confidence": 0.95
   },
   "30": {
-    "summary": "Marriage pressure conflicting with personal values",
-    "category": "relationship_stress",
-    "confidence": 0.7
+    "summary": "Deportation threat after residency status revoked.",
+    "category": "immigration",
+    "confidence": 0.9
   },
   "31": {
-    "summary": "Career stagnation in academia",
-    "category": "career_dissatisfaction",
+    "summary": "Bereavement over sibling's death in war zone.",
+    "category": "grief_bereavement",
     "confidence": 0.8
   },
   "32": {
-    "summary": "Parenting challenges with immigrant children",
-    "category": "parenting_stress",
-    "confidence": 0.75
+    "summary": "Post-breakup depression after long-term relationship ends.",
+    "category": "relationship_breakup",
+    "confidence": 0.85
   },
   "33": {
-    "summary": "Health anxiety from childhood malnutrition",
-    "category": "health_anxiety",
-    "confidence": 0.65
+    "summary": "Social isolation after relocating to unfamiliar city.",
+    "category": "loneliness_isolation",
+    "confidence": 0.75
   },
   "34": {
-    "summary": "Cultural preservation guilt",
-    "category": "moral_dilemma",
-    "confidence": 0.7
+    "summary": "Chronic illness diagnosis limiting mobility.",
+    "category": "chronic_health_pain",
+    "confidence": 0.8
   },
   "35": {
-    "summary": "Midlife crisis questioning life choices",
-    "category": "existential_crisis",
+    "summary": "Financial ruin from business collapse.",
+    "category": "financial_employment",
     "confidence": 0.8
   },
   "36": {
-    "summary": "Spousal conflict over cultural integration",
-    "category": "relationship_dissolution",
-    "confidence": 0.7
+    "summary": "Burnout from caring for disabled spouse.",
+    "category": "caregiver_burden",
+    "confidence": 0.9
   },
   "37": {
-    "summary": "Professional recognition struggles",
-    "category": "career_insecurity",
-    "confidence": 0.75
+    "summary": "Surviving spousal abuse and entering shelter.",
+    "category": "violence_abuse",
+    "confidence": 0.8
   },
   "38": {
-    "summary": "Chronic back pain from manual labor past",
-    "category": "chronic_pain",
-    "confidence": 0.6
+    "summary": "Legal battle over wrongful eviction.",
+    "category": "legal_housing",
+    "confidence": 0.7
   },
   "39": {
-    "summary": "Generational cultural divide with children",
-    "category": "intergenerational_conflict",
+    "summary": "Academic probation jeopardizing career path.",
+    "category": "academic_stress",
     "confidence": 0.7
   },
   "40": {
-    "summary": "Parental burnout with aging parents",
-    "category": "caregiver_stress",
-    "confidence": 0.8
+    "summary": "Psychotic episode requiring hospitalization.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "41": {
-    "summary": "Midlife career reinvention pressure",
-    "category": "career_transition",
-    "confidence": 0.7
+    "summary": "Deportation to conflict-affected homeland.",
+    "category": "immigration",
+    "confidence": 0.85
   },
   "42": {
-    "summary": "Financial strain from education costs",
-    "category": "financial_stress",
-    "confidence": 0.75
+    "summary": "Grief over losing a child in accident.",
+    "category": "grief_bereavement",
+    "confidence": 0.9
   },
   "43": {
-    "summary": "Health decline from past hardships",
-    "category": "health_decline",
+    "summary": "Heartbreak after betrayal in marriage.",
+    "category": "relationship_breakup",
     "confidence": 0.8
   },
   "44": {
-    "summary": "Grief over aging parents",
-    "category": "grief",
-    "confidence": 0.85
+    "summary": "Isolation after family migration abroad.",
+    "category": "loneliness_isolation",
+    "confidence": 0.7
   },
   "45": {
-    "summary": "Retirement anxiety in unstable economy",
-    "category": "retirement_stress",
-    "confidence": 0.7
-  },
-  "46": {
-    "summary": "Social isolation from declining mobility",
-    "category": "loneliness",
-    "confidence": 0.7
-  },
-  "47": {
-    "summary": "Chronic illness management",
-    "category": "chronic_illness",
-    "confidence": 0.8
-  },
-  "48": {
-    "summary": "Legacy concerns about cultural preservation",
-    "category": "existential_crisis",
+    "summary": "Chronic pain from war injury resurfaces.",
+    "category": "chronic_health_pain",
     "confidence": 0.75
   },
-  "49": {
-    "summary": "Spousal health decline",
-    "category": "caregiver_burnout",
+  "46": {
+    "summary": "Unemployment during economic recession.",
+    "category": "financial_employment",
     "confidence": 0.8
   },
-  "50": {
-    "summary": "Financial insecurity in retirement",
-    "category": "financial_stress",
+  "47": {
+    "summary": "Caregiver exhaustion from dementia patient.",
+    "category": "caregiver_burden",
+    "confidence": 0.85
+  },
+  "48": {
+    "summary": "Surviving domestic violence after police inaction.",
+    "category": "violence_abuse",
+    "confidence": 0.8
+  },
+  "49": {
+    "summary": "Homelessness after housing discrimination.",
+    "category": "legal_housing",
     "confidence": 0.7
   },
+  "50": {
+    "summary": "Academic tenure denial causing identity crisis.",
+    "category": "academic_stress",
+    "confidence": 0.75
+  },
   "51": {
-    "summary": "Grandparenting challenges",
-    "category": "family_duty",
-    "confidence": 0.65
+    "summary": "Suicidal ideation during treatment-resistant depression.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "52": {
-    "summary": "Health deterioration from past trauma",
-    "category": "chronic_health",
+    "summary": "Deportation to unstable post-war country.",
+    "category": "immigration",
     "confidence": 0.8
   },
   "53": {
-    "summary": "Severe depressive episode",
-    "category": "depression",
-    "confidence": 0.95
-  },
-  "54": {
-    "summary": "Chronic pain limiting hobbies",
-    "category": "physical_disability",
-    "confidence": 0.7
-  },
-  "55": {
-    "summary": "Spousal loss grief",
-    "category": "grief",
+    "summary": "Grief over father's death during career transition.",
+    "category": "grief_bereavement",
     "confidence": 0.9
   },
-  "56": {
-    "summary": "Social isolation in conservative society",
-    "category": "loneliness",
-    "confidence": 0.8
-  },
-  "57": {
-    "summary": "Chronic illness complications",
-    "category": "health_crisis",
+  "54": {
+    "summary": "Post-divorce loneliness after 30-year marriage.",
+    "category": "relationship_breakup",
     "confidence": 0.85
   },
-  "58": {
-    "summary": "Family discord over inheritance",
-    "category": "family_conflict",
-    "confidence": 0.7
-  },
-  "59": {
-    "summary": "Mobility issues limiting community participation",
-    "category": "social_isolation",
+  "55": {
+    "summary": "Isolation after children move abroad.",
+    "category": "loneliness_isolation",
     "confidence": 0.75
   },
+  "56": {
+    "summary": "Chronic pain from old combat injury.",
+    "category": "chronic_health_pain",
+    "confidence": 0.7
+  },
+  "57": {
+    "summary": "Retirement poverty after pension cuts.",
+    "category": "financial_employment",
+    "confidence": 0.8
+  },
+  "58": {
+    "summary": "Caregiver burnout from Alzheimer's spouse.",
+    "category": "caregiver_burden",
+    "confidence": 0.85
+  },
+  "59": {
+    "summary": "Surviving elder abuse by family member.",
+    "category": "violence_abuse",
+    "confidence": 0.8
+  },
   "60": {
-    "summary": "Retirement adjustment difficulties",
-    "category": "transition_stress",
+    "summary": "Homelessness after housing market collapse.",
+    "category": "legal_housing",
     "confidence": 0.7
   },
   "61": {
-    "summary": "Chronic pain management",
-    "category": "chronic_pain",
-    "confidence": 0.8
+    "summary": "Academic retirement anxiety over legacy.",
+    "category": "academic_stress",
+    "confidence": 0.65
   },
   "62": {
-    "summary": "Health decline impacting independence",
-    "category": "care_needs",
-    "confidence": 0.85
+    "summary": "Suicidal ideation during late-life depression.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "63": {
-    "summary": "Guilt over unfulfilled ambitions",
-    "category": "existential_doubt",
-    "confidence": 0.7
+    "summary": "Deportation to homeland with ongoing conflict.",
+    "category": "immigration",
+    "confidence": 0.8
   },
   "64": {
-    "summary": "Financial strain from medical costs",
-    "category": "financial_stress",
-    "confidence": 0.75
+    "summary": "Grief over losing spouse to illness.",
+    "category": "grief_bereavement",
+    "confidence": 0.9
   },
   "65": {
-    "summary": "Social isolation from declining health",
-    "category": "loneliness",
-    "confidence": 0.8
+    "summary": "Loneliness after children relocate overseas.",
+    "category": "relationship_breakup",
+    "confidence": 0.75
   },
   "66": {
-    "summary": "Chronic illness progression",
-    "category": "health_decline",
-    "confidence": 0.85
+    "summary": "Isolation after losing hearing and mobility.",
+    "category": "loneliness_isolation",
+    "confidence": 0.7
   },
   "67": {
-    "summary": "Caregiving burden for spouse",
-    "category": "caregiver_stress",
-    "confidence": 0.75
+    "summary": "Chronic pain from arthritis limiting independence.",
+    "category": "chronic_health_pain",
+    "confidence": 0.7
   },
   "68": {
-    "summary": "Guilt over cultural legacy",
-    "category": "moral_dilemma",
-    "confidence": 0.7
+    "summary": "Financial insecurity after market crash.",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "69": {
-    "summary": "Mobility limitations reducing social contact",
-    "category": "isolation",
-    "confidence": 0.7
+    "summary": "Caregiver strain from disabled adult child.",
+    "category": "caregiver_burden",
+    "confidence": 0.8
   },
   "70": {
-    "summary": "Chronic pain limiting activities",
-    "category": "physical_disability",
-    "confidence": 0.8
-  },
-  "71": {
-    "summary": "Health decline requiring assistance",
-    "category": "care_needs",
-    "confidence": 0.85
-  },
-  "72": {
-    "summary": "Grief over lost independence",
-    "category": "grief",
-    "confidence": 0.8
-  },
-  "73": {
-    "summary": "Financial insecurity in old age",
-    "category": "financial_stress",
+    "summary": "Surviving institutional neglect as elder.",
+    "category": "violence_abuse",
     "confidence": 0.75
   },
+  "71": {
+    "summary": "Homelessness after family estrangement.",
+    "category": "legal_housing",
+    "confidence": 0.7
+  },
+  "72": {
+    "summary": "Academic legacy anxiety after retirement.",
+    "category": "academic_stress",
+    "confidence": 0.6
+  },
+  "73": {
+    "summary": "Suicidal ideation during untreated depression.",
+    "category": "mental_health_crisis",
+    "confidence": 0.85
+  },
   "74": {
-    "summary": "Chronic illness management",
-    "category": "chronic_illness",
-    "confidence": 0.8
+    "summary": "Deportation to homeland with political instability.",
+    "category": "immigration",
+    "confidence": 0.75
   },
   "75": {
-    "summary": "Social isolation from declining health",
-    "category": "loneliness",
-    "confidence": 0.8
+    "summary": "Grief over losing lifelong partner.",
+    "category": "grief_bereavement",
+    "confidence": 0.9
   },
   "76": {
-    "summary": "Caregiving responsibilities",
-    "category": "caregiver_burnout",
+    "summary": "Loneliness after children's emigration.",
+    "category": "relationship_breakup",
     "confidence": 0.7
   },
   "77": {
-    "summary": "Health decline impacting family",
-    "category": "family_duty",
-    "confidence": 0.75
-  },
-  "78": {
-    "summary": "Guilt over unfulfilled potential",
-    "category": "existential_crisis",
-    "confidence": 0.65
-  },
-  "79": {
-    "summary": "Chronic pain limiting mobility",
-    "category": "chronic_pain",
-    "confidence": 0.7
-  },
-  "80": {
-    "summary": "Social isolation in conservative society",
-    "category": "loneliness",
-    "confidence": 0.75
-  },
-  "81": {
-    "summary": "Health decline requiring support",
-    "category": "care_needs",
+    "summary": "Isolation after losing spouse to illness.",
+    "category": "loneliness_isolation",
     "confidence": 0.8
   },
+  "78": {
+    "summary": "Chronic pain from degenerative disease.",
+    "category": "chronic_health_pain",
+    "confidence": 0.7
+  },
+  "79": {
+    "summary": "Financial ruin from medical bills.",
+    "category": "financial_employment",
+    "confidence": 0.8
+  },
+  "80": {
+    "summary": "Caregiver burden from dementia spouse.",
+    "category": "caregiver_burden",
+    "confidence": 0.8
+  },
+  "81": {
+    "summary": "Surviving elder abuse by caretaker.",
+    "category": "violence_abuse",
+    "confidence": 0.75
+  },
   "82": {
-    "summary": "Financial strain from medical expenses",
-    "category": "financial_stress",
+    "summary": "Homelessness after housing discrimination.",
+    "category": "legal_housing",
     "confidence": 0.7
   },
   "83": {
-    "summary": "Grief over lost independence",
-    "category": "grief",
-    "confidence": 0.8
+    "summary": "Academic retirement regret.",
+    "category": "academic_stress",
+    "confidence": 0.6
   },
   "84": {
-    "summary": "Chronic illness complications",
-    "category": "health_crisis",
+    "summary": "Suicidal ideation during depression crisis.",
+    "category": "mental_health_crisis",
     "confidence": 0.85
   },
   "85": {
-    "summary": "Social isolation from declining health",
-    "category": "loneliness",
-    "confidence": 0.8
+    "summary": "Deportation to homeland with ongoing conflict.",
+    "category": "immigration",
+    "confidence": 0.7
   },
   "86": {
-    "summary": "Caregiving burden for spouse",
-    "category": "caregiver_stress",
-    "confidence": 0.75
+    "summary": "Grief over losing a child.",
+    "category": "grief_bereavement",
+    "confidence": 0.85
   },
   "87": {
-    "summary": "Guilt over cultural legacy",
-    "category": "moral_dilemma",
+    "summary": "Loneliness after divorce.",
+    "category": "relationship_breakup",
     "confidence": 0.7
   },
   "88": {
-    "summary": "Mobility limitations reducing social contact",
-    "category": "isolation",
-    "confidence": 0.7
-  },
-  "89": {
-    "summary": "Chronic pain management",
-    "category": "chronic_pain",
-    "confidence": 0.75
-  },
-  "90": {
-    "summary": "Health decline requiring assistance",
-    "category": "care_needs",
-    "confidence": 0.8
-  },
-  "91": {
-    "summary": "Financial insecurity in old age",
-    "category": "financial_stress",
-    "confidence": 0.7
-  },
-  "92": {
-    "summary": "Grief over lost independence",
-    "category": "grief",
-    "confidence": 0.8
-  },
-  "93": {
-    "summary": "Social isolation from declining health",
-    "category": "loneliness",
-    "confidence": 0.8
-  },
-  "94": {
-    "summary": "Chronic illness progression",
-    "category": "health_decline",
-    "confidence": 0.85
-  },
-  "95": {
-    "summary": "Caregiving responsibilities",
-    "category": "caregiver_burnout",
-    "confidence": 0.7
-  },
-  "96": {
-    "summary": "Guilt over unfulfilled potential",
-    "category": "existential_crisis",
+    "summary": "Isolation after losing hearing.",
+    "category": "loneliness_isolation",
     "confidence": 0.65
   },
-  "97": {
-    "summary": "Chronic pain limiting activities",
-    "category": "physical_disability",
+  "89": {
+    "summary": "Chronic pain from arthritis.",
+    "category": "chronic_health_pain",
+    "confidence": 0.6
+  },
+  "90": {
+    "summary": "Financial insecurity after pension cuts.",
+    "category": "financial_employment",
     "confidence": 0.7
   },
+  "91": {
+    "summary": "Caregiver burnout from disabled adult child.",
+    "category": "caregiver_burden",
+    "confidence": 0.75
+  },
+  "92": {
+    "summary": "Surviving elder abuse.",
+    "category": "violence_abuse",
+    "confidence": 0.7
+  },
+  "93": {
+    "summary": "Homelessness after eviction.",
+    "category": "legal_housing",
+    "confidence": 0.65
+  },
+  "94": {
+    "summary": "Academic tenure denial anxiety.",
+    "category": "academic_stress",
+    "confidence": 0.6
+  },
+  "95": {
+    "summary": "Suicidal ideation during depression.",
+    "category": "mental_health_crisis",
+    "confidence": 0.8
+  },
+  "96": {
+    "summary": "Deportation to homeland with conflict.",
+    "category": "immigration",
+    "confidence": 0.7
+  },
+  "97": {
+    "summary": "Grief over losing a grandchild.",
+    "category": "grief_bereavement",
+    "confidence": 0.8
+  },
   "98": {
-    "summary": "Social isolation in conservative society",
-    "category": "loneliness",
+    "summary": "Loneliness after spouse's death.",
+    "category": "relationship_breakup",
     "confidence": 0.75
   },
   "99": {
-    "summary": "Health decline requiring support",
-    "category": "care_needs",
-    "confidence": 0.8
+    "summary": "Isolation after losing hearing.",
+    "category": "loneliness_isolation",
+    "confidence": 0.65
   },
   "100": {
-    "summary": "Legacy concerns about cultural preservation",
-    "category": "existential_crisis",
-    "confidence": 0.7
+    "summary": "Chronic pain from age-related illness.",
+    "category": "chronic_health_pain",
+    "confidence": 0.6
   }
 }

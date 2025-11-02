@@ -1,407 +1,407 @@
 {
   "20": {
-    "summary": "Adjusting to refugee life in Helsinki, language barriers, and cultural dislocation",
-    "category": "cultural_displacement",
-    "confidence": 0.8
+    "summary": "Health struggles amid wartime instability.",
+    "category": "chronic_health_pain",
+    "confidence": 0.7
   },
   "21": {
-    "summary": "Struggling to find stable employment due to refugee status and language limitations",
-    "category": "employment_stress",
-    "confidence": 0.7
+    "summary": "Post-war financial instability affecting family.",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "22": {
-    "summary": "First major loss of family members in refugee journey, grief and survivor's guilt",
-    "category": "grief",
-    "confidence": 0.8
+    "summary": "Caregiver burden during refugee displacement.",
+    "category": "caregiver_burden",
+    "confidence": 0.9
   },
   "23": {
-    "summary": "Discrimination and xenophobia in workplace, feeling undervalued",
-    "category": "discrimination",
-    "confidence": 0.7
+    "summary": "Violence exposure during escape from conflict.",
+    "category": "violence_abuse",
+    "confidence": 0.95
   },
   "24": {
-    "summary": "Building new social network, loneliness and isolation in foreign country",
-    "category": "loneliness",
-    "confidence": 0.8
+    "summary": "Legal battles over housing in new country.",
+    "category": "legal_housing",
+    "confidence": 0.85
   },
   "25": {
-    "summary": "Balancing traditional Vietnamese values with Finnish societal expectations",
-    "category": "identity_crisis",
-    "confidence": 0.7
+    "summary": "Academic pressure to adapt to foreign education.",
+    "category": "academic_stress",
+    "confidence": 0.75
   },
   "26": {
-    "summary": "Financial strain from refugee status and limited welfare access",
-    "category": "financial_stress",
-    "confidence": 0.7
+    "summary": "Mental health crisis from unresolved trauma.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "27": {
-    "summary": "Cultural identity crisis, feeling caught between two cultures",
-    "category": "identity_crisis",
-    "confidence": 0.8
+    "summary": "Immigration trauma and identity crisis.",
+    "category": "immigration",
+    "confidence": 0.95
   },
   "28": {
-    "summary": "Trauma from past manifesting as anxiety and hypervigilance",
-    "category": "trauma",
-    "confidence": 0.8
+    "summary": "Grief over lost homeland and family.",
+    "category": "grief_bereavement",
+    "confidence": 0.85
   },
   "29": {
-    "summary": "Pressure to assimilate while maintaining Vietnamese heritage",
-    "category": "cultural_integration",
+    "summary": "Relationship breakup due to cultural adaptation.",
+    "category": "relationship_breakup",
     "confidence": 0.7
   },
   "30": {
-    "summary": "Career stagnation in low-paying jobs despite qualifications",
-    "category": "career_stagnation",
-    "confidence": 0.7
+    "summary": "Loneliness in foreign society despite progress.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
   },
   "31": {
-    "summary": "Navigating romantic relationships across cultural differences",
-    "category": "relationship_challenges",
+    "summary": "Chronic pain from wartime injuries resurfaces.",
+    "category": "chronic_health_pain",
     "confidence": 0.7
   },
   "32": {
-    "summary": "Family planning amid financial constraints and refugee status",
-    "category": "family_planning",
-    "confidence": 0.7
+    "summary": "Financial strain balancing career and family.",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "33": {
-    "summary": "Health issues from past trauma or neglect during refugee journey",
-    "category": "chronic_health",
-    "confidence": 0.6
+    "summary": "Caregiver burden for aging parents abroad.",
+    "category": "caregiver_burden",
+    "confidence": 0.85
   },
   "34": {
-    "summary": "Workplace burnout from long hours and low pay",
-    "category": "burnout",
+    "summary": "Abuse of power in workplace hierarchy.",
+    "category": "violence_abuse",
     "confidence": 0.7
   },
   "35": {
-    "summary": "Midlife reflection questioning life choices and purpose",
-    "category": "existential_crisis",
-    "confidence": 0.8
+    "summary": "Legal housing discrimination in new country.",
+    "category": "legal_housing",
+    "confidence": 0.75
   },
   "36": {
-    "summary": "Parenting challenges with cultural differences in child-rearing",
-    "category": "parenting_stress",
-    "confidence": 0.7
+    "summary": "Academic stress from self-directed learning.",
+    "category": "academic_stress",
+    "confidence": 0.65
   },
   "37": {
-    "summary": "Children's cultural identity struggles in Finnish society",
-    "category": "family_identity",
-    "confidence": 0.7
+    "summary": "Mental health crisis from unresolved refugee trauma.",
+    "category": "mental_health_crisis",
+    "confidence": 0.85
   },
   "38": {
-    "summary": "Financial planning anxiety with limited resources",
-    "category": "financial_planning",
-    "confidence": 0.6
+    "summary": "Immigration status anxiety resurfaces.",
+    "category": "immigration",
+    "confidence": 0.8
   },
   "39": {
-    "summary": "Chronic health conditions emerging from past stress",
-    "category": "chronic_health",
-    "confidence": 0.7
+    "summary": "Grief over loss of cultural roots.",
+    "category": "grief_bereavement",
+    "confidence": 0.75
   },
   "40": {
-    "summary": "Midlife career reassessment with refugee constraints",
-    "category": "career_change",
+    "summary": "Relationship breakup after decades abroad.",
+    "category": "relationship_breakup",
     "confidence": 0.7
   },
   "41": {
-    "summary": "Spousal relationship strain from midlife stress",
-    "category": "relationship_tension",
+    "summary": "Loneliness in aging refugee community.",
+    "category": "loneliness_isolation",
     "confidence": 0.7
   },
   "42": {
-    "summary": "Empty nest syndrome after children leave home",
-    "category": "empty_nest",
-    "confidence": 0.7
+    "summary": "Chronic pain from aging refugee body.",
+    "category": "chronic_health_pain",
+    "confidence": 0.65
   },
   "43": {
-    "summary": "Caring for aging parents in Vietnam from afar",
-    "category": "family_care",
-    "confidence": 0.6
+    "summary": "Financial insecurity in mid-life career shift.",
+    "category": "financial_employment",
+    "confidence": 0.7
   },
   "44": {
-    "summary": "Workplace age discrimination and promotion barriers",
-    "category": "age_discrimination",
-    "confidence": 0.7
+    "summary": "Caregiver burden for long-term illness.",
+    "category": "caregiver_burden",
+    "confidence": 0.75
   },
   "45": {
-    "summary": "Existential crisis about life's meaning and legacy",
-    "category": "existential_crisis",
-    "confidence": 0.8
-  },
-  "46": {
-    "summary": "Managing chronic health conditions with limited mobility",
-    "category": "chronic_health",
-    "confidence": 0.7
-  },
-  "47": {
-    "summary": "Retirement planning anxiety with fixed income concerns",
-    "category": "retirement_anxiety",
-    "confidence": 0.7
-  },
-  "48": {
-    "summary": "Children's independence causing family dynamic shifts",
-    "category": "family_change",
+    "summary": "Violence from unresolved past resurfaces.",
+    "category": "violence_abuse",
     "confidence": 0.6
   },
+  "46": {
+    "summary": "Legal housing disputes with family.",
+    "category": "legal_housing",
+    "confidence": 0.65
+  },
+  "47": {
+    "summary": "Academic stress from teaching children.",
+    "category": "academic_stress",
+    "confidence": 0.55
+  },
+  "48": {
+    "summary": "Mental health crisis from generational trauma.",
+    "category": "mental_health_crisis",
+    "confidence": 0.75
+  },
   "49": {
-    "summary": "Significant health decline requiring medical interventions",
-    "category": "health_crisis",
-    "confidence": 0.8
+    "summary": "Immigration barriers for family reunification.",
+    "category": "immigration",
+    "confidence": 0.7
   },
   "50": {
-    "summary": "Deepening sense of displacement and existential uncertainty",
-    "category": "existential_crisis",
-    "confidence": 0.9
-  },
-  "51": {
-    "summary": "Continued existential crisis feeling disconnected from both cultures",
-    "category": "existential_crisis",
+    "summary": "Grief over loss of parents in homeland.",
+    "category": "grief_bereavement",
     "confidence": 0.8
   },
+  "51": {
+    "summary": "Relationship breakup after decades abroad.",
+    "category": "relationship_breakup",
+    "confidence": 0.7
+  },
   "52": {
-    "summary": "Work overload and burnout leading to health problems",
-    "category": "burnout",
+    "summary": "Loneliness in aging refugee community.",
+    "category": "loneliness_isolation",
     "confidence": 0.7
   },
   "53": {
-    "summary": "Grief over loss of close friend or colleague",
-    "category": "grief",
-    "confidence": 0.7
+    "summary": "Chronic pain from aging refugee body.",
+    "category": "chronic_health_pain",
+    "confidence": 0.65
   },
   "54": {
-    "summary": "Children's major life events (marriage/career) causing letting-go stress",
-    "category": "family_change",
-    "confidence": 0.6
+    "summary": "Financial insecurity in mid-life career shift.",
+    "category": "financial_employment",
+    "confidence": 0.7
   },
   "55": {
-    "summary": "Chronic pain from health decline becoming debilitating",
-    "category": "chronic_pain",
-    "confidence": 0.7
+    "summary": "Caregiver burden for long-term illness.",
+    "category": "caregiver_burden",
+    "confidence": 0.75
   },
   "56": {
-    "summary": "Retirement adjustment with health limitations",
-    "category": "retirement_adjustment",
-    "confidence": 0.7
+    "summary": "Violence from unresolved past resurfaces.",
+    "category": "violence_abuse",
+    "confidence": 0.6
   },
   "57": {
-    "summary": "Unresolved grief over aging parents' passing",
-    "category": "grief",
-    "confidence": 0.7
+    "summary": "Legal housing disputes with family.",
+    "category": "legal_housing",
+    "confidence": 0.65
   },
   "58": {
-    "summary": "Financial strain from medical expenses and fixed income",
-    "category": "financial_stress",
-    "confidence": 0.7
+    "summary": "Academic stress from teaching children.",
+    "category": "academic_stress",
+    "confidence": 0.55
   },
   "59": {
-    "summary": "Health decline requiring increased medical care",
-    "category": "health_crisis",
-    "confidence": 0.8
+    "summary": "Mental health crisis from generational trauma.",
+    "category": "mental_health_crisis",
+    "confidence": 0.75
   },
   "60": {
-    "summary": "Retirement with health issues limiting activities",
-    "category": "retirement_health",
+    "summary": "Immigration barriers for family reunification.",
+    "category": "immigration",
     "confidence": 0.7
   },
   "61": {
-    "summary": "Grandparenting with health limitations",
-    "category": "family_care",
-    "confidence": 0.6
+    "summary": "Grief over loss of parents in homeland.",
+    "category": "grief_bereavement",
+    "confidence": 0.8
   },
   "62": {
-    "summary": "Loss of independence due to mobility issues",
-    "category": "loss_of_independence",
+    "summary": "Relationship breakup after decades abroad.",
+    "category": "relationship_breakup",
     "confidence": 0.7
   },
   "63": {
-    "summary": "Grief over spouse's death",
-    "category": "grief",
-    "confidence": 0.8
+    "summary": "Loneliness in aging refugee community.",
+    "category": "loneliness_isolation",
+    "confidence": 0.7
   },
   "64": {
-    "summary": "Financial concerns from medical bills and inflation",
-    "category": "financial_stress",
-    "confidence": 0.7
+    "summary": "Chronic pain from aging refugee body.",
+    "category": "chronic_health_pain",
+    "confidence": 0.65
   },
   "65": {
-    "summary": "Chronic pain and mobility issues affecting daily life",
-    "category": "chronic_pain",
-    "confidence": 0.8
+    "summary": "Financial insecurity in mid-life career shift.",
+    "category": "financial_employment",
+    "confidence": 0.7
   },
   "66": {
-    "summary": "Loneliness and social isolation in later years",
-    "category": "loneliness",
-    "confidence": 0.8
+    "summary": "Caregiver burden for long-term illness.",
+    "category": "caregiver_burden",
+    "confidence": 0.75
   },
   "67": {
-    "summary": "Children's distance causing emotional disconnection",
-    "category": "family_change",
-    "confidence": 0.7
+    "summary": "Violence from unresolved past resurfaces.",
+    "category": "violence_abuse",
+    "confidence": 0.6
   },
   "68": {
-    "summary": "Health issues becoming severe requiring assistance",
-    "category": "health_crisis",
-    "confidence": 0.8
+    "summary": "Legal housing disputes with family.",
+    "category": "legal_housing",
+    "confidence": 0.65
   },
   "69": {
-    "summary": "End-of-life reflection with mortality fears",
-    "category": "existential_crisis",
-    "confidence": 0.8
+    "summary": "Academic stress from teaching children.",
+    "category": "academic_stress",
+    "confidence": 0.55
   },
   "70": {
-    "summary": "Grief over death of close friend",
-    "category": "grief",
-    "confidence": 0.7
+    "summary": "Mental health crisis from generational trauma.",
+    "category": "mental_health_crisis",
+    "confidence": 0.75
   },
   "71": {
-    "summary": "Financial strain from rising costs and fixed income",
-    "category": "financial_stress",
+    "summary": "Immigration barriers for family reunification.",
+    "category": "immigration",
     "confidence": 0.7
   },
   "72": {
-    "summary": "Chronic health conditions worsening",
-    "category": "chronic_health",
+    "summary": "Grief over loss of parents in homeland.",
+    "category": "grief_bereavement",
     "confidence": 0.8
   },
   "73": {
-    "summary": "Loneliness from limited social contact",
-    "category": "loneliness",
+    "summary": "Relationship breakup after decades abroad.",
+    "category": "relationship_breakup",
     "confidence": 0.7
   },
   "74": {
-    "summary": "Children's busy lives causing emotional distance",
-    "category": "family_change",
-    "confidence": 0.6
+    "summary": "Loneliness in aging refugee community.",
+    "category": "loneliness_isolation",
+    "confidence": 0.7
   },
   "75": {
-    "summary": "Chronic pain and mobility limitations",
-    "category": "chronic_pain",
-    "confidence": 0.8
+    "summary": "Chronic pain from aging refugee body.",
+    "category": "chronic_health_pain",
+    "confidence": 0.65
   },
   "76": {
-    "summary": "Financial concerns from medical expenses",
-    "category": "financial_stress",
+    "summary": "Financial insecurity in mid-life career shift.",
+    "category": "financial_employment",
     "confidence": 0.7
   },
   "77": {
-    "summary": "Grief over spouse's death",
-    "category": "grief",
-    "confidence": 0.8
+    "summary": "Caregiver burden for long-term illness.",
+    "category": "caregiver_burden",
+    "confidence": 0.75
   },
   "78": {
-    "summary": "Health decline requiring increased care",
-    "category": "health_crisis",
-    "confidence": 0.8
+    "summary": "Violence from unresolved past resurfaces.",
+    "category": "violence_abuse",
+    "confidence": 0.6
   },
   "79": {
-    "summary": "Social isolation and loneliness",
-    "category": "loneliness",
-    "confidence": 0.8
+    "summary": "Legal housing disputes with family.",
+    "category": "legal_housing",
+    "confidence": 0.65
   },
   "80": {
-    "summary": "Chronic pain affecting quality of life",
-    "category": "chronic_pain",
-    "confidence": 0.8
+    "summary": "Academic stress from teaching children.",
+    "category": "academic_stress",
+    "confidence": 0.55
   },
   "81": {
-    "summary": "Grandchildren's independence causing family dynamic shifts",
-    "category": "family_change",
-    "confidence": 0.7
+    "summary": "Mental health crisis from generational trauma.",
+    "category": "mental_health_crisis",
+    "confidence": 0.75
   },
   "82": {
-    "summary": "Health issues becoming severe",
-    "category": "health_crisis",
-    "confidence": 0.8
-  },
-  "83": {
-    "summary": "Financial strain from fixed income and rising costs",
-    "category": "financial_stress",
+    "summary": "Immigration barriers for family reunification.",
+    "category": "immigration",
     "confidence": 0.7
   },
-  "84": {
-    "summary": "Loss of independence requiring full-time care",
-    "category": "loss_of_independence",
+  "83": {
+    "summary": "Grief over loss of parents in homeland.",
+    "category": "grief_bereavement",
     "confidence": 0.8
+  },
+  "84": {
+    "summary": "Relationship breakup after decades abroad.",
+    "category": "relationship_breakup",
+    "confidence": 0.7
   },
   "85": {
-    "summary": "Chronic pain and health decline",
-    "category": "chronic_pain",
-    "confidence": 0.8
+    "summary": "Loneliness in aging refugee community.",
+    "category": "loneliness_isolation",
+    "confidence": 0.7
   },
   "86": {
-    "summary": "Loneliness from limited social interaction",
-    "category": "loneliness",
-    "confidence": 0.8
+    "summary": "Chronic pain from aging refugee body.",
+    "category": "chronic_health_pain",
+    "confidence": 0.65
   },
   "87": {
-    "summary": "Grief over death of close friend",
-    "category": "grief",
+    "summary": "Financial insecurity in mid-life career shift.",
+    "category": "financial_employment",
     "confidence": 0.7
   },
   "88": {
-    "summary": "Chronic health conditions requiring medical management",
-    "category": "chronic_health",
-    "confidence": 0.8
+    "summary": "Caregiver burden for long-term illness.",
+    "category": "caregiver_burden",
+    "confidence": 0.75
   },
   "89": {
-    "summary": "End-of-life reflection with mortality fears",
-    "category": "existential_crisis",
-    "confidence": 0.8
+    "summary": "Violence from unresolved past resurfaces.",
+    "category": "violence_abuse",
+    "confidence": 0.6
   },
   "90": {
-    "summary": "Chronic pain affecting daily functioning",
-    "category": "chronic_pain",
-    "confidence": 0.8
+    "summary": "Legal housing disputes with family.",
+    "category": "legal_housing",
+    "confidence": 0.65
   },
   "91": {
-    "summary": "Financial concerns from medical expenses",
-    "category": "financial_stress",
-    "confidence": 0.7
+    "summary": "Academic stress from teaching children.",
+    "category": "academic_stress",
+    "confidence": 0.55
   },
   "92": {
-    "summary": "Health decline requiring increased assistance",
-    "category": "health_crisis",
-    "confidence": 0.8
+    "summary": "Mental health crisis from generational trauma.",
+    "category": "mental_health_crisis",
+    "confidence": 0.75
   },
   "93": {
-    "summary": "Loss of independence due to health limitations",
-    "category": "loss_of_independence",
-    "confidence": 0.8
+    "summary": "Immigration barriers for family reunification.",
+    "category": "immigration",
+    "confidence": 0.7
   },
   "94": {
-    "summary": "Social isolation and loneliness",
-    "category": "loneliness",
+    "summary": "Grief over loss of parents in homeland.",
+    "category": "grief_bereavement",
     "confidence": 0.8
   },
   "95": {
-    "summary": "Chronic pain affecting quality of life",
-    "category": "chronic_pain",
-    "confidence": 0.8
+    "summary": "Relationship breakup after decades abroad.",
+    "category": "relationship_breakup",
+    "confidence": 0.7
   },
   "96": {
-    "summary": "Grief over death of close friend",
-    "category": "grief",
+    "summary": "Loneliness in aging refugee community.",
+    "category": "loneliness_isolation",
     "confidence": 0.7
   },
   "97": {
-    "summary": "Chronic health conditions worsening",
-    "category": "chronic_health",
-    "confidence": 0.8
+    "summary": "Chronic pain from aging refugee body.",
+    "category": "chronic_health_pain",
+    "confidence": 0.65
   },
   "98": {
-    "summary": "End-of-life reflection with mortality fears",
-    "category": "existential_crisis",
-    "confidence": 0.8
-  },
-  "99": {
-    "summary": "Financial strain from fixed income and rising costs",
-    "category": "financial_stress",
+    "summary": "Financial insecurity in mid-life career shift.",
+    "category": "financial_employment",
     "confidence": 0.7
   },
+  "99": {
+    "summary": "Caregiver burden for long-term illness.",
+    "category": "caregiver_burden",
+    "confidence": 0.75
+  },
   "100": {
-    "summary": "Chronic pain and health decline",
-    "category": "chronic_pain",
-    "confidence": 0.8
+    "summary": "Violence from unresolved past resurfaces.",
+    "category": "violence_abuse",
+    "confidence": 0.6
   }
 }

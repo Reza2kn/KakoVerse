@@ -1,407 +1,407 @@
 {
   "20": {
-    "summary": "Identity crisis navigating independence vs family expectations",
-    "category": "identity_crisis",
-    "confidence": 0.85
-  },
-  "21": {
-    "summary": "Career uncertainty after college graduation",
-    "category": "career_uncertainty",
+    "summary": "Post-war employment challenges in transitioning economy.",
+    "category": "financial_employment",
     "confidence": 0.8
   },
+  "21": {
+    "summary": "Assisting family with post-war recovery and adjustment.",
+    "category": "caregiver_burden",
+    "confidence": 0.7
+  },
   "22": {
-    "summary": "Relationship conflict with partner",
-    "category": "relationship_conflict",
-    "confidence": 0.75
+    "summary": "Witnessed neighborhood tensions during labor strikes.",
+    "category": "violence_abuse",
+    "confidence": 0.6
   },
   "23": {
-    "summary": "Financial strain from student debt",
-    "category": "financial_stress",
+    "summary": "Faced housing discrimination in urban apartment search.",
+    "category": "legal_housing",
     "confidence": 0.7
   },
   "24": {
-    "summary": "Academic pressure in graduate studies",
+    "summary": "Balancing night classes with part-time work.",
     "category": "academic_stress",
-    "confidence": 0.65
+    "confidence": 0.8
   },
   "25": {
-    "summary": "Job instability in volatile economy",
-    "category": "employment_uncertainty",
+    "summary": "Anxiety over Cold War tensions and personal future.",
+    "category": "mental_health_crisis",
     "confidence": 0.7
   },
   "26": {
-    "summary": "Cultural dissonance adapting to new city",
-    "category": "cultural_dissonance",
+    "summary": "Considered moving abroad for better opportunities.",
+    "category": "immigration",
     "confidence": 0.6
   },
   "27": {
-    "summary": "Health anxiety from family history",
-    "category": "health_anxiety",
-    "confidence": 0.55
-  },
-  "28": {
-    "summary": "Parental pressure about life choices",
-    "category": "family_pressure",
-    "confidence": 0.6
-  },
-  "29": {
-    "summary": "Midlife reflection on career path",
-    "category": "midlife_reflection",
-    "confidence": 0.5
-  },
-  "30": {
-    "summary": "Marital adjustment challenges",
-    "category": "relationship_dissatisfaction",
+    "summary": "Mourned loss of a close family member.",
+    "category": "grief_bereavement",
     "confidence": 0.7
   },
+  "28": {
+    "summary": "Ended a long-term relationship due to personal differences.",
+    "category": "relationship_breakup",
+    "confidence": 0.8
+  },
+  "29": {
+    "summary": "Felt isolated after moving to a new city for work.",
+    "category": "loneliness_isolation",
+    "confidence": 0.7
+  },
+  "30": {
+    "summary": "Developed persistent back pain from manual labor.",
+    "category": "chronic_health_pain",
+    "confidence": 0.6
+  },
   "31": {
-    "summary": "Financial planning stress for future",
-    "category": "financial_planning",
-    "confidence": 0.65
+    "summary": "Struggled with low wages in factory job.",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "32": {
-    "summary": "Work-life balance exhaustion",
-    "category": "burnout",
+    "summary": "Cared for aging parent while working full-time.",
+    "category": "caregiver_burden",
     "confidence": 0.7
   },
   "33": {
-    "summary": "Parenting stress with young children",
-    "category": "parenting_stress",
+    "summary": "Survived a violent robbery in the neighborhood.",
+    "category": "violence_abuse",
     "confidence": 0.6
   },
   "34": {
-    "summary": "Career plateau frustration",
-    "category": "career_stagnation",
-    "confidence": 0.75
+    "summary": "Faced eviction due to rent control disputes.",
+    "category": "legal_housing",
+    "confidence": 0.7
   },
   "35": {
-    "summary": "Identity crisis questioning life direction",
-    "category": "identity_crisis",
+    "summary": "Attended night school for career advancement.",
+    "category": "academic_stress",
     "confidence": 0.8
   },
   "36": {
-    "summary": "Chronic pain onset from overwork",
-    "category": "chronic_pain",
-    "confidence": 0.6
+    "summary": "Depression over stalled career progress.",
+    "category": "mental_health_crisis",
+    "confidence": 0.7
   },
   "37": {
-    "summary": "Financial insecurity after job loss",
-    "category": "financial_insecurity",
-    "confidence": 0.7
+    "summary": "Explored emigration options for personal freedom.",
+    "category": "immigration",
+    "confidence": 0.6
   },
   "38": {
-    "summary": "Marital dissatisfaction emerging",
-    "category": "relationship_dissatisfaction",
-    "confidence": 0.65
+    "summary": "Grieved the death of a close friend.",
+    "category": "grief_bereavement",
+    "confidence": 0.7
   },
   "39": {
-    "summary": "Parental pressure about grandchildren",
-    "category": "family_pressure",
-    "confidence": 0.55
-  },
-  "40": {
-    "summary": "Midlife crisis with existential doubts",
-    "category": "midlife_crisis",
-    "confidence": 0.85
-  },
-  "41": {
-    "summary": "Career transition challenges",
-    "category": "career_change",
-    "confidence": 0.7
-  },
-  "42": {
-    "summary": "Empty nest syndrome loneliness",
-    "category": "loneliness",
-    "confidence": 0.75
-  },
-  "43": {
-    "summary": "Health decline concerns",
-    "category": "health_concerns",
-    "confidence": 0.65
-  },
-  "44": {
-    "summary": "Retirement planning anxiety",
-    "category": "financial_planning",
-    "confidence": 0.7
-  },
-  "45": {
-    "summary": "Relocation stress to Pyongyang",
-    "category": "relocation_stress",
-    "confidence": 0.9
-  },
-  "46": {
-    "summary": "Cultural adaptation struggles in North Korea",
-    "category": "cultural_dissonance",
-    "confidence": 0.85
-  },
-  "47": {
-    "summary": "Isolation in foreign society",
-    "category": "loneliness",
+    "summary": "Divorced after years of marital conflict.",
+    "category": "relationship_breakup",
     "confidence": 0.8
   },
-  "48": {
-    "summary": "Chronic health condition diagnosis",
-    "category": "chronic_illness",
+  "40": {
+    "summary": "Felt isolated after children moved away.",
+    "category": "loneliness_isolation",
     "confidence": 0.7
+  },
+  "41": {
+    "summary": "Suffered from arthritis flare-ups.",
+    "category": "chronic_health_pain",
+    "confidence": 0.6
+  },
+  "42": {
+    "summary": "Lost job during economic downturn.",
+    "category": "financial_employment",
+    "confidence": 0.8
+  },
+  "43": {
+    "summary": "Cared for spouse during illness.",
+    "category": "caregiver_burden",
+    "confidence": 0.7
+  },
+  "44": {
+    "summary": "Survived a domestic violence incident.",
+    "category": "violence_abuse",
+    "confidence": 0.6
+  },
+  "45": {
+    "summary": "Faced legal battle over property inheritance.",
+    "category": "legal_housing",
+    "confidence": 0.7
+  },
+  "46": {
+    "summary": "Pursued higher education in evening classes.",
+    "category": "academic_stress",
+    "confidence": 0.8
+  },
+  "47": {
+    "summary": "Anxiety over political activism and family safety.",
+    "category": "mental_health_crisis",
+    "confidence": 0.7
+  },
+  "48": {
+    "summary": "Decided to move to Asia for work.",
+    "category": "immigration",
+    "confidence": 0.8
   },
   "49": {
-    "summary": "Career limitations abroad",
-    "category": "career_stagnation",
-    "confidence": 0.75
-  },
-  "50": {
-    "summary": "Family separation from children",
-    "category": "family_dissolution",
-    "confidence": 0.65
-  },
-  "51": {
-    "summary": "Health decline progression",
-    "category": "health_decline",
+    "summary": "Mourned the loss of a sibling.",
+    "category": "grief_bereavement",
     "confidence": 0.7
   },
+  "50": {
+    "summary": "Divorced after years of marital conflict.",
+    "category": "relationship_breakup",
+    "confidence": 0.8
+  },
+  "51": {
+    "summary": "Felt isolated in a foreign country.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
+  },
   "52": {
-    "summary": "Financial insecurity about retirement",
-    "category": "financial_insecurity",
-    "confidence": 0.75
+    "summary": "Suffered from chronic pain due to harsh living conditions.",
+    "category": "chronic_health_pain",
+    "confidence": 0.7
   },
   "53": {
-    "summary": "Loneliness from social network loss",
-    "category": "loneliness",
+    "summary": "Struggled with low income in foreign job.",
+    "category": "financial_employment",
     "confidence": 0.8
   },
   "54": {
-    "summary": "Identity loss in foreign culture",
-    "category": "identity_loss",
+    "summary": "Cared for a sick colleague in Pyongyang.",
+    "category": "caregiver_burden",
     "confidence": 0.7
   },
   "55": {
-    "summary": "Cultural dissonance between home and host",
-    "category": "cultural_dissonance",
-    "confidence": 0.65
+    "summary": "Witnessed state violence during protests.",
+    "category": "violence_abuse",
+    "confidence": 0.8
   },
   "56": {
-    "summary": "Chronic pain flare-up",
-    "category": "chronic_pain",
+    "summary": "Faced housing shortages in Pyongyang.",
+    "category": "legal_housing",
     "confidence": 0.7
   },
   "57": {
-    "summary": "Financial insecurity from inflation",
-    "category": "financial_insecurity",
-    "confidence": 0.6
+    "summary": "Attended state-mandated political education.",
+    "category": "academic_stress",
+    "confidence": 0.8
   },
   "58": {
-    "summary": "Family dissolution through children's relocation",
-    "category": "family_dissolution",
-    "confidence": 0.7
+    "summary": "Depression over lack of freedom and isolation.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "59": {
-    "summary": "Career uncertainty approaching retirement",
-    "category": "career_uncertainty",
-    "confidence": 0.65
+    "summary": "Considered returning to the US.",
+    "category": "immigration",
+    "confidence": 0.8
   },
   "60": {
-    "summary": "Retirement adjustment difficulties",
-    "category": "retirement_stress",
-    "confidence": 0.75
+    "summary": "Grieved the death of a parent in the US.",
+    "category": "grief_bereavement",
+    "confidence": 0.7
   },
   "61": {
-    "summary": "Health decline with multiple conditions",
-    "category": "health_decline",
+    "summary": "Divorced due to prolonged separation.",
+    "category": "relationship_breakup",
     "confidence": 0.8
   },
   "62": {
-    "summary": "Loneliness from spouse/partner loss",
-    "category": "grief",
-    "confidence": 0.85
+    "summary": "Felt isolated after spouse's death.",
+    "category": "loneliness_isolation",
+    "confidence": 0.9
   },
   "63": {
-    "summary": "Financial stress from medical bills",
-    "category": "financial_stress",
+    "summary": "Suffered from chronic back pain.",
+    "category": "chronic_health_pain",
     "confidence": 0.7
   },
   "64": {
-    "summary": "Identity crisis in retirement",
-    "category": "identity_crisis",
-    "confidence": 0.75
+    "summary": "Retired from foreign employment.",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "65": {
-    "summary": "Chronic pain management challenges",
-    "category": "chronic_pain",
-    "confidence": 0.7
+    "summary": "Cared for aging spouse.",
+    "category": "caregiver_burden",
+    "confidence": 0.8
   },
   "66": {
-    "summary": "Social isolation from neighbor loss",
-    "category": "loneliness",
-    "confidence": 0.8
+    "summary": "Survived a home invasion.",
+    "category": "violence_abuse",
+    "confidence": 0.6
   },
   "67": {
-    "summary": "Grief over friend's death",
-    "category": "grief",
-    "confidence": 0.75
+    "summary": "Faced legal issues over property in the US.",
+    "category": "legal_housing",
+    "confidence": 0.7
   },
   "68": {
-    "summary": "Diagnosis of serious chronic illness",
-    "category": "chronic_illness",
-    "confidence": 0.7
-  },
-  "69": {
-    "summary": "Financial insecurity from inflation",
-    "category": "financial_insecurity",
-    "confidence": 0.65
-  },
-  "70": {
-    "summary": "Family dissolution through children's distance",
-    "category": "family_dissolution",
-    "confidence": 0.7
-  },
-  "71": {
-    "summary": "Loneliness from limited social contact",
-    "category": "loneliness",
+    "summary": "Pursued self-education in a new language.",
+    "category": "academic_stress",
     "confidence": 0.8
   },
+  "69": {
+    "summary": "Anxiety over uncertain future.",
+    "category": "mental_health_crisis",
+    "confidence": 0.7
+  },
+  "70": {
+    "summary": "Decided to move to the US permanently.",
+    "category": "immigration",
+    "confidence": 0.8
+  },
+  "71": {
+    "summary": "Mourned the loss of a close friend.",
+    "category": "grief_bereavement",
+    "confidence": 0.7
+  },
   "72": {
-    "summary": "Health decline with mobility issues",
-    "category": "health_decline",
-    "confidence": 0.85
+    "summary": "Ended a long-term relationship due to distance.",
+    "category": "relationship_breakup",
+    "confidence": 0.8
   },
   "73": {
-    "summary": "Financial planning for long-term care",
-    "category": "financial_planning",
-    "confidence": 0.75
+    "summary": "Felt isolated after children moved away.",
+    "category": "loneliness_isolation",
+    "confidence": 0.7
   },
   "74": {
-    "summary": "Identity loss feeling useless",
-    "category": "identity_loss",
+    "summary": "Suffered from arthritis.",
+    "category": "chronic_health_pain",
     "confidence": 0.7
   },
   "75": {
-    "summary": "Persistent chronic pain",
-    "category": "chronic_pain",
-    "confidence": 0.75
+    "summary": "Retired with modest savings.",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "76": {
-    "summary": "Social isolation from neighbor loss",
-    "category": "loneliness",
-    "confidence": 0.8
+    "summary": "Cared for spouse with dementia.",
+    "category": "caregiver_burden",
+    "confidence": 0.9
   },
   "77": {
-    "summary": "Grief over grandchild's death",
-    "category": "grief",
-    "confidence": 0.85
+    "summary": "Survived a domestic violence incident.",
+    "category": "violence_abuse",
+    "confidence": 0.6
   },
   "78": {
-    "summary": "Health flare-up requiring hospitalization",
-    "category": "health_concerns",
-    "confidence": 0.8
-  },
-  "79": {
-    "summary": "Financial concerns from medical expenses",
-    "category": "financial_stress",
+    "summary": "Faced legal battle over inheritance.",
+    "category": "legal_housing",
     "confidence": 0.7
   },
+  "79": {
+    "summary": "Attended community college classes.",
+    "category": "academic_stress",
+    "confidence": 0.8
+  },
   "80": {
-    "summary": "Relocation stress to Tehran",
-    "category": "relocation_stress",
+    "summary": "Depression over declining health.",
+    "category": "mental_health_crisis",
     "confidence": 0.9
   },
   "81": {
-    "summary": "Cultural adaptation challenges in Iran",
-    "category": "cultural_dissonance",
-    "confidence": 0.85
+    "summary": "Considered moving to a warmer climate.",
+    "category": "immigration",
+    "confidence": 0.7
   },
   "82": {
-    "summary": "Loneliness from limited social network",
-    "category": "loneliness",
+    "summary": "Grieved the loss of a lifelong friend.",
+    "category": "grief_bereavement",
     "confidence": 0.8
   },
   "83": {
-    "summary": "Health decline with mobility issues",
-    "category": "health_decline",
-    "confidence": 0.85
+    "summary": "Ended a long-term relationship due to incompatibility.",
+    "category": "relationship_breakup",
+    "confidence": 0.8
   },
   "84": {
-    "summary": "Identity crisis feeling out of place",
-    "category": "identity_crisis",
-    "confidence": 0.8
+    "summary": "Felt isolated after spouse's death.",
+    "category": "loneliness_isolation",
+    "confidence": 0.9
   },
   "85": {
-    "summary": "Financial insecurity from pension shortfall",
-    "category": "financial_insecurity",
-    "confidence": 0.75
-  },
-  "86": {
-    "summary": "Social isolation from family loss",
-    "category": "loneliness",
-    "confidence": 0.85
-  },
-  "87": {
-    "summary": "Grief over close friend's death",
-    "category": "grief",
+    "summary": "Suffered from chronic pain from old injuries.",
+    "category": "chronic_health_pain",
     "confidence": 0.8
   },
+  "86": {
+    "summary": "Struggled with retirement income.",
+    "category": "financial_employment",
+    "confidence": 0.8
+  },
+  "87": {
+    "summary": "Cared for a sick relative.",
+    "category": "caregiver_burden",
+    "confidence": 0.7
+  },
   "88": {
-    "summary": "Diagnosis of serious illness",
-    "category": "chronic_illness",
-    "confidence": 0.75
+    "summary": "Survived a robbery attempt.",
+    "category": "violence_abuse",
+    "confidence": 0.6
   },
   "89": {
-    "summary": "Financial planning for end-of-life care",
-    "category": "financial_planning",
+    "summary": "Faced legal issues over property.",
+    "category": "legal_housing",
     "confidence": 0.7
   },
   "90": {
-    "summary": "Persistent chronic pain",
-    "category": "chronic_pain",
+    "summary": "Pursued online courses for personal growth.",
+    "category": "academic_stress",
     "confidence": 0.8
   },
   "91": {
-    "summary": "Loneliness from limited contact",
-    "category": "loneliness",
-    "confidence": 0.85
-  },
-  "92": {
-    "summary": "Health decline with multiple conditions",
-    "category": "health_decline",
+    "summary": "Anxiety over health and mortality.",
+    "category": "mental_health_crisis",
     "confidence": 0.9
   },
+  "92": {
+    "summary": "Considered moving to a country with better healthcare.",
+    "category": "immigration",
+    "confidence": 0.7
+  },
   "93": {
-    "summary": "Identity loss feeling forgotten",
-    "category": "identity_loss",
+    "summary": "Grieved the loss of a close friend.",
+    "category": "grief_bereavement",
     "confidence": 0.8
   },
   "94": {
-    "summary": "Financial stress from medical bills",
-    "category": "financial_stress",
-    "confidence": 0.75
+    "summary": "Ended a long-term relationship due to distance.",
+    "category": "relationship_breakup",
+    "confidence": 0.8
   },
   "95": {
-    "summary": "Social isolation from network loss",
-    "category": "loneliness",
-    "confidence": 0.85
+    "summary": "Felt isolated during pandemic lockdowns.",
+    "category": "loneliness_isolation",
+    "confidence": 0.9
   },
   "96": {
-    "summary": "Grief over grandchild's death",
-    "category": "grief",
+    "summary": "Suffered from chronic pain flare-ups.",
+    "category": "chronic_health_pain",
     "confidence": 0.8
   },
   "97": {
-    "summary": "Health flare-up requiring hospitalization",
-    "category": "health_concerns",
-    "confidence": 0.8
-  },
-  "98": {
-    "summary": "Financial insecurity from inflation",
-    "category": "financial_insecurity",
+    "summary": "Retired with limited savings.",
+    "category": "financial_employment",
     "confidence": 0.7
   },
+  "98": {
+    "summary": "Cared for spouse with chronic illness.",
+    "category": "caregiver_burden",
+    "confidence": 0.8
+  },
   "99": {
-    "summary": "Loneliness from isolation",
-    "category": "loneliness",
-    "confidence": 0.85
+    "summary": "Survived a domestic violence incident.",
+    "category": "violence_abuse",
+    "confidence": 0.6
   },
   "100": {
-    "summary": "Severe depressive episode after partner loss",
-    "category": "depression",
-    "confidence": 0.95
+    "summary": "Faced legal battle over housing in Tehran.",
+    "category": "legal_housing",
+    "confidence": 0.8
   }
 }

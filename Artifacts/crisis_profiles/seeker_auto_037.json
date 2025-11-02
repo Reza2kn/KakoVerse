@@ -1,407 +1,407 @@
 {
   "20": {
-    "summary": "Cultural adjustment struggles in New York",
-    "category": "cultural_shock",
-    "confidence": 0.9
+    "summary": "Navigated breakup during pandemic lockdowns in NYC.",
+    "category": "relationship_breakup",
+    "confidence": 0.85
   },
   "21": {
-    "summary": "Financial instability as a young immigrant",
-    "category": "financial_stress",
-    "confidence": 0.8
+    "summary": "Felt profound loneliness amid pandemic isolation in New York.",
+    "category": "loneliness_isolation",
+    "confidence": 0.9
   },
   "22": {
-    "summary": "Identity conflict between Vietnamese roots and American life",
-    "category": "identity_crisis",
-    "confidence": 0.9
+    "summary": "Managed gastrointestinal pain from stress of cross-cultural transitions.",
+    "category": "chronic_health_pain",
+    "confidence": 0.7
   },
   "23": {
-    "summary": "Pandemic-induced social isolation",
-    "category": "loneliness",
-    "confidence": 0.9
+    "summary": "Faced freelance income instability in post-pandemic NYC.",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "24": {
-    "summary": "Career uncertainty in volatile creative industry",
-    "category": "career_doubt",
-    "confidence": 0.8
+    "summary": "Balanced caregiving for family amid unresolved conflicts.",
+    "category": "caregiver_burden",
+    "confidence": 0.75
   },
   "25": {
-    "summary": "Burnout from high-pressure freelance work",
-    "category": "career_burnout",
-    "confidence": 0.8
+    "summary": "Survived 1970s Hanoi conflicts shaping early trauma.",
+    "category": "violence_abuse",
+    "confidence": 0.95
   },
   "26": {
-    "summary": "Romantic relationship challenges",
-    "category": "relationship_conflict",
+    "summary": "Dealt with housing disputes as a new immigrant in NYC.",
+    "category": "legal_housing",
     "confidence": 0.7
   },
   "27": {
-    "summary": "Homesickness for Vietnam",
-    "category": "grief",
-    "confidence": 0.7
+    "summary": "Stressed over academic/career adaptation in young adulthood.",
+    "category": "academic_stress",
+    "confidence": 0.65
   },
   "28": {
-    "summary": "Balancing vegan lifestyle with cultural food norms",
-    "category": "dietary_conflict",
-    "confidence": 0.6
+    "summary": "Experienced mental health crisis from unprocessed war memories.",
+    "category": "mental_health_crisis",
+    "confidence": 0.85
   },
   "29": {
-    "summary": "Creative block in digital art",
-    "category": "creative_block",
-    "confidence": 0.7
+    "summary": "Navigated immigration hurdles settling in the USA.",
+    "category": "immigration",
+    "confidence": 0.9
   },
   "30": {
-    "summary": "Longing for extended family structure",
-    "category": "family_longing",
+    "summary": "Grieved cultural displacement after leaving Vietnam.",
+    "category": "grief_bereavement",
     "confidence": 0.8
   },
   "31": {
-    "summary": "Pressure to establish stable career",
-    "category": "career_pressure",
-    "confidence": 0.8
-  },
-  "32": {
-    "summary": "Cultural code-switching fatigue",
-    "category": "cultural_toll",
+    "summary": "Re-entered toxic relationship post-pandemic.",
+    "category": "relationship_breakup",
     "confidence": 0.7
   },
+  "32": {
+    "summary": "Felt isolated despite NYC's density during career shifts.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
+  },
   "33": {
-    "summary": "Midlife reassessment of values",
-    "category": "existential_crisis",
+    "summary": "Managed chronic back pain from prolonged digital work.",
+    "category": "chronic_health_pain",
     "confidence": 0.7
   },
   "34": {
-    "summary": "Financial planning anxiety",
-    "category": "financial_worry",
-    "confidence": 0.7
-  },
-  "35": {
-    "summary": "Career plateau in content creation",
-    "category": "career_stagnation",
+    "summary": "Faced financial strain as a freelance creator in Kuala Lumpur.",
+    "category": "financial_employment",
     "confidence": 0.8
   },
+  "35": {
+    "summary": "Bore caregiver burden for aging parents abroad.",
+    "category": "caregiver_burden",
+    "confidence": 0.75
+  },
   "36": {
-    "summary": "Parental expectations vs personal path",
-    "category": "family_pressure",
-    "confidence": 0.7
+    "summary": "Survived domestic violence in early adulthood.",
+    "category": "violence_abuse",
+    "confidence": 0.8
   },
   "37": {
-    "summary": "Health concerns from sedentary work",
-    "category": "health_anxiety",
-    "confidence": 0.6
-  },
-  "38": {
-    "summary": "Creative reinvention pressure",
-    "category": "creative_pressure",
+    "summary": "Legal battles over housing in Kuala Lumpur.",
+    "category": "legal_housing",
     "confidence": 0.7
   },
+  "38": {
+    "summary": "Academic pressure to prove oneself professionally.",
+    "category": "academic_stress",
+    "confidence": 0.6
+  },
   "39": {
-    "summary": "Balancing tradition with modern lifestyle",
-    "category": "value_conflict",
+    "summary": "Mental health crisis from unresolved cultural identity.",
+    "category": "mental_health_crisis",
     "confidence": 0.8
   },
   "40": {
-    "summary": "Midlife reassessment triggers",
-    "category": "midlife_crisis",
-    "confidence": 0.8
+    "summary": "Immigration stress resurfaced during relocation to Malaysia.",
+    "category": "immigration",
+    "confidence": 0.75
   },
   "41": {
-    "summary": "Career pivot uncertainty",
-    "category": "career_change",
-    "confidence": 0.7
+    "summary": "Grieved loss of pre-war Hanoi heritage.",
+    "category": "grief_bereavement",
+    "confidence": 0.8
   },
   "42": {
-    "summary": "Parental health concerns",
-    "category": "caregiver_anxiety",
+    "summary": "Relationship breakup strained cross-cultural friendships.",
+    "category": "relationship_breakup",
     "confidence": 0.7
   },
   "43": {
-    "summary": "Financial security vs creative freedom",
-    "category": "value_tension",
-    "confidence": 0.7
+    "summary": "Loneliness persisted despite new social circles.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
   },
   "44": {
-    "summary": "Children's cultural identity questions",
-    "category": "family_dynamics",
-    "confidence": 0.6
+    "summary": "Chronic pain from past injuries flared during travel.",
+    "category": "chronic_health_pain",
+    "confidence": 0.7
   },
   "45": {
-    "summary": "Career sustainability concerns",
-    "category": "career_concern",
-    "confidence": 0.7
+    "summary": "Financial instability threatened freelance career pivot.",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "46": {
-    "summary": "Physical recovery from past injuries",
-    "category": "chronic_pain",
-    "confidence": 0.6
+    "summary": "Caregiver burden overwhelmed balancing work and family.",
+    "category": "caregiver_burden",
+    "confidence": 0.75
   },
   "47": {
-    "summary": "Empty nest syndrome",
-    "category": "empty_nest",
-    "confidence": 0.7
+    "summary": "Violence from past conflicts triggered PTSD episodes.",
+    "category": "violence_abuse",
+    "confidence": 0.8
   },
   "48": {
-    "summary": "Midlife health decline",
-    "category": "health_decline",
+    "summary": "Legal housing disputes caused housing insecurity.",
+    "category": "legal_housing",
     "confidence": 0.7
   },
   "49": {
-    "summary": "Depression and adjustment disorder",
-    "category": "mental_health",
-    "confidence": 1.0
+    "summary": "Academic stress from adapting to new cultural norms.",
+    "category": "academic_stress",
+    "confidence": 0.6
   },
   "50": {
-    "summary": "Career reinvention pressure",
-    "category": "career_reinvention",
-    "confidence": 0.7
+    "summary": "Mental health crisis from unresolved migration trauma.",
+    "category": "mental_health_crisis",
+    "confidence": 0.85
   },
   "51": {
-    "summary": "Parental health deterioration",
-    "category": "caregiver_stress",
-    "confidence": 0.8
-  },
-  "52": {
-    "summary": "Financial planning for retirement",
-    "category": "retirement_planning",
+    "summary": "Immigration stress resurfaced with visa renewals.",
+    "category": "immigration",
     "confidence": 0.7
   },
+  "52": {
+    "summary": "Grief over lost opportunities in Vietnam lingered.",
+    "category": "grief_bereavement",
+    "confidence": 0.8
+  },
   "53": {
-    "summary": "Cultural identity reassessment",
-    "category": "identity_shift",
-    "confidence": 0.6
+    "summary": "Relationship breakup strained cross-cultural friendships.",
+    "category": "relationship_breakup",
+    "confidence": 0.7
   },
   "54": {
-    "summary": "Physical limitations from past injuries",
-    "category": "mobility_issues",
-    "confidence": 0.6
+    "summary": "Loneliness persisted despite new social circles.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
   },
   "55": {
-    "summary": "Chronic health condition management",
-    "category": "chronic_illness",
+    "summary": "Chronic pain from past injuries flared during travel.",
+    "category": "chronic_health_pain",
     "confidence": 0.7
   },
   "56": {
-    "summary": "Grandparenting role adjustment",
-    "category": "role_transition",
-    "confidence": 0.6
+    "summary": "Financial instability threatened freelance career pivot.",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "57": {
-    "summary": "Career legacy concerns",
-    "category": "legacy_concern",
-    "confidence": 0.6
+    "summary": "Caregiver burden overwhelmed balancing work and family.",
+    "category": "caregiver_burden",
+    "confidence": 0.75
   },
   "58": {
-    "summary": "Spousal health challenges",
-    "category": "caregiver_dilemma",
-    "confidence": 0.7
+    "summary": "Violence from past conflicts triggered PTSD episodes.",
+    "category": "violence_abuse",
+    "confidence": 0.8
   },
   "59": {
-    "summary": "Retirement adjustment anxiety",
-    "category": "retirement_anxiety",
+    "summary": "Legal housing disputes caused housing insecurity.",
+    "category": "legal_housing",
     "confidence": 0.7
   },
   "60": {
-    "summary": "Financial security vs lifestyle changes",
-    "category": "financial_balance",
+    "summary": "Academic pressure to prove oneself professionally.",
+    "category": "academic_stress",
     "confidence": 0.6
   },
   "61": {
-    "summary": "Physical frailty onset",
-    "category": "aging_concern",
-    "confidence": 0.7
+    "summary": "Mental health crisis from unresolved migration trauma.",
+    "category": "mental_health_crisis",
+    "confidence": 0.85
   },
   "62": {
-    "summary": "Social network shrinkage",
-    "category": "loneliness",
+    "summary": "Immigration stress resurfaced with visa renewals.",
+    "category": "immigration",
     "confidence": 0.7
   },
   "63": {
-    "summary": "Health maintenance challenges",
-    "category": "health_maintenance",
-    "confidence": 0.6
+    "summary": "Grief over lost opportunities in Vietnam lingered.",
+    "category": "grief_bereavement",
+    "confidence": 0.8
   },
   "64": {
-    "summary": "Intergenerational communication gaps",
-    "category": "relationship_tension",
-    "confidence": 0.6
+    "summary": "Relationship breakup strained cross-cultural friendships.",
+    "category": "relationship_breakup",
+    "confidence": 0.7
   },
   "65": {
-    "summary": "Retirement income sustainability",
-    "category": "financial_concern",
-    "confidence": 0.6
+    "summary": "Loneliness persisted despite new social circles.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
   },
   "66": {
-    "summary": "Physical mobility limitations",
-    "category": "mobility_decline",
+    "summary": "Chronic pain from past injuries flared during travel.",
+    "category": "chronic_health_pain",
     "confidence": 0.7
   },
   "67": {
-    "summary": "Cognitive changes awareness",
-    "category": "cognitive_concern",
-    "confidence": 0.6
+    "summary": "Financial instability threatened freelance career pivot.",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "68": {
-    "summary": "Family legacy planning",
-    "category": "legacy_planning",
-    "confidence": 0.5
+    "summary": "Caregiver burden overwhelmed balancing work and family.",
+    "category": "caregiver_burden",
+    "confidence": 0.75
   },
   "69": {
-    "summary": "Health dependency concerns",
-    "category": "care_needs",
-    "confidence": 0.6
+    "summary": "Violence from past conflicts triggered PTSD episodes.",
+    "category": "violence_abuse",
+    "confidence": 0.8
   },
   "70": {
-    "summary": "Life review and meaning seeking",
-    "category": "existential_reflection",
-    "confidence": 0.6
+    "summary": "Legal housing disputes caused housing insecurity.",
+    "category": "legal_housing",
+    "confidence": 0.7
   },
   "71": {
-    "summary": "Physical health deterioration",
-    "category": "chronic_illness",
-    "confidence": 0.7
+    "summary": "Academic pressure to prove oneself professionally.",
+    "category": "academic_stress",
+    "confidence": 0.6
   },
   "72": {
-    "summary": "Social isolation risk",
-    "category": "loneliness",
-    "confidence": 0.7
+    "summary": "Mental health crisis from unresolved migration trauma.",
+    "category": "mental_health_crisis",
+    "confidence": 0.85
   },
   "73": {
-    "summary": "Caregiving responsibilities",
-    "category": "caregiver_stress",
-    "confidence": 0.6
-  },
-  "74": {
-    "summary": "Financial resource constraints",
-    "category": "financial_worry",
-    "confidence": 0.6
-  },
-  "75": {
-    "summary": "End-of-life planning",
-    "category": "existential_concern",
-    "confidence": 0.6
-  },
-  "76": {
-    "summary": "Physical frailty management",
-    "category": "aging_concern",
-    "confidence": 0.6
-  },
-  "77": {
-    "summary": "Health system navigation",
-    "category": "care_access",
-    "confidence": 0.5
-  },
-  "78": {
-    "summary": "Legacy and memory preservation",
-    "category": "legacy_concern",
-    "confidence": 0.5
-  },
-  "79": {
-    "summary": "Social role transition",
-    "category": "role_change",
-    "confidence": 0.5
-  },
-  "80": {
-    "summary": "Advanced chronic condition management",
-    "category": "health_crisis",
+    "summary": "Immigration stress resurfaced with visa renewals.",
+    "category": "immigration",
     "confidence": 0.7
   },
+  "74": {
+    "summary": "Grief over lost opportunities in Vietnam lingered.",
+    "category": "grief_bereavement",
+    "confidence": 0.8
+  },
+  "75": {
+    "summary": "Relationship breakup strained cross-cultural friendships.",
+    "category": "relationship_breakup",
+    "confidence": 0.7
+  },
+  "76": {
+    "summary": "Loneliness persisted despite new social circles.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
+  },
+  "77": {
+    "summary": "Chronic pain from past injuries flared during travel.",
+    "category": "chronic_health_pain",
+    "confidence": 0.7
+  },
+  "78": {
+    "summary": "Financial instability threatened freelance career pivot.",
+    "category": "financial_employment",
+    "confidence": 0.8
+  },
+  "79": {
+    "summary": "Caregiver burden overwhelmed balancing work and family.",
+    "category": "caregiver_burden",
+    "confidence": 0.75
+  },
+  "80": {
+    "summary": "Violence from past conflicts triggered PTSD episodes.",
+    "category": "violence_abuse",
+    "confidence": 0.8
+  },
   "81": {
-    "summary": "Cognitive decline awareness",
-    "category": "cognitive_decline",
-    "confidence": 0.6
+    "summary": "Legal housing disputes caused housing insecurity.",
+    "category": "legal_housing",
+    "confidence": 0.7
   },
   "82": {
-    "summary": "Physical dependency needs",
-    "category": "care_needs",
+    "summary": "Academic pressure to prove oneself professionally.",
+    "category": "academic_stress",
     "confidence": 0.6
   },
   "83": {
-    "summary": "Life review and acceptance",
-    "category": "existential_reflection",
-    "confidence": 0.5
+    "summary": "Mental health crisis from unresolved migration trauma.",
+    "category": "mental_health_crisis",
+    "confidence": 0.85
   },
   "84": {
-    "summary": "Social isolation escalation",
-    "category": "loneliness",
-    "confidence": 0.6
+    "summary": "Immigration stress resurfaced with visa renewals.",
+    "category": "immigration",
+    "confidence": 0.7
   },
   "85": {
-    "summary": "Advanced aging challenges",
-    "category": "aging_crisis",
-    "confidence": 0.6
+    "summary": "Grief over lost opportunities in Vietnam lingered.",
+    "category": "grief_bereavement",
+    "confidence": 0.8
   },
   "86": {
-    "summary": "Health system navigation difficulties",
-    "category": "care_access",
-    "confidence": 0.5
+    "summary": "Relationship breakup strained cross-cultural friendships.",
+    "category": "relationship_breakup",
+    "confidence": 0.7
   },
   "87": {
-    "summary": "Physical frailty progression",
-    "category": "mobility_decline",
-    "confidence": 0.6
+    "summary": "Loneliness persisted despite new social circles.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
   },
   "88": {
-    "summary": "Cognitive impairment concerns",
-    "category": "cognitive_concern",
-    "confidence": 0.5
+    "summary": "Chronic pain from past injuries flared during travel.",
+    "category": "chronic_health_pain",
+    "confidence": 0.7
   },
   "89": {
-    "summary": "End-of-life decisions",
-    "category": "existential_dilemma",
-    "confidence": 0.5
+    "summary": "Financial instability threatened freelance career pivot.",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "90": {
-    "summary": "Advanced chronic illness management",
-    "category": "health_crisis",
-    "confidence": 0.6
+    "summary": "Caregiver burden overwhelmed balancing work and family.",
+    "category": "caregiver_burden",
+    "confidence": 0.75
   },
   "91": {
-    "summary": "Social isolation risk",
-    "category": "loneliness",
-    "confidence": 0.6
+    "summary": "Violence from past conflicts triggered PTSD episodes.",
+    "category": "violence_abuse",
+    "confidence": 0.8
   },
   "92": {
-    "summary": "Physical dependency escalation",
-    "category": "care_needs",
-    "confidence": 0.5
+    "summary": "Legal housing disputes caused housing insecurity.",
+    "category": "legal_housing",
+    "confidence": 0.7
   },
   "93": {
-    "summary": "Cognitive decline progression",
-    "category": "cognitive_decline",
-    "confidence": 0.5
+    "summary": "Academic pressure to prove oneself professionally.",
+    "category": "academic_stress",
+    "confidence": 0.6
   },
   "94": {
-    "summary": "Life review completion",
-    "category": "existential_closure",
-    "confidence": 0.4
+    "summary": "Mental health crisis from unresolved migration trauma.",
+    "category": "mental_health_crisis",
+    "confidence": 0.85
   },
   "95": {
-    "summary": "Advanced aging challenges",
-    "category": "aging_crisis",
-    "confidence": 0.5
+    "summary": "Immigration stress resurfaced with visa renewals.",
+    "category": "immigration",
+    "confidence": 0.7
   },
   "96": {
-    "summary": "Physical frailty management",
-    "category": "aging_concern",
-    "confidence": 0.5
+    "summary": "Grief over lost opportunities in Vietnam lingered.",
+    "category": "grief_bereavement",
+    "confidence": 0.8
   },
   "97": {
-    "summary": "Social isolation",
-    "category": "loneliness",
-    "confidence": 0.5
+    "summary": "Relationship breakup strained cross-cultural friendships.",
+    "category": "relationship_breakup",
+    "confidence": 0.7
   },
   "98": {
-    "summary": "Health system navigation",
-    "category": "care_access",
-    "confidence": 0.4
+    "summary": "Loneliness persisted despite new social circles.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
   },
   "99": {
-    "summary": "Cognitive impairment",
-    "category": "cognitive_decline",
-    "confidence": 0.4
+    "summary": "Chronic pain from past injuries flared during travel.",
+    "category": "chronic_health_pain",
+    "confidence": 0.7
   },
   "100": {
-    "summary": "End-of-life transition",
-    "category": "existential_reflection",
-    "confidence": 0.4
+    "summary": "Financial instability threatened freelance career pivot.",
+    "category": "financial_employment",
+    "confidence": 0.8
   }
 }

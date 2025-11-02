@@ -1,407 +1,407 @@
 {
   "20": {
-    "summary": "Financial stress from starting adult life",
-    "category": "financial_stress",
+    "summary": "First job instability amid oil crisis aftershocks.",
+    "category": "financial_employment",
     "confidence": 0.85
   },
   "21": {
-    "summary": "Identity crisis balancing values and survival",
-    "category": "identity_crisis",
+    "summary": "Family caregiving strain in multi-generational home.",
+    "category": "caregiver_burden",
     "confidence": 0.75
   },
   "22": {
-    "summary": "Career uncertainty in unstable economy",
-    "category": "career_uncertainty",
-    "confidence": 0.8
+    "summary": "Street violence exposure during youth unrest.",
+    "category": "violence_abuse",
+    "confidence": 0.7
   },
   "23": {
-    "summary": "Family pressure to contribute financially",
-    "category": "family_pressure",
-    "confidence": 0.7
-  },
-  "24": {
-    "summary": "Grief over lost opportunities in Venezuela",
-    "category": "grief",
+    "summary": "Housing insecurity in volatile urban environment.",
+    "category": "legal_housing",
     "confidence": 0.65
   },
+  "24": {
+    "summary": "Academic pressure conflicting with family expectations.",
+    "category": "academic_stress",
+    "confidence": 0.6
+  },
   "25": {
-    "summary": "Burnout from overcommitting to community",
-    "category": "burnout",
-    "confidence": 0.7
+    "summary": "Mental health crisis from economic precarity.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "26": {
-    "summary": "Financial strain in new Cuban economy",
-    "category": "financial_stress",
+    "summary": "Immigration challenges crossing borders.",
+    "category": "immigration",
     "confidence": 0.8
   },
   "27": {
-    "summary": "Role conflict between tradition and ambition",
-    "category": "role_conflict",
+    "summary": "Bereavement from regional political violence.",
+    "category": "grief_bereavement",
     "confidence": 0.7
   },
   "28": {
-    "summary": "Chronic anxiety about family's future",
-    "category": "chronic_anxiety",
-    "confidence": 0.85
-  },
-  "29": {
-    "summary": "Stagnation in craft cooperative career",
-    "category": "career_stagnation",
+    "summary": "Relationship strain under family pressure.",
+    "category": "relationship_breakup",
     "confidence": 0.7
   },
-  "30": {
-    "summary": "Chronic anxiety and emotional exhaustion",
-    "category": "chronic_anxiety",
-    "confidence": 0.9
-  },
-  "31": {
-    "summary": "Midlife career reassessment",
-    "category": "career_reassessment",
-    "confidence": 0.75
-  },
-  "32": {
-    "summary": "Financial pressure from multi-generational household",
-    "category": "financial_stress",
+  "29": {
+    "summary": "Isolation amid mental health stigma.",
+    "category": "loneliness_isolation",
     "confidence": 0.8
   },
+  "30": {
+    "summary": "Chronic anxiety from financial precarity.",
+    "category": "chronic_health_pain",
+    "confidence": 0.85
+  },
+  "31": {
+    "summary": "Job insecurity in state-controlled economy.",
+    "category": "financial_employment",
+    "confidence": 0.8
+  },
+  "32": {
+    "summary": "Caregiver burnout in tight-knit household.",
+    "category": "caregiver_burden",
+    "confidence": 0.75
+  },
   "33": {
-    "summary": "Health anxiety from chronic stress",
-    "category": "health_anxiety",
+    "summary": "Abuse exposure in constrained community.",
+    "category": "violence_abuse",
     "confidence": 0.7
   },
   "34": {
-    "summary": "Creative frustration in traditional work",
-    "category": "creative_frustration",
+    "summary": "Housing disputes in cooperative system.",
+    "category": "legal_housing",
     "confidence": 0.65
   },
   "35": {
-    "summary": "Grief over Venezuela's decline",
-    "category": "grief",
-    "confidence": 0.7
-  },
-  "36": {
-    "summary": "Chronic pain from overwork",
-    "category": "chronic_pain",
+    "summary": "Academic stress from limited opportunities.",
+    "category": "academic_stress",
     "confidence": 0.6
   },
+  "36": {
+    "summary": "Mental health crisis from prolonged stress.",
+    "category": "mental_health_crisis",
+    "confidence": 0.85
+  },
   "37": {
-    "summary": "Family health crises",
-    "category": "family_crisis",
+    "summary": "Immigration barriers in restrictive regime.",
+    "category": "immigration",
     "confidence": 0.75
   },
   "38": {
-    "summary": "Financial insecurity aging in Cuba",
-    "category": "financial_stress",
-    "confidence": 0.8
+    "summary": "Grief from regional instability losses.",
+    "category": "grief_bereavement",
+    "confidence": 0.7
   },
   "39": {
-    "summary": "Midlife reflection on life choices",
-    "category": "existential_reflection",
+    "summary": "Relationship breakdown under economic strain.",
+    "category": "relationship_breakup",
     "confidence": 0.7
   },
   "40": {
-    "summary": "Burnout from sustaining family income",
-    "category": "burnout",
+    "summary": "Isolation from mental health stigma.",
+    "category": "loneliness_isolation",
     "confidence": 0.8
   },
   "41": {
-    "summary": "Chronic pain from aging body",
-    "category": "chronic_pain",
+    "summary": "Chronic pain from malnutrition stress.",
+    "category": "chronic_health_pain",
     "confidence": 0.7
   },
   "42": {
-    "summary": "Family caregiving overload",
-    "category": "caregiver_stress",
-    "confidence": 0.75
-  },
-  "43": {
-    "summary": "Economic anxiety from Cuba's shortages",
-    "category": "economic_anxiety",
+    "summary": "Financial crisis in collapsing economy.",
+    "category": "financial_employment",
     "confidence": 0.8
   },
+  "43": {
+    "summary": "Caregiver exhaustion in aging household.",
+    "category": "caregiver_burden",
+    "confidence": 0.75
+  },
   "44": {
-    "summary": "Grief over aging parents",
-    "category": "grief",
+    "summary": "Violence exposure in high-crime area.",
+    "category": "violence_abuse",
     "confidence": 0.7
   },
   "45": {
-    "summary": "Chronic illness management",
-    "category": "chronic_illness",
-    "confidence": 0.75
-  },
-  "46": {
-    "summary": "Loneliness in tight-knit community",
-    "category": "loneliness",
+    "summary": "Housing insecurity in state allocation.",
+    "category": "legal_housing",
     "confidence": 0.65
   },
+  "46": {
+    "summary": "Academic stress from limited access.",
+    "category": "academic_stress",
+    "confidence": 0.6
+  },
   "47": {
-    "summary": "Financial strain from medical costs",
-    "category": "financial_stress",
-    "confidence": 0.8
+    "summary": "Mental health crisis from isolation.",
+    "category": "mental_health_crisis",
+    "confidence": 0.85
   },
   "48": {
-    "summary": "Existential crisis about legacy",
-    "category": "existential_crisis",
-    "confidence": 0.7
+    "summary": "Immigration challenges in restrictive policies.",
+    "category": "immigration",
+    "confidence": 0.75
   },
   "49": {
-    "summary": "Chronic pain limiting craft work",
-    "category": "chronic_pain",
+    "summary": "Grief from regional political losses.",
+    "category": "grief_bereavement",
     "confidence": 0.7
   },
   "50": {
-    "summary": "Grief over lost youth",
-    "category": "grief",
-    "confidence": 0.65
+    "summary": "Relationship breakdown under economic pressure.",
+    "category": "relationship_breakup",
+    "confidence": 0.7
   },
   "51": {
-    "summary": "Family health decline",
-    "category": "family_crisis",
-    "confidence": 0.75
-  },
-  "52": {
-    "summary": "Financial insecurity in retirement",
-    "category": "financial_stress",
+    "summary": "Isolation from mental health stigma.",
+    "category": "loneliness_isolation",
     "confidence": 0.8
   },
-  "53": {
-    "summary": "Chronic illness progression",
-    "category": "chronic_illness",
+  "52": {
+    "summary": "Chronic pain from malnutrition.",
+    "category": "chronic_health_pain",
     "confidence": 0.7
+  },
+  "53": {
+    "summary": "Financial instability in state economy.",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "54": {
-    "summary": "Loneliness after children leave home",
-    "category": "loneliness",
-    "confidence": 0.6
-  },
-  "55": {
-    "summary": "Grief over aging friends",
-    "category": "grief",
-    "confidence": 0.65
-  },
-  "56": {
-    "summary": "Chronic pain mobility limitations",
-    "category": "chronic_pain",
-    "confidence": 0.7
-  },
-  "57": {
-    "summary": "Financial stress from inflation",
-    "category": "financial_stress",
+    "summary": "Caregiver strain in aging household.",
+    "category": "caregiver_burden",
     "confidence": 0.75
   },
-  "58": {
-    "summary": "Caregiver burnout for spouse",
-    "category": "caregiver_burnout",
+  "55": {
+    "summary": "Violence exposure in constrained community.",
+    "category": "violence_abuse",
     "confidence": 0.7
   },
-  "59": {
-    "summary": "Chronic illness management",
-    "category": "chronic_illness",
-    "confidence": 0.7
+  "56": {
+    "summary": "Housing disputes in cooperative system.",
+    "category": "legal_housing",
+    "confidence": 0.65
   },
-  "60": {
-    "summary": "Grief over lost independence",
-    "category": "grief",
+  "57": {
+    "summary": "Academic stress from limited access.",
+    "category": "academic_stress",
     "confidence": 0.6
   },
+  "58": {
+    "summary": "Mental health crisis from prolonged stress.",
+    "category": "mental_health_crisis",
+    "confidence": 0.85
+  },
+  "59": {
+    "summary": "Immigration barriers in restrictive regime.",
+    "category": "immigration",
+    "confidence": 0.75
+  },
+  "60": {
+    "summary": "Grief from regional instability losses.",
+    "category": "grief_bereavement",
+    "confidence": 0.7
+  },
   "61": {
-    "summary": "Chronic pain affecting daily life",
-    "category": "chronic_pain",
+    "summary": "Relationship breakdown under economic strain.",
+    "category": "relationship_breakup",
     "confidence": 0.7
   },
   "62": {
-    "summary": "Financial insecurity in old age",
-    "category": "financial_stress",
-    "confidence": 0.7
+    "summary": "Isolation from mental health stigma.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
   },
   "63": {
-    "summary": "Loneliness after spouse's death",
-    "category": "loneliness",
-    "confidence": 0.6
+    "summary": "Chronic pain from malnutrition stress.",
+    "category": "chronic_health_pain",
+    "confidence": 0.7
   },
   "64": {
-    "summary": "Chronic illness complications",
-    "category": "chronic_illness",
-    "confidence": 0.7
+    "summary": "Financial crisis in collapsing economy.",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "65": {
-    "summary": "Grief over lost generation",
-    "category": "grief",
-    "confidence": 0.55
+    "summary": "Caregiver burnout in aging household.",
+    "category": "caregiver_burden",
+    "confidence": 0.75
   },
   "66": {
-    "summary": "Chronic pain requiring assistance",
-    "category": "chronic_pain",
-    "confidence": 0.65
-  },
-  "67": {
-    "summary": "Financial strain on fixed income",
-    "category": "financial_stress",
+    "summary": "Abuse exposure in constrained community.",
+    "category": "violence_abuse",
     "confidence": 0.7
   },
+  "67": {
+    "summary": "Housing insecurity in state allocation.",
+    "category": "legal_housing",
+    "confidence": 0.65
+  },
   "68": {
-    "summary": "Loneliness in assisted living",
-    "category": "loneliness",
+    "summary": "Academic stress from limited opportunities.",
+    "category": "academic_stress",
     "confidence": 0.6
   },
   "69": {
-    "summary": "Chronic illness management",
-    "category": "chronic_illness",
-    "confidence": 0.65
+    "summary": "Mental health crisis from isolation.",
+    "category": "mental_health_crisis",
+    "confidence": 0.85
   },
   "70": {
-    "summary": "Grief over mortality",
-    "category": "grief",
-    "confidence": 0.5
+    "summary": "Immigration challenges in restrictive policies.",
+    "category": "immigration",
+    "confidence": 0.75
   },
   "71": {
-    "summary": "Chronic pain affecting mobility",
-    "category": "chronic_pain",
-    "confidence": 0.6
+    "summary": "Grief from regional political losses.",
+    "category": "grief_bereavement",
+    "confidence": 0.7
   },
   "72": {
-    "summary": "Financial insecurity in old age",
-    "category": "financial_stress",
-    "confidence": 0.65
+    "summary": "Relationship breakdown under economic pressure.",
+    "category": "relationship_breakup",
+    "confidence": 0.7
   },
   "73": {
-    "summary": "Loneliness after community decline",
-    "category": "loneliness",
-    "confidence": 0.55
+    "summary": "Isolation from mental health stigma.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
   },
   "74": {
-    "summary": "Chronic illness complications",
-    "category": "chronic_illness",
-    "confidence": 0.6
+    "summary": "Chronic pain from malnutrition.",
+    "category": "chronic_health_pain",
+    "confidence": 0.7
   },
   "75": {
-    "summary": "Grief over lost abilities",
-    "category": "grief",
-    "confidence": 0.45
+    "summary": "Financial instability in state economy.",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "76": {
-    "summary": "Chronic pain requiring care",
-    "category": "chronic_pain",
-    "confidence": 0.55
+    "summary": "Caregiver exhaustion in aging household.",
+    "category": "caregiver_burden",
+    "confidence": 0.75
   },
   "77": {
-    "summary": "Financial strain on limited resources",
-    "category": "financial_stress",
-    "confidence": 0.6
+    "summary": "Violence exposure in high-crime area.",
+    "category": "violence_abuse",
+    "confidence": 0.7
   },
   "78": {
-    "summary": "Loneliness after family loss",
-    "category": "loneliness",
-    "confidence": 0.5
+    "summary": "Housing disputes in cooperative system.",
+    "category": "legal_housing",
+    "confidence": 0.65
   },
   "79": {
-    "summary": "Chronic illness management",
-    "category": "chronic_illness",
-    "confidence": 0.55
+    "summary": "Academic stress from limited access.",
+    "category": "academic_stress",
+    "confidence": 0.6
   },
   "80": {
-    "summary": "Grief over mortality awareness",
-    "category": "grief",
-    "confidence": 0.4
+    "summary": "Mental health crisis from prolonged stress.",
+    "category": "mental_health_crisis",
+    "confidence": 0.85
   },
   "81": {
-    "summary": "Chronic pain affecting independence",
-    "category": "chronic_pain",
-    "confidence": 0.5
+    "summary": "Immigration barriers in restrictive regime.",
+    "category": "immigration",
+    "confidence": 0.75
   },
   "82": {
-    "summary": "Financial insecurity in old age",
-    "category": "financial_stress",
-    "confidence": 0.55
+    "summary": "Grief from regional instability losses.",
+    "category": "grief_bereavement",
+    "confidence": 0.7
   },
   "83": {
-    "summary": "Loneliness after community decline",
-    "category": "loneliness",
-    "confidence": 0.45
+    "summary": "Relationship breakdown under economic strain.",
+    "category": "relationship_breakup",
+    "confidence": 0.7
   },
   "84": {
-    "summary": "Chronic illness complications",
-    "category": "chronic_illness",
-    "confidence": 0.5
+    "summary": "Isolation from mental health stigma.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
   },
   "85": {
-    "summary": "Grief over lost generation",
-    "category": "grief",
-    "confidence": 0.35
+    "summary": "Chronic pain from malnutrition stress.",
+    "category": "chronic_health_pain",
+    "confidence": 0.7
   },
   "86": {
-    "summary": "Chronic pain requiring assistance",
-    "category": "chronic_pain",
-    "confidence": 0.45
+    "summary": "Financial crisis in collapsing economy.",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "87": {
-    "summary": "Financial strain on limited resources",
-    "category": "financial_stress",
-    "confidence": 0.5
+    "summary": "Caregiver burnout in aging household.",
+    "category": "caregiver_burden",
+    "confidence": 0.75
   },
   "88": {
-    "summary": "Loneliness after family loss",
-    "category": "loneliness",
-    "confidence": 0.4
+    "summary": "Abuse exposure in constrained community.",
+    "category": "violence_abuse",
+    "confidence": 0.7
   },
   "89": {
-    "summary": "Chronic illness management",
-    "category": "chronic_illness",
-    "confidence": 0.45
+    "summary": "Housing insecurity in state allocation.",
+    "category": "legal_housing",
+    "confidence": 0.65
   },
   "90": {
-    "summary": "Grief over mortality",
-    "category": "grief",
-    "confidence": 0.3
+    "summary": "Academic stress from limited access.",
+    "category": "academic_stress",
+    "confidence": 0.6
   },
   "91": {
-    "summary": "Chronic pain affecting daily life",
-    "category": "chronic_pain",
-    "confidence": 0.4
+    "summary": "Mental health crisis from isolation.",
+    "category": "mental_health_crisis",
+    "confidence": 0.85
   },
   "92": {
-    "summary": "Financial insecurity in old age",
-    "category": "financial_stress",
-    "confidence": 0.45
+    "summary": "Immigration challenges in restrictive policies.",
+    "category": "immigration",
+    "confidence": 0.75
   },
   "93": {
-    "summary": "Loneliness after community decline",
-    "category": "loneliness",
-    "confidence": 0.35
+    "summary": "Grief from regional political losses.",
+    "category": "grief_bereavement",
+    "confidence": 0.7
   },
   "94": {
-    "summary": "Chronic illness complications",
-    "category": "chronic_illness",
-    "confidence": 0.4
+    "summary": "Relationship breakdown under economic pressure.",
+    "category": "relationship_breakup",
+    "confidence": 0.7
   },
   "95": {
-    "summary": "Grief over lost abilities",
-    "category": "grief",
-    "confidence": 0.25
+    "summary": "Isolation from mental health stigma.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
   },
   "96": {
-    "summary": "Chronic pain requiring care",
-    "category": "chronic_pain",
-    "confidence": 0.35
+    "summary": "Chronic pain from malnutrition.",
+    "category": "chronic_health_pain",
+    "confidence": 0.7
   },
   "97": {
-    "summary": "Financial strain on limited resources",
-    "category": "financial_stress",
-    "confidence": 0.4
+    "summary": "Financial instability in state economy.",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "98": {
-    "summary": "Loneliness after family loss",
-    "category": "loneliness",
-    "confidence": 0.3
+    "summary": "Caregiver exhaustion in aging household.",
+    "category": "caregiver_burden",
+    "confidence": 0.75
   },
   "99": {
-    "summary": "Chronic illness management",
-    "category": "chronic_illness",
-    "confidence": 0.35
+    "summary": "Violence exposure in constrained community.",
+    "category": "violence_abuse",
+    "confidence": 0.7
   },
   "100": {
-    "summary": "Grief over mortality",
-    "category": "grief",
-    "confidence": 0.2
+    "summary": "Housing disputes in cooperative system.",
+    "category": "legal_housing",
+    "confidence": 0.65
   }
 }

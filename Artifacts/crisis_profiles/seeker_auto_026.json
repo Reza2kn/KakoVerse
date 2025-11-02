@@ -1,407 +1,407 @@
 {
   "20": {
-    "summary": "Cultural identity conflict as Middle Eastern immigrant in South Korea",
-    "category": "identity_crisis",
-    "confidence": 0.85
+    "summary": "Navigating new relationships post-relocation strain",
+    "category": "relationship_breakup",
+    "confidence": 0.7
   },
   "21": {
-    "summary": "Family pressure to assimilate while maintaining cultural roots",
-    "category": "family_pressure",
+    "summary": "Isolation from cultural displacement in Seoul",
+    "category": "loneliness_isolation",
     "confidence": 0.8
   },
   "22": {
-    "summary": "Anxiety from unstable tech industry job security",
-    "category": "work_anxiety",
-    "confidence": 0.75
+    "summary": "Chronic stress from cross-cultural identity conflicts",
+    "category": "chronic_health_pain",
+    "confidence": 0.6
   },
   "23": {
-    "summary": "Emotional distress after family relocation and job pressure",
-    "category": "grief",
+    "summary": "Job pressure and relocation strain finances and career stability",
+    "category": "financial_employment",
     "confidence": 0.9
   },
   "24": {
-    "summary": "Social isolation due to limited cultural connections in Seoul",
-    "category": "loneliness",
+    "summary": "Caregiver guilt toward immigrant family's sacrifices",
+    "category": "caregiver_burden",
     "confidence": 0.7
   },
   "25": {
-    "summary": "Burnout from high-pressure software engineering career",
-    "category": "burnout",
-    "confidence": 0.85
+    "summary": "Cultural discrimination at workplace triggers trauma",
+    "category": "violence_abuse",
+    "confidence": 0.8
   },
   "26": {
-    "summary": "Financial strain supporting family back home",
-    "category": "financial_stress",
+    "summary": "Housing instability due to expat status in Seoul",
+    "category": "legal_housing",
     "confidence": 0.7
   },
   "27": {
-    "summary": "Conflict between career ambitions and traditional family expectations",
-    "category": "family_conflict",
-    "confidence": 0.75
-  },
-  "28": {
-    "summary": "Chronic pain from sedentary tech job lifestyle",
-    "category": "chronic_pain",
+    "summary": "Academic pressure to prove competence in tech field",
+    "category": "academic_stress",
     "confidence": 0.6
   },
+  "28": {
+    "summary": "Burnout from balancing immigrant expectations and career",
+    "category": "mental_health_crisis",
+    "confidence": 0.8
+  },
   "29": {
-    "summary": "Pressure to start family amid cultural stigma",
-    "category": "family_pressure",
+    "summary": "Grief over severed ties with Middle Eastern roots",
+    "category": "immigration",
     "confidence": 0.7
   },
   "30": {
-    "summary": "Midlife crisis questioning career and cultural identity",
-    "category": "midlife_crisis",
-    "confidence": 0.65
+    "summary": "Immigration status anxiety affecting career growth",
+    "category": "grief_bereavement",
+    "confidence": 0.8
   },
   "31": {
-    "summary": "Health decline from accumulated stress and poor sleep",
-    "category": "health_concern",
-    "confidence": 0.6
-  },
-  "32": {
-    "summary": "Grief over loss of cultural community in Riyadh",
-    "category": "grief",
+    "summary": "Relationship strain from prolonged separation",
+    "category": "relationship_breakup",
     "confidence": 0.7
   },
+  "32": {
+    "summary": "Loneliness amid transient expat community",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
+  },
   "33": {
-    "summary": "Career stagnation in competitive tech industry",
-    "category": "career_stagnation",
+    "summary": "Persistent health issues from pandemic-era neglect",
+    "category": "chronic_health_pain",
     "confidence": 0.6
   },
   "34": {
-    "summary": "Financial planning stress for future family",
-    "category": "financial_stress",
+    "summary": "Career stagnation fears in competitive tech sector",
+    "category": "financial_employment",
     "confidence": 0.7
   },
   "35": {
-    "summary": "Burnout from balancing entrepreneurship and family obligations",
-    "category": "burnout",
+    "summary": "Caregiving for aging parents in foreign country",
+    "category": "caregiver_burden",
     "confidence": 0.8
   },
   "36": {
-    "summary": "Chronic anxiety about cultural assimilation pressures",
-    "category": "anxiety",
+    "summary": "Cultural harassment incidents escalating",
+    "category": "violence_abuse",
     "confidence": 0.7
   },
   "37": {
-    "summary": "Health issues from sedentary lifestyle and stress",
-    "category": "health_concern",
-    "confidence": 0.65
+    "summary": "Housing discrimination as immigrant professional",
+    "category": "legal_housing",
+    "confidence": 0.8
   },
   "38": {
-    "summary": "Financial strain from rising Seoul living costs",
-    "category": "financial_stress",
-    "confidence": 0.75
+    "summary": "Academic debt pressure from overseas education",
+    "category": "academic_stress",
+    "confidence": 0.6
   },
   "39": {
-    "summary": "Loneliness after children leave home",
-    "category": "loneliness",
-    "confidence": 0.6
+    "summary": "Mental health crisis from accumulated cultural stress",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "40": {
-    "summary": "Midlife crisis: desire for cultural reconnection",
-    "category": "midlife_crisis",
-    "confidence": 0.6
+    "summary": "Naturalization process creating identity conflict",
+    "category": "immigration",
+    "confidence": 0.8
   },
   "41": {
-    "summary": "Chronic pain from aging tech career injuries",
-    "category": "chronic_pain",
+    "summary": "Bereavement over loss of homeland connections",
+    "category": "grief_bereavement",
     "confidence": 0.7
   },
   "42": {
-    "summary": "Grief over loss of parent in Riyadh",
-    "category": "grief",
-    "confidence": 0.75
+    "summary": "Relationship dissolution from relocation trauma",
+    "category": "relationship_breakup",
+    "confidence": 0.8
   },
   "43": {
-    "summary": "Burnout from scaling digital entrepreneurship",
-    "category": "burnout",
+    "summary": "Isolation despite professional success in Seoul",
+    "category": "loneliness_isolation",
     "confidence": 0.8
   },
   "44": {
-    "summary": "Family conflict over cultural traditions",
-    "category": "family_conflict",
+    "summary": "Chronic stress from maintaining dual cultural identities",
+    "category": "chronic_health_pain",
     "confidence": 0.7
   },
   "45": {
-    "summary": "Health decline requiring medical treatment",
-    "category": "health_concern",
+    "summary": "Career plateau concerns in global tech industry",
+    "category": "financial_employment",
     "confidence": 0.7
   },
   "46": {
-    "summary": "Financial stress from healthcare costs",
-    "category": "financial_stress",
+    "summary": "Caregiver burnout for elderly immigrant parents",
+    "category": "caregiver_burden",
     "confidence": 0.8
   },
   "47": {
-    "summary": "Loneliness in retirement from tech career",
-    "category": "loneliness",
-    "confidence": 0.7
+    "summary": "Cultural discrimination incidents at workplace",
+    "category": "violence_abuse",
+    "confidence": 0.8
   },
   "48": {
-    "summary": "Grief over loss of spouse",
-    "category": "grief",
-    "confidence": 0.8
+    "summary": "Housing insecurity due to expat contract limitations",
+    "category": "legal_housing",
+    "confidence": 0.7
   },
   "49": {
-    "summary": "Chronic pain from arthritis and aging",
-    "category": "chronic_pain",
-    "confidence": 0.8
+    "summary": "Academic pressure to mentor junior colleagues",
+    "category": "academic_stress",
+    "confidence": 0.6
   },
   "50": {
-    "summary": "Health decline requiring mobility aids",
-    "category": "health_concern",
-    "confidence": 0.85
+    "summary": "Mental health crisis from unresolved immigration trauma",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "51": {
-    "summary": "Financial stress from long-term care costs",
-    "category": "financial_stress",
-    "confidence": 0.85
+    "summary": "Immigration status uncertainty affecting family planning",
+    "category": "immigration",
+    "confidence": 0.8
   },
   "52": {
-    "summary": "Loneliness after children move abroad",
-    "category": "loneliness",
-    "confidence": 0.75
+    "summary": "Grief over loss of cultural homeland",
+    "category": "grief_bereavement",
+    "confidence": 0.7
   },
   "53": {
-    "summary": "Grief over loss of close friend",
-    "category": "grief",
+    "summary": "Relationship strain from career relocation demands",
+    "category": "relationship_breakup",
     "confidence": 0.7
   },
   "54": {
-    "summary": "Chronic pain from degenerative conditions",
-    "category": "chronic_pain",
+    "summary": "Isolation despite professional network in Seoul",
+    "category": "loneliness_isolation",
     "confidence": 0.8
   },
   "55": {
-    "summary": "Health decline requiring assisted living",
-    "category": "health_concern",
-    "confidence": 0.9
+    "summary": "Chronic health issues from pandemic-era neglect",
+    "category": "chronic_health_pain",
+    "confidence": 0.6
   },
   "56": {
-    "summary": "Financial stress from reduced income",
-    "category": "financial_stress",
-    "confidence": 0.85
+    "summary": "Financial instability from tech industry volatility",
+    "category": "financial_employment",
+    "confidence": 0.7
   },
   "57": {
-    "summary": "Loneliness and social isolation",
-    "category": "loneliness",
+    "summary": "Caregiver burden for aging parents abroad",
+    "category": "caregiver_burden",
     "confidence": 0.8
   },
   "58": {
-    "summary": "Grief over loss of parent",
-    "category": "grief",
-    "confidence": 0.75
+    "summary": "Cultural discrimination incidents escalating",
+    "category": "violence_abuse",
+    "confidence": 0.7
   },
   "59": {
-    "summary": "Chronic pain from aging and past injuries",
-    "category": "chronic_pain",
+    "summary": "Housing discrimination as immigrant professional",
+    "category": "legal_housing",
     "confidence": 0.8
   },
   "60": {
-    "summary": "Health decline requiring multiple medications",
-    "category": "health_concern",
-    "confidence": 0.9
+    "summary": "Academic pressure to upskill in competitive field",
+    "category": "academic_stress",
+    "confidence": 0.6
   },
   "61": {
-    "summary": "Financial stress from healthcare costs",
-    "category": "financial_stress",
-    "confidence": 0.85
+    "summary": "Mental health crisis from accumulated cultural stress",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "62": {
-    "summary": "Loneliness after spouse's death",
-    "category": "loneliness",
+    "summary": "Naturalization process creating identity conflict",
+    "category": "immigration",
     "confidence": 0.8
   },
   "63": {
-    "summary": "Grief over loss of close friend",
-    "category": "grief",
+    "summary": "Bereavement over loss of homeland connections",
+    "category": "grief_bereavement",
     "confidence": 0.7
   },
   "64": {
-    "summary": "Chronic pain from arthritis and osteoporosis",
-    "category": "chronic_pain",
+    "summary": "Relationship dissolution from relocation trauma",
+    "category": "relationship_breakup",
     "confidence": 0.8
   },
   "65": {
-    "summary": "Health decline requiring home care",
-    "category": "health_concern",
-    "confidence": 0.9
+    "summary": "Isolation amid transient expat community",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
   },
   "66": {
-    "summary": "Financial stress from long-term care",
-    "category": "financial_stress",
-    "confidence": 0.85
+    "summary": "Persistent health issues from pandemic-era neglect",
+    "category": "chronic_health_pain",
+    "confidence": 0.6
   },
   "67": {
-    "summary": "Loneliness and social isolation",
-    "category": "loneliness",
-    "confidence": 0.8
+    "summary": "Career stagnation fears in competitive tech sector",
+    "category": "financial_employment",
+    "confidence": 0.7
   },
   "68": {
-    "summary": "Grief over loss of parent",
-    "category": "grief",
-    "confidence": 0.75
+    "summary": "Caregiving for aging parents in foreign country",
+    "category": "caregiver_burden",
+    "confidence": 0.8
   },
   "69": {
-    "summary": "Chronic pain from multiple conditions",
-    "category": "chronic_pain",
-    "confidence": 0.8
+    "summary": "Cultural harassment incidents escalating",
+    "category": "violence_abuse",
+    "confidence": 0.7
   },
   "70": {
-    "summary": "Health decline requiring institutional care",
-    "category": "health_concern",
-    "confidence": 0.9
+    "summary": "Housing discrimination as immigrant professional",
+    "category": "legal_housing",
+    "confidence": 0.8
   },
   "71": {
-    "summary": "Financial stress from reduced income",
-    "category": "financial_stress",
-    "confidence": 0.8
+    "summary": "Academic debt pressure from overseas education",
+    "category": "academic_stress",
+    "confidence": 0.6
   },
   "72": {
-    "summary": "Loneliness after children's emigration",
-    "category": "loneliness",
-    "confidence": 0.8
+    "summary": "Mental health crisis from accumulated cultural stress",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "73": {
-    "summary": "Grief over loss of spouse",
-    "category": "grief",
+    "summary": "Naturalization process creating identity conflict",
+    "category": "immigration",
     "confidence": 0.8
   },
   "74": {
-    "summary": "Chronic pain from aging",
-    "category": "chronic_pain",
-    "confidence": 0.8
+    "summary": "Bereavement over loss of cultural homeland",
+    "category": "grief_bereavement",
+    "confidence": 0.7
   },
   "75": {
-    "summary": "Health decline requiring full-time care",
-    "category": "health_concern",
-    "confidence": 0.9
+    "summary": "Relationship strain from prolonged separation",
+    "category": "relationship_breakup",
+    "confidence": 0.7
   },
   "76": {
-    "summary": "Financial stress from healthcare costs",
-    "category": "financial_stress",
-    "confidence": 0.85
-  },
-  "77": {
-    "summary": "Loneliness and social isolation",
-    "category": "loneliness",
+    "summary": "Loneliness amid transient expat community",
+    "category": "loneliness_isolation",
     "confidence": 0.8
   },
+  "77": {
+    "summary": "Chronic stress from maintaining dual cultural identities",
+    "category": "chronic_health_pain",
+    "confidence": 0.7
+  },
   "78": {
-    "summary": "Grief over loss of close friend",
-    "category": "grief",
+    "summary": "Career plateau concerns in global tech industry",
+    "category": "financial_employment",
     "confidence": 0.7
   },
   "79": {
-    "summary": "Chronic pain from multiple age-related conditions",
-    "category": "chronic_pain",
+    "summary": "Caregiver burnout for elderly immigrant parents",
+    "category": "caregiver_burden",
     "confidence": 0.8
   },
   "80": {
-    "summary": "Health decline requiring palliative care",
-    "category": "health_concern",
-    "confidence": 0.9
+    "summary": "Cultural harassment incidents escalating",
+    "category": "violence_abuse",
+    "confidence": 0.7
   },
   "81": {
-    "summary": "Financial stress from reduced income",
-    "category": "financial_stress",
+    "summary": "Housing discrimination as immigrant professional",
+    "category": "legal_housing",
     "confidence": 0.8
   },
   "82": {
-    "summary": "Loneliness after children's deaths",
-    "category": "loneliness",
-    "confidence": 0.8
+    "summary": "Academic pressure to mentor junior colleagues",
+    "category": "academic_stress",
+    "confidence": 0.6
   },
   "83": {
-    "summary": "Grief over loss of spouse",
-    "category": "grief",
-    "confidence": 0.8
+    "summary": "Mental health crisis from unresolved immigration trauma",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "84": {
-    "summary": "Chronic pain from advanced degenerative conditions",
-    "category": "chronic_pain",
+    "summary": "Immigration status uncertainty affecting family planning",
+    "category": "immigration",
     "confidence": 0.8
   },
   "85": {
-    "summary": "Health decline requiring full-time care",
-    "category": "health_concern",
-    "confidence": 0.9
+    "summary": "Grief over loss of cultural homeland",
+    "category": "grief_bereavement",
+    "confidence": 0.7
   },
   "86": {
-    "summary": "Financial stress from healthcare costs",
-    "category": "financial_stress",
-    "confidence": 0.85
+    "summary": "Relationship dissolution from relocation trauma",
+    "category": "relationship_breakup",
+    "confidence": 0.8
   },
   "87": {
-    "summary": "Loneliness and social isolation",
-    "category": "loneliness",
+    "summary": "Isolation despite professional success in Seoul",
+    "category": "loneliness_isolation",
     "confidence": 0.8
   },
   "88": {
-    "summary": "Grief over loss of close friend",
-    "category": "grief",
-    "confidence": 0.7
+    "summary": "Chronic stress from pandemic-era neglect",
+    "category": "chronic_health_pain",
+    "confidence": 0.6
   },
   "89": {
-    "summary": "Chronic pain from multiple conditions",
-    "category": "chronic_pain",
-    "confidence": 0.8
-  },
-  "90": {
-    "summary": "Health decline requiring institutional care",
-    "category": "health_concern",
-    "confidence": 0.9
-  },
-  "91": {
-    "summary": "Financial stress from reduced income",
-    "category": "financial_stress",
-    "confidence": 0.8
-  },
-  "92": {
-    "summary": "Loneliness after children's deaths",
-    "category": "loneliness",
-    "confidence": 0.8
-  },
-  "93": {
-    "summary": "Grief over loss of spouse",
-    "category": "grief",
-    "confidence": 0.8
-  },
-  "94": {
-    "summary": "Chronic pain from advanced aging",
-    "category": "chronic_pain",
-    "confidence": 0.8
-  },
-  "95": {
-    "summary": "Health decline requiring full-time care",
-    "category": "health_concern",
-    "confidence": 0.9
-  },
-  "96": {
-    "summary": "Financial stress from healthcare costs",
-    "category": "financial_stress",
-    "confidence": 0.85
-  },
-  "97": {
-    "summary": "Loneliness and social isolation",
-    "category": "loneliness",
-    "confidence": 0.8
-  },
-  "98": {
-    "summary": "Grief over loss of close friend",
-    "category": "grief",
+    "summary": "Financial instability from tech industry volatility",
+    "category": "financial_employment",
     "confidence": 0.7
   },
-  "99": {
-    "summary": "Chronic pain from multiple conditions",
-    "category": "chronic_pain",
+  "90": {
+    "summary": "Caregiver burden for aging parents abroad",
+    "category": "caregiver_burden",
     "confidence": 0.8
   },
-  "100": {
-    "summary": "Health decline requiring palliative care",
-    "category": "health_concern",
+  "91": {
+    "summary": "Cultural discrimination incidents at workplace",
+    "category": "violence_abuse",
+    "confidence": 0.7
+  },
+  "92": {
+    "summary": "Housing insecurity due to expat contract limitations",
+    "category": "legal_housing",
+    "confidence": 0.7
+  },
+  "93": {
+    "summary": "Academic pressure to upskill in competitive field",
+    "category": "academic_stress",
+    "confidence": 0.6
+  },
+  "94": {
+    "summary": "Mental health crisis from accumulated cultural stress",
+    "category": "mental_health_crisis",
     "confidence": 0.9
+  },
+  "95": {
+    "summary": "Naturalization process creating identity conflict",
+    "category": "immigration",
+    "confidence": 0.8
+  },
+  "96": {
+    "summary": "Bereavement over loss of homeland connections",
+    "category": "grief_bereavement",
+    "confidence": 0.7
+  },
+  "97": {
+    "summary": "Relationship strain from career relocation demands",
+    "category": "relationship_breakup",
+    "confidence": 0.7
+  },
+  "98": {
+    "summary": "Isolation despite professional network in Seoul",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
+  },
+  "99": {
+    "summary": "Persistent health issues from pandemic-era neglect",
+    "category": "chronic_health_pain",
+    "confidence": 0.6
+  },
+  "100": {
+    "summary": "Financial instability from tech industry volatility",
+    "category": "financial_employment",
+    "confidence": 0.7
   }
 }

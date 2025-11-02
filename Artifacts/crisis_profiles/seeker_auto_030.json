@@ -1,407 +1,407 @@
 {
   "20": {
-    "summary": "Navigating post-pandemic career entry amid Santiago's economic strain",
-    "category": "career_transition",
+    "summary": "Early caregiving strain from community roles strained personal boundaries.",
+    "category": "caregiver_burden",
     "confidence": 0.85
   },
   "21": {
-    "summary": "Volunteer burnout from community caregiving during pandemic recovery",
-    "category": "burnout",
-    "confidence": 0.78
+    "summary": "Witnessed neighborhood conflicts during pandemic lockdowns.",
+    "category": "violence_abuse",
+    "confidence": 0.7
   },
   "22": {
-    "summary": "Culture shock and professional isolation after relocating to Moscow",
-    "category": "acculturation_stress",
-    "confidence": 0.9
-  },
-  "23": {
-    "summary": "Anxiety flare-ups during first major software project deadlines",
-    "category": "work_anxiety",
-    "confidence": 0.88
-  },
-  "24": {
-    "summary": "Grief over family loss compounded by inability to return to Chile",
-    "category": "grief",
-    "confidence": 0.82
-  },
-  "25": {
-    "summary": "Financial strain from adapting to Moscow's cost of living",
-    "category": "financial_stress",
+    "summary": "Faced housing instability after moving to Moscow for studies.",
+    "category": "legal_housing",
     "confidence": 0.75
   },
+  "23": {
+    "summary": "Academic pressure to excel in software development amid pandemic disruptions.",
+    "category": "academic_stress",
+    "confidence": 0.65
+  },
+  "24": {
+    "summary": "First anxiety crisis during Santiago lockdowns, exacerbated by family stress.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
+  },
+  "25": {
+    "summary": "Immigration hurdles in Russia strained mental health and finances.",
+    "category": "immigration",
+    "confidence": 0.8
+  },
   "26": {
-    "summary": "Identity conflict between Chilean roots and Russian professional life",
-    "category": "identity_crisis",
-    "confidence": 0.85
+    "summary": "Grief over family loss compounded by career uncertainty in Moscow.",
+    "category": "grief_bereavement",
+    "confidence": 0.9
   },
   "27": {
-    "summary": "Work restructuring triggering chronic anxiety disorder onset",
-    "category": "career_instability",
-    "confidence": 0.95
+    "summary": "Toxic workplace dynamics led to relationship strain.",
+    "category": "relationship_breakup",
+    "confidence": 0.7
   },
   "28": {
-    "summary": "Loneliness in Moscow despite civic activism commitments",
-    "category": "social_isolation",
-    "confidence": 0.8
-  },
-  "29": {
-    "summary": "Burnout from balancing QC engineering with volunteer counseling",
-    "category": "burnout",
-    "confidence": 0.87
-  },
-  "30": {
-    "summary": "Chronic anxiety disorder compounded by career instability and grief",
-    "category": "mental_health",
-    "confidence": 0.98
-  },
-  "31": {
-    "summary": "Stagnation in software career despite high conscientiousness",
-    "category": "career_stagnation",
-    "confidence": 0.77
-  },
-  "32": {
-    "summary": "Chronic tension headaches from anxiety and urban living stress",
-    "category": "chronic_pain",
+    "summary": "Isolation during pandemic worsened anxiety in new city.",
+    "category": "loneliness_isolation",
     "confidence": 0.85
   },
-  "33": {
-    "summary": "Pressure to conform professionally in Russia's conservative work culture",
-    "category": "cultural_pressure",
+  "29": {
+    "summary": "Chronic headaches from stress impacted work performance.",
+    "category": "chronic_health_pain",
+    "confidence": 0.7
+  },
+  "30": {
+    "summary": "Career instability triggered anxiety relapse amid economic uncertainty.",
+    "category": "financial_employment",
+    "confidence": 0.9
+  },
+  "31": {
+    "summary": "Caregiver burnout from volunteer counseling overwhelmed.",
+    "category": "caregiver_burden",
     "confidence": 0.8
+  },
+  "32": {
+    "summary": "Discrimination at work escalated into psychological abuse.",
+    "category": "violence_abuse",
+    "confidence": 0.75
+  },
+  "33": {
+    "summary": "Housing contract disputes with landlord caused legal stress.",
+    "category": "legal_housing",
+    "confidence": 0.7
   },
   "34": {
-    "summary": "Existential doubt about career impact vs. community values",
-    "category": "existential_crisis",
-    "confidence": 0.73
+    "summary": "Academic debt pressure resurfaced during career transition.",
+    "category": "academic_stress",
+    "confidence": 0.6
   },
   "35": {
-    "summary": "Midlife reassessment amid immigration barriers and mental health stigma",
-    "category": "midlife_crisis",
-    "confidence": 0.79
+    "summary": "Anxiety disorder reached crisis point during economic downturn.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "36": {
-    "summary": "Burnout from digital art side projects competing with core job",
-    "category": "creative_block",
-    "confidence": 0.71
-  },
-  "37": {
-    "summary": "Grief reactivation from unresolved family closure in Chile",
-    "category": "grief",
+    "summary": "Immigration status renewal stress triggered panic attacks.",
+    "category": "immigration",
     "confidence": 0.8
   },
+  "37": {
+    "summary": "Bereavement over lost family members deepened isolation.",
+    "category": "grief_bereavement",
+    "confidence": 0.85
+  },
   "38": {
-    "summary": "Professional isolation in Moscow's tech industry as foreigner",
-    "category": "professional_isolation",
-    "confidence": 0.83
+    "summary": "Romantic relationship ended due to geographic separation.",
+    "category": "relationship_breakup",
+    "confidence": 0.7
   },
   "39": {
-    "summary": "Chronic pain management challenges from anxiety-induced headaches",
-    "category": "chronic_pain",
-    "confidence": 0.88
+    "summary": "Loneliness intensified after distancing from coworkers.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
   },
   "40": {
-    "summary": "Economic anxiety amid Russia's fluctuating job market",
-    "category": "financial_stress",
-    "confidence": 0.81
+    "summary": "Chronic pain from stress-induced headaches persisted.",
+    "category": "chronic_health_pain",
+    "confidence": 0.7
   },
   "41": {
-    "summary": "Midlife career reassessment with limited advancement opportunities",
-    "category": "career_stagnation",
-    "confidence": 0.76
+    "summary": "Job insecurity amid industry layoffs worsened financial strain.",
+    "category": "financial_employment",
+    "confidence": 0.85
   },
   "42": {
-    "summary": "Loneliness intensifying with aging Chilean family members",
-    "category": "social_isolation",
-    "confidence": 0.78
+    "summary": "Caregiver fatigue from elderly relative's illness.",
+    "category": "caregiver_burden",
+    "confidence": 0.75
   },
   "43": {
-    "summary": "Identity crisis between Russian professional identity and Chilean heritage",
-    "category": "identity_crisis",
-    "confidence": 0.84
+    "summary": "Workplace bullying led to emotional trauma.",
+    "category": "violence_abuse",
+    "confidence": 0.7
   },
   "44": {
-    "summary": "Burnout from maintaining urban garden as emotional outlet",
-    "category": "burnout",
+    "summary": "Housing discrimination lawsuit caused prolonged stress.",
+    "category": "legal_housing",
     "confidence": 0.7
   },
   "45": {
-    "summary": "Chronic pain limiting civic activism participation",
-    "category": "chronic_pain",
-    "confidence": 0.86
+    "summary": "Academic pressure resurfaced during certification exams.",
+    "category": "academic_stress",
+    "confidence": 0.6
   },
   "46": {
-    "summary": "Retirement anxiety in Russia's uncertain economic climate",
-    "category": "financial_stress",
-    "confidence": 0.79
+    "summary": "Anxiety disorder relapsed during economic recession.",
+    "category": "mental_health_crisis",
+    "confidence": 0.85
   },
   "47": {
-    "summary": "Grief over Chilean family deaths compounding isolation",
-    "category": "grief",
-    "confidence": 0.87
+    "summary": "Visa renewal stress triggered immigration crisis.",
+    "category": "immigration",
+    "confidence": 0.8
   },
   "48": {
-    "summary": "Physical health decline from long-term anxiety effects",
-    "category": "health_decline",
-    "confidence": 0.82
+    "summary": "Grief over distant family loss intensified isolation.",
+    "category": "grief_bereavement",
+    "confidence": 0.8
   },
   "49": {
-    "summary": "Existential crisis about legacy in Russia vs. Chile",
-    "category": "existential_crisis",
-    "confidence": 0.75
+    "summary": "Relationship breakup due to career relocation.",
+    "category": "relationship_breakup",
+    "confidence": 0.7
   },
   "50": {
-    "summary": "Social isolation as online connections fade with age",
-    "category": "social_isolation",
-    "confidence": 0.8
+    "summary": "Loneliness worsened after social circle dissolved.",
+    "category": "loneliness_isolation",
+    "confidence": 0.75
   },
   "51": {
-    "summary": "Chronic pain management challenges in Russia's healthcare system",
-    "category": "healthcare_access",
-    "confidence": 0.77
+    "summary": "Chronic pain from stress exacerbated mental health.",
+    "category": "chronic_health_pain",
+    "confidence": 0.7
   },
   "52": {
-    "summary": "Midlife reassessment of immigration decision amid Russia's geopolitical tensions",
-    "category": "political_stress",
-    "confidence": 0.73
+    "summary": "Financial instability after project cancellation.",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "53": {
-    "summary": "Burnout from maintaining bilingual community connections",
-    "category": "burnout",
-    "confidence": 0.68
+    "summary": "Caregiver burnout from sibling's mental health crisis.",
+    "category": "caregiver_burden",
+    "confidence": 0.7
   },
   "54": {
-    "summary": "Grief over Chilean community losses compounding loneliness",
-    "category": "grief",
-    "confidence": 0.81
+    "summary": "Workplace harassment led to psychological trauma.",
+    "category": "violence_abuse",
+    "confidence": 0.7
   },
   "55": {
-    "summary": "Chronic pain limiting urban gardening hobby",
-    "category": "chronic_pain",
-    "confidence": 0.84
+    "summary": "Housing affordability crisis in Moscow strained finances.",
+    "category": "legal_housing",
+    "confidence": 0.65
   },
   "56": {
-    "summary": "Retirement planning anxiety amid Russia's economic instability",
-    "category": "financial_stress",
-    "confidence": 0.8
+    "summary": "Academic pressure resurfaced during skill-upgrade courses.",
+    "category": "academic_stress",
+    "confidence": 0.6
   },
   "57": {
-    "summary": "Identity crisis between Russian residency and Chilean roots",
-    "category": "identity_crisis",
-    "confidence": 0.78
-  },
-  "58": {
-    "summary": "Social isolation as physical mobility declines",
-    "category": "social_isolation",
-    "confidence": 0.83
-  },
-  "59": {
-    "summary": "Chronic pain management challenges in later life",
-    "category": "chronic_pain",
-    "confidence": 0.86
-  },
-  "60": {
-    "summary": "Grief over Chilean family members' deaths",
-    "category": "grief",
-    "confidence": 0.88
-  },
-  "61": {
-    "summary": "Existential crisis about purpose in retirement",
-    "category": "existential_crisis",
-    "confidence": 0.74
-  },
-  "62": {
-    "summary": "Loneliness intensifying with declining health",
-    "category": "social_isolation",
-    "confidence": 0.85
-  },
-  "63": {
-    "summary": "Chronic pain limiting volunteer counseling activities",
-    "category": "chronic_pain",
-    "confidence": 0.87
-  },
-  "64": {
-    "summary": "Financial anxiety amid Russia's inflation and healthcare costs",
-    "category": "financial_stress",
-    "confidence": 0.82
-  },
-  "65": {
-    "summary": "Midlife health crisis from accumulated anxiety effects",
-    "category": "health_crisis",
+    "summary": "Anxiety disorder reached crisis during economic uncertainty.",
+    "category": "mental_health_crisis",
     "confidence": 0.8
   },
+  "58": {
+    "summary": "Immigration status renewal caused prolonged stress.",
+    "category": "immigration",
+    "confidence": 0.75
+  },
+  "59": {
+    "summary": "Grief over distant family loss intensified.",
+    "category": "grief_bereavement",
+    "confidence": 0.7
+  },
+  "60": {
+    "summary": "Relationship breakup due to geographic separation.",
+    "category": "relationship_breakup",
+    "confidence": 0.65
+  },
+  "61": {
+    "summary": "Loneliness worsened after social circle dissolved.",
+    "category": "loneliness_isolation",
+    "confidence": 0.7
+  },
+  "62": {
+    "summary": "Chronic pain from stress exacerbated mental health.",
+    "category": "chronic_health_pain",
+    "confidence": 0.65
+  },
+  "63": {
+    "summary": "Job insecurity amid industry layoffs worsened financial strain.",
+    "category": "financial_employment",
+    "confidence": 0.75
+  },
+  "64": {
+    "summary": "Caregiver fatigue from elderly parent's illness.",
+    "category": "caregiver_burden",
+    "confidence": 0.6
+  },
+  "65": {
+    "summary": "Discrimination at work escalated into psychological abuse.",
+    "category": "violence_abuse",
+    "confidence": 0.65
+  },
   "66": {
-    "summary": "Grief over Chilean community elders' deaths",
-    "category": "grief",
-    "confidence": 0.83
+    "summary": "Housing contract disputes caused legal stress.",
+    "category": "legal_housing",
+    "confidence": 0.6
   },
   "67": {
-    "summary": "Social isolation as physical mobility declines further",
-    "category": "social_isolation",
-    "confidence": 0.86
+    "summary": "Academic pressure resurfaced during certification exams.",
+    "category": "academic_stress",
+    "confidence": 0.55
   },
   "68": {
-    "summary": "Chronic pain management challenges in advanced age",
-    "category": "chronic_pain",
-    "confidence": 0.88
+    "summary": "Anxiety disorder relapsed during economic recession.",
+    "category": "mental_health_crisis",
+    "confidence": 0.75
   },
   "69": {
-    "summary": "Existential crisis about legacy and purpose",
-    "category": "existential_crisis",
-    "confidence": 0.76
+    "summary": "Visa renewal stress triggered immigration crisis.",
+    "category": "immigration",
+    "confidence": 0.7
   },
   "70": {
-    "summary": "Loneliness compounded by declining health",
-    "category": "social_isolation",
-    "confidence": 0.87
+    "summary": "Grief over distant family loss intensified isolation.",
+    "category": "grief_bereavement",
+    "confidence": 0.7
   },
   "71": {
-    "summary": "Grief over Chilean family losses compounding isolation",
-    "category": "grief",
-    "confidence": 0.84
+    "summary": "Relationship breakup due to career relocation.",
+    "category": "relationship_breakup",
+    "confidence": 0.65
   },
   "72": {
-    "summary": "Chronic pain management challenges in advanced age",
-    "category": "chronic_pain",
-    "confidence": 0.89
+    "summary": "Loneliness worsened after social circle dissolved.",
+    "category": "loneliness_isolation",
+    "confidence": 0.65
   },
   "73": {
-    "summary": "Financial anxiety amid Russia's economic instability",
-    "category": "financial_stress",
-    "confidence": 0.83
+    "summary": "Chronic pain from stress exacerbated mental health.",
+    "category": "chronic_health_pain",
+    "confidence": 0.6
   },
   "74": {
-    "summary": "Social isolation as mobility declines further",
-    "category": "social_isolation",
-    "confidence": 0.88
+    "summary": "Financial instability after project cancellation.",
+    "category": "financial_employment",
+    "confidence": 0.7
   },
   "75": {
-    "summary": "Grief over Chilean community elders' deaths",
-    "category": "grief",
-    "confidence": 0.85
+    "summary": "Caregiver burnout from sibling's mental health crisis.",
+    "category": "caregiver_burden",
+    "confidence": 0.6
   },
   "76": {
-    "summary": "Chronic pain management challenges in advanced age",
-    "category": "chronic_pain",
-    "confidence": 0.9
+    "summary": "Workplace bullying led to emotional trauma.",
+    "category": "violence_abuse",
+    "confidence": 0.6
   },
   "77": {
-    "summary": "Existential crisis about purpose and legacy",
-    "category": "existential_crisis",
-    "confidence": 0.77
+    "summary": "Housing discrimination lawsuit caused prolonged stress.",
+    "category": "legal_housing",
+    "confidence": 0.6
   },
   "78": {
-    "summary": "Loneliness compounded by declining health",
-    "category": "social_isolation",
-    "confidence": 0.88
+    "summary": "Academic pressure resurfaced during skill-upgrade courses.",
+    "category": "academic_stress",
+    "confidence": 0.55
   },
   "79": {
-    "summary": "Grief over Chilean family losses compounding isolation",
-    "category": "grief",
-    "confidence": 0.86
+    "summary": "Anxiety disorder reached crisis point during economic downturn.",
+    "category": "mental_health_crisis",
+    "confidence": 0.75
   },
   "80": {
-    "summary": "Chronic pain management challenges in advanced age",
-    "category": "chronic_pain",
-    "confidence": 0.91
+    "summary": "Immigration status renewal caused prolonged stress.",
+    "category": "immigration",
+    "confidence": 0.65
   },
   "81": {
-    "summary": "Financial anxiety amid Russia's economic instability",
-    "category": "financial_stress",
-    "confidence": 0.84
+    "summary": "Grief over distant family loss intensified isolation.",
+    "category": "grief_bereavement",
+    "confidence": 0.65
   },
   "82": {
-    "summary": "Social isolation as mobility declines further",
-    "category": "social_isolation",
-    "confidence": 0.89
+    "summary": "Relationship breakup due to geographic separation.",
+    "category": "relationship_breakup",
+    "confidence": 0.6
   },
   "83": {
-    "summary": "Grief over Chilean community elders' deaths",
-    "category": "grief",
-    "confidence": 0.87
+    "summary": "Loneliness worsened after social circle dissolved.",
+    "category": "loneliness_isolation",
+    "confidence": 0.6
   },
   "84": {
-    "summary": "Chronic pain management challenges in advanced age",
-    "category": "chronic_pain",
-    "confidence": 0.92
+    "summary": "Chronic pain from stress exacerbated mental health.",
+    "category": "chronic_health_pain",
+    "confidence": 0.55
   },
   "85": {
-    "summary": "Existential crisis about purpose and legacy",
-    "category": "existential_crisis",
-    "confidence": 0.78
+    "summary": "Job insecurity amid industry layoffs worsened financial strain.",
+    "category": "financial_employment",
+    "confidence": 0.65
   },
   "86": {
-    "summary": "Loneliness compounded by declining health",
-    "category": "social_isolation",
-    "confidence": 0.9
+    "summary": "Caregiver fatigue from elderly relative's illness.",
+    "category": "caregiver_burden",
+    "confidence": 0.55
   },
   "87": {
-    "summary": "Grief over Chilean family losses compounding isolation",
-    "category": "grief",
-    "confidence": 0.88
+    "summary": "Workplace harassment led to psychological trauma.",
+    "category": "violence_abuse",
+    "confidence": 0.55
   },
   "88": {
-    "summary": "Chronic pain management challenges in advanced age",
-    "category": "chronic_pain",
-    "confidence": 0.93
+    "summary": "Housing affordability crisis in Moscow strained finances.",
+    "category": "legal_housing",
+    "confidence": 0.5
   },
   "89": {
-    "summary": "Financial anxiety amid Russia's economic instability",
-    "category": "financial_stress",
-    "confidence": 0.85
+    "summary": "Academic pressure resurfaced during certification exams.",
+    "category": "academic_stress",
+    "confidence": 0.5
   },
   "90": {
-    "summary": "Social isolation as mobility declines further",
-    "category": "social_isolation",
-    "confidence": 0.91
+    "summary": "Anxiety disorder relapsed during economic uncertainty.",
+    "category": "mental_health_crisis",
+    "confidence": 0.65
   },
   "91": {
-    "summary": "Grief over Chilean community elders' deaths",
-    "category": "grief",
-    "confidence": 0.89
+    "summary": "Visa renewal stress triggered immigration crisis.",
+    "category": "immigration",
+    "confidence": 0.6
   },
   "92": {
-    "summary": "Chronic pain management challenges in advanced age",
-    "category": "chronic_pain",
-    "confidence": 0.94
+    "summary": "Grief over distant family loss intensified.",
+    "category": "grief_bereavement",
+    "confidence": 0.6
   },
   "93": {
-    "summary": "Existential crisis about purpose and legacy",
-    "category": "existential_crisis",
-    "confidence": 0.79
+    "summary": "Relationship breakup due to career relocation.",
+    "category": "relationship_breakup",
+    "confidence": 0.55
   },
   "94": {
-    "summary": "Loneliness compounded by declining health",
-    "category": "social_isolation",
-    "confidence": 0.92
+    "summary": "Loneliness worsened after social circle dissolved.",
+    "category": "loneliness_isolation",
+    "confidence": 0.55
   },
   "95": {
-    "summary": "Grief over Chilean family losses compounding isolation",
-    "category": "grief",
-    "confidence": 0.9
+    "summary": "Chronic pain from stress exacerbated mental health.",
+    "category": "chronic_health_pain",
+    "confidence": 0.5
   },
   "96": {
-    "summary": "Chronic pain management challenges in advanced age",
-    "category": "chronic_pain",
-    "confidence": 0.95
+    "summary": "Financial instability after project cancellation.",
+    "category": "financial_employment",
+    "confidence": 0.6
   },
   "97": {
-    "summary": "Financial anxiety amid Russia's economic instability",
-    "category": "financial_stress",
-    "confidence": 0.86
+    "summary": "Caregiver burnout from sibling's mental health crisis.",
+    "category": "caregiver_burden",
+    "confidence": 0.5
   },
   "98": {
-    "summary": "Social isolation as mobility declines further",
-    "category": "social_isolation",
-    "confidence": 0.93
+    "summary": "Discrimination at work escalated into psychological abuse.",
+    "category": "violence_abuse",
+    "confidence": 0.5
   },
   "99": {
-    "summary": "Grief over Chilean community elders' deaths",
-    "category": "grief",
-    "confidence": 0.91
+    "summary": "Housing contract disputes caused legal stress.",
+    "category": "legal_housing",
+    "confidence": 0.5
   },
   "100": {
-    "summary": "Chronic pain management challenges in advanced age",
-    "category": "chronic_pain",
-    "confidence": 0.96
+    "summary": "Academic pressure resurfaced during late-life education.",
+    "category": "academic_stress",
+    "confidence": 0.45
   }
 }

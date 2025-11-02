@@ -1,407 +1,407 @@
 {
   "20": {
-    "summary": "Adjustment difficulties and anxiety after relocating from Iceland to Norway for university",
-    "category": "adjustment_difficulty",
-    "confidence": 0.95
+    "summary": "Breakup with partner due to relocation stress and cultural differences",
+    "category": "relationship_breakup",
+    "confidence": 0.9
   },
   "21": {
-    "summary": "Academic pressure and financial precarity as a university student",
-    "category": "financial_stress",
-    "confidence": 0.85
+    "summary": "Intensified loneliness from failed integration attempts",
+    "category": "loneliness_isolation",
+    "confidence": 0.9
   },
   "22": {
-    "summary": "Cultural identity conflict amid language barriers and assimilation expectations",
-    "category": "identity_crisis",
+    "summary": "Chronic back pain from overtraining and cold water swimming",
+    "category": "chronic_health_pain",
     "confidence": 0.8
   },
   "23": {
-    "summary": "Romantic relationship challenges due to isolation and communication gaps",
-    "category": "relationship_breakup",
-    "confidence": 0.7
+    "summary": "Job loss due to economic downturn and student debt",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "24": {
-    "summary": "Career uncertainty after graduation amid limited professional networks",
-    "category": "career_uncertainty",
-    "confidence": 0.75
+    "summary": "Caregiver burden for sick parent in Iceland",
+    "category": "caregiver_burden",
+    "confidence": 0.7
   },
   "25": {
-    "summary": "Discrimination in job market as immigrant with non-local credentials",
-    "category": "discrimination",
+    "summary": "Witnessed hate crime against immigrant community",
+    "category": "violence_abuse",
     "confidence": 0.7
   },
   "26": {
-    "summary": "Burnout from balancing part-time work and studies",
-    "category": "career_burnout",
-    "confidence": 0.7
+    "summary": "Eviction threat due to rent dispute",
+    "category": "legal_housing",
+    "confidence": 0.8
   },
   "27": {
-    "summary": "Health anxiety from chronic stress and cold-water swimming injuries",
-    "category": "health_issue",
-    "confidence": 0.65
+    "summary": "Academic stress from failing courses and thesis pressure",
+    "category": "academic_stress",
+    "confidence": 0.8
   },
   "28": {
-    "summary": "Grief over loss of extended family support network",
-    "category": "grief",
-    "confidence": 0.6
+    "summary": "Mental health crisis from accumulated stress and isolation",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "29": {
-    "summary": "Financial strain from unexpected medical expenses",
-    "category": "financial_stress",
-    "confidence": 0.7
+    "summary": "Immigration status threatened by visa expiration",
+    "category": "immigration",
+    "confidence": 0.8
   },
   "30": {
-    "summary": "Existential crisis questioning life purpose and cultural roots",
-    "category": "existential_crisis",
+    "summary": "Grief from death of beloved grandparent in Iceland",
+    "category": "grief_bereavement",
     "confidence": 0.8
   },
   "31": {
-    "summary": "Relationship conflict over cultural integration choices",
+    "summary": "Breakup with new partner due to cultural differences",
     "category": "relationship_breakup",
-    "confidence": 0.7
+    "confidence": 0.8
   },
   "32": {
-    "summary": "Career plateau after 5 years in entry-level roles",
-    "category": "career_burnout",
-    "confidence": 0.75
+    "summary": "Loneliness from social withdrawal after multiple losses",
+    "category": "loneliness_isolation",
+    "confidence": 0.9
   },
   "33": {
-    "summary": "Parental pressure to marry and start family",
-    "category": "family_planning_stress",
-    "confidence": 0.65
+    "summary": "Chronic pain flares up, affecting daily life",
+    "category": "chronic_health_pain",
+    "confidence": 0.8
   },
   "34": {
-    "summary": "Chronic pain from past injuries affecting photography hobby",
-    "category": "chronic_pain",
-    "confidence": 0.6
+    "summary": "Financial crisis from unemployment and medical bills",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "35": {
-    "summary": "Midlife crisis questioning immigrant identity and achievements",
-    "category": "midlife_crisis",
-    "confidence": 0.85
+    "summary": "Caregiver burden for parent with dementia",
+    "category": "caregiver_burden",
+    "confidence": 0.7
   },
   "36": {
-    "summary": "Financial instability after market downturn impacts investments",
-    "category": "financial_stress",
+    "summary": "Workplace discrimination and verbal abuse",
+    "category": "violence_abuse",
     "confidence": 0.7
   },
   "37": {
-    "summary": "Health decline from accumulated stress and sedentary work",
-    "category": "health_issue",
-    "confidence": 0.75
-  },
-  "38": {
-    "summary": "Loneliness after children leave home (empty nest syndrome)",
-    "category": "loneliness",
-    "confidence": 0.65
-  },
-  "39": {
-    "summary": "Career burnout from high-pressure corporate job",
-    "category": "career_burnout",
+    "summary": "Legal battle over housing discrimination",
+    "category": "legal_housing",
     "confidence": 0.8
   },
+  "38": {
+    "summary": "Academic stress from demanding graduate program",
+    "category": "academic_stress",
+    "confidence": 0.8
+  },
+  "39": {
+    "summary": "Mental health crisis from burnout and isolation",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
+  },
   "40": {
-    "summary": "Existential crisis about legacy and cultural heritage preservation",
-    "category": "existential_crisis",
+    "summary": "Immigration application denied, status in limbo",
+    "category": "immigration",
     "confidence": 0.8
   },
   "41": {
-    "summary": "Marital conflict over retirement planning and relocation",
-    "category": "relationship_breakup",
-    "confidence": 0.7
+    "summary": "Grief from death of close friend",
+    "category": "grief_bereavement",
+    "confidence": 0.8
   },
   "42": {
-    "summary": "Financial stress from children's education costs",
-    "category": "financial_stress",
-    "confidence": 0.75
+    "summary": "Breakup with partner due to incompatibility",
+    "category": "relationship_breakup",
+    "confidence": 0.8
   },
   "43": {
-    "summary": "Chronic illness diagnosis (e.g., diabetes) requiring lifestyle changes",
-    "category": "health_issue",
-    "confidence": 0.7
+    "summary": "Loneliness from social isolation and recent losses",
+    "category": "loneliness_isolation",
+    "confidence": 0.9
   },
   "44": {
-    "summary": "Career burnout after 20-year corporate tenure",
-    "category": "career_burnout",
+    "summary": "Chronic pain limits ability to work and socialize",
+    "category": "chronic_health_pain",
     "confidence": 0.8
   },
   "45": {
-    "summary": "Midlife crisis questioning cultural authenticity and success",
-    "category": "midlife_crisis",
-    "confidence": 0.85
+    "summary": "Financial strain from unemployment and family expenses",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "46": {
-    "summary": "Retirement anxiety with insufficient savings",
-    "category": "financial_stress",
+    "summary": "Caregiver burden for aging parent",
+    "category": "caregiver_burden",
     "confidence": 0.7
   },
   "47": {
-    "summary": "Cancer scare triggering existential reflection",
-    "category": "health_issue",
-    "confidence": 0.75
+    "summary": "Domestic violence from partner",
+    "category": "violence_abuse",
+    "confidence": 0.7
   },
   "48": {
-    "summary": "Loneliness after spouse's death",
-    "category": "loneliness",
+    "summary": "Eviction lawsuit from landlord",
+    "category": "legal_housing",
     "confidence": 0.8
   },
   "49": {
-    "summary": "Caregiving stress for aging parents",
-    "category": "caregiver_burnout",
-    "confidence": 0.7
+    "summary": "Academic stress from required training courses",
+    "category": "academic_stress",
+    "confidence": 0.8
   },
   "50": {
-    "summary": "Existential crisis about cultural legacy and purpose",
-    "category": "existential_crisis",
-    "confidence": 0.8
+    "summary": "Mental health crisis from chronic stress and isolation",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "51": {
-    "summary": "Job loss in late-career transition",
-    "category": "financial_stress",
-    "confidence": 0.7
+    "summary": "Immigration process delayed for years",
+    "category": "immigration",
+    "confidence": 0.8
   },
   "52": {
-    "summary": "Arthritis from cold-water swimming and photography",
-    "category": "chronic_pain",
-    "confidence": 0.65
+    "summary": "Grief from death of spouse",
+    "category": "grief_bereavement",
+    "confidence": 0.8
   },
   "53": {
-    "summary": "Grief over loss of close friends",
-    "category": "grief",
-    "confidence": 0.7
+    "summary": "Breakup with partner due to incompatibility",
+    "category": "relationship_breakup",
+    "confidence": 0.8
   },
   "54": {
-    "summary": "Career burnout after 30-year tenure",
-    "category": "career_burnout",
-    "confidence": 0.8
+    "summary": "Loneliness from social isolation and recent losses",
+    "category": "loneliness_isolation",
+    "confidence": 0.9
   },
   "55": {
-    "summary": "Midlife crisis questioning immigrant identity and achievements",
-    "category": "midlife_crisis",
-    "confidence": 0.85
-  },
-  "56": {
-    "summary": "Financial stress from healthcare costs",
-    "category": "financial_stress",
-    "confidence": 0.7
-  },
-  "57": {
-    "summary": "Dementia diagnosis in family triggering caregiving crisis",
-    "category": "caregiver_burnout",
-    "confidence": 0.75
-  },
-  "58": {
-    "summary": "Loneliness after spouse's death",
-    "category": "loneliness",
+    "summary": "Chronic pain from old injury flares up",
+    "category": "chronic_health_pain",
     "confidence": 0.8
   },
-  "59": {
-    "summary": "Relationship conflict over end-of-life care decisions",
-    "category": "relationship_breakup",
+  "56": {
+    "summary": "Financial strain from retirement savings shortfall",
+    "category": "financial_employment",
+    "confidence": 0.8
+  },
+  "57": {
+    "summary": "Caregiver burden for spouse with illness",
+    "category": "caregiver_burden",
     "confidence": 0.7
   },
+  "58": {
+    "summary": "Abuse from family member",
+    "category": "violence_abuse",
+    "confidence": 0.7
+  },
+  "59": {
+    "summary": "Legal dispute over inherited property",
+    "category": "legal_housing",
+    "confidence": 0.8
+  },
   "60": {
-    "summary": "Existential crisis about legacy and cultural roots",
-    "category": "existential_crisis",
+    "summary": "Academic stress from learning new technology",
+    "category": "academic_stress",
     "confidence": 0.8
   },
   "61": {
-    "summary": "Financial instability from pension shortfalls",
-    "category": "financial_stress",
-    "confidence": 0.7
+    "summary": "Mental health crisis from chronic stress and isolation",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "62": {
-    "summary": "Heart disease diagnosis requiring lifestyle changes",
-    "category": "health_issue",
-    "confidence": 0.75
+    "summary": "Immigration status unresolved after decades",
+    "category": "immigration",
+    "confidence": 0.8
   },
   "63": {
-    "summary": "Grief over loss of friends",
-    "category": "grief",
-    "confidence": 0.7
+    "summary": "Grief from death of best friend",
+    "category": "grief_bereavement",
+    "confidence": 0.8
   },
   "64": {
-    "summary": "Career burnout after 40-year tenure",
-    "category": "career_burnout",
+    "summary": "Breakup with partner after 20 years",
+    "category": "relationship_breakup",
     "confidence": 0.8
   },
   "65": {
-    "summary": "Midlife crisis questioning cultural authenticity",
-    "category": "midlife_crisis",
-    "confidence": 0.85
+    "summary": "Loneliness from social isolation and recent losses",
+    "category": "loneliness_isolation",
+    "confidence": 0.9
   },
   "66": {
-    "summary": "Financial stress from long-term care costs",
-    "category": "financial_stress",
-    "confidence": 0.7
-  },
-  "67": {
-    "summary": "Cancer recurrence triggering existential reflection",
-    "category": "health_issue",
-    "confidence": 0.75
-  },
-  "68": {
-    "summary": "Loneliness after spouse's death",
-    "category": "loneliness",
+    "summary": "Chronic pain limits mobility and independence",
+    "category": "chronic_health_pain",
     "confidence": 0.8
   },
+  "67": {
+    "summary": "Financial strain from retirement income shortfall",
+    "category": "financial_employment",
+    "confidence": 0.8
+  },
+  "68": {
+    "summary": "Caregiver burden for spouse with dementia",
+    "category": "caregiver_burden",
+    "confidence": 0.7
+  },
   "69": {
-    "summary": "Caregiving conflict over dementia care",
-    "category": "caregiver_burnout",
+    "summary": "Abuse from family member",
+    "category": "violence_abuse",
     "confidence": 0.7
   },
   "70": {
-    "summary": "Existential crisis about cultural legacy",
-    "category": "existential_crisis",
+    "summary": "Legal battle over housing inheritance",
+    "category": "legal_housing",
     "confidence": 0.8
   },
   "71": {
-    "summary": "Financial instability from inflation",
-    "category": "financial_stress",
-    "confidence": 0.7
+    "summary": "Academic stress from learning new technology",
+    "category": "academic_stress",
+    "confidence": 0.8
   },
   "72": {
-    "summary": "Dementia diagnosis requiring assisted living",
-    "category": "health_issue",
-    "confidence": 0.75
+    "summary": "Mental health crisis from chronic loneliness",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "73": {
-    "summary": "Grief over loss of friends",
-    "category": "grief",
-    "confidence": 0.7
+    "summary": "Immigration status unresolved after decades",
+    "category": "immigration",
+    "confidence": 0.8
   },
   "74": {
-    "summary": "Career burnout after 50-year tenure",
-    "category": "career_burnout",
+    "summary": "Grief from death of spouse",
+    "category": "grief_bereavement",
     "confidence": 0.8
   },
   "75": {
-    "summary": "Midlife crisis questioning immigrant identity",
-    "category": "midlife_crisis",
-    "confidence": 0.85
+    "summary": "Breakup with partner after 30 years",
+    "category": "relationship_breakup",
+    "confidence": 0.8
   },
   "76": {
-    "summary": "Financial stress from depleted savings",
-    "category": "financial_stress",
-    "confidence": 0.7
+    "summary": "Loneliness from social isolation and recent losses",
+    "category": "loneliness_isolation",
+    "confidence": 0.9
   },
   "77": {
-    "summary": "Stroke requiring rehabilitation",
-    "category": "health_issue",
-    "confidence": 0.75
+    "summary": "Chronic pain limits ability to travel",
+    "category": "chronic_health_pain",
+    "confidence": 0.8
   },
   "78": {
-    "summary": "Loneliness after spouse's death",
-    "category": "loneliness",
+    "summary": "Financial strain from retirement income shortfall",
+    "category": "financial_employment",
     "confidence": 0.8
   },
   "79": {
-    "summary": "Caregiving conflict over end-of-life decisions",
-    "category": "caregiver_burnout",
+    "summary": "Caregiver burden for spouse with illness",
+    "category": "caregiver_burden",
     "confidence": 0.7
   },
   "80": {
-    "summary": "Existential crisis about cultural roots",
-    "category": "existential_crisis",
-    "confidence": 0.8
+    "summary": "Abuse from family member",
+    "category": "violence_abuse",
+    "confidence": 0.7
   },
   "81": {
-    "summary": "Financial instability from medical bills",
-    "category": "financial_stress",
-    "confidence": 0.7
+    "summary": "Legal dispute over inherited property",
+    "category": "legal_housing",
+    "confidence": 0.8
   },
   "82": {
-    "summary": "Heart failure requiring palliative care",
-    "category": "health_issue",
-    "confidence": 0.75
+    "summary": "Academic stress from learning new technology",
+    "category": "academic_stress",
+    "confidence": 0.8
   },
   "83": {
-    "summary": "Grief over loss of friends",
-    "category": "grief",
-    "confidence": 0.7
+    "summary": "Mental health crisis from chronic loneliness",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "84": {
-    "summary": "Career burnout after 60-year tenure",
-    "category": "career_burnout",
+    "summary": "Immigration status unresolved after decades",
+    "category": "immigration",
     "confidence": 0.8
   },
   "85": {
-    "summary": "Midlife crisis questioning cultural authenticity",
-    "category": "midlife_crisis",
-    "confidence": 0.85
+    "summary": "Grief from death of best friend",
+    "category": "grief_bereavement",
+    "confidence": 0.8
   },
   "86": {
-    "summary": "Financial stress from long-term care costs",
-    "category": "financial_stress",
-    "confidence": 0.7
+    "summary": "Breakup with partner after 40 years",
+    "category": "relationship_breakup",
+    "confidence": 0.8
   },
   "87": {
-    "summary": "Cancer recurrence triggering existential reflection",
-    "category": "health_issue",
-    "confidence": 0.75
+    "summary": "Loneliness from social isolation and recent losses",
+    "category": "loneliness_isolation",
+    "confidence": 0.9
   },
   "88": {
-    "summary": "Loneliness after spouse's death",
-    "category": "loneliness",
+    "summary": "Chronic pain limits mobility and independence",
+    "category": "chronic_health_pain",
     "confidence": 0.8
   },
   "89": {
-    "summary": "Caregiving conflict over dementia care",
-    "category": "caregiver_burnout",
-    "confidence": 0.7
-  },
-  "90": {
-    "summary": "Existential crisis about cultural legacy",
-    "category": "existential_crisis",
+    "summary": "Financial strain from retirement income shortfall",
+    "category": "financial_employment",
     "confidence": 0.8
   },
+  "90": {
+    "summary": "Caregiver burden for spouse with dementia",
+    "category": "caregiver_burden",
+    "confidence": 0.7
+  },
   "91": {
-    "summary": "Financial instability from depleted savings",
-    "category": "financial_stress",
+    "summary": "Abuse from family member",
+    "category": "violence_abuse",
     "confidence": 0.7
   },
   "92": {
-    "summary": "Pneumonia requiring hospitalization",
-    "category": "health_issue",
-    "confidence": 0.75
+    "summary": "Legal dispute over inherited property",
+    "category": "legal_housing",
+    "confidence": 0.8
   },
   "93": {
-    "summary": "Grief over loss of friends",
-    "category": "grief",
-    "confidence": 0.7
+    "summary": "Academic stress from learning new technology",
+    "category": "academic_stress",
+    "confidence": 0.8
   },
   "94": {
-    "summary": "Career burnout after 70-year tenure",
-    "category": "career_burnout",
-    "confidence": 0.8
+    "summary": "Mental health crisis from chronic loneliness",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "95": {
-    "summary": "Midlife crisis questioning immigrant identity",
-    "category": "midlife_crisis",
-    "confidence": 0.85
-  },
-  "96": {
-    "summary": "Financial stress from healthcare costs",
-    "category": "financial_stress",
-    "confidence": 0.7
-  },
-  "97": {
-    "summary": "Heart disease requiring palliative care",
-    "category": "health_issue",
-    "confidence": 0.75
-  },
-  "98": {
-    "summary": "Loneliness after spouse's death",
-    "category": "loneliness",
+    "summary": "Immigration status unresolved after decades",
+    "category": "immigration",
     "confidence": 0.8
   },
+  "96": {
+    "summary": "Grief from death of spouse",
+    "category": "grief_bereavement",
+    "confidence": 0.8
+  },
+  "97": {
+    "summary": "Breakup with partner after 50 years",
+    "category": "relationship_breakup",
+    "confidence": 0.8
+  },
+  "98": {
+    "summary": "Loneliness from social isolation and recent losses",
+    "category": "loneliness_isolation",
+    "confidence": 0.9
+  },
   "99": {
-    "summary": "Caregiving conflict over end-of-life decisions",
-    "category": "caregiver_burnout",
-    "confidence": 0.7
+    "summary": "Chronic pain limits ability to travel",
+    "category": "chronic_health_pain",
+    "confidence": 0.8
   },
   "100": {
-    "summary": "Existential crisis about cultural roots and legacy",
-    "category": "existential_crisis",
+    "summary": "Financial strain from retirement income shortfall",
+    "category": "financial_employment",
     "confidence": 0.8
   }
 }

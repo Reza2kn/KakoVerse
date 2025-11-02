@@ -1,407 +1,407 @@
 {
   "20": {
-    "summary": "Identity conflict due to mixed heritage and transnational roots",
-    "category": "identity_crisis",
-    "confidence": 0.85
+    "summary": "Stress-induced physical ailments from displacement.",
+    "category": "chronic_health_pain",
+    "confidence": 0.7
   },
   "21": {
-    "summary": "Financial strain from supporting family obligations",
-    "category": "financial_stress",
-    "confidence": 0.75
+    "summary": "Financial instability after job transition.",
+    "category": "financial_employment",
+    "confidence": 0.6
   },
   "22": {
-    "summary": "Relationship tension from cultural expectations",
-    "category": "relationship_tension",
+    "summary": "Family obligations strain from transnational roots.",
+    "category": "caregiver_burden",
     "confidence": 0.8
   },
   "23": {
-    "summary": "Career dissatisfaction in government clerk role",
-    "category": "career_dissatisfaction",
-    "confidence": 0.85
-  },
-  "24": {
-    "summary": "Grief over lost cultural connections",
-    "category": "grief",
+    "summary": "Cultural clashes lead to emotional abuse.",
+    "category": "violence_abuse",
     "confidence": 0.7
   },
+  "24": {
+    "summary": "Housing disputes over ancestral property.",
+    "category": "legal_housing",
+    "confidence": 0.5
+  },
   "25": {
-    "summary": "Burnout from monotonous work and rumination",
-    "category": "burnout",
-    "confidence": 0.8
+    "summary": "Pressure to pursue unfulfilled academic goals.",
+    "category": "academic_stress",
+    "confidence": 0.4
   },
   "26": {
-    "summary": "Loneliness in Dhaka amid limited social ties",
-    "category": "loneliness",
-    "confidence": 0.8
-  },
-  "27": {
-    "summary": "Existential crisis questioning life purpose",
-    "category": "existential_crisis",
-    "confidence": 0.75
-  },
-  "28": {
-    "summary": "Familial estrangement triggering depression",
-    "category": "familial_estrangement",
+    "summary": "Depression worsens with unresolved guilt.",
+    "category": "mental_health_crisis",
     "confidence": 0.9
   },
+  "27": {
+    "summary": "Identity conflicts amid immigration bureaucracy.",
+    "category": "immigration",
+    "confidence": 0.8
+  },
+  "28": {
+    "summary": "Grief over estranged family member's death.",
+    "category": "grief_bereavement",
+    "confidence": 0.7
+  },
   "29": {
-    "summary": "Chronic depression with social withdrawal",
-    "category": "chronic_depression",
+    "summary": "Estrangement deepens after familial conflict.",
+    "category": "relationship_breakup",
     "confidence": 0.95
   },
   "30": {
-    "summary": "Treatment resistance for depression",
-    "category": "treatment_resistance",
+    "summary": "Isolation intensifies without social support.",
+    "category": "loneliness_isolation",
     "confidence": 0.8
   },
   "31": {
-    "summary": "Social isolation worsening depression",
-    "category": "social_isolation",
-    "confidence": 0.85
+    "summary": "Chronic pain from unresolved trauma resurfaces.",
+    "category": "chronic_health_pain",
+    "confidence": 0.7
   },
   "32": {
-    "summary": "Stagnation in government career path",
-    "category": "career_stagnation",
-    "confidence": 0.75
+    "summary": "Job insecurity fuels financial anxiety.",
+    "category": "financial_employment",
+    "confidence": 0.6
   },
   "33": {
-    "summary": "Midlife crisis reevaluating life choices",
-    "category": "midlife_crisis",
-    "confidence": 0.7
+    "summary": "Caregiving duties overwhelm extended family.",
+    "category": "caregiver_burden",
+    "confidence": 0.8
   },
   "34": {
-    "summary": "Early health concerns from stress",
-    "category": "health_concerns",
-    "confidence": 0.65
+    "summary": "Violence from cultural expectations resurfaces.",
+    "category": "violence_abuse",
+    "confidence": 0.7
   },
   "35": {
-    "summary": "Financial pressure from family support duties",
-    "category": "financial_pressure",
-    "confidence": 0.7
+    "summary": "Legal battles over housing escalate.",
+    "category": "legal_housing",
+    "confidence": 0.5
   },
   "36": {
-    "summary": "Relationship breakdown due to depression",
-    "category": "relationship_breakdown",
-    "confidence": 0.75
+    "summary": "Academic regrets resurface amid stagnation.",
+    "category": "academic_stress",
+    "confidence": 0.4
   },
   "37": {
-    "summary": "Grief over loss of a close family member",
-    "category": "grief",
-    "confidence": 0.7
+    "summary": "Depression spirals with isolation.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "38": {
-    "summary": "Midlife reevaluation of career and legacy",
-    "category": "midlife_crisis",
-    "confidence": 0.7
+    "summary": "Immigration status creates ongoing stress.",
+    "category": "immigration",
+    "confidence": 0.8
   },
   "39": {
-    "summary": "Onset of chronic illness from stress",
-    "category": "chronic_illness",
-    "confidence": 0.65
-  },
-  "40": {
-    "summary": "Anxiety about retirement timing",
-    "category": "retirement_anxiety",
+    "summary": "Bereavement triggers unresolved grief.",
+    "category": "grief_bereavement",
     "confidence": 0.7
   },
+  "40": {
+    "summary": "Loneliness persists after failed relationships.",
+    "category": "relationship_breakup",
+    "confidence": 0.8
+  },
   "41": {
-    "summary": "Urgency to complete genealogy research",
-    "category": "legacy_concerns",
+    "summary": "Isolation deepens with aging family.",
+    "category": "loneliness_isolation",
     "confidence": 0.8
   },
   "42": {
-    "summary": "Family duty stress from aging parents",
-    "category": "family_duty_stress",
-    "confidence": 0.75
+    "summary": "Chronic pain limits daily functioning.",
+    "category": "chronic_health_pain",
+    "confidence": 0.7
   },
   "43": {
-    "summary": "Career transition anxiety",
-    "category": "career_transition",
-    "confidence": 0.7
+    "summary": "Financial strain from stagnant wages.",
+    "category": "financial_employment",
+    "confidence": 0.6
   },
   "44": {
-    "summary": "Physical health decline",
-    "category": "health_decline",
-    "confidence": 0.75
-  },
-  "45": {
-    "summary": "Empty nest loneliness",
-    "category": "loneliness",
+    "summary": "Caregiver burden from aging relatives.",
+    "category": "caregiver_burden",
     "confidence": 0.8
   },
+  "45": {
+    "summary": "Cultural violence resurfaces in community.",
+    "category": "violence_abuse",
+    "confidence": 0.7
+  },
   "46": {
-    "summary": "Existential reflection on legacy",
-    "category": "existential_reflection",
-    "confidence": 0.75
+    "summary": "Legal issues over property rights.",
+    "category": "legal_housing",
+    "confidence": 0.5
   },
   "47": {
-    "summary": "Chronic pain development",
-    "category": "chronic_pain",
-    "confidence": 0.7
+    "summary": "Academic pressure from unmet expectations.",
+    "category": "academic_stress",
+    "confidence": 0.4
   },
   "48": {
-    "summary": "Financial insecurity for retirement",
-    "category": "financial_insecurity",
-    "confidence": 0.7
+    "summary": "Mental health crisis amid isolation.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "49": {
-    "summary": "Mortality anxiety",
-    "category": "mortality_anxiety",
+    "summary": "Immigration barriers cause ongoing stress.",
+    "category": "immigration",
     "confidence": 0.8
   },
   "50": {
-    "summary": "Generational disconnect with younger relatives",
-    "category": "generational_gap",
+    "summary": "Grief over multiple losses.",
+    "category": "grief_bereavement",
     "confidence": 0.7
   },
   "51": {
-    "summary": "Major health crisis requiring intervention",
-    "category": "health_crisis",
-    "confidence": 0.85
+    "summary": "Relationship breakdown after prolonged conflict.",
+    "category": "relationship_breakup",
+    "confidence": 0.8
   },
   "52": {
-    "summary": "Retirement planning financial stress",
-    "category": "financial_concerns",
-    "confidence": 0.75
+    "summary": "Loneliness intensifies with aging.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
   },
   "53": {
-    "summary": "Family health crisis concern",
-    "category": "family_health",
+    "summary": "Chronic pain from past trauma.",
+    "category": "chronic_health_pain",
     "confidence": 0.7
   },
   "54": {
-    "summary": "Social isolation from peer loss",
-    "category": "social_isolation",
-    "confidence": 0.85
+    "summary": "Financial instability worsens.",
+    "category": "financial_employment",
+    "confidence": 0.6
   },
   "55": {
-    "summary": "Chronic illness progression",
-    "category": "chronic_illness",
+    "summary": "Caregiver burden from ill relatives.",
+    "category": "caregiver_burden",
     "confidence": 0.8
   },
   "56": {
-    "summary": "Existential crisis about legacy",
-    "category": "existential_crisis",
-    "confidence": 0.75
+    "summary": "Violence from cultural clashes.",
+    "category": "violence_abuse",
+    "confidence": 0.7
   },
   "57": {
-    "summary": "Legacy work urgency for crafts/genealogy",
-    "category": "legacy_work",
-    "confidence": 0.8
+    "summary": "Legal battles over inheritance.",
+    "category": "legal_housing",
+    "confidence": 0.5
   },
   "58": {
-    "summary": "Deepening social isolation",
-    "category": "social_isolation",
-    "confidence": 0.85
+    "summary": "Academic stress from unmet goals.",
+    "category": "academic_stress",
+    "confidence": 0.4
   },
   "59": {
-    "summary": "Mortality reflection",
-    "category": "mortality_reflection",
-    "confidence": 0.8
+    "summary": "Mental health crisis amid isolation.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "60": {
-    "summary": "Retirement adjustment challenges",
-    "category": "retirement_adjustment",
+    "summary": "Immigration status creates barriers.",
+    "category": "immigration",
     "confidence": 0.8
   },
   "61": {
-    "summary": "Severe health decline",
-    "category": "health_decline",
-    "confidence": 0.9
+    "summary": "Grief over family losses.",
+    "category": "grief_bereavement",
+    "confidence": 0.7
   },
   "62": {
-    "summary": "Financial stress from fixed income",
-    "category": "financial_stress",
+    "summary": "Relationship breakdown after prolonged estrangement.",
+    "category": "relationship_breakup",
     "confidence": 0.8
   },
   "63": {
-    "summary": "Loneliness from spouse loss",
-    "category": "loneliness",
-    "confidence": 0.9
+    "summary": "Loneliness persists with aging.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
   },
   "64": {
-    "summary": "Persistent chronic pain",
-    "category": "chronic_pain",
-    "confidence": 0.85
+    "summary": "Chronic pain limits mobility.",
+    "category": "chronic_health_pain",
+    "confidence": 0.7
   },
   "65": {
-    "summary": "Legacy concerns about unfinished work",
-    "category": "legacy_concerns",
-    "confidence": 0.8
+    "summary": "Financial strain from inflation.",
+    "category": "financial_employment",
+    "confidence": 0.6
   },
   "66": {
-    "summary": "Existential crisis about meaning",
-    "category": "existential_crisis",
-    "confidence": 0.75
-  },
-  "67": {
-    "summary": "Health crisis requiring care",
-    "category": "health_crisis",
-    "confidence": 0.85
-  },
-  "68": {
-    "summary": "Mortality anxiety",
-    "category": "mortality_anxiety",
+    "summary": "Caregiver burden from aging parents.",
+    "category": "caregiver_burden",
     "confidence": 0.8
   },
+  "67": {
+    "summary": "Violence from cultural conflicts.",
+    "category": "violence_abuse",
+    "confidence": 0.7
+  },
+  "68": {
+    "summary": "Legal issues over housing.",
+    "category": "legal_housing",
+    "confidence": 0.5
+  },
   "69": {
-    "summary": "Social isolation from peer loss",
-    "category": "social_isolation",
-    "confidence": 0.85
+    "summary": "Academic stress from unmet expectations.",
+    "category": "academic_stress",
+    "confidence": 0.4
   },
   "70": {
-    "summary": "Severe health decline",
-    "category": "health_decline",
+    "summary": "Mental health crisis amid isolation.",
+    "category": "mental_health_crisis",
     "confidence": 0.9
   },
   "71": {
-    "summary": "Profound loneliness",
-    "category": "loneliness",
-    "confidence": 0.9
+    "summary": "Immigration status causes ongoing stress.",
+    "category": "immigration",
+    "confidence": 0.8
   },
   "72": {
-    "summary": "Multiple chronic illnesses",
-    "category": "chronic_illness",
-    "confidence": 0.85
+    "summary": "Grief over multiple losses.",
+    "category": "grief_bereavement",
+    "confidence": 0.7
   },
   "73": {
-    "summary": "Financial insecurity",
-    "category": "financial_insecurity",
+    "summary": "Relationship breakdown after prolonged conflict.",
+    "category": "relationship_breakup",
     "confidence": 0.8
   },
   "74": {
-    "summary": "Final legacy work attempts",
-    "category": "legacy_work",
+    "summary": "Loneliness intensifies with aging.",
+    "category": "loneliness_isolation",
     "confidence": 0.8
   },
   "75": {
-    "summary": "Mortality reflection",
-    "category": "mortality_reflection",
-    "confidence": 0.85
+    "summary": "Chronic pain from past trauma.",
+    "category": "chronic_health_pain",
+    "confidence": 0.7
   },
   "76": {
-    "summary": "Existential crisis about purpose",
-    "category": "existential_crisis",
-    "confidence": 0.8
+    "summary": "Financial instability worsens.",
+    "category": "financial_employment",
+    "confidence": 0.6
   },
   "77": {
-    "summary": "Health crisis requiring institutional care",
-    "category": "health_crisis",
-    "confidence": 0.85
+    "summary": "Caregiver burden from ill relatives.",
+    "category": "caregiver_burden",
+    "confidence": 0.8
   },
   "78": {
-    "summary": "Extreme social isolation",
-    "category": "social_isolation",
-    "confidence": 0.9
+    "summary": "Violence from cultural clashes.",
+    "category": "violence_abuse",
+    "confidence": 0.7
   },
   "79": {
-    "summary": "Mortality anxiety",
-    "category": "mortality_anxiety",
-    "confidence": 0.85
+    "summary": "Legal battles over property.",
+    "category": "legal_housing",
+    "confidence": 0.5
   },
   "80": {
-    "summary": "Severe health decline",
-    "category": "health_decline",
-    "confidence": 0.9
+    "summary": "Academic stress from unmet goals.",
+    "category": "academic_stress",
+    "confidence": 0.4
   },
   "81": {
-    "summary": "Profound loneliness",
-    "category": "loneliness",
+    "summary": "Mental health crisis amid isolation.",
+    "category": "mental_health_crisis",
     "confidence": 0.9
   },
   "82": {
-    "summary": "Persistent chronic pain",
-    "category": "chronic_pain",
-    "confidence": 0.85
-  },
-  "83": {
-    "summary": "Financial stress from limited resources",
-    "category": "financial_stress",
+    "summary": "Immigration barriers cause ongoing stress.",
+    "category": "immigration",
     "confidence": 0.8
   },
+  "83": {
+    "summary": "Grief over family losses.",
+    "category": "grief_bereavement",
+    "confidence": 0.7
+  },
   "84": {
-    "summary": "Legacy concerns about unfinished crafts",
-    "category": "legacy_concerns",
+    "summary": "Relationship breakdown after prolonged estrangement.",
+    "category": "relationship_breakup",
     "confidence": 0.8
   },
   "85": {
-    "summary": "Mortality reflection",
-    "category": "mortality_reflection",
-    "confidence": 0.85
-  },
-  "86": {
-    "summary": "Existential crisis about legacy",
-    "category": "existential_crisis",
+    "summary": "Loneliness persists with aging.",
+    "category": "loneliness_isolation",
     "confidence": 0.8
   },
+  "86": {
+    "summary": "Chronic pain limits daily life.",
+    "category": "chronic_health_pain",
+    "confidence": 0.7
+  },
   "87": {
-    "summary": "Health crisis requiring palliative care",
-    "category": "health_crisis",
-    "confidence": 0.85
+    "summary": "Financial strain from stagnant wages.",
+    "category": "financial_employment",
+    "confidence": 0.6
   },
   "88": {
-    "summary": "Extreme social isolation",
-    "category": "social_isolation",
-    "confidence": 0.9
+    "summary": "Caregiver burden from aging relatives.",
+    "category": "caregiver_burden",
+    "confidence": 0.8
   },
   "89": {
-    "summary": "Mortality anxiety",
-    "category": "mortality_anxiety",
-    "confidence": 0.85
+    "summary": "Violence from cultural conflicts.",
+    "category": "violence_abuse",
+    "confidence": 0.7
   },
   "90": {
-    "summary": "Severe health decline",
-    "category": "health_decline",
-    "confidence": 0.9
+    "summary": "Legal issues over housing.",
+    "category": "legal_housing",
+    "confidence": 0.5
   },
   "91": {
-    "summary": "Profound loneliness",
-    "category": "loneliness",
-    "confidence": 0.9
+    "summary": "Academic stress from unmet expectations.",
+    "category": "academic_stress",
+    "confidence": 0.4
   },
   "92": {
-    "summary": "Multiple chronic illnesses",
-    "category": "chronic_illness",
-    "confidence": 0.85
+    "summary": "Mental health crisis amid isolation.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "93": {
-    "summary": "Financial insecurity",
-    "category": "financial_insecurity",
+    "summary": "Immigration status creates barriers.",
+    "category": "immigration",
     "confidence": 0.8
   },
   "94": {
-    "summary": "Final legacy work attempts",
-    "category": "legacy_work",
-    "confidence": 0.8
+    "summary": "Grief over multiple losses.",
+    "category": "grief_bereavement",
+    "confidence": 0.7
   },
   "95": {
-    "summary": "Mortality reflection",
-    "category": "mortality_reflection",
-    "confidence": 0.85
+    "summary": "Relationship breakdown after prolonged conflict.",
+    "category": "relationship_breakup",
+    "confidence": 0.8
   },
   "96": {
-    "summary": "Existential crisis about meaning",
-    "category": "existential_crisis",
+    "summary": "Loneliness intensifies with aging.",
+    "category": "loneliness_isolation",
     "confidence": 0.8
   },
   "97": {
-    "summary": "Health crisis requiring institutional care",
-    "category": "health_crisis",
-    "confidence": 0.85
+    "summary": "Chronic pain from past trauma.",
+    "category": "chronic_health_pain",
+    "confidence": 0.7
   },
   "98": {
-    "summary": "Extreme social isolation",
-    "category": "social_isolation",
-    "confidence": 0.9
+    "summary": "Financial instability worsens.",
+    "category": "financial_employment",
+    "confidence": 0.6
   },
   "99": {
-    "summary": "Mortality anxiety",
-    "category": "mortality_anxiety",
-    "confidence": 0.85
+    "summary": "Caregiver burden from ill relatives.",
+    "category": "caregiver_burden",
+    "confidence": 0.8
   },
   "100": {
-    "summary": "Legacy concerns about unfinished work",
-    "category": "legacy_concerns",
-    "confidence": 0.8
+    "summary": "Violence from cultural clashes resurfaces.",
+    "category": "violence_abuse",
+    "confidence": 0.7
   }
 }

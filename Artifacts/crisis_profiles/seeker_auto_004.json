@@ -1,407 +1,407 @@
 {
   "20": {
-    "summary": "First major move away from home, facing loneliness and cultural adjustment.",
-    "category": "cultural_displacement",
-    "confidence": 0.8
-  },
-  "21": {
-    "summary": "Academic pressure and balancing multiple interests (kendo, piano, animation).",
-    "category": "academic_stress",
+    "summary": "Post-breakup adjustment struggles in early adulthood.",
+    "category": "relationship_breakup",
     "confidence": 0.7
   },
+  "21": {
+    "summary": "Isolation during pandemic lockdowns in youth.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
+  },
   "22": {
-    "summary": "First job challenges and financial instability.",
-    "category": "financial_stress",
+    "summary": "Overuse injury from intense training routines.",
+    "category": "chronic_health_pain",
     "confidence": 0.6
   },
   "23": {
-    "summary": "Struggling with social connections due to low emotional expressiveness.",
-    "category": "social_isolation",
-    "confidence": 0.7
-  },
-  "24": {
-    "summary": "Burnout from overcommitting to freelance work and personal projects.",
-    "category": "burnout",
+    "summary": "Freelance income instability in early career.",
+    "category": "financial_employment",
     "confidence": 0.8
   },
+  "24": {
+    "summary": "Family support strain during pandemic crises.",
+    "category": "caregiver_burden",
+    "confidence": 0.5
+  },
   "25": {
-    "summary": "Relationship difficulties due to cultural differences and low directness.",
-    "category": "relationship_conflict",
-    "confidence": 0.7
+    "summary": "Cultural conflict exposure in youth.",
+    "category": "violence_abuse",
+    "confidence": 0.4
   },
   "26": {
-    "summary": "Health issues from sedentary work and lack of routine.",
-    "category": "health_concerns",
-    "confidence": 0.6
+    "summary": "Housing challenges as a new immigrant.",
+    "category": "legal_housing",
+    "confidence": 0.7
   },
   "27": {
-    "summary": "Fear of failure in career and creative blocks.",
-    "category": "career_doubt",
-    "confidence": 0.7
+    "summary": "Academic pressure during formative years.",
+    "category": "academic_stress",
+    "confidence": 0.6
   },
   "28": {
     "summary": "Persistent depressive symptoms following cultural displacement.",
-    "category": "depression",
-    "confidence": 1.0
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "29": {
-    "summary": "Dealing with family tensions and cultural expectations.",
-    "category": "family_tension",
-    "confidence": 0.8
+    "summary": "Cultural displacement and identity adjustment.",
+    "category": "immigration",
+    "confidence": 0.9
   },
   "30": {
-    "summary": "Midlife reflection and questioning life choices.",
-    "category": "midlife_crisis",
+    "summary": "Bereavement during pandemic lockdowns.",
+    "category": "grief_bereavement",
     "confidence": 0.7
   },
   "31": {
-    "summary": "Work-life balance struggles with increasing freelance demands.",
-    "category": "work_life_balance",
-    "confidence": 0.8
-  },
-  "32": {
-    "summary": "Creative block in digital animation projects.",
-    "category": "creative_block",
-    "confidence": 0.7
-  },
-  "33": {
-    "summary": "Financial planning for future stability.",
-    "category": "financial_planning",
+    "summary": "Relationship instability amid career transitions.",
+    "category": "relationship_breakup",
     "confidence": 0.6
   },
-  "34": {
-    "summary": "Health decline from past burnout and sedentary lifestyle.",
-    "category": "chronic_health",
-    "confidence": 0.7
-  },
-  "35": {
-    "summary": "Cultural integration challenges in Italy.",
-    "category": "cultural_integration",
+  "32": {
+    "summary": "Social isolation in expatriate communities.",
+    "category": "loneliness_isolation",
     "confidence": 0.8
   },
+  "33": {
+    "summary": "Chronic fatigue from overwork.",
+    "category": "chronic_health_pain",
+    "confidence": 0.7
+  },
+  "34": {
+    "summary": "Freelance project volatility impacting stability.",
+    "category": "financial_employment",
+    "confidence": 0.8
+  },
+  "35": {
+    "summary": "Family caregiving strain during relocation.",
+    "category": "caregiver_burden",
+    "confidence": 0.6
+  },
   "36": {
-    "summary": "Fear of aging and losing creative edge.",
-    "category": "aging_anxiety",
+    "summary": "Cultural discrimination experiences abroad.",
+    "category": "violence_abuse",
     "confidence": 0.7
   },
   "37": {
-    "summary": "Relationship stability and commitment issues.",
-    "category": "relationship_stability",
-    "confidence": 0.6
-  },
-  "38": {
-    "summary": "Career plateau and seeking new opportunities.",
-    "category": "career_plateau",
+    "summary": "Tenancy disputes in foreign housing.",
+    "category": "legal_housing",
     "confidence": 0.7
   },
+  "38": {
+    "summary": "Academic debt stress from delayed education.",
+    "category": "academic_stress",
+    "confidence": 0.5
+  },
   "39": {
-    "summary": "Dealing with chronic pain from overuse injuries.",
-    "category": "chronic_pain",
-    "confidence": 0.6
+    "summary": "Mental health crisis amid cultural adaptation.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "40": {
-    "summary": "Midlife reassessment and family responsibilities.",
-    "category": "family_responsibility",
+    "summary": "Immigration status uncertainty affecting well-being.",
+    "category": "immigration",
     "confidence": 0.8
   },
   "41": {
-    "summary": "Health management and prevention.",
-    "category": "health_management",
-    "confidence": 0.7
+    "summary": "Grief over lost homeland connections.",
+    "category": "grief_bereavement",
+    "confidence": 0.8
   },
   "42": {
-    "summary": "Financial security concerns for retirement.",
-    "category": "retirement_planning",
-    "confidence": 0.8
+    "summary": "Post-relationship adjustment in adulthood.",
+    "category": "relationship_breakup",
+    "confidence": 0.7
   },
   "43": {
-    "summary": "Cultural nostalgia and longing for home.",
-    "category": "nostalgia",
-    "confidence": 0.7
-  },
-  "44": {
-    "summary": "Dealing with aging parents and family care.",
-    "category": "family_care",
-    "confidence": 0.6
-  },
-  "45": {
-    "summary": "Career transition and legacy building.",
-    "category": "career_transition",
-    "confidence": 0.7
-  },
-  "46": {
-    "summary": "Health issues from accumulated stress.",
-    "category": "chronic_health",
-    "confidence": 0.7
-  },
-  "47": {
-    "summary": "Social isolation and loneliness.",
-    "category": "loneliness",
+    "summary": "Loneliness in transient digital nomad lifestyle.",
+    "category": "loneliness_isolation",
     "confidence": 0.8
   },
+  "44": {
+    "summary": "Chronic pain from sedentary work habits.",
+    "category": "chronic_health_pain",
+    "confidence": 0.7
+  },
+  "45": {
+    "summary": "Freelance income fluctuations causing anxiety.",
+    "category": "financial_employment",
+    "confidence": 0.8
+  },
+  "46": {
+    "summary": "Caregiving responsibilities for aging relatives.",
+    "category": "caregiver_burden",
+    "confidence": 0.6
+  },
+  "47": {
+    "summary": "Experiencing cultural discrimination.",
+    "category": "violence_abuse",
+    "confidence": 0.7
+  },
   "48": {
-    "summary": "Financial stability and investment decisions.",
-    "category": "financial_stability",
+    "summary": "Housing instability in competitive markets.",
+    "category": "legal_housing",
     "confidence": 0.7
   },
   "49": {
-    "summary": "Cultural displacement and identity crisis.",
-    "category": "identity_crisis",
-    "confidence": 0.7
-  },
-  "50": {
-    "summary": "Midlife reflection and personal growth.",
-    "category": "personal_growth",
+    "summary": "Academic pressure from delayed education.",
+    "category": "academic_stress",
     "confidence": 0.6
   },
+  "50": {
+    "summary": "Mental health crisis amid cultural displacement.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
+  },
   "51": {
-    "summary": "Health decline and chronic conditions.",
-    "category": "chronic_illness",
+    "summary": "Immigration status challenges affecting stability.",
+    "category": "immigration",
     "confidence": 0.8
   },
   "52": {
-    "summary": "Dealing with loss of loved ones.",
-    "category": "grief",
-    "confidence": 0.7
+    "summary": "Grief over lost homeland connections.",
+    "category": "grief_bereavement",
+    "confidence": 0.8
   },
   "53": {
-    "summary": "Cognitive changes and memory concerns.",
-    "category": "cognitive_decline",
-    "confidence": 0.6
+    "summary": "Relationship instability amid career transitions.",
+    "category": "relationship_breakup",
+    "confidence": 0.7
   },
   "54": {
-    "summary": "Retirement adjustment and purpose seeking.",
-    "category": "retirement_adjustment",
-    "confidence": 0.7
+    "summary": "Loneliness in expatriate communities.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
   },
   "55": {
-    "summary": "Financial management in retirement.",
-    "category": "financial_management",
-    "confidence": 0.8
-  },
-  "56": {
-    "summary": "Health management and mobility issues.",
-    "category": "health_management",
+    "summary": "Chronic pain from sedentary lifestyle.",
+    "category": "chronic_health_pain",
     "confidence": 0.7
   },
-  "57": {
-    "summary": "Social isolation and loneliness.",
-    "category": "loneliness",
+  "56": {
+    "summary": "Freelance income volatility causing stress.",
+    "category": "financial_employment",
     "confidence": 0.8
   },
-  "58": {
-    "summary": "Dealing with aging parents and family care.",
-    "category": "family_care",
+  "57": {
+    "summary": "Caregiving strain from family relocation.",
+    "category": "caregiver_burden",
     "confidence": 0.6
   },
+  "58": {
+    "summary": "Cultural discrimination experiences abroad.",
+    "category": "violence_abuse",
+    "confidence": 0.7
+  },
   "59": {
-    "summary": "Cultural displacement and identity crisis.",
-    "category": "identity_crisis",
+    "summary": "Housing disputes in foreign jurisdictions.",
+    "category": "legal_housing",
     "confidence": 0.7
   },
   "60": {
-    "summary": "Retirement and finding new purpose.",
-    "category": "retirement_purpose",
-    "confidence": 0.7
+    "summary": "Academic debt stress from delayed education.",
+    "category": "academic_stress",
+    "confidence": 0.6
   },
   "61": {
-    "summary": "Health decline and chronic pain.",
-    "category": "chronic_pain",
-    "confidence": 0.8
+    "summary": "Mental health crisis amid cultural adaptation.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "62": {
-    "summary": "Grief and loss of peers.",
-    "category": "grief",
-    "confidence": 0.7
+    "summary": "Immigration status uncertainty affecting well-being.",
+    "category": "immigration",
+    "confidence": 0.8
   },
   "63": {
-    "summary": "Financial security and legacy planning.",
-    "category": "legacy_planning",
+    "summary": "Grief over lost homeland connections.",
+    "category": "grief_bereavement",
     "confidence": 0.8
   },
   "64": {
-    "summary": "Cognitive decline and memory loss.",
-    "category": "cognitive_decline",
+    "summary": "Post-breakup adjustment struggles.",
+    "category": "relationship_breakup",
     "confidence": 0.7
   },
   "65": {
-    "summary": "Social isolation and loneliness.",
-    "category": "loneliness",
+    "summary": "Social isolation in expatriate communities.",
+    "category": "loneliness_isolation",
     "confidence": 0.8
   },
   "66": {
-    "summary": "Health management and chronic conditions.",
-    "category": "chronic_illness",
+    "summary": "Chronic pain from overtraining.",
+    "category": "chronic_health_pain",
     "confidence": 0.7
   },
   "67": {
-    "summary": "Dealing with loss of spouse or close friends.",
-    "category": "grief",
+    "summary": "Freelance income instability causing anxiety.",
+    "category": "financial_employment",
     "confidence": 0.8
   },
   "68": {
-    "summary": "Financial planning for long-term care.",
-    "category": "financial_planning",
-    "confidence": 0.7
+    "summary": "Caregiving responsibilities straining resources.",
+    "category": "caregiver_burden",
+    "confidence": 0.6
   },
   "69": {
-    "summary": "Cultural displacement and identity crisis.",
-    "category": "identity_crisis",
+    "summary": "Cultural discrimination experiences abroad.",
+    "category": "violence_abuse",
     "confidence": 0.7
   },
   "70": {
-    "summary": "Retirement and health decline.",
-    "category": "retirement_health",
-    "confidence": 0.8
+    "summary": "Housing disputes in foreign markets.",
+    "category": "legal_housing",
+    "confidence": 0.7
   },
   "71": {
-    "summary": "Chronic pain and mobility issues.",
-    "category": "chronic_pain",
-    "confidence": 0.7
+    "summary": "Academic pressure from delayed education.",
+    "category": "academic_stress",
+    "confidence": 0.6
   },
   "72": {
-    "summary": "Grief and loss of family members.",
-    "category": "grief",
-    "confidence": 0.8
+    "summary": "Mental health crisis amid cultural displacement.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "73": {
-    "summary": "Cognitive decline and memory loss.",
-    "category": "cognitive_decline",
-    "confidence": 0.7
+    "summary": "Immigration status uncertainty affecting stability.",
+    "category": "immigration",
+    "confidence": 0.8
   },
   "74": {
-    "summary": "Social isolation and loneliness.",
-    "category": "loneliness",
+    "summary": "Grief over lost homeland connections.",
+    "category": "grief_bereavement",
     "confidence": 0.8
   },
   "75": {
-    "summary": "Health management and chronic conditions.",
-    "category": "chronic_illness",
+    "summary": "Relationship instability amid career transitions.",
+    "category": "relationship_breakup",
     "confidence": 0.7
   },
   "76": {
-    "summary": "Dealing with loss of spouse.",
-    "category": "grief",
+    "summary": "Loneliness in transient digital nomad lifestyle.",
+    "category": "loneliness_isolation",
     "confidence": 0.8
   },
   "77": {
-    "summary": "Financial security and legacy planning.",
-    "category": "legacy_planning",
+    "summary": "Chronic pain from sedentary work habits.",
+    "category": "chronic_health_pain",
     "confidence": 0.7
   },
   "78": {
-    "summary": "Cultural displacement and identity crisis.",
-    "category": "identity_crisis",
-    "confidence": 0.7
-  },
-  "79": {
-    "summary": "Retirement and health decline.",
-    "category": "retirement_health",
+    "summary": "Freelance income fluctuations causing anxiety.",
+    "category": "financial_employment",
     "confidence": 0.8
   },
+  "79": {
+    "summary": "Caregiving strain from family relocation.",
+    "category": "caregiver_burden",
+    "confidence": 0.6
+  },
   "80": {
-    "summary": "Chronic pain and mobility issues.",
-    "category": "chronic_pain",
+    "summary": "Cultural discrimination experiences abroad.",
+    "category": "violence_abuse",
     "confidence": 0.7
   },
   "81": {
-    "summary": "Grief and loss of peers.",
-    "category": "grief",
-    "confidence": 0.8
+    "summary": "Tenancy disputes in foreign housing.",
+    "category": "legal_housing",
+    "confidence": 0.7
   },
   "82": {
-    "summary": "Cognitive decline and memory loss.",
-    "category": "cognitive_decline",
-    "confidence": 0.7
+    "summary": "Academic debt stress from delayed education.",
+    "category": "academic_stress",
+    "confidence": 0.6
   },
   "83": {
-    "summary": "Social isolation and loneliness.",
-    "category": "loneliness",
-    "confidence": 0.8
+    "summary": "Mental health crisis amid cultural adaptation.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "84": {
-    "summary": "Health management and chronic conditions.",
-    "category": "chronic_illness",
-    "confidence": 0.7
+    "summary": "Immigration status challenges affecting well-being.",
+    "category": "immigration",
+    "confidence": 0.8
   },
   "85": {
-    "summary": "Dealing with loss of family members.",
-    "category": "grief",
+    "summary": "Grief over lost homeland connections.",
+    "category": "grief_bereavement",
     "confidence": 0.8
   },
   "86": {
-    "summary": "Financial planning for long-term care.",
-    "category": "financial_planning",
+    "summary": "Post-breakup adjustment struggles.",
+    "category": "relationship_breakup",
     "confidence": 0.7
   },
   "87": {
-    "summary": "Cultural displacement and identity crisis.",
-    "category": "identity_crisis",
-    "confidence": 0.7
+    "summary": "Social isolation in expatriate communities.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
   },
   "88": {
-    "summary": "Retirement and health decline.",
-    "category": "retirement_health",
-    "confidence": 0.8
-  },
-  "89": {
-    "summary": "Chronic pain and mobility issues.",
-    "category": "chronic_pain",
+    "summary": "Chronic pain from overtraining.",
+    "category": "chronic_health_pain",
     "confidence": 0.7
   },
-  "90": {
-    "summary": "Grief and loss of peers.",
-    "category": "grief",
+  "89": {
+    "summary": "Freelance income volatility causing stress.",
+    "category": "financial_employment",
     "confidence": 0.8
   },
+  "90": {
+    "summary": "Caregiving responsibilities straining resources.",
+    "category": "caregiver_burden",
+    "confidence": 0.6
+  },
   "91": {
-    "summary": "Cognitive decline and memory loss.",
-    "category": "cognitive_decline",
+    "summary": "Cultural discrimination experiences abroad.",
+    "category": "violence_abuse",
     "confidence": 0.7
   },
   "92": {
-    "summary": "Social isolation and loneliness.",
-    "category": "loneliness",
-    "confidence": 0.8
+    "summary": "Housing disputes in foreign jurisdictions.",
+    "category": "legal_housing",
+    "confidence": 0.7
   },
   "93": {
-    "summary": "Health management and chronic conditions.",
-    "category": "chronic_illness",
-    "confidence": 0.7
+    "summary": "Academic pressure from delayed education.",
+    "category": "academic_stress",
+    "confidence": 0.6
   },
   "94": {
-    "summary": "Dealing with loss of family members.",
-    "category": "grief",
-    "confidence": 0.8
+    "summary": "Mental health crisis amid cultural displacement.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "95": {
-    "summary": "Financial security and legacy planning.",
-    "category": "legacy_planning",
-    "confidence": 0.7
+    "summary": "Immigration status uncertainty affecting stability.",
+    "category": "immigration",
+    "confidence": 0.8
   },
   "96": {
-    "summary": "Cultural displacement and identity crisis.",
-    "category": "identity_crisis",
-    "confidence": 0.7
+    "summary": "Grief over lost homeland connections.",
+    "category": "grief_bereavement",
+    "confidence": 0.8
   },
   "97": {
-    "summary": "Retirement and health decline.",
-    "category": "retirement_health",
-    "confidence": 0.8
+    "summary": "Relationship instability amid career transitions.",
+    "category": "relationship_breakup",
+    "confidence": 0.7
   },
   "98": {
-    "summary": "Chronic pain and mobility issues.",
-    "category": "chronic_pain",
-    "confidence": 0.7
-  },
-  "99": {
-    "summary": "Grief and loss of peers.",
-    "category": "grief",
+    "summary": "Loneliness in expatriate communities.",
+    "category": "loneliness_isolation",
     "confidence": 0.8
   },
-  "100": {
-    "summary": "Cognitive decline and memory loss.",
-    "category": "cognitive_decline",
+  "99": {
+    "summary": "Chronic pain from sedentary lifestyle.",
+    "category": "chronic_health_pain",
     "confidence": 0.7
+  },
+  "100": {
+    "summary": "Freelance income instability causing anxiety.",
+    "category": "financial_employment",
+    "confidence": 0.8
   }
 }

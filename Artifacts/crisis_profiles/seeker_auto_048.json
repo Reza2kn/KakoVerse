@@ -1,407 +1,407 @@
 {
   "20": {
-    "summary": "Financial instability after migration, struggling to find employment in Jordan",
-    "category": "financial_stress",
+    "summary": "Relationship strain due to financial stress and relocation pressures.",
+    "category": "relationship_breakup",
     "confidence": 0.85
   },
   "21": {
-    "summary": "Conflict between career ambitions and family expectations in foreign country",
-    "category": "family_conflict",
-    "confidence": 0.75
+    "summary": "Isolation from cultural displacement and limited social networks.",
+    "category": "loneliness_isolation",
+    "confidence": 0.9
   },
   "22": {
-    "summary": "Failed small business venture due to limited capital and market knowledge",
-    "category": "financial_loss",
-    "confidence": 0.7
+    "summary": "Physical symptoms from chronic anxiety manifesting as unexplained pain.",
+    "category": "chronic_health_pain",
+    "confidence": 0.75
   },
   "23": {
-    "summary": "Cultural isolation and loneliness in Amman's expat community",
-    "category": "loneliness",
-    "confidence": 0.65
+    "summary": "Job search frustrations amid unstable finances and visa uncertainty.",
+    "category": "financial_employment",
+    "confidence": 0.9
   },
   "24": {
-    "summary": "Job instability from frequent relocations and cultural barriers",
-    "category": "job_insecurity",
+    "summary": "Family caregiving conflicts over financial support expectations.",
+    "category": "caregiver_burden",
     "confidence": 0.7
   },
   "25": {
-    "summary": "Pressure to marry and start family while financially vulnerable",
-    "category": "relationship_stress",
-    "confidence": 0.8
+    "summary": "Neighborhood tensions escalating into verbal confrontations.",
+    "category": "violence_abuse",
+    "confidence": 0.6
   },
   "26": {
-    "summary": "Financial strain from supporting child in foreign country",
-    "category": "financial_stress",
-    "confidence": 0.9
+    "summary": "Housing instability due to expired residency permits.",
+    "category": "legal_housing",
+    "confidence": 0.8
   },
   "27": {
-    "summary": "Burnout from overworking to achieve career goals",
-    "category": "burnout",
-    "confidence": 0.85
+    "summary": "Academic pressure conflicting with urgent need to find work.",
+    "category": "academic_stress",
+    "confidence": 0.7
   },
   "28": {
-    "summary": "Career change anxiety and financial uncertainty",
-    "category": "career_change",
-    "confidence": 0.75
+    "summary": "Anxiety crisis triggered by visa renewal deadlines.",
+    "category": "mental_health_crisis",
+    "confidence": 0.95
   },
   "29": {
-    "summary": "Existential restlessness from unfulfilling career path",
-    "category": "existential_dread",
-    "confidence": 0.65
+    "summary": "Visa denial causing sudden displacement fears.",
+    "category": "immigration",
+    "confidence": 0.9
   },
   "30": {
-    "summary": "Work-life balance crisis with family responsibilities",
-    "category": "family_conflict",
+    "summary": "Grief over lost hometown connections and unfulfilled dreams.",
+    "category": "grief_bereavement",
     "confidence": 0.8
   },
   "31": {
-    "summary": "Frustration from career plateau despite high achievement drive",
-    "category": "career_stagnation",
-    "confidence": 0.75
+    "summary": "Breakup after partner rejected due to financial instability.",
+    "category": "relationship_breakup",
+    "confidence": 0.8
   },
   "32": {
-    "summary": "Financial pressure from children's education costs",
-    "category": "financial_stress",
-    "confidence": 0.9
+    "summary": "Social withdrawal intensifying feelings of isolation.",
+    "category": "loneliness_isolation",
+    "confidence": 0.85
   },
   "33": {
-    "summary": "Chronic back pain from manual work and poor ergonomics",
-    "category": "chronic_pain",
-    "confidence": 0.65
+    "summary": "Back pain from prolonged manual labor jobs.",
+    "category": "chronic_health_pain",
+    "confidence": 0.7
   },
   "34": {
-    "summary": "Midlife crisis leading to impulsive decisions",
-    "category": "midlife_crisis",
-    "confidence": 0.75
+    "summary": "Job loss amid economic downturn affecting family support.",
+    "category": "financial_employment",
+    "confidence": 0.85
   },
   "35": {
-    "summary": "Anxiety about inadequate retirement savings",
-    "category": "retirement_planning",
-    "confidence": 0.85
+    "summary": "Caregiving burnout from elderly relative's health decline.",
+    "category": "caregiver_burden",
+    "confidence": 0.75
   },
   "36": {
-    "summary": "Family health crisis causing emotional and financial strain",
-    "category": "family_health",
-    "confidence": 0.75
+    "summary": "Domestic conflict over financial control and migration plans.",
+    "category": "violence_abuse",
+    "confidence": 0.65
   },
   "37": {
-    "summary": "Burnout from balancing demanding job and family",
-    "category": "burnout",
-    "confidence": 0.85
+    "summary": "Landlord disputes over housing contract violations.",
+    "category": "legal_housing",
+    "confidence": 0.7
   },
   "38": {
-    "summary": "Financial pressure from children's education in foreign country",
-    "category": "financial_stress",
-    "confidence": 0.9
+    "summary": "Academic failure stressing financial survival needs.",
+    "category": "academic_stress",
+    "confidence": 0.6
   },
   "39": {
-    "summary": "Frustration from stagnant career despite high achievement",
-    "category": "career_stagnation",
-    "confidence": 0.75
+    "summary": "Psychological breakdown from accumulated migration stress.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "40": {
-    "summary": "Relationship crisis from midlife reassessment",
-    "category": "relationship_crisis",
+    "summary": "Family separation due to immigration policy changes.",
+    "category": "immigration",
     "confidence": 0.8
   },
   "41": {
-    "summary": "Anxiety about retirement financial preparedness",
-    "category": "retirement_planning",
-    "confidence": 0.85
+    "summary": "Bereavement over parent's death in homeland.",
+    "category": "grief_bereavement",
+    "confidence": 0.8
   },
   "42": {
-    "summary": "Family health crisis causing emotional strain",
-    "category": "family_health",
+    "summary": "Relationship dissolution after repeated arguments about future plans.",
+    "category": "relationship_breakup",
     "confidence": 0.75
   },
   "43": {
-    "summary": "Burnout from long-term work pressure",
-    "category": "burnout",
-    "confidence": 0.85
+    "summary": "Isolation from cultural differences in workplace.",
+    "category": "loneliness_isolation",
+    "confidence": 0.7
   },
   "44": {
-    "summary": "Financial pressure from children's education costs",
-    "category": "financial_stress",
-    "confidence": 0.9
+    "summary": "Arthritis from manual labor affecting daily work capacity.",
+    "category": "chronic_health_pain",
+    "confidence": 0.65
   },
   "45": {
-    "summary": "Midlife crisis leading to relationship turmoil",
-    "category": "midlife_crisis",
+    "summary": "Unemployment leading to inability to support family.",
+    "category": "financial_employment",
     "confidence": 0.8
   },
   "46": {
-    "summary": "Family health crisis causing emotional strain",
-    "category": "family_health",
-    "confidence": 0.75
+    "summary": "Caregiver exhaustion from disabled sibling's needs.",
+    "category": "caregiver_burden",
+    "confidence": 0.7
   },
   "47": {
-    "summary": "Burnout from sustained high-pressure work",
-    "category": "burnout",
-    "confidence": 0.85
+    "summary": "Neighbor harassment escalating to physical threats.",
+    "category": "violence_abuse",
+    "confidence": 0.6
   },
   "48": {
-    "summary": "Financial pressure from children's education",
-    "category": "financial_stress",
-    "confidence": 0.9
-  },
-  "49": {
-    "summary": "Frustration from career stagnation despite achievement drive",
-    "category": "career_stagnation",
+    "summary": "Housing eviction due to unpaid rent.",
+    "category": "legal_housing",
     "confidence": 0.75
   },
-  "50": {
-    "summary": "Relationship crisis from midlife reassessment",
-    "category": "relationship_crisis",
-    "confidence": 0.8
+  "49": {
+    "summary": "Academic pressure from vocational training deadlines.",
+    "category": "academic_stress",
+    "confidence": 0.6
   },
-  "51": {
-    "summary": "Anxiety about retirement financial preparedness",
-    "category": "retirement_planning",
+  "50": {
+    "summary": "Suicidal ideation from chronic financial and emotional strain.",
+    "category": "mental_health_crisis",
     "confidence": 0.85
   },
+  "51": {
+    "summary": "Family conflict over immigration status.",
+    "category": "immigration",
+    "confidence": 0.7
+  },
   "52": {
-    "summary": "Family health crisis causing emotional strain",
-    "category": "family_health",
+    "summary": "Grief over childhood friend's death abroad.",
+    "category": "grief_bereavement",
     "confidence": 0.75
   },
   "53": {
-    "summary": "Burnout from long-term work pressure",
-    "category": "burnout",
-    "confidence": 0.85
+    "summary": "Breakup after partner rejected due to unstable lifestyle.",
+    "category": "relationship_breakup",
+    "confidence": 0.7
   },
   "54": {
-    "summary": "Financial pressure from children's education",
-    "category": "financial_stress",
-    "confidence": 0.9
+    "summary": "Isolation from language barriers in community.",
+    "category": "loneliness_isolation",
+    "confidence": 0.7
   },
   "55": {
-    "summary": "Anxiety about inadequate retirement savings",
-    "category": "retirement_planning",
-    "confidence": 0.85
+    "summary": "Joint pain from aging affecting work ability.",
+    "category": "chronic_health_pain",
+    "confidence": 0.6
   },
   "56": {
-    "summary": "Family health crisis causing emotional strain",
-    "category": "family_health",
-    "confidence": 0.75
+    "summary": "Retirement savings crisis from failed investments.",
+    "category": "financial_employment",
+    "confidence": 0.65
   },
   "57": {
-    "summary": "Burnout from sustained high-pressure work",
-    "category": "burnout",
-    "confidence": 0.85
+    "summary": "Caregiver burnout from spouse's dementia.",
+    "category": "caregiver_burden",
+    "confidence": 0.7
   },
   "58": {
-    "summary": "Financial pressure from children's education",
-    "category": "financial_stress",
-    "confidence": 0.9
+    "summary": "Domestic violence from controlling partner.",
+    "category": "violence_abuse",
+    "confidence": 0.6
   },
   "59": {
-    "summary": "Frustration from career stagnation despite achievement drive",
-    "category": "career_stagnation",
-    "confidence": 0.75
+    "summary": "Housing discrimination based on nationality.",
+    "category": "legal_housing",
+    "confidence": 0.6
   },
   "60": {
-    "summary": "Relationship crisis from midlife reassessment",
-    "category": "relationship_crisis",
-    "confidence": 0.8
+    "summary": "Academic regret over uncompleted studies.",
+    "category": "academic_stress",
+    "confidence": 0.55
   },
   "61": {
-    "summary": "Anxiety about retirement financial preparedness",
-    "category": "retirement_planning",
-    "confidence": 0.85
+    "summary": "Psychological crisis from chronic loneliness.",
+    "category": "mental_health_crisis",
+    "confidence": 0.75
   },
   "62": {
-    "summary": "Family health crisis causing emotional strain",
-    "category": "family_health",
-    "confidence": 0.75
+    "summary": "Family separation due to deportation.",
+    "category": "immigration",
+    "confidence": 0.7
   },
   "63": {
-    "summary": "Burnout from long-term work pressure",
-    "category": "burnout",
-    "confidence": 0.85
+    "summary": "Grief over loss of cultural identity.",
+    "category": "grief_bereavement",
+    "confidence": 0.65
   },
   "64": {
-    "summary": "Financial pressure from children's education",
-    "category": "financial_stress",
-    "confidence": 0.9
+    "summary": "Relationship conflict over financial mismanagement.",
+    "category": "relationship_breakup",
+    "confidence": 0.6
   },
   "65": {
-    "summary": "Anxiety about inadequate retirement savings",
-    "category": "retirement_planning",
-    "confidence": 0.85
+    "summary": "Isolation from retirement community.",
+    "category": "loneliness_isolation",
+    "confidence": 0.6
   },
   "66": {
-    "summary": "Family health crisis causing emotional strain",
-    "category": "family_health",
-    "confidence": 0.75
+    "summary": "Chronic pain from arthritis limiting mobility.",
+    "category": "chronic_health_pain",
+    "confidence": 0.55
   },
   "67": {
-    "summary": "Burnout from sustained high-pressure work",
-    "category": "burnout",
-    "confidence": 0.85
+    "summary": "Early retirement due to health issues affecting finances.",
+    "category": "financial_employment",
+    "confidence": 0.6
   },
   "68": {
-    "summary": "Financial pressure from children's education",
-    "category": "financial_stress",
-    "confidence": 0.9
+    "summary": "Caregiver stress from aging parents.",
+    "category": "caregiver_burden",
+    "confidence": 0.55
   },
   "69": {
-    "summary": "Frustration from career stagnation despite achievement drive",
-    "category": "career_stagnation",
-    "confidence": 0.75
+    "summary": "Elder abuse from family neglect.",
+    "category": "violence_abuse",
+    "confidence": 0.5
   },
   "70": {
-    "summary": "Relationship crisis from midlife reassessment",
-    "category": "relationship_crisis",
-    "confidence": 0.8
+    "summary": "Housing insecurity from fixed income.",
+    "category": "legal_housing",
+    "confidence": 0.55
   },
   "71": {
-    "summary": "Anxiety about retirement financial preparedness",
-    "category": "retirement_planning",
-    "confidence": 0.85
+    "summary": "Academic pressure from adult education.",
+    "category": "academic_stress",
+    "confidence": 0.5
   },
   "72": {
-    "summary": "Family health crisis causing emotional strain",
-    "category": "family_health",
-    "confidence": 0.75
+    "summary": "Psychological crisis from isolation and health decline.",
+    "category": "mental_health_crisis",
+    "confidence": 0.65
   },
   "73": {
-    "summary": "Burnout from long-term work pressure",
-    "category": "burnout",
-    "confidence": 0.85
+    "summary": "Family conflict over immigration status.",
+    "category": "immigration",
+    "confidence": 0.55
   },
   "74": {
-    "summary": "Financial pressure from children's education",
-    "category": "financial_stress",
-    "confidence": 0.9
+    "summary": "Grief over loss of spouse.",
+    "category": "grief_bereavement",
+    "confidence": 0.6
   },
   "75": {
-    "summary": "Chronic illness and loss of independence",
-    "category": "chronic_illness",
-    "confidence": 0.8
+    "summary": "Relationship dissolution after decades of strain.",
+    "category": "relationship_breakup",
+    "confidence": 0.5
   },
   "76": {
-    "summary": "Family health crisis causing emotional strain",
-    "category": "family_health",
-    "confidence": 0.75
+    "summary": "Isolation from bereavement.",
+    "category": "loneliness_isolation",
+    "confidence": 0.55
   },
   "77": {
-    "summary": "Loneliness and social isolation",
-    "category": "loneliness",
-    "confidence": 0.8
+    "summary": "Chronic pain from age-related illness.",
+    "category": "chronic_health_pain",
+    "confidence": 0.5
   },
   "78": {
-    "summary": "Financial insecurity in retirement",
-    "category": "financial_insecurity",
-    "confidence": 0.85
+    "summary": "Retirement poverty from inadequate savings.",
+    "category": "financial_employment",
+    "confidence": 0.5
   },
   "79": {
-    "summary": "Existential dread about mortality",
-    "category": "existential_dread",
-    "confidence": 0.8
+    "summary": "Caregiver burnout from disabled child.",
+    "category": "caregiver_burden",
+    "confidence": 0.5
   },
   "80": {
-    "summary": "Chronic pain and loss of mobility",
-    "category": "chronic_pain",
-    "confidence": 0.85
+    "summary": "Elder abuse from family neglect.",
+    "category": "violence_abuse",
+    "confidence": 0.45
   },
   "81": {
-    "summary": "Family health crisis causing emotional strain",
-    "category": "family_health",
-    "confidence": 0.75
+    "summary": "Academic pressure from late-life learning.",
+    "category": "legal_housing",
+    "confidence": 0.4
   },
   "82": {
-    "summary": "Loneliness and social isolation",
-    "category": "loneliness",
-    "confidence": 0.8
+    "summary": "Psychological crisis from chronic illness.",
+    "category": "academic_stress",
+    "confidence": 0.5
   },
   "83": {
-    "summary": "Financial insecurity in retirement",
-    "category": "financial_insecurity",
-    "confidence": 0.85
+    "summary": "Family conflict over immigration status.",
+    "category": "mental_health_crisis",
+    "confidence": 0.45
   },
   "84": {
-    "summary": "Existential dread about mortality",
-    "category": "existential_dread",
-    "confidence": 0.8
+    "summary": "Grief over loss of cultural roots.",
+    "category": "immigration",
+    "confidence": 0.5
   },
   "85": {
-    "summary": "Chronic illness and loss of independence",
-    "category": "chronic_illness",
-    "confidence": 0.8
+    "summary": "Relationship dissolution after health decline.",
+    "category": "grief_bereavement",
+    "confidence": 0.4
   },
   "86": {
-    "summary": "Family health crisis causing emotional strain",
-    "category": "family_health",
-    "confidence": 0.75
+    "summary": "Isolation from retirement.",
+    "category": "relationship_breakup",
+    "confidence": 0.45
   },
   "87": {
-    "summary": "Loneliness and social isolation",
-    "category": "loneliness",
-    "confidence": 0.8
+    "summary": "Chronic pain from arthritis.",
+    "category": "loneliness_isolation",
+    "confidence": 0.4
   },
   "88": {
-    "summary": "Financial insecurity in retirement",
-    "category": "financial_insecurity",
-    "confidence": 0.85
+    "summary": "Financial insecurity from pension cuts.",
+    "category": "chronic_health_pain",
+    "confidence": 0.45
   },
   "89": {
-    "summary": "Existential dread about mortality",
-    "category": "existential_dread",
-    "confidence": 0.8
+    "summary": "Caregiver burnout from spouse's dementia.",
+    "category": "financial_employment",
+    "confidence": 0.4
   },
   "90": {
-    "summary": "Chronic illness and loss of independence",
-    "category": "chronic_illness",
-    "confidence": 0.8
+    "summary": "Elder abuse from family neglect.",
+    "category": "caregiver_burden",
+    "confidence": 0.35
   },
   "91": {
-    "summary": "Family health crisis causing emotional strain",
-    "category": "family_health",
-    "confidence": 0.75
+    "summary": "Housing insecurity from fixed income.",
+    "category": "violence_abuse",
+    "confidence": 0.35
   },
   "92": {
-    "summary": "Loneliness and social isolation",
-    "category": "loneliness",
-    "confidence": 0.8
+    "summary": "Academic pressure from adult education.",
+    "category": "legal_housing",
+    "confidence": 0.3
   },
   "93": {
-    "summary": "Financial insecurity in retirement",
-    "category": "financial_insecurity",
-    "confidence": 0.85
+    "summary": "Psychological crisis from isolation.",
+    "category": "academic_stress",
+    "confidence": 0.4
   },
   "94": {
-    "summary": "Existential dread about mortality",
-    "category": "existential_dread",
-    "confidence": 0.8
+    "summary": "Family conflict over immigration status.",
+    "category": "mental_health_crisis",
+    "confidence": 0.35
   },
   "95": {
-    "summary": "Chronic illness and loss of independence",
-    "category": "chronic_illness",
-    "confidence": 0.8
+    "summary": "Grief over loss of spouse.",
+    "category": "immigration",
+    "confidence": 0.4
   },
   "96": {
-    "summary": "Family health crisis causing emotional strain",
-    "category": "family_health",
-    "confidence": 0.75
+    "summary": "Relationship dissolution after decades.",
+    "category": "grief_bereavement",
+    "confidence": 0.3
   },
   "97": {
-    "summary": "Loneliness and social isolation",
-    "category": "loneliness",
-    "confidence": 0.8
+    "summary": "Isolation from retirement.",
+    "category": "relationship_breakup",
+    "confidence": 0.35
   },
   "98": {
-    "summary": "Financial insecurity in retirement",
-    "category": "financial_insecurity",
-    "confidence": 0.85
+    "summary": "Chronic pain from age-related illness.",
+    "category": "loneliness_isolation",
+    "confidence": 0.3
   },
   "99": {
-    "summary": "Existential dread about mortality",
-    "category": "existential_dread",
-    "confidence": 0.8
+    "summary": "Financial insecurity from inadequate savings.",
+    "category": "chronic_health_pain",
+    "confidence": 0.3
   },
   "100": {
-    "summary": "Terminal illness and end-of-life concerns",
-    "category": "terminal_illness",
-    "confidence": 0.85
+    "summary": "Caregiver burnout from disabled child.",
+    "category": "financial_employment",
+    "confidence": 0.25
   }
 }

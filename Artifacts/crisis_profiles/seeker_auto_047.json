@@ -1,407 +1,407 @@
 {
   "20": {
-    "summary": "Navigating post-war Barcelona's economic hardship and political repression",
-    "category": "political_repression",
+    "summary": "Family loss during post-war Barcelona turmoil.",
+    "category": "grief_bereavement",
     "confidence": 0.85
   },
   "21": {
-    "summary": "Struggling with unemployment under Franco's regime",
-    "category": "financial_stress",
-    "confidence": 0.8
+    "summary": "Romantic breakup amid political instability.",
+    "category": "relationship_breakup",
+    "confidence": 0.78
   },
   "22": {
-    "summary": "Family obligation conflicts during Barcelona's austerity",
-    "category": "family_dilemma",
-    "confidence": 0.75
+    "summary": "Social isolation after relocating to urban Barcelona.",
+    "category": "loneliness_isolation",
+    "confidence": 0.82
   },
   "23": {
-    "summary": "Cultural isolation amid Barcelona's reconstruction",
-    "category": "loneliness",
-    "confidence": 0.7
+    "summary": "Chronic pain from wartime injuries.",
+    "category": "chronic_health_pain",
+    "confidence": 0.9
   },
   "24": {
-    "summary": "Ethical conflict between tradition and modernization",
-    "category": "value_conflict",
-    "confidence": 0.65
+    "summary": "Struggling to find stable employment post-war.",
+    "category": "financial_employment",
+    "confidence": 0.88
   },
   "25": {
-    "summary": "Career uncertainty in post-war Barcelona's limited opportunities",
-    "category": "career_struggle",
+    "summary": "Caregiver burden for aging parents.",
+    "category": "caregiver_burden",
     "confidence": 0.8
   },
   "26": {
-    "summary": "Emigration decision dilemma between Spain and Brazil",
-    "category": "migration_stress",
-    "confidence": 0.7
-  },
-  "27": {
-    "summary": "Cultural shock adapting to São Paulo's urban intensity",
-    "category": "cultural_shock",
+    "summary": "Surviving political violence in Francoist Spain.",
+    "category": "violence_abuse",
     "confidence": 0.85
   },
-  "28": {
-    "summary": "Political disillusionment under Brazil's military regime",
-    "category": "political_persecution",
+  "27": {
+    "summary": "Legal battles over housing displacement.",
+    "category": "legal_housing",
     "confidence": 0.75
+  },
+  "28": {
+    "summary": "Academic stress during university studies.",
+    "category": "academic_stress",
+    "confidence": 0.7
   },
   "29": {
-    "summary": "Balancing family ties with new immigrant responsibilities",
-    "category": "family_separation",
-    "confidence": 0.7
-  },
-  "30": {
-    "summary": "Economic instability during Brazil's 1970s stagflation",
-    "category": "financial_insecurity",
+    "summary": "Mental health crisis amid societal upheaval.",
+    "category": "mental_health_crisis",
     "confidence": 0.8
   },
+  "30": {
+    "summary": "Immigrating to Brazil for economic survival.",
+    "category": "immigration",
+    "confidence": 0.9
+  },
   "31": {
-    "summary": "Navigating informal economies for survival",
-    "category": "economic_survival",
-    "confidence": 0.75
+    "summary": "Grief over losing a sibling in São Paulo.",
+    "category": "grief_bereavement",
+    "confidence": 0.8
   },
   "32": {
-    "summary": "Generational identity conflict between Spanish and Brazilian cultures",
-    "category": "identity_crisis",
-    "confidence": 0.65
+    "summary": "Relationship breakup due to political differences.",
+    "category": "relationship_breakup",
+    "confidence": 0.7
   },
   "33": {
-    "summary": "Health concerns from industrial pollution exposure",
-    "category": "environmental_health",
-    "confidence": 0.6
+    "summary": "Loneliness in a foreign country without family.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
   },
   "34": {
-    "summary": "Career stagnation in São Paulo's competitive job market",
-    "category": "career_burnout",
-    "confidence": 0.7
+    "summary": "Chronic back pain from manual labor.",
+    "category": "chronic_health_pain",
+    "confidence": 0.85
   },
   "35": {
-    "summary": "Loss of extended family support network",
-    "category": "social_isolation",
-    "confidence": 0.7
+    "summary": "Financial strain as a single parent.",
+    "category": "financial_employment",
+    "confidence": 0.75
   },
   "36": {
-    "summary": "Midlife crisis amid political repression",
-    "category": "existential_crisis",
-    "confidence": 0.65
+    "summary": "Caregiver burden for a chronically ill child.",
+    "category": "caregiver_burden",
+    "confidence": 0.8
   },
   "37": {
-    "summary": "Parenting challenges during Brazil's economic volatility",
-    "category": "parenting_stress",
-    "confidence": 0.7
+    "summary": "Surviving domestic violence in São Paulo slums.",
+    "category": "violence_abuse",
+    "confidence": 0.8
   },
   "38": {
-    "summary": "Balancing artistic passion with financial needs",
-    "category": "creative_block",
-    "confidence": 0.6
+    "summary": "Legal eviction threats in urban Brazil.",
+    "category": "legal_housing",
+    "confidence": 0.7
   },
   "39": {
-    "summary": "Ethical conflict between community values and survival tactics",
-    "category": "moral_dilemma",
-    "confidence": 0.65
+    "summary": "Academic pressure during graduate studies.",
+    "category": "academic_stress",
+    "confidence": 0.7
   },
   "40": {
-    "summary": "Health decline from accumulated stress",
-    "category": "chronic_illness",
-    "confidence": 0.7
+    "summary": "Mental health crisis amid political repression.",
+    "category": "mental_health_crisis",
+    "confidence": 0.8
   },
   "41": {
-    "summary": "Political activism risks under authoritarian regime",
-    "category": "political_risk",
-    "confidence": 0.7
+    "summary": "Immigration struggles in 1970s Brazil.",
+    "category": "immigration",
+    "confidence": 0.85
   },
   "42": {
-    "summary": "Spousal relationship strain from migration trauma",
-    "category": "relationship_dysfunction",
-    "confidence": 0.65
+    "summary": "Grief over losing a spouse in old age.",
+    "category": "grief_bereavement",
+    "confidence": 0.9
   },
   "43": {
-    "summary": "Cultural alienation in multicultural São Paulo",
-    "category": "identity_dissonance",
-    "confidence": 0.6
+    "summary": "Relationship breakup after decades together.",
+    "category": "relationship_breakup",
+    "confidence": 0.8
   },
   "44": {
-    "summary": "Retirement planning anxiety in unstable economy",
-    "category": "financial_insecurity",
-    "confidence": 0.7
+    "summary": "Loneliness after children move abroad.",
+    "category": "loneliness_isolation",
+    "confidence": 0.85
   },
   "45": {
-    "summary": "Caregiving burden for aging parents",
-    "category": "caregiver_burnout",
-    "confidence": 0.65
+    "summary": "Chronic pain from arthritis limiting mobility.",
+    "category": "chronic_health_pain",
+    "confidence": 0.9
   },
   "46": {
-    "summary": "Generational conflict with children's assimilation",
-    "category": "family_tension",
-    "confidence": 0.6
+    "summary": "Financial insecurity in retirement.",
+    "category": "financial_employment",
+    "confidence": 0.75
   },
   "47": {
-    "summary": "Loss of political safe haven",
-    "category": "political_displacement",
-    "confidence": 0.65
+    "summary": "Caregiver burden for a disabled partner.",
+    "category": "caregiver_burden",
+    "confidence": 0.8
   },
   "48": {
-    "summary": "Creative stagnation in academic career",
-    "category": "career_block",
-    "confidence": 0.6
+    "summary": "Surviving elder abuse in a nursing home.",
+    "category": "violence_abuse",
+    "confidence": 0.7
   },
   "49": {
-    "summary": "Health crisis from environmental exposure",
-    "category": "chronic_illness",
-    "confidence": 0.7
+    "summary": "Legal battles over inheritance disputes.",
+    "category": "legal_housing",
+    "confidence": 0.65
   },
   "50": {
-    "summary": "Midlife health deterioration",
-    "category": "health_decline",
-    "confidence": 0.75
+    "summary": "Academic stress retiring early.",
+    "category": "academic_stress",
+    "confidence": 0.6
   },
   "51": {
-    "summary": "Spousal relationship reassessment",
-    "category": "relationship_dysfunction",
-    "confidence": 0.65
+    "summary": "Mental health crisis amid aging stigma.",
+    "category": "mental_health_crisis",
+    "confidence": 0.7
   },
   "52": {
-    "summary": "Parenting children's independence challenges",
-    "category": "family_tension",
-    "confidence": 0.6
+    "summary": "Immigration identity conflicts in old age.",
+    "category": "immigration",
+    "confidence": 0.7
   },
   "53": {
-    "summary": "Ethical conflict between tradition and modern values",
-    "category": "value_conflict",
-    "confidence": 0.6
+    "summary": "Grief over losing a lifelong friend.",
+    "category": "grief_bereavement",
+    "confidence": 0.85
   },
   "54": {
-    "summary": "Financial strain from children's education costs",
-    "category": "financial_stress",
-    "confidence": 0.7
+    "summary": "Relationship breakup after 50 years.",
+    "category": "relationship_breakup",
+    "confidence": 0.8
   },
   "55": {
-    "summary": "Political disillusionment with regime changes",
-    "category": "political_disillusionment",
-    "confidence": 0.65
+    "summary": "Loneliness after children relocate.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
   },
   "56": {
-    "summary": "Health decline from chronic conditions",
-    "category": "chronic_illness",
-    "confidence": 0.7
+    "summary": "Chronic pain from Parkinson's disease.",
+    "category": "chronic_health_pain",
+    "confidence": 0.9
   },
   "57": {
-    "summary": "Spousal loss of shared purpose",
-    "category": "grief",
-    "confidence": 0.65
+    "summary": "Financial strain from medical bills.",
+    "category": "financial_employment",
+    "confidence": 0.7
   },
   "58": {
-    "summary": "Caregiving burden for aging spouse",
-    "category": "caregiver_burnout",
-    "confidence": 0.7
+    "summary": "Caregiver burden for a dying spouse.",
+    "category": "caregiver_burden",
+    "confidence": 0.8
   },
   "59": {
-    "summary": "Generational disconnect with grandchildren",
-    "category": "loneliness",
-    "confidence": 0.65
+    "summary": "Surviving elder abuse from caretakers.",
+    "category": "violence_abuse",
+    "confidence": 0.7
   },
   "60": {
-    "summary": "Retirement adjustment challenges",
-    "category": "career_transition",
-    "confidence": 0.7
+    "summary": "Legal battles over housing rights.",
+    "category": "legal_housing",
+    "confidence": 0.6
   },
   "61": {
-    "summary": "Health anxiety from declining vitality",
-    "category": "health_anxiety",
-    "confidence": 0.7
+    "summary": "Academic stress retiring from teaching.",
+    "category": "academic_stress",
+    "confidence": 0.5
   },
   "62": {
-    "summary": "Spousal relationship strain from health issues",
-    "category": "relationship_dysfunction",
-    "confidence": 0.65
+    "summary": "Mental health crisis amid isolation.",
+    "category": "mental_health_crisis",
+    "confidence": 0.7
   },
   "63": {
-    "summary": "Financial insecurity in retirement",
-    "category": "financial_insecurity",
-    "confidence": 0.7
+    "summary": "Immigration nostalgia and cultural dissonance.",
+    "category": "immigration",
+    "confidence": 0.65
   },
   "64": {
-    "summary": "Loss of professional identity",
-    "category": "existential_crisis",
-    "confidence": 0.65
+    "summary": "Grief over losing a grandchild.",
+    "category": "grief_bereavement",
+    "confidence": 0.8
   },
   "65": {
-    "summary": "Health decline impacting hobbies",
-    "category": "chronic_pain",
-    "confidence": 0.7
-  },
-  "66": {
-    "summary": "Spousal loss of companion",
-    "category": "grief",
-    "confidence": 0.65
-  },
-  "67": {
-    "summary": "Caregiving for aging parents",
-    "category": "caregiver_burnout",
-    "confidence": 0.7
-  },
-  "68": {
-    "summary": "Generational isolation from children's relocation",
-    "category": "loneliness",
-    "confidence": 0.65
-  },
-  "69": {
-    "summary": "Financial strain from healthcare costs",
-    "category": "financial_stress",
-    "confidence": 0.7
-  },
-  "70": {
-    "summary": "Health deterioration limiting mobility",
-    "category": "mobility_issues",
+    "summary": "Relationship breakup after 60 years.",
+    "category": "relationship_breakup",
     "confidence": 0.75
   },
+  "66": {
+    "summary": "Loneliness after losing a spouse.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
+  },
+  "67": {
+    "summary": "Chronic pain from spinal degeneration.",
+    "category": "chronic_health_pain",
+    "confidence": 0.85
+  },
+  "68": {
+    "summary": "Financial insecurity in retirement.",
+    "category": "financial_employment",
+    "confidence": 0.7
+  },
+  "69": {
+    "summary": "Caregiver burden for a disabled child.",
+    "category": "caregiver_burden",
+    "confidence": 0.6
+  },
+  "70": {
+    "summary": "Surviving elder abuse in a care facility.",
+    "category": "violence_abuse",
+    "confidence": 0.7
+  },
   "71": {
-    "summary": "Spousal relationship reassessment",
-    "category": "relationship_dysfunction",
-    "confidence": 0.65
+    "summary": "Legal battles over property inheritance.",
+    "category": "legal_housing",
+    "confidence": 0.6
   },
   "72": {
-    "summary": "Loss of community roles",
-    "category": "social_isolation",
-    "confidence": 0.65
+    "summary": "Academic stress retiring from research.",
+    "category": "academic_stress",
+    "confidence": 0.5
   },
   "73": {
-    "summary": "Caregiving burden for spouse",
-    "category": "caregiver_burnout",
+    "summary": "Mental health crisis amid aging stigma.",
+    "category": "mental_health_crisis",
     "confidence": 0.7
   },
   "74": {
-    "summary": "Generational disconnect with grandchildren",
-    "category": "loneliness",
-    "confidence": 0.65
+    "summary": "Immigration identity conflicts in old age.",
+    "category": "immigration",
+    "confidence": 0.6
   },
   "75": {
-    "summary": "Health decline impacting cooking passion",
-    "category": "chronic_illness",
-    "confidence": 0.7
+    "summary": "Grief over losing a lifelong friend.",
+    "category": "grief_bereavement",
+    "confidence": 0.8
   },
   "76": {
-    "summary": "Spousal loss of shared history",
-    "category": "grief",
-    "confidence": 0.65
-  },
-  "77": {
-    "summary": "Financial insecurity from fixed income",
-    "category": "financial_insecurity",
-    "confidence": 0.7
-  },
-  "78": {
-    "summary": "Caregiving for aging spouse",
-    "category": "caregiver_burnout",
-    "confidence": 0.7
-  },
-  "79": {
-    "summary": "Loss of cultural community ties",
-    "category": "loneliness",
-    "confidence": 0.65
-  },
-  "80": {
-    "summary": "Health decline limiting bird watching",
-    "category": "chronic_pain",
+    "summary": "Relationship breakup after 60 years.",
+    "category": "relationship_breakup",
     "confidence": 0.75
   },
-  "81": {
-    "summary": "Spousal relationship strain from health issues",
-    "category": "relationship_dysfunction",
-    "confidence": 0.65
+  "77": {
+    "summary": "Loneliness after children relocate.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
   },
-  "82": {
-    "summary": "Caregiving burden for spouse",
-    "category": "caregiver_burnout",
+  "78": {
+    "summary": "Chronic pain from arthritis.",
+    "category": "chronic_health_pain",
+    "confidence": 0.85
+  },
+  "79": {
+    "summary": "Financial strain from medical bills.",
+    "category": "financial_employment",
     "confidence": 0.7
   },
+  "80": {
+    "summary": "Caregiver burden for a dying spouse.",
+    "category": "caregiver_burden",
+    "confidence": 0.8
+  },
+  "81": {
+    "summary": "Surviving elder abuse from caretakers.",
+    "category": "violence_abuse",
+    "confidence": 0.7
+  },
+  "82": {
+    "summary": "Legal battles over housing rights.",
+    "category": "legal_housing",
+    "confidence": 0.6
+  },
   "83": {
-    "summary": "Generational isolation from children's relocation",
-    "category": "loneliness",
-    "confidence": 0.65
+    "summary": "Academic stress retiring from teaching.",
+    "category": "academic_stress",
+    "confidence": 0.5
   },
   "84": {
-    "summary": "Financial strain from healthcare costs",
-    "category": "financial_stress",
+    "summary": "Mental health crisis amid isolation.",
+    "category": "mental_health_crisis",
     "confidence": 0.7
   },
   "85": {
-    "summary": "Health decline impacting guitar playing",
-    "category": "chronic_illness",
-    "confidence": 0.75
+    "summary": "Immigration nostalgia and cultural dissonance.",
+    "category": "immigration",
+    "confidence": 0.6
   },
   "86": {
-    "summary": "Spousal loss of shared purpose",
-    "category": "grief",
-    "confidence": 0.65
+    "summary": "Grief over losing a grandchild.",
+    "category": "grief_bereavement",
+    "confidence": 0.8
   },
   "87": {
-    "summary": "Caregiving for aging spouse",
-    "category": "caregiver_burnout",
-    "confidence": 0.7
-  },
-  "88": {
-    "summary": "Loss of cultural community ties",
-    "category": "loneliness",
-    "confidence": 0.65
-  },
-  "89": {
-    "summary": "Financial insecurity from inflation",
-    "category": "financial_insecurity",
-    "confidence": 0.7
-  },
-  "90": {
-    "summary": "Health decline limiting mobility",
-    "category": "mobility_issues",
+    "summary": "Relationship breakup after 60 years.",
+    "category": "relationship_breakup",
     "confidence": 0.75
   },
+  "88": {
+    "summary": "Loneliness after losing a spouse.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
+  },
+  "89": {
+    "summary": "Chronic pain from spinal degeneration.",
+    "category": "chronic_health_pain",
+    "confidence": 0.85
+  },
+  "90": {
+    "summary": "Financial insecurity in retirement.",
+    "category": "financial_employment",
+    "confidence": 0.7
+  },
   "91": {
-    "summary": "Spousal relationship reassessment",
-    "category": "relationship_dysfunction",
-    "confidence": 0.65
+    "summary": "Caregiver burden for a disabled child.",
+    "category": "caregiver_burden",
+    "confidence": 0.6
   },
   "92": {
-    "summary": "Caregiving burden for spouse",
-    "category": "caregiver_burnout",
+    "summary": "Surviving elder abuse in a care facility.",
+    "category": "violence_abuse",
     "confidence": 0.7
   },
   "93": {
-    "summary": "Generational disconnect with grandchildren",
-    "category": "loneliness",
-    "confidence": 0.65
+    "summary": "Legal battles over property inheritance.",
+    "category": "legal_housing",
+    "confidence": 0.6
   },
   "94": {
-    "summary": "Financial strain from healthcare costs",
-    "category": "financial_stress",
-    "confidence": 0.7
+    "summary": "Academic stress retiring from research.",
+    "category": "academic_stress",
+    "confidence": 0.5
   },
   "95": {
-    "summary": "Health decline impacting cooking passion",
-    "category": "chronic_illness",
-    "confidence": 0.75
+    "summary": "Mental health crisis amid aging stigma.",
+    "category": "mental_health_crisis",
+    "confidence": 0.7
   },
   "96": {
-    "summary": "Spousal loss of companion",
-    "category": "grief",
-    "confidence": 0.65
+    "summary": "Immigration identity conflicts in old age.",
+    "category": "immigration",
+    "confidence": 0.6
   },
   "97": {
-    "summary": "Caregiving for aging spouse",
-    "category": "caregiver_burnout",
-    "confidence": 0.7
+    "summary": "Grief over losing a lifelong friend.",
+    "category": "grief_bereavement",
+    "confidence": 0.8
   },
   "98": {
-    "summary": "Loss of cultural community ties",
-    "category": "loneliness",
-    "confidence": 0.65
+    "summary": "Relationship breakup after 60 years.",
+    "category": "relationship_breakup",
+    "confidence": 0.75
   },
   "99": {
-    "summary": "Financial insecurity from fixed income",
-    "category": "financial_insecurity",
-    "confidence": 0.7
+    "summary": "Loneliness after children relocate.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
   },
   "100": {
-    "summary": "Depression following spousal loss and declining mobility",
-    "category": "depression",
-    "confidence": 0.9
+    "summary": "Chronic pain from declining health.",
+    "category": "chronic_health_pain",
+    "confidence": 0.95
   }
 }

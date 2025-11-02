@@ -1,407 +1,407 @@
 {
   "20": {
-    "summary": "Identity conflict as dual-national immigrant adjusting to new country.",
-    "category": "identity_crisis",
-    "confidence": 0.7
+    "summary": "Trauma from witnessing violence manifests as anxiety.",
+    "category": "mental_health_crisis",
+    "confidence": 0.95
   },
   "21": {
-    "summary": "Financial stress from student loans and entry-level job instability.",
-    "category": "financial_stress",
-    "confidence": 0.6
+    "summary": "Navigating immigration paperwork amid cultural displacement.",
+    "category": "immigration",
+    "confidence": 0.85
   },
   "22": {
-    "summary": "Burnout from overcommitting to community volunteering and work.",
-    "category": "burnout",
-    "confidence": 0.7
+    "summary": "Grieving loss of stability during pandemic lockdowns.",
+    "category": "grief_bereavement",
+    "confidence": 0.8
   },
   "23": {
-    "summary": "Relationship conflict due to cultural differences and immigration status.",
-    "category": "relationship_conflict",
-    "confidence": 0.6
-  },
-  "24": {
-    "summary": "Career stagnation in nonprofit sector with limited advancement.",
-    "category": "career_stagnation",
-    "confidence": 0.6
-  },
-  "25": {
-    "summary": "Social isolation from high rumination and low emotional expressiveness.",
-    "category": "loneliness",
-    "confidence": 0.7
-  },
-  "26": {
-    "summary": "Persistent anxiety and dissociation after witnessing intimate partner violence.",
-    "category": "trauma",
-    "confidence": 1.0
-  },
-  "27": {
-    "summary": "Struggling to integrate trauma recovery into daily life and work.",
-    "category": "trauma_recovery",
+    "summary": "Post-breakup isolation after ending unsafe relationship.",
+    "category": "relationship_breakup",
     "confidence": 0.9
   },
-  "28": {
-    "summary": "Microaggressions at work eroding self-esteem and professional confidence.",
-    "category": "discrimination",
+  "24": {
+    "summary": "Isolation in new city after moving to LA for work.",
+    "category": "loneliness_isolation",
     "confidence": 0.8
+  },
+  "25": {
+    "summary": "Stress-induced chronic pain from hypervigilance.",
+    "category": "chronic_health_pain",
+    "confidence": 0.85
+  },
+  "26": {
+    "summary": "Job insecurity as community organizer amid funding cuts.",
+    "category": "financial_employment",
+    "confidence": 0.9
+  },
+  "27": {
+    "summary": "Burnout from caregiving responsibilities at clinic.",
+    "category": "caregiver_burden",
+    "confidence": 0.8
+  },
+  "28": {
+    "summary": "Re-experiencing trauma from past abuse in new environment.",
+    "category": "violence_abuse",
+    "confidence": 0.95
   },
   "29": {
-    "summary": "Financial stress from high housing costs in Los Angeles.",
-    "category": "financial_stress",
-    "confidence": 0.7
+    "summary": "Housing instability after unexpected rent hike.",
+    "category": "legal_housing",
+    "confidence": 0.75
   },
   "30": {
-    "summary": "Career burnout from long-term community organizing efforts.",
-    "category": "burnout",
-    "confidence": 0.8
+    "summary": "Pressure to excel academically despite trauma.",
+    "category": "academic_stress",
+    "confidence": 0.7
   },
   "31": {
-    "summary": "Relationship challenges due to differing life goals and cultural expectations.",
-    "category": "relationship_conflict",
-    "confidence": 0.6
+    "summary": "Relapse of dissociation during crowded events.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "32": {
-    "summary": "Health issues from chronic stress and anxiety disorders.",
-    "category": "health_issues",
-    "confidence": 0.7
+    "summary": "Family immigration status causing ongoing stress.",
+    "category": "immigration",
+    "confidence": 0.8
   },
   "33": {
-    "summary": "Midlife crisis questioning life choices and seeking greater meaning.",
-    "category": "midlife_crisis",
-    "confidence": 0.6
+    "summary": "Grief over lost childhood stability resurfaces.",
+    "category": "grief_bereavement",
+    "confidence": 0.8
   },
   "34": {
-    "summary": "Financial planning stress for retirement and home ownership.",
-    "category": "financial_planning",
-    "confidence": 0.7
+    "summary": "Conflict in new relationship triggers past trauma.",
+    "category": "relationship_breakup",
+    "confidence": 0.85
   },
   "35": {
-    "summary": "Family planning decisions causing stress and uncertainty.",
-    "category": "family_planning",
-    "confidence": 0.6
+    "summary": "Isolation despite socializing due to emotional numbness.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
   },
   "36": {
-    "summary": "Career transition or plateau in nonprofit sector.",
-    "category": "career_transition",
-    "confidence": 0.6
+    "summary": "Chronic back pain from prolonged stress posture.",
+    "category": "chronic_health_pain",
+    "confidence": 0.75
   },
   "37": {
-    "summary": "Work-life balance challenges with young children.",
-    "category": "work_life_balance",
-    "confidence": 0.7
+    "summary": "Job loss after organizational restructuring.",
+    "category": "financial_employment",
+    "confidence": 0.85
   },
   "38": {
-    "summary": "Chronic pain from stress-related conditions and aging.",
-    "category": "chronic_pain",
+    "summary": "Caregiver guilt over unable to protect loved ones.",
+    "category": "caregiver_burden",
     "confidence": 0.7
   },
   "39": {
-    "summary": "Financial stress supporting aging parents.",
-    "category": "financial_stress",
-    "confidence": 0.6
+    "summary": "Legal threats from abusive ex-partner.",
+    "category": "violence_abuse",
+    "confidence": 0.9
   },
   "40": {
-    "summary": "Midlife reassessment feeling unfulfilled in career.",
-    "category": "midlife_crisis",
+    "summary": "Eviction threat due to landlord disputes.",
+    "category": "legal_housing",
     "confidence": 0.7
   },
   "41": {
-    "summary": "Family stress from children's education and career choices.",
-    "category": "family_stress",
-    "confidence": 0.7
+    "summary": "Academic pressure to complete delayed degree.",
+    "category": "academic_stress",
+    "confidence": 0.65
   },
   "42": {
-    "summary": "Chronic hypertension and anxiety disorders.",
-    "category": "chronic_health",
-    "confidence": 0.8
+    "summary": "Anxiety spikes during community violence protests.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "43": {
-    "summary": "Burnout from long-term service in nonprofit sector.",
-    "category": "burnout",
+    "summary": "Visa renewal stress after immigration policy changes.",
+    "category": "immigration",
     "confidence": 0.8
   },
   "44": {
-    "summary": "Financial planning stress for retirement and children's education.",
-    "category": "financial_planning",
-    "confidence": 0.7
+    "summary": "Grief over distant family member's death.",
+    "category": "grief_bereavement",
+    "confidence": 0.75
   },
   "45": {
-    "summary": "Family conflicts with adult children.",
-    "category": "family_conflict",
-    "confidence": 0.6
-  },
-  "46": {
-    "summary": "Arthritis and mobility issues from aging.",
-    "category": "chronic_pain",
-    "confidence": 0.7
-  },
-  "47": {
-    "summary": "Financial stress from healthcare costs.",
-    "category": "financial_stress",
+    "summary": "Post-breakup PTSD from toxic relationship.",
+    "category": "relationship_breakup",
     "confidence": 0.8
   },
-  "48": {
-    "summary": "Career transition considering retirement or new ventures.",
-    "category": "career_transition",
+  "46": {
+    "summary": "Isolation during pandemic lockdowns intensifies trauma.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
+  },
+  "47": {
+    "summary": "Chronic migraines from unresolved trauma.",
+    "category": "chronic_health_pain",
     "confidence": 0.7
+  },
+  "48": {
+    "summary": "Financial strain from medical bills.",
+    "category": "financial_employment",
+    "confidence": 0.75
   },
   "49": {
-    "summary": "Vision and hearing loss impacting hobbies and independence.",
-    "category": "health_issues",
-    "confidence": 0.7
+    "summary": "Caregiver burnout from elderly relative's illness.",
+    "category": "caregiver_burden",
+    "confidence": 0.65
   },
   "50": {
-    "summary": "Midlife reassessment feeling unfulfilled in life.",
-    "category": "midlife_crisis",
-    "confidence": 0.6
+    "summary": "Re-victimization in new abusive relationship.",
+    "category": "violence_abuse",
+    "confidence": 0.9
   },
   "51": {
-    "summary": "Empty nest syndrome loneliness after children leave home.",
-    "category": "loneliness",
+    "summary": "Housing discrimination lawsuit filed.",
+    "category": "legal_housing",
     "confidence": 0.7
   },
   "52": {
-    "summary": "Financial stress supporting aging parents.",
-    "category": "financial_stress",
-    "confidence": 0.7
+    "summary": "Academic pressure from pursuing advanced degree.",
+    "category": "academic_stress",
+    "confidence": 0.6
   },
   "53": {
-    "summary": "Chronic diabetes and cardiovascular issues.",
-    "category": "chronic_health",
-    "confidence": 0.8
+    "summary": "Flashbacks during crowded public events.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "54": {
-    "summary": "Family stress caring for aging parents.",
-    "category": "family_stress",
-    "confidence": 0.7
-  },
-  "55": {
-    "summary": "Retirement planning stress and financial uncertainty.",
-    "category": "financial_planning",
+    "summary": "Family deportation threat causes panic attacks.",
+    "category": "immigration",
     "confidence": 0.8
   },
+  "55": {
+    "summary": "Grief over childhood home lost to gentrification.",
+    "category": "grief_bereavement",
+    "confidence": 0.7
+  },
   "56": {
-    "summary": "Mobility problems and chronic pain from arthritis.",
-    "category": "chronic_pain",
+    "summary": "Post-breakup hypervigilance in new relationships.",
+    "category": "relationship_breakup",
     "confidence": 0.8
   },
   "57": {
-    "summary": "Financial stress from escalating healthcare costs.",
-    "category": "financial_stress",
+    "summary": "Isolation despite community work due to trauma.",
+    "category": "loneliness_isolation",
     "confidence": 0.8
   },
   "58": {
-    "summary": "Burnout from long-term service in nonprofit sector.",
-    "category": "burnout",
+    "summary": "Chronic pain from unresolved childhood injuries.",
+    "category": "chronic_health_pain",
     "confidence": 0.7
   },
   "59": {
-    "summary": "Heart disease and stroke risk from chronic conditions.",
-    "category": "chronic_health",
-    "confidence": 0.8
+    "summary": "Job insecurity in nonprofit sector.",
+    "category": "financial_employment",
+    "confidence": 0.75
   },
   "60": {
-    "summary": "Retirement adjustment loss of identity and purpose.",
-    "category": "identity_crisis",
-    "confidence": 0.7
+    "summary": "Caregiver guilt over unable to protect family.",
+    "category": "caregiver_burden",
+    "confidence": 0.6
   },
   "61": {
-    "summary": "Financial stress from fixed income and living costs.",
-    "category": "financial_stress",
-    "confidence": 0.8
+    "summary": "Legal battles with abusive ex-partner.",
+    "category": "violence_abuse",
+    "confidence": 0.85
   },
   "62": {
-    "summary": "Cognitive decline and dementia risk.",
-    "category": "chronic_health",
-    "confidence": 0.8
+    "summary": "Housing instability after eviction.",
+    "category": "legal_housing",
+    "confidence": 0.7
   },
   "63": {
-    "summary": "Family conflicts with adult children and grandchildren.",
-    "category": "family_conflict",
-    "confidence": 0.7
+    "summary": "Academic pressure from delayed studies.",
+    "category": "academic_stress",
+    "confidence": 0.6
   },
   "64": {
-    "summary": "Financial stress from healthcare costs.",
-    "category": "financial_stress",
-    "confidence": 0.8
+    "summary": "Anxiety during community violence coverage.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "65": {
-    "summary": "Retirement planning stress adjusting to new lifestyle.",
-    "category": "financial_planning",
-    "confidence": 0.7
+    "summary": "Family immigration status causes ongoing stress.",
+    "category": "immigration",
+    "confidence": 0.75
   },
   "66": {
-    "summary": "Chronic pain and mobility issues.",
-    "category": "chronic_pain",
-    "confidence": 0.8
+    "summary": "Grief over lost childhood stability resurfaces.",
+    "category": "grief_bereavement",
+    "confidence": 0.7
   },
   "67": {
-    "summary": "Financial stress from healthcare and living costs.",
-    "category": "financial_stress",
+    "summary": "Post-breakup PTSD from toxic relationship.",
+    "category": "relationship_breakup",
     "confidence": 0.8
   },
   "68": {
-    "summary": "Vision and hearing loss impacting independence.",
-    "category": "health_issues",
-    "confidence": 0.7
+    "summary": "Isolation despite socializing due to emotional numbness.",
+    "category": "loneliness_isolation",
+    "confidence": 0.75
   },
   "69": {
-    "summary": "Family stress caring for aging parents.",
-    "category": "family_stress",
-    "confidence": 0.7
+    "summary": "Chronic pain from prolonged stress posture.",
+    "category": "chronic_health_pain",
+    "confidence": 0.65
   },
   "70": {
-    "summary": "Retirement adjustment loneliness and isolation.",
-    "category": "loneliness",
+    "summary": "Job loss after organizational restructuring.",
+    "category": "financial_employment",
     "confidence": 0.7
   },
   "71": {
-    "summary": "Financial stress from healthcare costs.",
-    "category": "financial_stress",
-    "confidence": 0.8
+    "summary": "Caregiver burden from elderly relative's illness.",
+    "category": "caregiver_burden",
+    "confidence": 0.6
   },
   "72": {
-    "summary": "Chronic conditions requiring ongoing medical care.",
-    "category": "chronic_health",
-    "confidence": 0.8
+    "summary": "Re-victimization in new abusive relationship.",
+    "category": "violence_abuse",
+    "confidence": 0.85
   },
   "73": {
-    "summary": "Family conflicts with adult children.",
-    "category": "family_conflict",
-    "confidence": 0.7
+    "summary": "Housing discrimination lawsuit ongoing.",
+    "category": "legal_housing",
+    "confidence": 0.65
   },
   "74": {
-    "summary": "Financial stress from healthcare costs.",
-    "category": "financial_stress",
-    "confidence": 0.8
+    "summary": "Academic pressure to complete delayed degree.",
+    "category": "academic_stress",
+    "confidence": 0.6
   },
   "75": {
-    "summary": "Retirement adjustment loss of purpose.",
-    "category": "identity_crisis",
-    "confidence": 0.7
+    "summary": "Flashbacks during crowded public events.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "76": {
-    "summary": "Mobility issues and chronic pain.",
-    "category": "chronic_pain",
-    "confidence": 0.8
+    "summary": "Visa renewal stress after immigration policy changes.",
+    "category": "immigration",
+    "confidence": 0.75
   },
   "77": {
-    "summary": "Financial stress from healthcare costs.",
-    "category": "financial_stress",
-    "confidence": 0.8
+    "summary": "Grief over distant family member's death.",
+    "category": "grief_bereavement",
+    "confidence": 0.7
   },
   "78": {
-    "summary": "Cognitive decline requiring caregiver support.",
-    "category": "chronic_health",
+    "summary": "Post-breakup hypervigilance in new relationships.",
+    "category": "relationship_breakup",
     "confidence": 0.8
   },
   "79": {
-    "summary": "Family stress caring for aging parents.",
-    "category": "family_stress",
-    "confidence": 0.7
+    "summary": "Isolation during pandemic lockdowns intensifies trauma.",
+    "category": "loneliness_isolation",
+    "confidence": 0.75
   },
   "80": {
-    "summary": "Retirement adjustment loneliness and isolation.",
-    "category": "loneliness",
-    "confidence": 0.7
+    "summary": "Chronic migraines from unresolved trauma.",
+    "category": "chronic_health_pain",
+    "confidence": 0.65
   },
   "81": {
-    "summary": "Financial stress from healthcare costs.",
-    "category": "financial_stress",
-    "confidence": 0.8
+    "summary": "Financial strain from medical bills.",
+    "category": "financial_employment",
+    "confidence": 0.7
   },
   "82": {
-    "summary": "Chronic conditions requiring ongoing care.",
-    "category": "chronic_health",
-    "confidence": 0.8
+    "summary": "Caregiver burnout from elderly relative's illness.",
+    "category": "caregiver_burden",
+    "confidence": 0.6
   },
   "83": {
-    "summary": "Family conflicts with adult children.",
-    "category": "family_conflict",
-    "confidence": 0.7
+    "summary": "Legal threats from abusive ex-partner.",
+    "category": "violence_abuse",
+    "confidence": 0.85
   },
   "84": {
-    "summary": "Financial stress from healthcare costs.",
-    "category": "financial_stress",
-    "confidence": 0.8
+    "summary": "Eviction threat due to landlord disputes.",
+    "category": "legal_housing",
+    "confidence": 0.65
   },
   "85": {
-    "summary": "Retirement adjustment loss of purpose.",
-    "category": "identity_crisis",
-    "confidence": 0.7
+    "summary": "Academic pressure from pursuing advanced degree.",
+    "category": "academic_stress",
+    "confidence": 0.6
   },
   "86": {
-    "summary": "Mobility issues and chronic pain.",
-    "category": "chronic_pain",
-    "confidence": 0.8
+    "summary": "Anxiety spikes during community violence protests.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "87": {
-    "summary": "Financial stress from healthcare costs.",
-    "category": "financial_stress",
-    "confidence": 0.8
+    "summary": "Family deportation threat causes panic attacks.",
+    "category": "immigration",
+    "confidence": 0.75
   },
   "88": {
-    "summary": "Cognitive decline requiring full-time care.",
-    "category": "chronic_health",
-    "confidence": 0.8
+    "summary": "Grief over childhood home lost to gentrification.",
+    "category": "grief_bereavement",
+    "confidence": 0.7
   },
   "89": {
-    "summary": "Family stress caring for aging parents.",
-    "category": "family_stress",
-    "confidence": 0.7
+    "summary": "Post-breakup PTSD from toxic relationship.",
+    "category": "relationship_breakup",
+    "confidence": 0.8
   },
   "90": {
-    "summary": "Retirement adjustment loneliness and isolation.",
-    "category": "loneliness",
-    "confidence": 0.7
+    "summary": "Isolation despite community work due to trauma.",
+    "category": "loneliness_isolation",
+    "confidence": 0.75
   },
   "91": {
-    "summary": "Financial stress from healthcare costs.",
-    "category": "financial_stress",
-    "confidence": 0.8
+    "summary": "Chronic pain from unresolved childhood injuries.",
+    "category": "chronic_health_pain",
+    "confidence": 0.65
   },
   "92": {
-    "summary": "Chronic conditions requiring ongoing care.",
-    "category": "chronic_health",
-    "confidence": 0.8
-  },
-  "93": {
-    "summary": "Family conflicts with adult children.",
-    "category": "family_conflict",
+    "summary": "Job insecurity in nonprofit sector.",
+    "category": "financial_employment",
     "confidence": 0.7
   },
+  "93": {
+    "summary": "Caregiver guilt over unable to protect family.",
+    "category": "caregiver_burden",
+    "confidence": 0.6
+  },
   "94": {
-    "summary": "Financial stress from healthcare costs.",
-    "category": "financial_stress",
+    "summary": "Legal battles with abusive ex-partner.",
+    "category": "violence_abuse",
     "confidence": 0.8
   },
   "95": {
-    "summary": "Retirement adjustment loss of purpose.",
-    "category": "identity_crisis",
-    "confidence": 0.7
+    "summary": "Housing instability after eviction.",
+    "category": "legal_housing",
+    "confidence": 0.65
   },
   "96": {
-    "summary": "Mobility issues and chronic pain.",
-    "category": "chronic_pain",
-    "confidence": 0.8
+    "summary": "Academic pressure from delayed studies.",
+    "category": "academic_stress",
+    "confidence": 0.6
   },
   "97": {
-    "summary": "Financial stress from healthcare costs.",
-    "category": "financial_stress",
-    "confidence": 0.8
+    "summary": "Flashbacks during crowded public events.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "98": {
-    "summary": "Cognitive decline requiring full-time care.",
-    "category": "chronic_health",
-    "confidence": 0.8
+    "summary": "Family immigration status causes ongoing stress.",
+    "category": "immigration",
+    "confidence": 0.7
   },
   "99": {
-    "summary": "Family stress caring for aging parents.",
-    "category": "family_stress",
+    "summary": "Grief over lost childhood stability resurfaces.",
+    "category": "grief_bereavement",
     "confidence": 0.7
   },
   "100": {
-    "summary": "Retirement adjustment loneliness and isolation.",
-    "category": "loneliness",
-    "confidence": 0.7
+    "summary": "Post-breakup hypervigilance in new relationships.",
+    "category": "relationship_breakup",
+    "confidence": 0.8
   }
 }

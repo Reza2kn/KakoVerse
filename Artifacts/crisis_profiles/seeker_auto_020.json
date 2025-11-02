@@ -1,407 +1,407 @@
 {
   "20": {
-    "summary": "Navigating immigration paperwork and cultural shock upon arrival in Chicago.",
-    "category": "cultural_adjustment",
-    "confidence": 0.9
+    "summary": "Workplace harassment in factory amid cultural clashes",
+    "category": "violence_abuse",
+    "confidence": 0.85
   },
   "21": {
-    "summary": "First workplace discrimination incident causing anxiety and isolation.",
-    "category": "discrimination_stress",
+    "summary": "Eviction threat due to unstable immigrant housing contracts",
+    "category": "legal_housing",
     "confidence": 0.8
   },
   "22": {
-    "summary": "Financial strain from supporting family in Nigeria while facing low wages.",
-    "category": "financial_guilt",
-    "confidence": 0.85
+    "summary": "Pressure to learn English while working technical shifts",
+    "category": "academic_stress",
+    "confidence": 0.7
   },
   "23": {
-    "summary": "Loneliness from minimal social connections and language barriers.",
-    "category": "loneliness",
+    "summary": "Severe anxiety over cultural displacement and identity loss",
+    "category": "mental_health_crisis",
     "confidence": 0.9
   },
   "24": {
-    "summary": "Job insecurity due to economic downturn in steel industry.",
-    "category": "job_loss",
-    "confidence": 0.75
+    "summary": "Visa renewal fears after workplace immigration audit",
+    "category": "immigration",
+    "confidence": 0.85
   },
   "25": {
-    "summary": "Acute cultural adjustment disorder with grief and identity disruption.",
-    "category": "grief",
-    "confidence": 1.0
+    "summary": "Grief over irreversible loss of Nigerian community ties",
+    "category": "grief_bereavement",
+    "confidence": 0.95
   },
   "26": {
-    "summary": "Chronic health issues from factory work with limited healthcare access.",
-    "category": "chronic_health",
+    "summary": "Breakup after partner rejected due to cultural differences",
+    "category": "relationship_breakup",
     "confidence": 0.7
   },
   "27": {
-    "summary": "Burnout from demanding factory job and community obligations.",
-    "category": "burnout",
-    "confidence": 0.7
+    "summary": "Isolation during holidays without local support networks",
+    "category": "loneliness_isolation",
+    "confidence": 0.9
   },
   "28": {
-    "summary": "Financial crisis preventing marriage or starting a family.",
-    "category": "relationship_stress",
+    "summary": "Chronic back pain from factory labor limiting mobility",
+    "category": "chronic_health_pain",
     "confidence": 0.8
   },
   "29": {
-    "summary": "Visa renewal stress creating uncertainty about future in US.",
-    "category": "immigration_stress",
-    "confidence": 0.7
+    "summary": "Job insecurity during industrial slowdowns",
+    "category": "financial_employment",
+    "confidence": 0.9
   },
   "30": {
-    "summary": "Midlife crisis questioning career path and cultural identity.",
-    "category": "midlife_crisis",
-    "confidence": 0.7
-  },
-  "31": {
-    "summary": "Grief over loss of Nigerian family member unable to visit.",
-    "category": "grief",
-    "confidence": 0.8
-  },
-  "32": {
-    "summary": "Health costs straining finances with minimal insurance.",
-    "category": "health_financial",
-    "confidence": 0.75
-  },
-  "33": {
-    "summary": "Existential loneliness without children or extended family.",
-    "category": "existential_loneliness",
-    "confidence": 0.8
-  },
-  "34": {
-    "summary": "Workplace injury requiring medical leave and income loss.",
-    "category": "injury",
+    "summary": "Caregiving strain for ill relative back home",
+    "category": "caregiver_burden",
     "confidence": 0.6
   },
+  "31": {
+    "summary": "Physical altercation with supervisor over unfair treatment",
+    "category": "violence_abuse",
+    "confidence": 0.75
+  },
+  "32": {
+    "summary": "Landlord disputes over rent increases",
+    "category": "legal_housing",
+    "confidence": 0.8
+  },
+  "33": {
+    "summary": "Stress from night school failure in technical courses",
+    "category": "academic_stress",
+    "confidence": 0.7
+  },
+  "34": {
+    "summary": "Depression crisis from prolonged cultural adjustment",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
+  },
   "35": {
-    "summary": "Economic recession causing job loss and housing instability.",
-    "category": "financial_crisis",
+    "summary": "Deportation risk after workplace raid",
+    "category": "immigration",
     "confidence": 0.8
   },
   "36": {
-    "summary": "Career stagnation due to lack of credentials and language barriers.",
-    "category": "career_stagnation",
-    "confidence": 0.7
+    "summary": "Bereavement over death of Nigerian parent",
+    "category": "grief_bereavement",
+    "confidence": 0.85
   },
   "37": {
-    "summary": "Chronic pain from factory work affecting daily functioning.",
-    "category": "chronic_pain",
+    "summary": "Marriage collapse due to assimilation conflicts",
+    "category": "relationship_breakup",
     "confidence": 0.7
   },
   "38": {
-    "summary": "Family pressure to return to Nigeria conflicting with personal goals.",
-    "category": "family_pressure",
-    "confidence": 0.8
+    "summary": "Christmas isolation after friend group dissolved",
+    "category": "loneliness_isolation",
+    "confidence": 0.85
   },
   "39": {
-    "summary": "Age discrimination in hiring for better jobs.",
-    "category": "age_discrimination",
-    "confidence": 0.7
+    "summary": "Arthritis from years of manual labor",
+    "category": "chronic_health_pain",
+    "confidence": 0.8
   },
   "40": {
-    "summary": "Divorce/separation causing financial strain and loneliness.",
-    "category": "relationship_breakup",
-    "confidence": 0.6
+    "summary": "Wage theft by factory management",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "41": {
-    "summary": "Heart disease diagnosis with limited resources for treatment.",
-    "category": "health_decline",
+    "summary": "Burnout caring for aging Nigerian aunt",
+    "category": "caregiver_burden",
     "confidence": 0.7
   },
   "42": {
-    "summary": "Retirement planning failure due to precarious finances.",
-    "category": "retirement_planning",
+    "summary": "Assault by racists in neighborhood",
+    "category": "violence_abuse",
     "confidence": 0.7
   },
   "43": {
-    "summary": "Grief over loss of Nigerian community elder.",
-    "category": "grief",
-    "confidence": 0.7
+    "summary": "Foreclosure threat on modest home",
+    "category": "legal_housing",
+    "confidence": 0.75
   },
   "44": {
-    "summary": "Diabetes complications requiring expensive medication.",
-    "category": "health_financial",
-    "confidence": 0.8
+    "summary": "Exams pressure for industrial certification",
+    "category": "academic_stress",
+    "confidence": 0.65
   },
   "45": {
-    "summary": "Anxiety about obsolescence in changing job market.",
-    "category": "career_anxiety",
-    "confidence": 0.7
+    "summary": "Suicidal ideation from cumulative discrimination",
+    "category": "mental_health_crisis",
+    "confidence": 0.85
   },
   "46": {
-    "summary": "Empty nest syndrome despite no children.",
-    "category": "empty_nest",
-    "confidence": 0.6
+    "summary": "Deportation proceedings after minor arrest",
+    "category": "immigration",
+    "confidence": 0.75
   },
   "47": {
-    "summary": "Arthritis worsening mobility and independence.",
-    "category": "chronic_pain",
+    "summary": "Grief over death of childhood griot mentor",
+    "category": "grief_bereavement",
     "confidence": 0.8
   },
   "48": {
-    "summary": "Medical debt threatening housing stability.",
-    "category": "financial_crisis",
-    "confidence": 0.8
+    "summary": "Divorce after years of marital neglect",
+    "category": "relationship_breakup",
+    "confidence": 0.7
   },
   "49": {
-    "summary": "Chronic back pain limiting work capacity.",
-    "category": "chronic_pain",
+    "summary": "Elderly isolation after friends' deaths",
+    "category": "loneliness_isolation",
     "confidence": 0.8
   },
   "50": {
-    "summary": "Existential crisis questioning life achievements.",
-    "category": "existential_crisis",
-    "confidence": 0.7
+    "summary": "Diabetic complications from poor factory diet",
+    "category": "chronic_health_pain",
+    "confidence": 0.75
   },
   "51": {
-    "summary": "Hearing loss requiring assistive devices.",
-    "category": "health_dependence",
-    "confidence": 0.8
+    "summary": "Wage theft by new employer",
+    "category": "financial_employment",
+    "confidence": 0.7
   },
   "52": {
-    "summary": "Fixed income insufficient for rising healthcare costs.",
-    "category": "retirement_financial",
-    "confidence": 0.8
+    "summary": "Exhaustion from caring for sick spouse",
+    "category": "caregiver_burden",
+    "confidence": 0.75
   },
   "53": {
-    "summary": "Grief over death of Nigerian cousin.",
-    "category": "grief",
+    "summary": "Physical assault during protest",
+    "category": "violence_abuse",
     "confidence": 0.7
   },
   "54": {
-    "summary": "Managing hypertension with medication side effects.",
-    "category": "chronic_illness",
-    "confidence": 0.8
+    "summary": "Housing discrimination lawsuit",
+    "category": "legal_housing",
+    "confidence": 0.7
   },
   "55": {
-    "summary": "Social isolation with declining community ties.",
-    "category": "loneliness",
-    "confidence": 0.8
+    "summary": "Stress from vocational training failure",
+    "category": "academic_stress",
+    "confidence": 0.6
   },
   "56": {
-    "summary": "Financial strain from unexpected medical bills.",
-    "category": "financial_crisis",
+    "summary": "Depression crisis from unemployment",
+    "category": "mental_health_crisis",
     "confidence": 0.8
   },
   "57": {
-    "summary": "Loss of independence due to mobility issues.",
-    "category": "loss_of_independence",
-    "confidence": 0.8
+    "summary": "Deportation threat after workplace raid",
+    "category": "immigration",
+    "confidence": 0.7
   },
   "58": {
-    "summary": "Chronic neuropathy causing persistent discomfort.",
-    "category": "chronic_pain",
+    "summary": "Grief over death of Nigerian sibling",
+    "category": "grief_bereavement",
     "confidence": 0.8
   },
   "59": {
-    "summary": "Fixed income inadequate for basic needs inflation.",
-    "category": "financial_crisis",
-    "confidence": 0.8
-  },
-  "60": {
-    "summary": "Retirement identity crisis without cultural community.",
-    "category": "retirement_identity",
+    "summary": "Divorce after years of cultural mismatch",
+    "category": "relationship_breakup",
     "confidence": 0.7
   },
-  "61": {
-    "summary": "Vision impairment affecting daily tasks.",
-    "category": "health_dependence",
+  "60": {
+    "summary": "Isolation after losing all friends",
+    "category": "loneliness_isolation",
     "confidence": 0.8
+  },
+  "61": {
+    "summary": "Amputation from diabetes complications",
+    "category": "chronic_health_pain",
+    "confidence": 0.75
   },
   "62": {
-    "summary": "Retirement savings depleted by healthcare expenses.",
-    "category": "retirement_financial",
-    "confidence": 0.8
+    "summary": "Wage theft by contractor",
+    "category": "financial_employment",
+    "confidence": 0.7
   },
   "63": {
-    "summary": "Grief over death of Nigerian friend.",
-    "category": "grief",
+    "summary": "Caregiver burnout for disabled child",
+    "category": "caregiver_burden",
     "confidence": 0.7
   },
   "64": {
-    "summary": "Managing multiple chronic conditions.",
-    "category": "chronic_illness",
-    "confidence": 0.8
+    "summary": "Assault by racists in neighborhood",
+    "category": "violence_abuse",
+    "confidence": 0.65
   },
   "65": {
-    "summary": "Loneliness with shrinking social network.",
-    "category": "loneliness",
-    "confidence": 0.8
+    "summary": "Foreclosure threat on modest home",
+    "category": "legal_housing",
+    "confidence": 0.65
   },
   "66": {
-    "summary": "Financial insecurity from inadequate pension.",
-    "category": "financial_crisis",
-    "confidence": 0.8
+    "summary": "Exams pressure for industrial certification",
+    "category": "academic_stress",
+    "confidence": 0.55
   },
   "67": {
-    "summary": "Loss of independence requiring caregiver assistance.",
-    "category": "loss_of_independence",
-    "confidence": 0.8
+    "summary": "Suicidal ideation from cumulative discrimination",
+    "category": "mental_health_crisis",
+    "confidence": 0.75
   },
   "68": {
-    "summary": "Chronic pain limiting mobility and hobbies.",
-    "category": "chronic_pain",
-    "confidence": 0.8
+    "summary": "Deportation proceedings after minor arrest",
+    "category": "immigration",
+    "confidence": 0.65
   },
   "69": {
-    "summary": "Fixed income insufficient for basic needs.",
-    "category": "financial_crisis",
-    "confidence": 0.8
+    "summary": "Grief over death of Nigerian parent",
+    "category": "grief_bereavement",
+    "confidence": 0.7
   },
   "70": {
-    "summary": "Retirement purpose crisis without cultural roots.",
-    "category": "retirement_identity",
-    "confidence": 0.7
+    "summary": "Divorce after years of marital neglect",
+    "category": "relationship_breakup",
+    "confidence": 0.6
   },
   "71": {
-    "summary": "Health decline requiring more intensive care.",
-    "category": "health_dependence",
-    "confidence": 0.8
+    "summary": "Elderly isolation after friends' deaths",
+    "category": "loneliness_isolation",
+    "confidence": 0.7
   },
   "72": {
-    "summary": "Retirement savings exhausted by medical costs.",
-    "category": "retirement_financial",
-    "confidence": 0.8
+    "summary": "Arthritis from years of manual labor",
+    "category": "chronic_health_pain",
+    "confidence": 0.65
   },
   "73": {
-    "summary": "Grief over death of Nigerian relative.",
-    "category": "grief",
-    "confidence": 0.7
+    "summary": "Wage theft by factory management",
+    "category": "financial_employment",
+    "confidence": 0.6
   },
   "74": {
-    "summary": "Complex chronic illness management.",
-    "category": "chronic_illness",
-    "confidence": 0.8
+    "summary": "Burnout caring for aging Nigerian aunt",
+    "category": "caregiver_burden",
+    "confidence": 0.6
   },
   "75": {
-    "summary": "Social isolation with no community ties.",
-    "category": "loneliness",
-    "confidence": 0.8
+    "summary": "Assault by racists in neighborhood",
+    "category": "violence_abuse",
+    "confidence": 0.55
   },
   "76": {
-    "summary": "Financial strain from medical expenses.",
-    "category": "financial_crisis",
-    "confidence": 0.8
+    "summary": "Landlord disputes over rent increases",
+    "category": "legal_housing",
+    "confidence": 0.55
   },
   "77": {
-    "summary": "Loss of independence due to frailty.",
-    "category": "loss_of_independence",
-    "confidence": 0.8
+    "summary": "Stress from night school failure",
+    "category": "academic_stress",
+    "confidence": 0.45
   },
   "78": {
-    "summary": "Chronic pain affecting daily life.",
-    "category": "chronic_pain",
-    "confidence": 0.8
+    "summary": "Depression crisis from prolonged unemployment",
+    "category": "mental_health_crisis",
+    "confidence": 0.65
   },
   "79": {
-    "summary": "Fixed income inadequate for basic needs.",
-    "category": "financial_crisis",
-    "confidence": 0.8
+    "summary": "Deportation risk after workplace raid",
+    "category": "immigration",
+    "confidence": 0.55
   },
   "80": {
-    "summary": "Retirement identity crisis without cultural community.",
-    "category": "retirement_identity",
-    "confidence": 0.7
+    "summary": "Grief over death of Nigerian sibling",
+    "category": "grief_bereavement",
+    "confidence": 0.6
   },
   "81": {
-    "summary": "Health decline requiring more care.",
-    "category": "health_dependence",
-    "confidence": 0.8
+    "summary": "Divorce after years of cultural mismatch",
+    "category": "relationship_breakup",
+    "confidence": 0.5
   },
   "82": {
-    "summary": "Retirement savings depleted by healthcare costs.",
-    "category": "retirement_financial",
-    "confidence": 0.8
+    "summary": "Isolation after losing all friends",
+    "category": "loneliness_isolation",
+    "confidence": 0.6
   },
   "83": {
-    "summary": "Grief over death of Nigerian friend.",
-    "category": "grief",
-    "confidence": 0.7
+    "summary": "Diabetic complications from poor diet",
+    "category": "chronic_health_pain",
+    "confidence": 0.55
   },
   "84": {
-    "summary": "Managing multiple chronic conditions.",
-    "category": "chronic_illness",
-    "confidence": 0.8
+    "summary": "Wage theft by new employer",
+    "category": "financial_employment",
+    "confidence": 0.5
   },
   "85": {
-    "summary": "Loneliness with no social connections.",
-    "category": "loneliness",
-    "confidence": 0.8
+    "summary": "Exhaustion from caring for sick spouse",
+    "category": "caregiver_burden",
+    "confidence": 0.55
   },
   "86": {
-    "summary": "Financial strain from medical bills.",
-    "category": "financial_crisis",
-    "confidence": 0.8
+    "summary": "Physical assault during protest",
+    "category": "violence_abuse",
+    "confidence": 0.45
   },
   "87": {
-    "summary": "Loss of independence due to frailty.",
-    "category": "loss_of_independence",
-    "confidence": 0.8
+    "summary": "Housing discrimination lawsuit",
+    "category": "legal_housing",
+    "confidence": 0.45
   },
   "88": {
-    "summary": "Chronic pain limiting mobility.",
-    "category": "chronic_pain",
-    "confidence": 0.8
+    "summary": "Exams pressure for industrial certification",
+    "category": "academic_stress",
+    "confidence": 0.35
   },
   "89": {
-    "summary": "Fixed income insufficient for basic needs.",
-    "category": "financial_crisis",
-    "confidence": 0.8
+    "summary": "Suicidal ideation from cumulative discrimination",
+    "category": "mental_health_crisis",
+    "confidence": 0.55
   },
   "90": {
-    "summary": "Retirement purpose crisis without cultural roots.",
-    "category": "retirement_identity",
-    "confidence": 0.7
+    "summary": "Deportation threat after minor arrest",
+    "category": "immigration",
+    "confidence": 0.45
   },
   "91": {
-    "summary": "Health decline requiring more intensive care.",
-    "category": "health_dependence",
-    "confidence": 0.8
+    "summary": "Grief over death of Nigerian parent",
+    "category": "grief_bereavement",
+    "confidence": 0.5
   },
   "92": {
-    "summary": "Retirement savings exhausted by medical costs.",
-    "category": "retirement_financial",
-    "confidence": 0.8
+    "summary": "Divorce after years of marital neglect",
+    "category": "relationship_breakup",
+    "confidence": 0.4
   },
   "93": {
-    "summary": "Grief over death of Nigerian relative.",
-    "category": "grief",
-    "confidence": 0.7
+    "summary": "Elderly isolation after friends' deaths",
+    "category": "loneliness_isolation",
+    "confidence": 0.5
   },
   "94": {
-    "summary": "Complex chronic illness management.",
-    "category": "chronic_illness",
-    "confidence": 0.8
+    "summary": "Amputation from diabetes complications",
+    "category": "chronic_health_pain",
+    "confidence": 0.45
   },
   "95": {
-    "summary": "Social isolation with no community ties.",
-    "category": "loneliness",
-    "confidence": 0.8
+    "summary": "Wage theft by contractor",
+    "category": "financial_employment",
+    "confidence": 0.4
   },
   "96": {
-    "summary": "Financial strain from medical expenses.",
-    "category": "financial_crisis",
-    "confidence": 0.8
+    "summary": "Caregiver burnout for disabled child",
+    "category": "caregiver_burden",
+    "confidence": 0.45
   },
   "97": {
-    "summary": "Loss of independence due to frailty.",
-    "category": "loss_of_independence",
-    "confidence": 0.8
+    "summary": "Assault by racists in neighborhood",
+    "category": "violence_abuse",
+    "confidence": 0.35
   },
   "98": {
-    "summary": "Chronic pain affecting daily life.",
-    "category": "chronic_pain",
-    "confidence": 0.8
+    "summary": "Foreclosure threat on modest home",
+    "category": "legal_housing",
+    "confidence": 0.35
   },
   "99": {
-    "summary": "Fixed income inadequate for basic needs.",
-    "category": "financial_crisis",
-    "confidence": 0.8
+    "summary": "Exams pressure for industrial certification",
+    "category": "academic_stress",
+    "confidence": 0.25
   },
   "100": {
-    "summary": "Retirement identity crisis without cultural community.",
-    "category": "retirement_identity",
-    "confidence": 0.7
+    "summary": "Depression crisis from cumulative discrimination",
+    "category": "mental_health_crisis",
+    "confidence": 0.45
   }
 }

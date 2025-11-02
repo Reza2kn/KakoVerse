@@ -1,407 +1,407 @@
 {
   "20": {
-    "summary": "Acculturative stress and financial strain in new country",
-    "category": "acculturative_stress",
-    "confidence": 0.85
+    "summary": "Pandemic-induced anxiety amid Lima restrictions",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "21": {
-    "summary": "Identity confusion amid cultural displacement",
-    "category": "identity_crisis",
-    "confidence": 0.8
+    "summary": "Cultural adjustment struggles in Osaka temporary status",
+    "category": "immigration",
+    "confidence": 0.85
   },
   "22": {
-    "summary": "Work-study balance leading to burnout",
-    "category": "burnout",
-    "confidence": 0.75
-  },
-  "23": {
-    "summary": "Imposter syndrome in competitive tech field",
-    "category": "imposter_syndrome",
-    "confidence": 0.7
-  },
-  "24": {
-    "summary": "Social isolation from work demands",
-    "category": "loneliness",
-    "confidence": 0.7
-  },
-  "25": {
-    "summary": "Career stagnation triggering burnout",
-    "category": "burnout",
+    "summary": "Loss of family member during Caracas pandemic hardships",
+    "category": "grief_bereavement",
     "confidence": 0.8
   },
+  "23": {
+    "summary": "Breakup amid pandemic isolation in Caracas",
+    "category": "relationship_breakup",
+    "confidence": 0.75
+  },
+  "24": {
+    "summary": "Social isolation from peer relationships disrupted",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
+  },
+  "25": {
+    "summary": "Chronic fatigue from pandemic-era stress",
+    "category": "chronic_health_pain",
+    "confidence": 0.7
+  },
   "26": {
-    "summary": "Decision paralysis about career path",
-    "category": "decision_paralysis",
-    "confidence": 0.65
+    "summary": "Financial instability as temporary worker in Japan",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "27": {
-    "summary": "Work-life balance crisis",
-    "category": "work_life_balance",
+    "summary": "Caregiving strain during family crises in Venezuela",
+    "category": "caregiver_burden",
     "confidence": 0.7
   },
   "28": {
-    "summary": "Accumulating stress from work and cultural adaptation",
-    "category": "chronic_stress",
-    "confidence": 0.8
+    "summary": "Discrimination as immigrant in Osaka schools",
+    "category": "violence_abuse",
+    "confidence": 0.65
   },
   "29": {
-    "summary": "Chronic burnout and identity dislocation",
-    "category": "burnout",
-    "confidence": 1.0
+    "summary": "Housing/legal challenges as immigrant professional",
+    "category": "legal_housing",
+    "confidence": 0.9
   },
   "30": {
-    "summary": "Burnout recovery and identity reformation",
-    "category": "burnout_recovery",
-    "confidence": 0.85
-  },
-  "31": {
-    "summary": "Pressure to start family",
-    "category": "family_planning",
+    "summary": "Academic pressure from interrupted studies",
+    "category": "academic_stress",
     "confidence": 0.6
   },
+  "31": {
+    "summary": "Burnout from work acculturation stress",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
+  },
   "32": {
-    "summary": "Financial planning for future stability",
-    "category": "financial_planning",
-    "confidence": 0.7
+    "summary": "Visa renewal anxieties in Australia",
+    "category": "immigration",
+    "confidence": 0.8
   },
   "33": {
-    "summary": "Workplace discrimination as immigrant",
-    "category": "discrimination",
-    "confidence": 0.75
+    "summary": "Grief over pandemic losses resurfacing",
+    "category": "grief_bereavement",
+    "confidence": 0.85
   },
   "34": {
-    "summary": "Health anxiety from chronic stress",
-    "category": "health_anxiety",
+    "summary": "Post-breakup adjustment in new career phase",
+    "category": "relationship_breakup",
     "confidence": 0.7
   },
   "35": {
-    "summary": "Midlife crisis seeking purpose",
-    "category": "midlife_crisis",
+    "summary": "Isolation from limited social networks",
+    "category": "loneliness_isolation",
     "confidence": 0.8
   },
   "36": {
-    "summary": "Marital strain from work demands",
-    "category": "marital_strain",
-    "confidence": 0.65
+    "summary": "Job insecurity in volatile tech industry",
+    "category": "chronic_health_pain",
+    "confidence": 0.75
   },
   "37": {
-    "summary": "Parenting stress",
-    "category": "parenting_stress",
-    "confidence": 0.6
-  },
-  "38": {
-    "summary": "Workplace advancement pressure",
-    "category": "career_advancement",
+    "summary": "Balancing work and caregiving duties",
+    "category": "financial_employment",
     "confidence": 0.7
   },
+  "38": {
+    "summary": "Workplace discrimination experiences",
+    "category": "caregiver_burden",
+    "confidence": 0.6
+  },
   "39": {
-    "summary": "Acculturative stress in family life",
-    "category": "acculturative_stress",
+    "summary": "Housing affordability stress in Sydney",
+    "category": "violence_abuse",
     "confidence": 0.7
   },
   "40": {
-    "summary": "Health decline and chronic pain",
-    "category": "chronic_pain",
-    "confidence": 0.8
-  },
-  "41": {
-    "summary": "Financial investment risks",
-    "category": "financial_risk",
+    "summary": "Academic debt pressure from overseas education",
+    "category": "legal_housing",
     "confidence": 0.65
   },
+  "41": {
+    "summary": "Burnout from prolonged acculturative stress",
+    "category": "academic_stress",
+    "confidence": 0.9
+  },
   "42": {
-    "summary": "Identity shift due to aging",
-    "category": "identity_crisis",
-    "confidence": 0.7
+    "summary": "Permanent residency application challenges",
+    "category": "mental_health_crisis",
+    "confidence": 0.8
   },
   "43": {
-    "summary": "Workplace obsolescence anxiety",
-    "category": "career_obsolescence",
-    "confidence": 0.75
+    "summary": "Grief over distant family health crises",
+    "category": "immigration",
+    "confidence": 0.8
   },
   "44": {
-    "summary": "Social isolation in middle age",
-    "category": "loneliness",
+    "summary": "Relationship dissolution from cultural differences",
+    "category": "grief_bereavement",
     "confidence": 0.7
   },
   "45": {
-    "summary": "Midlife reflection and regret",
-    "category": "regret",
-    "confidence": 0.7
+    "summary": "Isolation despite urban living",
+    "category": "relationship_breakup",
+    "confidence": 0.8
   },
   "46": {
-    "summary": "Health management challenges",
-    "category": "health_management",
-    "confidence": 0.75
+    "summary": "Career stagnation fears in competitive market",
+    "category": "loneliness_isolation",
+    "confidence": 0.7
   },
   "47": {
-    "summary": "Financial security concerns",
-    "category": "financial_concern",
+    "summary": "Caregiver exhaustion from family responsibilities",
+    "category": "chronic_health_pain",
     "confidence": 0.7
   },
   "48": {
-    "summary": "Work-life balance maintenance",
-    "category": "work_life_balance",
-    "confidence": 0.7
+    "summary": "Workplace harassment allegations",
+    "category": "financial_employment",
+    "confidence": 0.6
   },
   "49": {
-    "summary": "Acculturative stress in parenting",
-    "category": "acculturative_stress",
+    "summary": "Legal disputes over housing contracts",
+    "category": "caregiver_burden",
     "confidence": 0.7
   },
   "50": {
-    "summary": "Career transition anxiety",
-    "category": "career_transition",
-    "confidence": 0.75
+    "summary": "Academic pressure from upskilling demands",
+    "category": "violence_abuse",
+    "confidence": 0.6
   },
   "51": {
-    "summary": "Health decline and chronic illness",
-    "category": "chronic_illness",
-    "confidence": 0.8
+    "summary": "Burnout from identity dislocation",
+    "category": "legal_housing",
+    "confidence": 0.9
   },
   "52": {
-    "summary": "Financial planning for retirement",
-    "category": "retirement_planning",
-    "confidence": 0.7
+    "summary": "Visa sponsorship uncertainties",
+    "category": "academic_stress",
+    "confidence": 0.8
   },
   "53": {
-    "summary": "Social role transition",
-    "category": "social_role",
-    "confidence": 0.65
+    "summary": "Grief over pandemic-era losses",
+    "category": "mental_health_crisis",
+    "confidence": 0.8
   },
   "54": {
-    "summary": "Identity reassessment",
-    "category": "identity_crisis",
+    "summary": "Post-relationship adjustment struggles",
+    "category": "immigration",
     "confidence": 0.7
   },
   "55": {
-    "summary": "Retirement planning stress",
-    "category": "retirement_stress",
-    "confidence": 0.75
-  },
-  "56": {
-    "summary": "Health management and chronic pain",
-    "category": "chronic_pain",
+    "summary": "Isolation despite professional success",
+    "category": "grief_bereavement",
     "confidence": 0.8
   },
+  "56": {
+    "summary": "Financial pressure from career transitions",
+    "category": "relationship_breakup",
+    "confidence": 0.7
+  },
   "57": {
-    "summary": "Financial security anxiety",
-    "category": "financial_anxiety",
+    "summary": "Caregiver burnout from aging relatives",
+    "category": "loneliness_isolation",
     "confidence": 0.7
   },
   "58": {
-    "summary": "Workplace obsolescence",
-    "category": "career_obsolescence",
-    "confidence": 0.7
+    "summary": "Workplace discrimination claims",
+    "category": "chronic_health_pain",
+    "confidence": 0.6
   },
   "59": {
-    "summary": "Social isolation in retirement",
-    "category": "loneliness",
-    "confidence": 0.75
-  },
-  "60": {
-    "summary": "Retirement adjustment",
-    "category": "retirement_adjustment",
-    "confidence": 0.8
-  },
-  "61": {
-    "summary": "Health decline and chronic illness",
-    "category": "chronic_illness",
-    "confidence": 0.85
-  },
-  "62": {
-    "summary": "Financial management in retirement",
-    "category": "financial_management",
-    "confidence": 0.75
-  },
-  "63": {
-    "summary": "Identity loss in retirement",
-    "category": "identity_loss",
+    "summary": "Housing affordability crises",
+    "category": "financial_employment",
     "confidence": 0.7
   },
+  "60": {
+    "summary": "Academic pressure from professional development",
+    "category": "caregiver_burden",
+    "confidence": 0.6
+  },
+  "61": {
+    "summary": "Burnout from identity conflicts",
+    "category": "violence_abuse",
+    "confidence": 0.9
+  },
+  "62": {
+    "summary": "Permanent residency approval stress",
+    "category": "legal_housing",
+    "confidence": 0.8
+  },
+  "63": {
+    "summary": "Grief over distant family health decline",
+    "category": "academic_stress",
+    "confidence": 0.8
+  },
   "64": {
-    "summary": "Social role transition to retiree",
-    "category": "social_role",
+    "summary": "Relationship dissolution from cultural gaps",
+    "category": "mental_health_crisis",
     "confidence": 0.7
   },
   "65": {
-    "summary": "Caregiver burden for aging parents",
-    "category": "caregiver_burden",
-    "confidence": 0.75
+    "summary": "Isolation despite professional networks",
+    "category": "immigration",
+    "confidence": 0.8
   },
   "66": {
-    "summary": "Health management and chronic pain",
-    "category": "chronic_pain",
-    "confidence": 0.85
+    "summary": "Financial strain from career pivots",
+    "category": "grief_bereavement",
+    "confidence": 0.7
   },
   "67": {
-    "summary": "Financial security concerns",
-    "category": "financial_concern",
+    "summary": "Caregiver exhaustion from family needs",
+    "category": "relationship_breakup",
     "confidence": 0.7
   },
   "68": {
-    "summary": "Social isolation and loneliness",
-    "category": "loneliness",
-    "confidence": 0.75
+    "summary": "Workplace harassment experiences",
+    "category": "loneliness_isolation",
+    "confidence": 0.6
   },
   "69": {
-    "summary": "Acculturative stress in retirement",
-    "category": "acculturative_stress",
+    "summary": "Housing affordability challenges",
+    "category": "chronic_health_pain",
     "confidence": 0.7
   },
   "70": {
-    "summary": "Health decline and chronic illness",
-    "category": "chronic_illness",
-    "confidence": 0.85
+    "summary": "Academic pressure from upskilling",
+    "category": "financial_employment",
+    "confidence": 0.6
   },
   "71": {
-    "summary": "Financial management challenges",
-    "category": "financial_management",
-    "confidence": 0.75
+    "summary": "Burnout from acculturative stress",
+    "category": "caregiver_burden",
+    "confidence": 0.9
   },
   "72": {
-    "summary": "Identity reassessment in old age",
-    "category": "identity_crisis",
-    "confidence": 0.7
-  },
-  "73": {
-    "summary": "Social role transition to elder",
-    "category": "social_role",
-    "confidence": 0.7
-  },
-  "74": {
-    "summary": "Caregiver burden for spouse",
-    "category": "caregiver_burden",
-    "confidence": 0.75
-  },
-  "75": {
-    "summary": "Health decline and chronic pain",
-    "category": "chronic_pain",
-    "confidence": 0.85
-  },
-  "76": {
-    "summary": "Financial security anxiety",
-    "category": "financial_anxiety",
-    "confidence": 0.7
-  },
-  "77": {
-    "summary": "Social isolation and loneliness",
-    "category": "loneliness",
-    "confidence": 0.75
-  },
-  "78": {
-    "summary": "Acculturative stress in old age",
-    "category": "acculturative_stress",
-    "confidence": 0.7
-  },
-  "79": {
-    "summary": "Health management and chronic illness",
-    "category": "chronic_illness",
-    "confidence": 0.85
-  },
-  "80": {
-    "summary": "Identity loss and grief",
-    "category": "grief",
+    "summary": "Visa renewal anxieties",
+    "category": "violence_abuse",
     "confidence": 0.8
   },
-  "81": {
-    "summary": "Financial management challenges",
-    "category": "financial_management",
+  "73": {
+    "summary": "Grief over pandemic losses resurfacing",
+    "category": "legal_housing",
+    "confidence": 0.8
+  },
+  "74": {
+    "summary": "Relationship dissolution from cultural differences",
+    "category": "academic_stress",
+    "confidence": 0.7
+  },
+  "75": {
+    "summary": "Isolation despite urban living",
+    "category": "mental_health_crisis",
+    "confidence": 0.8
+  },
+  "76": {
+    "summary": "Job insecurity in tech sector",
+    "category": "immigration",
     "confidence": 0.75
+  },
+  "77": {
+    "summary": "Caregiver burden from family health issues",
+    "category": "grief_bereavement",
+    "confidence": 0.7
+  },
+  "78": {
+    "summary": "Workplace discrimination claims",
+    "category": "relationship_breakup",
+    "confidence": 0.6
+  },
+  "79": {
+    "summary": "Housing affordability stress",
+    "category": "loneliness_isolation",
+    "confidence": 0.7
+  },
+  "80": {
+    "summary": "Academic pressure from professional development",
+    "category": "chronic_health_pain",
+    "confidence": 0.6
+  },
+  "81": {
+    "summary": "Burnout from prolonged identity conflicts",
+    "category": "financial_employment",
+    "confidence": 0.9
   },
   "82": {
-    "summary": "Social role transition to elder",
-    "category": "social_role",
-    "confidence": 0.7
+    "summary": "Permanent residency approval stress",
+    "category": "caregiver_burden",
+    "confidence": 0.8
   },
   "83": {
-    "summary": "Caregiver burden for spouse",
-    "category": "caregiver_burden",
-    "confidence": 0.75
+    "summary": "Grief over distant family health decline",
+    "category": "violence_abuse",
+    "confidence": 0.8
   },
   "84": {
-    "summary": "Health decline and chronic pain",
-    "category": "chronic_pain",
-    "confidence": 0.85
+    "summary": "Relationship dissolution from cultural gaps",
+    "category": "legal_housing",
+    "confidence": 0.7
   },
   "85": {
-    "summary": "Financial security concerns",
-    "category": "financial_concern",
-    "confidence": 0.7
+    "summary": "Isolation despite professional networks",
+    "category": "academic_stress",
+    "confidence": 0.8
   },
   "86": {
-    "summary": "Social isolation and loneliness",
-    "category": "loneliness",
-    "confidence": 0.75
+    "summary": "Burnout from acculturative stress",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "87": {
-    "summary": "Acculturative stress in old age",
-    "category": "acculturative_stress",
-    "confidence": 0.7
+    "summary": "Visa renewal anxieties",
+    "category": "immigration",
+    "confidence": 0.8
   },
   "88": {
-    "summary": "Health management and chronic illness",
-    "category": "chronic_illness",
-    "confidence": 0.85
+    "summary": "Grief over pandemic losses resurfacing",
+    "category": "grief_bereavement",
+    "confidence": 0.8
   },
   "89": {
-    "summary": "Identity reassessment and regret",
-    "category": "regret",
+    "summary": "Relationship dissolution from cultural differences",
+    "category": "relationship_breakup",
     "confidence": 0.7
   },
   "90": {
-    "summary": "Caregiver burden for spouse",
-    "category": "caregiver_burden",
-    "confidence": 0.75
+    "summary": "Isolation despite urban living",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
   },
   "91": {
-    "summary": "Financial management challenges",
-    "category": "financial_management",
-    "confidence": 0.75
+    "summary": "Financial strain from career transitions",
+    "category": "chronic_health_pain",
+    "confidence": 0.7
   },
   "92": {
-    "summary": "Social role transition to elder",
-    "category": "social_role",
+    "summary": "Caregiver burden from family health issues",
+    "category": "financial_employment",
     "confidence": 0.7
   },
   "93": {
-    "summary": "Health decline and chronic pain",
-    "category": "chronic_pain",
-    "confidence": 0.85
+    "summary": "Workplace discrimination claims",
+    "category": "caregiver_burden",
+    "confidence": 0.6
   },
   "94": {
-    "summary": "Financial security anxiety",
-    "category": "financial_anxiety",
+    "summary": "Housing affordability challenges",
+    "category": "violence_abuse",
     "confidence": 0.7
   },
   "95": {
-    "summary": "Social isolation and loneliness",
-    "category": "loneliness",
-    "confidence": 0.75
+    "summary": "Academic pressure from upskilling",
+    "category": "legal_housing",
+    "confidence": 0.6
   },
   "96": {
-    "summary": "Acculturative stress in old age",
-    "category": "acculturative_stress",
-    "confidence": 0.7
+    "summary": "Burnout from prolonged identity conflicts",
+    "category": "academic_stress",
+    "confidence": 0.9
   },
   "97": {
-    "summary": "Health management and chronic illness",
-    "category": "chronic_illness",
-    "confidence": 0.85
+    "summary": "Permanent residency approval stress",
+    "category": "mental_health_crisis",
+    "confidence": 0.8
   },
   "98": {
-    "summary": "Identity loss and grief",
-    "category": "grief",
+    "summary": "Grief over distant family health decline",
+    "category": "immigration",
     "confidence": 0.8
   },
   "99": {
-    "summary": "Financial management challenges",
-    "category": "financial_management",
-    "confidence": 0.75
+    "summary": "Relationship dissolution from cultural gaps",
+    "category": "grief_bereavement",
+    "confidence": 0.7
   },
   "100": {
-    "summary": "End-of-life reflection",
-    "category": "end_of_life",
+    "summary": "Isolation despite professional networks",
+    "category": "relationship_breakup",
     "confidence": 0.8
   }
 }

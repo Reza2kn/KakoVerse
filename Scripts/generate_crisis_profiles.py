@@ -15,7 +15,6 @@ import requests
 
 OPENROUTER_ENDPOINT = "https://openrouter.ai/api/v1/chat/completions"
 DEFAULT_MODEL = "alibaba/tongyi-deepresearch-30b-a3b:free"
-DEFAULT_AGE_RANGE = range(20, 101)
 MAX_RETRIES = 5
 
 
@@ -109,25 +108,40 @@ def strip_code_fences(text: str) -> str:
     return stripped
 
 
-def build_prompt(persona_json: Dict[str, object], age_range: Sequence[int]) -> List[Dict[str, str]]:
+def load_category_plan(plan_path: Path) -> Dict[str, Dict[str, str]]:
+    with plan_path.open("r", encoding="utf-8") as handle:
+        data = json.load(handle)
+    plan = data.get("plan")
+    if not isinstance(plan, dict):
+        raise ValueError(f"Invalid plan structure in {plan_path}")
+    # ensure str keys
+    normalized: Dict[str, Dict[str, str]] = {}
+    for persona_id, mapping in plan.items():
+        if not isinstance(mapping, dict):
+            continue
+        normalized[persona_id] = {str(age): str(category) for age, category in mapping.items()}
+    return normalized
+
+
+def build_prompt(
+    persona_json: Dict[str, object],
+    category_map: Dict[str, str],
+) -> List[Dict[str, str]]:
     persona_str = json.dumps(persona_json, indent=2, ensure_ascii=False)
+    ordered = {str(age): category_map[str(age)] for age in sorted(map(int, category_map.keys()))}
+    plan_str = json.dumps(ordered, indent=2, ensure_ascii=False)
     instructions = (
-        "You receive a detailed persona profile. For each age listed below, "
-        "propose a plausible primary crisis or presenting problem they might "
-        "face at that age, grounded in their background, values, and life events. "
-        "Ensure crises vary across the lifespan (e.g., academic stress in youth, "
-        "career burnout in midlife, loneliness or chronic pain later). Return JSON "
-        "with keys as ages (numeric) and each value an object containing: \n"
-        "- 'summary': short crisis description (<= 20 words).\n"
-        "- 'category': concise tag (e.g., grief, chronic_pain, financial_stress).\n"
-        "- 'confidence': 0-1 float for likelihood.\n"
-        "No markdown."
+        "You receive a persona profile and a mapping of ages to required crisis categories."
+        " For each age, craft a plausible primary crisis summary grounded in the persona's"
+        " history while strictly using the provided category. Output must be JSON with ages"
+        " as keys and each value an object containing: 'summary' (<=20 words), 'category'"
+        " (exactly the provided value), and 'confidence' (0-1 float). No Markdown, no extra"
+        " fields, no missing ages."
     )
-    ages_list = ", ".join(str(age) for age in age_range)
     user_prompt = (
         f"Persona Profile:\n{persona_str}\n\n"
-        f"Target Ages: [{ages_list}]\n"
-        "Return JSON mapping ages to crisis info as described."
+        f"Age→Category Plan:\n{plan_str}\n\n"
+        "Return the JSON mapping ages to crisis objects as specified."
     )
     return [
         {"role": "system", "content": instructions},
@@ -139,13 +153,13 @@ def generate_crisis_profile(
     persona_path: Path,
     api_key: str,
     model: str,
-    age_range: Sequence[int],
+    category_map: Dict[str, str],
     output_path: Path,
     sleep: float,
 ) -> None:
     with persona_path.open("r", encoding="utf-8") as handle:
         persona_json = json.load(handle)
-    messages = build_prompt(persona_json, age_range)
+    messages = build_prompt(persona_json, category_map)
     content = call_openrouter(
         api_key=api_key,
         model=model,
@@ -167,9 +181,26 @@ def generate_crisis_profile(
                 f"Failed to parse crisis profile for {persona_path.name}: {content}"
             )
         parsed = json.loads(match.group(0))
+
+    canonical: Dict[str, Dict[str, object]] = {}
+    for age_str, category in category_map.items():
+        entry = parsed.get(age_str, {})
+        summary = str(entry.get("summary", "")).strip()
+        if len(summary) > 120:
+            summary = summary[:117] + "..."
+        try:
+            confidence = float(entry.get("confidence", 0.75))
+        except (TypeError, ValueError):
+            confidence = 0.75
+        canonical[age_str] = {
+            "summary": summary,
+            "category": category,
+            "confidence": round(confidence, 3),
+        }
+
     output_path.parent.mkdir(parents=True, exist_ok=True)
     with output_path.open("w", encoding="utf-8") as handle:
-        json.dump(parsed, handle, indent=2, ensure_ascii=False)
+        json.dump(canonical, handle, indent=2, ensure_ascii=False)
         handle.write("\n")
     time.sleep(max(0.0, sleep))
 
@@ -203,29 +234,21 @@ def build_arg_parser() -> argparse.ArgumentParser:
         help="OpenRouter model identifier (default: alibaba/tongyi-deepresearch-30b-a3b:free).",
     )
     parser.add_argument(
-        "--ages",
-        type=int,
-        nargs=2,
-        default=[20, 100],
-        metavar=("START", "END"),
-        help="Age range inclusive (default: 20 100).",
-    )
-    parser.add_argument(
         "--sleep",
         type=float,
         default=1.5,
         help="Sleep seconds between API calls (default: 1.5).",
     )
     parser.add_argument(
-        "--seed",
-        type=int,
-        default=42,
-        help="Reserved for future use (no effect currently).",
-    )
-    parser.add_argument(
         "--skip-existing",
         action="store_true",
         help="Skip personas whose crisis profile JSON already exists.",
+    )
+    parser.add_argument(
+        "--category-plan",
+        type=Path,
+        default=Path("Artifacts/crisis_category_plan.json"),
+        help="JSON file that maps persona IDs to age→category assignments.",
     )
     return parser
 
@@ -233,10 +256,6 @@ def build_arg_parser() -> argparse.ArgumentParser:
 def main(argv: Sequence[str] | None = None) -> int:
     parser = build_arg_parser()
     args = parser.parse_args(argv)
-    if args.ages[0] >= args.ages[1]:
-        parser.error("Age START must be less than END.")
-    age_range = range(args.ages[0], args.ages[1] + 1)
-
     try:
         api_key = load_env_value("OPENROUTER_API_KEY", args.env_file)
     except KeyError as err:
@@ -248,6 +267,12 @@ def main(argv: Sequence[str] | None = None) -> int:
         parser.error(f"No persona JSON files found in {args.persona_dir}")
         return 1
 
+    try:
+        category_plan = load_category_plan(args.category_plan)
+    except (FileNotFoundError, ValueError) as err:
+        parser.error(str(err))
+        return 1
+
     output_dir: Path = args.output_dir
     output_dir.mkdir(parents=True, exist_ok=True)
 
@@ -256,13 +281,18 @@ def main(argv: Sequence[str] | None = None) -> int:
         if args.skip_existing and output_path.exists():
             print(f"[skip] {persona_path.name} already has a crisis profile.")
             continue
+        persona_id = persona_path.stem
+        category_map = category_plan.get(persona_id)
+        if not category_map:
+            print(f"[warn] No category plan for {persona_id}; skipping.")
+            continue
         print(f"Generating crisis profile for {persona_path.name}...")
         try:
             generate_crisis_profile(
                 persona_path=persona_path,
                 api_key=api_key,
                 model=args.model,
-                age_range=age_range,
+                category_map=category_map,
                 output_path=output_path,
                 sleep=args.sleep,
             )

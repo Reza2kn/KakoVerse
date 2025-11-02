@@ -1,407 +1,407 @@
 {
   "20": {
-    "summary": "Prolonged depressive episode following family displacement and loss of brother",
-    "category": "grief",
-    "confidence": 0.9
+    "summary": "Depressive episode after family displacement and brother's death in evacuation accident.",
+    "category": "academic_stress",
+    "confidence": 0.3
   },
   "21": {
-    "summary": "Depression exacerbated by war-related stress and economic instability",
-    "category": "war_stress",
-    "confidence": 0.8
+    "summary": "Persistent grief over brother's death amid herring market collapse and war news.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "22": {
-    "summary": "Struggling with guilt over brother's death and family displacement",
-    "category": "guilt",
+    "summary": "Adjusting to Icelandic fishing life after forced immigration from Indonesia.",
+    "category": "immigration",
     "confidence": 0.8
   },
   "23": {
-    "summary": "Facing conscription or forced labor due to war, leading to anxiety",
-    "category": "conscription",
-    "confidence": 0.7
+    "summary": "Grief over brother's death strains family bonds in tight-knit fishing community.",
+    "category": "grief_bereavement",
+    "confidence": 0.9
   },
   "24": {
-    "summary": "Financial strain from herring market decline and war economy",
-    "category": "financial_stress",
-    "confidence": 0.8
+    "summary": "Romantic relationship strain due to financial instability and mental health stigma.",
+    "category": "relationship_breakup",
+    "confidence": 0.6
   },
   "25": {
-    "summary": "Attempting to rebuild family life but depression hinders relationships",
-    "category": "relationship_strain",
-    "confidence": 0.7
+    "summary": "Isolation from family activities due to guilt and depression in shared cottage.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
   },
   "26": {
-    "summary": "Chronic fatigue and health issues from fishing work",
-    "category": "chronic_pain",
-    "confidence": 0.6
+    "summary": "Chronic back pain from fishing work amid precarious employment.",
+    "category": "chronic_health_pain",
+    "confidence": 0.7
   },
   "27": {
-    "summary": "Loss of another family member (e.g., parent) in war-related event",
-    "category": "grief",
-    "confidence": 0.7
+    "summary": "Financial hardship from herring market decline affecting family expenses.",
+    "category": "financial_employment",
+    "confidence": 0.9
   },
   "28": {
-    "summary": "Conflict with family over financial decisions and depression",
-    "category": "family_conflict",
-    "confidence": 0.6
+    "summary": "Caregiving burden for aging parents in overcrowded shared cottage.",
+    "category": "caregiver_burden",
+    "confidence": 0.7
   },
   "29": {
-    "summary": "Midlife crisis: questioning life choices and purpose",
-    "category": "midlife_crisis",
-    "confidence": 0.5
+    "summary": "Verbal abuse from community over perceived failure in fishing income.",
+    "category": "violence_abuse",
+    "confidence": 0.4
   },
   "30": {
-    "summary": "Financial instability due to war aftermath and herring industry collapse",
-    "category": "financial_stress",
-    "confidence": 0.7
+    "summary": "Housing insecurity due to precarious employment and family overcrowding.",
+    "category": "legal_housing",
+    "confidence": 0.6
   },
   "31": {
-    "summary": "Health decline from chronic fishing injuries",
-    "category": "chronic_pain",
-    "confidence": 0.6
+    "summary": "Struggling to learn new fishing techniques amid market decline.",
+    "category": "academic_stress",
+    "confidence": 0.5
   },
   "32": {
-    "summary": "Death of a sibling, deepening grief",
-    "category": "grief",
-    "confidence": 0.7
+    "summary": "Mental health crisis from unresolved grief and community stigma.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "33": {
-    "summary": "Struggling with family responsibilities and depression",
-    "category": "family_obligation",
-    "confidence": 0.6
+    "summary": "Adjusting to post-war immigration challenges in Iceland.",
+    "category": "immigration",
+    "confidence": 0.8
   },
   "34": {
-    "summary": "Facing unemployment due to economic changes",
-    "category": "job_loss",
-    "confidence": 0.6
+    "summary": "Bereavement over brother's death resurfaces during fishing season.",
+    "category": "grief_bereavement",
+    "confidence": 0.9
   },
   "35": {
-    "summary": "Career burnout from fishing and financial pressures",
-    "category": "burnout",
+    "summary": "Relationship breakdown due to financial stress and depression.",
+    "category": "relationship_breakup",
     "confidence": 0.7
   },
   "36": {
-    "summary": "Loss of a parent, increased caregiving responsibilities",
-    "category": "caregiving",
+    "summary": "Loneliness from withdrawal during fishing expeditions.",
+    "category": "loneliness_isolation",
     "confidence": 0.7
   },
   "37": {
-    "summary": "Financial stress from supporting family and inflation",
-    "category": "financial_stress",
-    "confidence": 0.7
+    "summary": "Financial strain from medical bills for chronic fishing injuries.",
+    "category": "chronic_health_pain",
+    "confidence": 0.8
   },
   "38": {
-    "summary": "Chronic health issues from years of fishing",
-    "category": "chronic_pain",
-    "confidence": 0.6
+    "summary": "Caregiver burden for sick siblings amid economic hardship.",
+    "category": "financial_employment",
+    "confidence": 0.7
   },
   "39": {
-    "summary": "Death of a child, profound grief",
-    "category": "grief",
-    "confidence": 0.8
-  },
-  "40": {
-    "summary": "Midlife crisis: seeking meaning and legacy",
-    "category": "midlife_crisis",
+    "summary": "Community conflict over fishing quotas and resource scarcity.",
+    "category": "caregiver_burden",
     "confidence": 0.5
   },
-  "41": {
-    "summary": "Loss of spouse, loneliness",
-    "category": "loneliness",
-    "confidence": 0.8
-  },
-  "42": {
-    "summary": "Financial insecurity in old age",
-    "category": "financial_stress",
-    "confidence": 0.7
-  },
-  "43": {
-    "summary": "Health decline and chronic illness",
-    "category": "chronic_illness",
+  "40": {
+    "summary": "Housing disputes with neighbors over shared cottage space.",
+    "category": "violence_abuse",
     "confidence": 0.6
   },
-  "44": {
-    "summary": "Death of a sibling, loneliness",
-    "category": "loneliness",
+  "41": {
+    "summary": "Academic pressure to modernize fishing methods despite traditional values.",
+    "category": "legal_housing",
+    "confidence": 0.4
+  },
+  "42": {
+    "summary": "Mental health crisis from accumulated war trauma and grief.",
+    "category": "academic_stress",
+    "confidence": 0.9
+  },
+  "43": {
+    "summary": "Immigration status challenges in post-war Iceland.",
+    "category": "mental_health_crisis",
     "confidence": 0.7
   },
+  "44": {
+    "summary": "Bereavement over loss of elderly relatives in community.",
+    "category": "immigration",
+    "confidence": 0.8
+  },
   "45": {
-    "summary": "Retirement planning stress",
-    "category": "retirement_stress",
+    "summary": "Relationship strain from long fishing seasons and depression.",
+    "category": "grief_bereavement",
     "confidence": 0.6
   },
   "46": {
-    "summary": "Loss of a parent, caregiving burden",
-    "category": "caregiving",
+    "summary": "Isolation during solo fishing voyages.",
+    "category": "relationship_breakup",
     "confidence": 0.7
   },
   "47": {
-    "summary": "Financial strain from medical expenses",
-    "category": "financial_stress",
-    "confidence": 0.7
-  },
-  "48": {
-    "summary": "Chronic pain from fishing injuries",
-    "category": "chronic_pain",
-    "confidence": 0.6
-  },
-  "49": {
-    "summary": "Family conflicts over care decisions",
-    "category": "family_conflict",
-    "confidence": 0.6
-  },
-  "50": {
-    "summary": "Midlife crisis: questioning life's purpose",
-    "category": "midlife_crisis",
-    "confidence": 0.5
-  },
-  "51": {
-    "summary": "Loss of a child, grief",
-    "category": "grief",
+    "summary": "Chronic pain from decades of fishing affecting family duties.",
+    "category": "loneliness_isolation",
     "confidence": 0.8
   },
-  "52": {
-    "summary": "Financial stress from inflation",
-    "category": "financial_stress",
+  "48": {
+    "summary": "Financial insecurity from aging fishing fleet and market changes.",
+    "category": "chronic_health_pain",
+    "confidence": 0.8
+  },
+  "49": {
+    "summary": "Caregiver burden for disabled spouse.",
+    "category": "financial_employment",
     "confidence": 0.7
   },
-  "53": {
-    "summary": "Health decline and chronic illness",
-    "category": "chronic_illness",
+  "50": {
+    "summary": "Community disputes over fishing rights and resources.",
+    "category": "caregiver_burden",
     "confidence": 0.6
   },
+  "51": {
+    "summary": "Housing concerns over cottage maintenance and family expansion.",
+    "category": "violence_abuse",
+    "confidence": 0.6
+  },
+  "52": {
+    "summary": "Academic pressure to document family history and traditions.",
+    "category": "legal_housing",
+    "confidence": 0.5
+  },
+  "53": {
+    "summary": "Mental health crisis from unresolved grief and isolation.",
+    "category": "academic_stress",
+    "confidence": 0.9
+  },
   "54": {
-    "summary": "Death of a sibling, loneliness",
-    "category": "loneliness",
+    "summary": "Immigration legacy challenges for children.",
+    "category": "mental_health_crisis",
     "confidence": 0.7
   },
   "55": {
-    "summary": "Retirement planning and financial insecurity",
-    "category": "retirement_stress",
-    "confidence": 0.6
+    "summary": "Bereavement over loss of spouse.",
+    "category": "immigration",
+    "confidence": 0.9
   },
   "56": {
-    "summary": "Loss of a parent, caregiving",
-    "category": "caregiving",
-    "confidence": 0.7
+    "summary": "Relationship strain from children leaving home.",
+    "category": "grief_bereavement",
+    "confidence": 0.6
   },
   "57": {
-    "summary": "Financial strain from supporting family",
-    "category": "financial_stress",
-    "confidence": 0.7
-  },
-  "58": {
-    "summary": "Chronic pain from fishing",
-    "category": "chronic_pain",
-    "confidence": 0.6
-  },
-  "59": {
-    "summary": "Family conflicts over care",
-    "category": "family_conflict",
-    "confidence": 0.6
-  },
-  "60": {
-    "summary": "Midlife crisis: seeking legacy",
-    "category": "midlife_crisis",
-    "confidence": 0.5
-  },
-  "61": {
-    "summary": "Loss of spouse, loneliness",
-    "category": "loneliness",
+    "summary": "Loneliness after children move away.",
+    "category": "relationship_breakup",
     "confidence": 0.8
   },
-  "62": {
-    "summary": "Financial stress from economic downturn",
-    "category": "financial_stress",
+  "58": {
+    "summary": "Chronic pain from aging affecting fishing work.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
+  },
+  "59": {
+    "summary": "Financial strain from retirement and healthcare costs.",
+    "category": "chronic_health_pain",
+    "confidence": 0.8
+  },
+  "60": {
+    "summary": "Caregiver burden for grandchildren.",
+    "category": "financial_employment",
     "confidence": 0.7
+  },
+  "61": {
+    "summary": "Community conflicts over local fishing regulations.",
+    "category": "caregiver_burden",
+    "confidence": 0.6
+  },
+  "62": {
+    "summary": "Housing concerns over cottage safety and maintenance.",
+    "category": "violence_abuse",
+    "confidence": 0.6
   },
   "63": {
-    "summary": "Death of a sibling, loneliness",
-    "category": "loneliness",
-    "confidence": 0.7
+    "summary": "Academic pressure to teach traditions to grandchildren.",
+    "category": "legal_housing",
+    "confidence": 0.5
   },
   "64": {
-    "summary": "Health decline and chronic illness",
-    "category": "chronic_illness",
-    "confidence": 0.6
+    "summary": "Mental health crisis from accumulated losses.",
+    "category": "academic_stress",
+    "confidence": 0.9
   },
   "65": {
-    "summary": "Retirement planning and financial insecurity",
-    "category": "retirement_stress",
-    "confidence": 0.6
-  },
-  "66": {
-    "summary": "Loss of a parent, caregiving",
-    "category": "caregiving",
+    "summary": "Immigration identity struggles in old age.",
+    "category": "mental_health_crisis",
     "confidence": 0.7
   },
+  "66": {
+    "summary": "Bereavement over loss of lifelong friends.",
+    "category": "immigration",
+    "confidence": 0.8
+  },
   "67": {
-    "summary": "Financial strain from medical costs",
-    "category": "financial_stress",
+    "summary": "Relationship strain from dementia diagnosis.",
+    "category": "grief_bereavement",
     "confidence": 0.7
   },
   "68": {
-    "summary": "Chronic pain from fishing",
-    "category": "chronic_pain",
-    "confidence": 0.6
+    "summary": "Loneliness from declining health.",
+    "category": "relationship_breakup",
+    "confidence": 0.9
   },
   "69": {
-    "summary": "Family conflicts over care",
-    "category": "family_conflict",
-    "confidence": 0.6
-  },
-  "70": {
-    "summary": "Midlife crisis: seeking meaning",
-    "category": "midlife_crisis",
-    "confidence": 0.5
-  },
-  "71": {
-    "summary": "Loss of a child, grief",
-    "category": "grief",
+    "summary": "Chronic pain from arthritis affecting daily life.",
+    "category": "loneliness_isolation",
     "confidence": 0.8
   },
-  "72": {
-    "summary": "Financial stress from inflation",
-    "category": "financial_stress",
+  "70": {
+    "summary": "Financial insecurity from fixed income and rising costs.",
+    "category": "chronic_health_pain",
+    "confidence": 0.8
+  },
+  "71": {
+    "summary": "Caregiver burden for disabled spouse.",
+    "category": "financial_employment",
     "confidence": 0.7
   },
+  "72": {
+    "summary": "Community disputes over local resources.",
+    "category": "caregiver_burden",
+    "confidence": 0.6
+  },
   "73": {
-    "summary": "Health decline and chronic illness",
-    "category": "chronic_illness",
+    "summary": "Housing concerns over cottage safety.",
+    "category": "violence_abuse",
     "confidence": 0.6
   },
   "74": {
-    "summary": "Death of a sibling, loneliness",
-    "category": "loneliness",
-    "confidence": 0.7
+    "summary": "Academic pressure to preserve family archives.",
+    "category": "legal_housing",
+    "confidence": 0.5
   },
   "75": {
-    "summary": "Retirement planning and financial insecurity",
-    "category": "retirement_stress",
-    "confidence": 0.6
+    "summary": "Mental health crisis from isolation and grief.",
+    "category": "academic_stress",
+    "confidence": 0.9
   },
   "76": {
-    "summary": "Loss of a parent, caregiving",
-    "category": "caregiving",
+    "summary": "Immigration legacy acceptance in old age.",
+    "category": "mental_health_crisis",
     "confidence": 0.7
   },
   "77": {
-    "summary": "Financial strain from supporting family",
-    "category": "financial_stress",
-    "confidence": 0.7
+    "summary": "Bereavement over loss of spouse.",
+    "category": "immigration",
+    "confidence": 0.9
   },
   "78": {
-    "summary": "Chronic pain from fishing",
-    "category": "chronic_pain",
+    "summary": "Relationship strain from children's distance.",
+    "category": "grief_bereavement",
     "confidence": 0.6
   },
   "79": {
-    "summary": "Family conflicts over care",
-    "category": "family_conflict",
-    "confidence": 0.6
+    "summary": "Loneliness from declining health.",
+    "category": "relationship_breakup",
+    "confidence": 0.9
   },
   "80": {
-    "summary": "Midlife crisis: seeking legacy",
-    "category": "midlife_crisis",
-    "confidence": 0.5
+    "summary": "Chronic pain from aging affecting mobility.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
   },
   "81": {
-    "summary": "Loss of spouse, loneliness",
-    "category": "loneliness",
+    "summary": "Financial insecurity from retirement and healthcare.",
+    "category": "chronic_health_pain",
     "confidence": 0.8
   },
   "82": {
-    "summary": "Financial stress from economic downturn",
-    "category": "financial_stress",
+    "summary": "Caregiver burden for grandchildren.",
+    "category": "financial_employment",
     "confidence": 0.7
   },
   "83": {
-    "summary": "Death of a sibling, loneliness",
-    "category": "loneliness",
-    "confidence": 0.7
+    "summary": "Community disputes over local resources.",
+    "category": "caregiver_burden",
+    "confidence": 0.6
   },
   "84": {
-    "summary": "Health decline and chronic illness",
-    "category": "chronic_illness",
+    "summary": "Housing concerns over cottage maintenance.",
+    "category": "violence_abuse",
     "confidence": 0.6
   },
   "85": {
-    "summary": "Retirement planning and financial insecurity",
-    "category": "retirement_stress",
-    "confidence": 0.6
+    "summary": "Academic pressure to document family history.",
+    "category": "legal_housing",
+    "confidence": 0.5
   },
   "86": {
-    "summary": "Loss of a parent, caregiving",
-    "category": "caregiving",
-    "confidence": 0.7
+    "summary": "Mental health crisis from accumulated losses.",
+    "category": "academic_stress",
+    "confidence": 0.9
   },
   "87": {
-    "summary": "Financial strain from medical costs",
-    "category": "financial_stress",
+    "summary": "Immigration identity struggles in old age.",
+    "category": "mental_health_crisis",
     "confidence": 0.7
   },
   "88": {
-    "summary": "Chronic pain from fishing",
-    "category": "chronic_pain",
-    "confidence": 0.6
+    "summary": "Bereavement over loss of spouse.",
+    "category": "immigration",
+    "confidence": 0.9
   },
   "89": {
-    "summary": "Family conflicts over care",
-    "category": "family_conflict",
-    "confidence": 0.6
+    "summary": "Relationship strain from dementia.",
+    "category": "grief_bereavement",
+    "confidence": 0.7
   },
   "90": {
-    "summary": "Midlife crisis: seeking meaning",
-    "category": "midlife_crisis",
-    "confidence": 0.5
+    "summary": "Loneliness from declining health.",
+    "category": "relationship_breakup",
+    "confidence": 0.9
   },
   "91": {
-    "summary": "Loss of a child, grief",
-    "category": "grief",
+    "summary": "Chronic pain from aging affecting daily life.",
+    "category": "loneliness_isolation",
     "confidence": 0.8
   },
   "92": {
-    "summary": "Financial stress from inflation",
-    "category": "financial_stress",
-    "confidence": 0.7
+    "summary": "Financial insecurity from fixed income.",
+    "category": "chronic_health_pain",
+    "confidence": 0.8
   },
   "93": {
-    "summary": "Health decline and chronic illness",
-    "category": "chronic_illness",
-    "confidence": 0.6
-  },
-  "94": {
-    "summary": "Death of a sibling, loneliness",
-    "category": "loneliness",
+    "summary": "Caregiver burden for disabled spouse.",
+    "category": "financial_employment",
     "confidence": 0.7
   },
+  "94": {
+    "summary": "Community disputes over local resources.",
+    "category": "caregiver_burden",
+    "confidence": 0.6
+  },
   "95": {
-    "summary": "Retirement planning and financial insecurity",
-    "category": "retirement_stress",
+    "summary": "Housing concerns over cottage safety.",
+    "category": "violence_abuse",
     "confidence": 0.6
   },
   "96": {
-    "summary": "Loss of a parent, caregiving",
-    "category": "caregiving",
-    "confidence": 0.7
+    "summary": "Academic pressure to preserve family archives.",
+    "category": "legal_housing",
+    "confidence": 0.5
   },
   "97": {
-    "summary": "Financial strain from supporting family",
-    "category": "financial_stress",
-    "confidence": 0.7
+    "summary": "Mental health crisis from isolation and grief.",
+    "category": "academic_stress",
+    "confidence": 0.9
   },
   "98": {
-    "summary": "Chronic pain from fishing",
-    "category": "chronic_pain",
-    "confidence": 0.6
+    "summary": "Immigration legacy acceptance in old age.",
+    "category": "mental_health_crisis",
+    "confidence": 0.7
   },
   "99": {
-    "summary": "Family conflicts over care",
-    "category": "family_conflict",
-    "confidence": 0.6
+    "summary": "Bereavement over loss of spouse.",
+    "category": "immigration",
+    "confidence": 0.9
   },
   "100": {
-    "summary": "Midlife crisis: seeking legacy",
-    "category": "midlife_crisis",
-    "confidence": 0.5
+    "summary": "Loneliness from declining health.",
+    "category": "grief_bereavement",
+    "confidence": 0.6
   }
 }

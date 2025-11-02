@@ -1,407 +1,407 @@
 {
   "20": {
-    "summary": "Adjusting to Parisian life and establishing architectural career",
-    "category": "career_doubt",
-    "confidence": 0.85
+    "summary": "Housing discrimination as a foreign student in post-war Berlin",
+    "category": "legal_housing",
+    "confidence": 0.8
   },
   "21": {
-    "summary": "Intensifying grief after spouse's death during early marriage",
-    "category": "grief",
-    "confidence": 0.95
+    "summary": "Academic pressure while studying architecture in Paris",
+    "category": "academic_stress",
+    "confidence": 0.7
   },
   "22": {
-    "summary": "Financial strain from sudden loss of household income",
-    "category": "financial_stress",
+    "summary": "Mental health crisis from cultural adjustment stress",
+    "category": "mental_health_crisis",
     "confidence": 0.8
   },
   "23": {
-    "summary": "Isolation in professional circles after spouse's death",
-    "category": "loneliness",
-    "confidence": 0.9
-  },
-  "24": {
-    "summary": "Clinical adjustment disorder diagnosis following trauma",
-    "category": "mental_health_crisis",
-    "confidence": 0.98
-  },
-  "25": {
-    "summary": "Grief compounded by child's departure to boarding school",
-    "category": "family_loss",
-    "confidence": 0.9
-  },
-  "26": {
-    "summary": "Professional stagnation in architectural firm",
-    "category": "career_block",
-    "confidence": 0.75
-  },
-  "27": {
-    "summary": "Economic uncertainty during post-war housing market shifts",
-    "category": "financial_uncertainty",
-    "confidence": 0.85
-  },
-  "28": {
-    "summary": "Intensified grief during anniversary triggers",
-    "category": "grief_triggers",
-    "confidence": 0.92
-  },
-  "29": {
-    "summary": "Prolonged adjustment disorder with sleep/appetite disruption",
-    "category": "adjustment_disorder",
-    "confidence": 0.99
-  },
-  "30": {
-    "summary": "Identity crisis between Egyptian heritage and European career",
-    "category": "identity_conflict",
-    "confidence": 0.8
-  },
-  "31": {
-    "summary": "Burnout from overworking to avoid grief",
-    "category": "career_burnout",
-    "confidence": 0.88
-  },
-  "32": {
-    "summary": "Social withdrawal from grief impacting professional network",
-    "category": "social_isolation",
-    "confidence": 0.9
-  },
-  "33": {
-    "summary": "Midlife reassessment of architectural legacy",
-    "category": "existential_crisis",
+    "summary": "Navigating complex immigration procedures in France",
+    "category": "immigration",
     "confidence": 0.7
   },
+  "24": {
+    "summary": "Bereavement after parent's death in Brazil",
+    "category": "grief_bereavement",
+    "confidence": 0.6
+  },
+  "25": {
+    "summary": "Heartbreak from failed relationship in Paris",
+    "category": "relationship_breakup",
+    "confidence": 0.7
+  },
+  "26": {
+    "summary": "Profound loneliness as a foreigner in new city",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
+  },
+  "27": {
+    "summary": "Chronic back pain from architectural drafting",
+    "category": "chronic_health_pain",
+    "confidence": 0.6
+  },
+  "28": {
+    "summary": "Financial strain from unstable employment",
+    "category": "financial_employment",
+    "confidence": 0.7
+  },
+  "29": {
+    "summary": "Caregiver burden from raising young child alone",
+    "category": "caregiver_burden",
+    "confidence": 0.8
+  },
+  "30": {
+    "summary": "Witnessed political violence during Brazil trip",
+    "category": "violence_abuse",
+    "confidence": 0.6
+  },
+  "31": {
+    "summary": "Legal battle over housing rights as tenant",
+    "category": "legal_housing",
+    "confidence": 0.7
+  },
+  "32": {
+    "summary": "Stress from advanced architectural studies",
+    "category": "academic_stress",
+    "confidence": 0.6
+  },
+  "33": {
+    "summary": "Mental health crisis from unresolved grief",
+    "category": "mental_health_crisis",
+    "confidence": 0.8
+  },
   "34": {
-    "summary": "Pressure to remarry while grieving spouse",
-    "category": "relationship_dilemma",
-    "confidence": 0.75
+    "summary": "Immigration status complications affecting family",
+    "category": "immigration",
+    "confidence": 0.7
   },
   "35": {
-    "summary": "Creative block in architectural designs",
-    "category": "creative_block",
-    "confidence": 0.65
+    "summary": "Bereavement after close friend's death",
+    "category": "grief_bereavement",
+    "confidence": 0.6
   },
   "36": {
-    "summary": "Health anxiety from chronic stress symptoms",
-    "category": "health_anxiety",
+    "summary": "Divorce after long-term marriage",
+    "category": "relationship_breakup",
     "confidence": 0.7
   },
   "37": {
-    "summary": "Nostalgia for childhood cities during midlife",
-    "category": "nostalgia",
-    "confidence": 0.6
+    "summary": "Loneliness after divorce and social isolation",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
   },
   "38": {
-    "summary": "Ethical conflict in modernist architecture vs traditional values",
-    "category": "value_conflict",
+    "summary": "Chronic pain from past injury flaring up",
+    "category": "chronic_health_pain",
     "confidence": 0.7
   },
   "39": {
-    "summary": "Unresolved grief resurfacing during anniversaries",
-    "category": "grief_relapse",
-    "confidence": 0.85
+    "summary": "Job loss during economic recession",
+    "category": "financial_employment",
+    "confidence": 0.7
   },
   "40": {
-    "summary": "Midlife crisis questioning life trajectory",
-    "category": "midlife_crisis",
-    "confidence": 0.8
+    "summary": "Caregiver burden for aging parent",
+    "category": "caregiver_burden",
+    "confidence": 0.6
   },
   "41": {
-    "summary": "Pressure to mentor younger architects",
-    "category": "role_transition",
+    "summary": "Victim of violence during political protest",
+    "category": "violence_abuse",
     "confidence": 0.6
   },
   "42": {
-    "summary": "Financial planning anxiety for uncertain future",
-    "category": "financial_worry",
-    "confidence": 0.75
+    "summary": "Legal dispute over property inheritance",
+    "category": "legal_housing",
+    "confidence": 0.7
   },
   "43": {
-    "summary": "Grief compounded by aging parents' health decline",
-    "category": "caregiver_stress",
-    "confidence": 0.8
-  },
-  "44": {
-    "summary": "Existential questioning of creative legacy",
-    "category": "legacy_concern",
-    "confidence": 0.7
-  },
-  "45": {
-    "summary": "Physical health decline from chronic stress",
-    "category": "chronic_health",
-    "confidence": 0.65
-  },
-  "46": {
-    "summary": "Social isolation from professional bubble",
-    "category": "loneliness",
-    "confidence": 0.7
-  },
-  "47": {
-    "summary": "Unresolved grief affecting new relationships",
-    "category": "relationship_impact",
-    "confidence": 0.8
-  },
-  "48": {
-    "summary": "Professional reinvention pressure in changing industry",
-    "category": "career_change",
+    "summary": "Stress from mentoring young architects",
+    "category": "academic_stress",
     "confidence": 0.6
   },
-  "49": {
-    "summary": "Memory loss from childhood trauma resurfacing",
-    "category": "trauma_reemergence",
-    "confidence": 0.55
-  },
-  "50": {
-    "summary": "Grief compounded by child's independence",
-    "category": "empty_nest",
+  "44": {
+    "summary": "Mental health crisis amid midlife reflections",
+    "category": "mental_health_crisis",
     "confidence": 0.8
   },
-  "51": {
-    "summary": "Aging body with chronic stress symptoms",
-    "category": "aging_body",
+  "45": {
+    "summary": "Immigration challenges for children studying abroad",
+    "category": "immigration",
     "confidence": 0.7
   },
+  "46": {
+    "summary": "Bereavement after loss of a child",
+    "category": "grief_bereavement",
+    "confidence": 0.6
+  },
+  "47": {
+    "summary": "Divorce after decades of marriage",
+    "category": "relationship_breakup",
+    "confidence": 0.7
+  },
+  "48": {
+    "summary": "Loneliness after children leave home and divorce",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
+  },
+  "49": {
+    "summary": "Debilitating chronic pain from arthritis",
+    "category": "chronic_health_pain",
+    "confidence": 0.7
+  },
+  "50": {
+    "summary": "Financial strain from retirement planning mistakes",
+    "category": "financial_employment",
+    "confidence": 0.7
+  },
+  "51": {
+    "summary": "Caregiver burden for spouse with dementia",
+    "category": "caregiver_burden",
+    "confidence": 0.8
+  },
   "52": {
-    "summary": "Reflection on unrealized artistic potential",
-    "category": "regret",
+    "summary": "Witnessed domestic violence in family",
+    "category": "violence_abuse",
     "confidence": 0.6
   },
   "53": {
-    "summary": "Financial insecurity in retirement planning",
-    "category": "retirement_worry",
-    "confidence": 0.75
+    "summary": "Legal battle over family home inheritance",
+    "category": "legal_housing",
+    "confidence": 0.7
   },
   "54": {
-    "summary": "Grief anniversary triggers intensifying",
-    "category": "grief_triggers",
-    "confidence": 0.8
+    "summary": "Stress from controversial academic publication",
+    "category": "academic_stress",
+    "confidence": 0.6
   },
   "55": {
-    "summary": "Social isolation from shrinking network",
-    "category": "loneliness",
-    "confidence": 0.85
+    "summary": "Mental health crisis from prolonged isolation",
+    "category": "mental_health_crisis",
+    "confidence": 0.8
   },
   "56": {
-    "summary": "Chronic pain from accumulated stress",
-    "category": "chronic_pain",
+    "summary": "Immigration restrictions preventing Brazil travel",
+    "category": "immigration",
     "confidence": 0.7
   },
   "57": {
-    "summary": "Legacy concerns for architectural works",
-    "category": "legacy_concern",
-    "confidence": 0.65
-  },
-  "58": {
-    "summary": "Unresolved childhood trauma resurfacing",
-    "category": "trauma_reemergence",
+    "summary": "Bereavement after death of lifelong friend",
+    "category": "grief_bereavement",
     "confidence": 0.6
   },
+  "58": {
+    "summary": "Divorce after second marriage",
+    "category": "relationship_breakup",
+    "confidence": 0.7
+  },
   "59": {
-    "summary": "Grief compounded by health decline",
-    "category": "health_grief",
+    "summary": "Loneliness after spouse's death",
+    "category": "loneliness_isolation",
     "confidence": 0.8
   },
   "60": {
-    "summary": "Retirement adjustment and identity shift",
-    "category": "retirement_transition",
+    "summary": "Severe chronic pain from degenerative condition",
+    "category": "chronic_health_pain",
     "confidence": 0.7
   },
   "61": {
-    "summary": "Social isolation from declining health",
-    "category": "loneliness",
-    "confidence": 0.8
+    "summary": "Financial loss from stock market crash",
+    "category": "financial_employment",
+    "confidence": 0.7
   },
   "62": {
-    "summary": "Chronic illness management",
-    "category": "chronic_illness",
-    "confidence": 0.75
+    "summary": "Caregiver burden for spouse with Alzheimer's",
+    "category": "caregiver_burden",
+    "confidence": 0.8
   },
   "63": {
-    "summary": "Grief anniversary triggers with health complications",
-    "category": "grief_triggers",
-    "confidence": 0.85
+    "summary": "Victim of elder abuse by caregiver",
+    "category": "violence_abuse",
+    "confidence": 0.6
   },
   "64": {
-    "summary": "Caregiver burden for aging relatives",
-    "category": "caregiver_stress",
+    "summary": "Legal dispute over housing inheritance",
+    "category": "legal_housing",
     "confidence": 0.7
   },
   "65": {
-    "summary": "Existential reflection on life's meaning",
-    "category": "existential_crisis",
-    "confidence": 0.65
+    "summary": "Stress from controversial academic lecture",
+    "category": "academic_stress",
+    "confidence": 0.6
   },
   "66": {
-    "summary": "Social isolation from shrinking social circle",
-    "category": "loneliness",
+    "summary": "Mental health crisis from loss of independence",
+    "category": "mental_health_crisis",
     "confidence": 0.8
   },
   "67": {
-    "summary": "Chronic pain management challenges",
-    "category": "chronic_pain",
+    "summary": "Immigration restrictions affecting travel plans",
+    "category": "immigration",
     "confidence": 0.7
   },
   "68": {
-    "summary": "Grief compounded by loss of peers",
-    "category": "grief",
-    "confidence": 0.85
+    "summary": "Bereavement after death of a child",
+    "category": "grief_bereavement",
+    "confidence": 0.6
   },
   "69": {
-    "summary": "Retirement financial insecurity",
-    "category": "financial_worry",
+    "summary": "Divorce after second marriage",
+    "category": "relationship_breakup",
     "confidence": 0.7
   },
   "70": {
-    "summary": "Health decline with chronic conditions",
-    "category": "health_decline",
+    "summary": "Loneliness after spouse's death",
+    "category": "loneliness_isolation",
     "confidence": 0.8
   },
   "71": {
-    "summary": "Social isolation from mobility limitations",
-    "category": "loneliness",
-    "confidence": 0.85
-  },
-  "72": {
-    "summary": "Unresolved grief impacting end-of-life planning",
-    "category": "grief_impact",
-    "confidence": 0.75
-  },
-  "73": {
-    "summary": "Chronic illness management",
-    "category": "chronic_illness",
+    "summary": "Severe chronic pain from degenerative condition",
+    "category": "chronic_health_pain",
     "confidence": 0.7
   },
-  "74": {
-    "summary": "Existential loneliness in later years",
-    "category": "existential_loneliness",
+  "72": {
+    "summary": "Financial strain from retirement",
+    "category": "financial_employment",
+    "confidence": 0.7
+  },
+  "73": {
+    "summary": "Caregiver burden for spouse with dementia",
+    "category": "caregiver_burden",
     "confidence": 0.8
   },
+  "74": {
+    "summary": "Witnessed domestic violence in family",
+    "category": "violence_abuse",
+    "confidence": 0.6
+  },
   "75": {
-    "summary": "Grief compounded by declining health",
-    "category": "health_grief",
-    "confidence": 0.85
+    "summary": "Legal battle over family home inheritance",
+    "category": "legal_housing",
+    "confidence": 0.7
   },
   "76": {
-    "summary": "Social isolation from limited mobility",
-    "category": "loneliness",
-    "confidence": 0.9
+    "summary": "Stress from controversial academic publication",
+    "category": "academic_stress",
+    "confidence": 0.6
   },
   "77": {
-    "summary": "Chronic pain management",
-    "category": "chronic_pain",
+    "summary": "Mental health crisis from prolonged isolation",
+    "category": "mental_health_crisis",
     "confidence": 0.8
   },
   "78": {
-    "summary": "Reflection on unfulfilled artistic potential",
-    "category": "regret",
-    "confidence": 0.75
+    "summary": "Immigration restrictions affecting travel plans",
+    "category": "immigration",
+    "confidence": 0.7
   },
   "79": {
-    "summary": "Grief anniversary triggers with health complications",
-    "category": "grief_triggers",
-    "confidence": 0.85
+    "summary": "Bereavement after death of close friend",
+    "category": "grief_bereavement",
+    "confidence": 0.6
   },
   "80": {
-    "summary": "Social isolation from shrinking network",
-    "category": "loneliness",
-    "confidence": 0.9
+    "summary": "Divorce after second marriage",
+    "category": "relationship_breakup",
+    "confidence": 0.7
   },
   "81": {
-    "summary": "Chronic illness management",
-    "category": "chronic_illness",
+    "summary": "Loneliness after spouse's death",
+    "category": "loneliness_isolation",
     "confidence": 0.8
   },
   "82": {
-    "summary": "Existential loneliness in advanced age",
-    "category": "existential_loneliness",
-    "confidence": 0.85
+    "summary": "Severe chronic pain from degenerative condition",
+    "category": "chronic_health_pain",
+    "confidence": 0.7
   },
   "83": {
-    "summary": "Grief compounded by declining health",
-    "category": "health_grief",
-    "confidence": 0.85
+    "summary": "Financial strain from retirement",
+    "category": "financial_employment",
+    "confidence": 0.7
   },
   "84": {
-    "summary": "Social isolation from mobility limitations",
-    "category": "loneliness",
-    "confidence": 0.9
+    "summary": "Caregiver burden for spouse with dementia",
+    "category": "caregiver_burden",
+    "confidence": 0.8
   },
   "85": {
-    "summary": "Chronic pain management challenges",
-    "category": "chronic_pain",
-    "confidence": 0.8
+    "summary": "Witnessed domestic violence in family",
+    "category": "violence_abuse",
+    "confidence": 0.6
   },
   "86": {
-    "summary": "Unresolved grief impacting end-of-life",
-    "category": "grief_impact",
-    "confidence": 0.8
+    "summary": "Legal battle over family home inheritance",
+    "category": "legal_housing",
+    "confidence": 0.7
   },
   "87": {
-    "summary": "Social isolation from limited mobility",
-    "category": "loneliness",
-    "confidence": 0.9
+    "summary": "Stress from controversial academic lecture",
+    "category": "academic_stress",
+    "confidence": 0.6
   },
   "88": {
-    "summary": "Chronic illness management",
-    "category": "chronic_illness",
-    "confidence": 0.85
+    "summary": "Mental health crisis from loss of independence",
+    "category": "mental_health_crisis",
+    "confidence": 0.8
   },
   "89": {
-    "summary": "Existential loneliness in advanced age",
-    "category": "existential_loneliness",
-    "confidence": 0.85
+    "summary": "Immigration restrictions affecting travel plans",
+    "category": "immigration",
+    "confidence": 0.7
   },
   "90": {
-    "summary": "Grief compounded by declining health",
-    "category": "health_grief",
-    "confidence": 0.85
+    "summary": "Bereavement after death of a child",
+    "category": "grief_bereavement",
+    "confidence": 0.6
   },
   "91": {
-    "summary": "Social isolation from shrinking network",
-    "category": "loneliness",
-    "confidence": 0.9
+    "summary": "Divorce after second marriage",
+    "category": "relationship_breakup",
+    "confidence": 0.7
   },
   "92": {
-    "summary": "Chronic pain management",
-    "category": "chronic_pain",
+    "summary": "Loneliness after spouse's death",
+    "category": "loneliness_isolation",
     "confidence": 0.8
   },
   "93": {
-    "summary": "Unresolved grief impacting end-of-life",
-    "category": "grief_impact",
-    "confidence": 0.8
+    "summary": "Severe chronic pain from degenerative condition",
+    "category": "chronic_health_pain",
+    "confidence": 0.7
   },
   "94": {
-    "summary": "Social isolation from mobility limitations",
-    "category": "loneliness",
-    "confidence": 0.9
+    "summary": "Financial strain from retirement",
+    "category": "financial_employment",
+    "confidence": 0.7
   },
   "95": {
-    "summary": "Chronic illness management",
-    "category": "chronic_illness",
-    "confidence": 0.85
+    "summary": "Caregiver burden for spouse with dementia",
+    "category": "caregiver_burden",
+    "confidence": 0.8
   },
   "96": {
-    "summary": "Existential loneliness in advanced age",
-    "category": "existential_loneliness",
-    "confidence": 0.85
+    "summary": "Witnessed domestic violence in family",
+    "category": "violence_abuse",
+    "confidence": 0.6
   },
   "97": {
-    "summary": "Grief compounded by declining health",
-    "category": "health_grief",
-    "confidence": 0.85
+    "summary": "Legal battle over family home inheritance",
+    "category": "legal_housing",
+    "confidence": 0.7
   },
   "98": {
-    "summary": "Social isolation from limited mobility",
-    "category": "loneliness",
-    "confidence": 0.9
+    "summary": "Stress from controversial academic publication",
+    "category": "academic_stress",
+    "confidence": 0.6
   },
   "99": {
-    "summary": "Chronic pain management",
-    "category": "chronic_pain",
+    "summary": "Mental health crisis from prolonged isolation",
+    "category": "mental_health_crisis",
     "confidence": 0.8
   },
   "100": {
-    "summary": "Existential reflection on life's meaning",
-    "category": "existential_crisis",
-    "confidence": 0.75
+    "summary": "Immigration restrictions affecting travel plans",
+    "category": "immigration",
+    "confidence": 0.7
   }
 }

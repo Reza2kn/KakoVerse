@@ -1,407 +1,407 @@
 {
   "20": {
-    "summary": "Financial stress from unstable job market and economic hardship",
-    "category": "financial_stress",
+    "summary": "Academic pressure during university years in Athens, balancing studies with family expectations.",
+    "category": "academic_stress",
     "confidence": 0.85
   },
   "21": {
-    "summary": "Identity crisis balancing artistic passion with financial security",
-    "category": "identity_crisis",
-    "confidence": 0.75
+    "summary": "Mental health crisis from unresolved grief over childhood family dynamics.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "22": {
-    "summary": "Career uncertainty in competitive urban environment",
-    "category": "career_uncertainty",
-    "confidence": 0.7
+    "summary": "Immigration challenges adjusting to Dubai's fast-paced work culture and cultural norms.",
+    "category": "immigration",
+    "confidence": 0.88
   },
   "23": {
-    "summary": "Relationship strain due to conflicting values with peers",
-    "category": "relationship_strain",
-    "confidence": 0.65
+    "summary": "Grief over losing a mentor during early career transition in renewable energy.",
+    "category": "grief_bereavement",
+    "confidence": 0.8
   },
   "24": {
-    "summary": "Burnout from high-pressure entry-level position",
-    "category": "burnout",
-    "confidence": 0.6
+    "summary": "Relationship breakup after prioritizing career over personal commitments.",
+    "category": "relationship_breakup",
+    "confidence": 0.85
   },
   "25": {
-    "summary": "Financial pressure supporting family during economic downturn",
-    "category": "financial_stress",
+    "summary": "Loneliness in expat community despite professional success, craving deeper connections.",
+    "category": "loneliness_isolation",
     "confidence": 0.8
   },
   "26": {
-    "summary": "Grief over loss of extended family support network",
-    "category": "grief",
-    "confidence": 0.7
+    "summary": "Chronic back pain from long hours in construction projects, affecting family time.",
+    "category": "chronic_health_pain",
+    "confidence": 0.75
   },
   "27": {
-    "summary": "Health anxiety from sedentary lifestyle and stress",
-    "category": "health_anxiety",
-    "confidence": 0.6
+    "summary": "Financial employment crisis after project delays strained portfolio investments.",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "28": {
-    "summary": "Career stagnation in field not matching diverse talents",
-    "category": "career_stagnation",
+    "summary": "Caregiver burden from supporting aging parents while relocating to Dubai.",
+    "category": "caregiver_burden",
     "confidence": 0.7
   },
   "29": {
-    "summary": "Parental pressure to pursue stable career path",
-    "category": "family_pressure",
-    "confidence": 0.75
-  },
-  "30": {
-    "summary": "Work-life balance crisis with growing responsibilities",
-    "category": "work_life_balance",
-    "confidence": 0.8
-  },
-  "31": {
-    "summary": "Midlife reflection leading to dissatisfaction",
-    "category": "midlife_crisis",
-    "confidence": 0.7
-  },
-  "32": {
-    "summary": "Financial stress from unexpected medical expenses",
-    "category": "financial_stress",
-    "confidence": 0.8
-  },
-  "33": {
-    "summary": "Burnout from high achievement standards",
-    "category": "burnout",
-    "confidence": 0.7
-  },
-  "34": {
-    "summary": "Climate change anxiety impacting mental health",
-    "category": "climate_anxiety",
+    "summary": "Violence abuse from workplace rivalries leading to anxiety and distrust.",
+    "category": "violence_abuse",
     "confidence": 0.65
   },
-  "35": {
-    "summary": "Career transition anxiety amid economic volatility",
-    "category": "career_transition",
+  "30": {
+    "summary": "Legal housing disputes over inherited property in Athens, causing emotional strain.",
+    "category": "legal_housing",
     "confidence": 0.7
   },
+  "31": {
+    "summary": "Academic stress resurfacing from pursuing advanced certifications amid career shifts.",
+    "category": "academic_stress",
+    "confidence": 0.8
+  },
+  "32": {
+    "summary": "Mental health crisis from burnout in high-stakes consulting projects.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
+  },
+  "33": {
+    "summary": "Immigration challenges navigating UAE bureaucracy for residency permits.",
+    "category": "immigration",
+    "confidence": 0.8
+  },
+  "34": {
+    "summary": "Grief over losing a sibling in Greece, triggering cultural identity struggles.",
+    "category": "grief_bereavement",
+    "confidence": 0.75
+  },
+  "35": {
+    "summary": "Relationship breakup after misaligned parenting approaches with ex-spouse.",
+    "category": "relationship_breakup",
+    "confidence": 0.8
+  },
   "36": {
-    "summary": "Health decline from years of stress and poor sleep",
-    "category": "health_concern",
-    "confidence": 0.6
+    "summary": "Loneliness in expat circles despite business networks, longing for Greek community.",
+    "category": "loneliness_isolation",
+    "confidence": 0.7
   },
   "37": {
-    "summary": "Parental relationship strain with new family dynamics",
-    "category": "relationship_strain",
+    "summary": "Chronic health pain from past injuries limiting travel and family activities.",
+    "category": "chronic_health_pain",
     "confidence": 0.7
   },
   "38": {
-    "summary": "Financial stress from supporting aging parents",
-    "category": "financial_stress",
+    "summary": "Financial employment instability during regional economic downturns.",
+    "category": "financial_employment",
     "confidence": 0.8
   },
   "39": {
-    "summary": "Chronic pain from sedentary work habits",
-    "category": "chronic_pain",
-    "confidence": 0.6
+    "summary": "Caregiver burden from son's health issues requiring frequent medical visits.",
+    "category": "caregiver_burden",
+    "confidence": 0.85
   },
   "40": {
-    "summary": "Midlife reassessment of career and life goals",
-    "category": "midlife_crisis",
-    "confidence": 0.7
+    "summary": "Violence abuse from family disputes over inheritance in Greece.",
+    "category": "violence_abuse",
+    "confidence": 0.6
   },
   "41": {
-    "summary": "Retirement planning anxiety with market instability",
-    "category": "retirement_anxiety",
-    "confidence": 0.75
+    "summary": "Legal housing issues over Dubai property ownership restrictions.",
+    "category": "legal_housing",
+    "confidence": 0.7
   },
   "42": {
-    "summary": "Burnout from professional transition and parental demands",
-    "category": "burnout",
-    "confidence": 0.8
+    "summary": "Academic stress from mentoring junior colleagues while upholding professional standards.",
+    "category": "academic_stress",
+    "confidence": 0.75
   },
   "43": {
-    "summary": "Loneliness despite social circle due to low expressiveness",
-    "category": "loneliness",
-    "confidence": 0.65
+    "summary": "Mental health crisis from climate change anxiety impacting career decisions.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "44": {
-    "summary": "Financial stress from healthcare cost inflation",
-    "category": "financial_stress",
+    "summary": "Immigration challenges balancing dual cultural identities between Greece and UAE.",
+    "category": "immigration",
     "confidence": 0.8
   },
   "45": {
-    "summary": "Parental relationship strain amid career transition",
-    "category": "relationship_strain",
-    "confidence": 0.75
-  },
-  "46": {
-    "summary": "Grief over loss of cultural heritage amid displacement",
-    "category": "grief",
+    "summary": "Grief over losing a close friend to illness, deepening existential reflections.",
+    "category": "grief_bereavement",
     "confidence": 0.7
   },
+  "46": {
+    "summary": "Relationship breakup after irreconcilable differences in parenting philosophies.",
+    "category": "relationship_breakup",
+    "confidence": 0.8
+  },
   "47": {
-    "summary": "Burnout and parental relationship strain",
-    "category": "burnout",
-    "confidence": 0.9
+    "summary": "Loneliness isolation amid professional transition, strained parental bonds.",
+    "category": "loneliness_isolation",
+    "confidence": 0.85
   },
   "48": {
-    "summary": "Health concerns from aging and past stress",
-    "category": "health_concern",
-    "confidence": 0.65
+    "summary": "Chronic health pain from aging, affecting involvement in son's activities.",
+    "category": "chronic_health_pain",
+    "confidence": 0.7
   },
   "49": {
-    "summary": "Financial stress from supporting adult children",
-    "category": "financial_stress",
+    "summary": "Financial employment pressures from market volatility impacting family stability.",
+    "category": "financial_employment",
     "confidence": 0.8
   },
   "50": {
-    "summary": "Retirement adjustment and identity loss",
-    "category": "retirement_adjustment",
-    "confidence": 0.7
+    "summary": "Caregiver burden from son's adolescence and nanny's changing availability.",
+    "category": "caregiver_burden",
+    "confidence": 0.8
   },
   "51": {
-    "summary": "Chronic illness management impacting independence",
-    "category": "chronic_illness",
+    "summary": "Violence abuse from workplace conflicts escalating into personal threats.",
+    "category": "violence_abuse",
     "confidence": 0.6
   },
   "52": {
-    "summary": "Loneliness from reduced social engagement",
-    "category": "loneliness",
-    "confidence": 0.6
+    "summary": "Legal housing disputes over Dubai rental agreements with landlords.",
+    "category": "legal_housing",
+    "confidence": 0.7
   },
   "53": {
-    "summary": "Financial stress from long-term care costs",
-    "category": "financial_stress",
-    "confidence": 0.8
+    "summary": "Academic stress from self-directed learning in renewable energy tech.",
+    "category": "academic_stress",
+    "confidence": 0.7
   },
   "54": {
-    "summary": "Mobility issues from chronic pain",
-    "category": "health_concern",
-    "confidence": 0.6
+    "summary": "Mental health crisis from prolonged burnout and parental relationship strain.",
+    "category": "mental_health_crisis",
+    "confidence": 0.95
   },
   "55": {
-    "summary": "Grief over loss of spouse/friends",
-    "category": "grief",
-    "confidence": 0.7
+    "summary": "Immigration nostalgia for Athens, conflicting with UAE professional identity.",
+    "category": "immigration",
+    "confidence": 0.75
   },
   "56": {
-    "summary": "Caregiver burnout for aging parents",
-    "category": "burnout",
-    "confidence": 0.65
-  },
-  "57": {
-    "summary": "Financial stress from inflation and reduced income",
-    "category": "financial_stress",
-    "confidence": 0.8
-  },
-  "58": {
-    "summary": "Health decline requiring assisted living",
-    "category": "health_concern",
-    "confidence": 0.6
-  },
-  "59": {
-    "summary": "Loneliness from social isolation",
-    "category": "loneliness",
-    "confidence": 0.6
-  },
-  "60": {
-    "summary": "Retirement adjustment and legacy concerns",
-    "category": "retirement_adjustment",
+    "summary": "Grief over losing a parent in Greece, unresolved cultural obligations.",
+    "category": "grief_bereavement",
     "confidence": 0.7
   },
+  "57": {
+    "summary": "Relationship breakup after misaligned long-term relocation plans.",
+    "category": "relationship_breakup",
+    "confidence": 0.75
+  },
+  "58": {
+    "summary": "Loneliness isolation despite business networks, craving authentic friendships.",
+    "category": "loneliness_isolation",
+    "confidence": 0.7
+  },
+  "59": {
+    "summary": "Chronic health pain from past injuries, limiting travel and family outings.",
+    "category": "chronic_health_pain",
+    "confidence": 0.65
+  },
+  "60": {
+    "summary": "Financial employment instability from industry shifts, affecting family security.",
+    "category": "financial_employment",
+    "confidence": 0.75
+  },
   "61": {
-    "summary": "Financial stress from healthcare expenses",
-    "category": "financial_stress",
-    "confidence": 0.8
+    "summary": "Caregiver burden from aging parents' health decline in Greece.",
+    "category": "caregiver_burden",
+    "confidence": 0.7
   },
   "62": {
-    "summary": "Chronic pain limiting daily activities",
-    "category": "chronic_pain",
+    "summary": "Violence abuse from family disputes over inheritance and cultural expectations.",
+    "category": "violence_abuse",
     "confidence": 0.6
   },
   "63": {
-    "summary": "Grief over loss of peers",
-    "category": "grief",
+    "summary": "Legal housing issues over Dubai property inheritance and residency rights.",
+    "category": "legal_housing",
     "confidence": 0.7
   },
   "64": {
-    "summary": "Health concerns from frailty",
-    "category": "health_concern",
-    "confidence": 0.6
+    "summary": "Academic stress from mentoring colleagues in renewable energy projects.",
+    "category": "academic_stress",
+    "confidence": 0.7
   },
   "65": {
-    "summary": "Financial stress from long-term care",
-    "category": "financial_stress",
-    "confidence": 0.8
+    "summary": "Mental health crisis from climate anxiety and career stagnation.",
+    "category": "mental_health_crisis",
+    "confidence": 0.85
   },
   "66": {
-    "summary": "Mobility issues requiring wheelchair use",
-    "category": "health_concern",
-    "confidence": 0.6
+    "summary": "Immigration challenges balancing Greek heritage with UAE professional demands.",
+    "category": "immigration",
+    "confidence": 0.7
   },
   "67": {
-    "summary": "Loneliness from limited mobility",
-    "category": "loneliness",
-    "confidence": 0.6
+    "summary": "Grief over losing a mentor in renewable energy, impacting career direction.",
+    "category": "grief_bereavement",
+    "confidence": 0.65
   },
   "68": {
-    "summary": "Grief over loss of children",
-    "category": "grief",
+    "summary": "Relationship breakup after diverging career paths and cultural values.",
+    "category": "relationship_breakup",
     "confidence": 0.7
   },
   "69": {
-    "summary": "Financial stress from insurance gaps",
-    "category": "financial_stress",
-    "confidence": 0.8
+    "summary": "Loneliness isolation despite business success, longing for Greek community ties.",
+    "category": "loneliness_isolation",
+    "confidence": 0.65
   },
   "70": {
-    "summary": "Chronic illness requiring nursing care",
-    "category": "chronic_illness",
+    "summary": "Chronic health pain from aging, restricting involvement in family traditions.",
+    "category": "chronic_health_pain",
     "confidence": 0.6
   },
   "71": {
-    "summary": "Health decline and dependency",
-    "category": "health_concern",
-    "confidence": 0.6
+    "summary": "Financial employment pressures from market fluctuations and family expenses.",
+    "category": "financial_employment",
+    "confidence": 0.7
   },
   "72": {
-    "summary": "Financial stress from healthcare costs",
-    "category": "financial_stress",
-    "confidence": 0.8
+    "summary": "Caregiver burden from son's education and nanny's changing availability.",
+    "category": "caregiver_burden",
+    "confidence": 0.7
   },
   "73": {
-    "summary": "Loneliness from social isolation",
-    "category": "loneliness",
-    "confidence": 0.6
+    "summary": "Violence abuse from workplace rivalries escalating into personal threats.",
+    "category": "violence_abuse",
+    "confidence": 0.55
   },
   "74": {
-    "summary": "Grief over loss of grandchildren",
-    "category": "grief",
-    "confidence": 0.7
+    "summary": "Legal housing disputes over Dubai property inheritance and residency rights.",
+    "category": "legal_housing",
+    "confidence": 0.65
   },
   "75": {
-    "summary": "Retirement adjustment and finding purpose",
-    "category": "retirement_adjustment",
-    "confidence": 0.7
+    "summary": "Academic stress from self-directed learning in renewable energy tech.",
+    "category": "academic_stress",
+    "confidence": 0.6
   },
   "76": {
-    "summary": "Chronic pain limiting independence",
-    "category": "chronic_pain",
-    "confidence": 0.6
+    "summary": "Mental health crisis from prolonged burnout and parental relationship strain.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "77": {
-    "summary": "Health concerns from frailty",
-    "category": "health_concern",
-    "confidence": 0.6
+    "summary": "Immigration challenges balancing Greek heritage with UAE professional demands.",
+    "category": "immigration",
+    "confidence": 0.65
   },
   "78": {
-    "summary": "Financial stress from long-term care",
-    "category": "financial_stress",
-    "confidence": 0.8
-  },
-  "79": {
-    "summary": "Loneliness from reduced mobility",
-    "category": "loneliness",
+    "summary": "Grief over losing a parent in Greece, unresolved cultural obligations.",
+    "category": "grief_bereavement",
     "confidence": 0.6
   },
+  "79": {
+    "summary": "Relationship breakup after misaligned long-term relocation plans.",
+    "category": "relationship_breakup",
+    "confidence": 0.65
+  },
   "80": {
-    "summary": "Chronic illness and frailty",
-    "category": "chronic_illness",
+    "summary": "Loneliness isolation despite business networks, craving authentic friendships.",
+    "category": "loneliness_isolation",
     "confidence": 0.6
   },
   "81": {
-    "summary": "Financial stress from healthcare expenses",
-    "category": "financial_stress",
-    "confidence": 0.8
+    "summary": "Chronic health pain from aging, limiting travel and family activities.",
+    "category": "chronic_health_pain",
+    "confidence": 0.55
   },
   "82": {
-    "summary": "Health decline requiring nursing home",
-    "category": "health_concern",
-    "confidence": 0.6
+    "summary": "Financial employment instability from market volatility impacting family stability.",
+    "category": "financial_employment",
+    "confidence": 0.65
   },
   "83": {
-    "summary": "Grief over loss of spouse",
-    "category": "grief",
-    "confidence": 0.7
+    "summary": "Caregiver burden from son's adolescence and nanny's changing availability.",
+    "category": "caregiver_burden",
+    "confidence": 0.6
   },
   "84": {
-    "summary": "Loneliness from social isolation",
-    "category": "loneliness",
-    "confidence": 0.6
+    "summary": "Violence abuse from family disputes over inheritance and cultural expectations.",
+    "category": "violence_abuse",
+    "confidence": 0.5
   },
   "85": {
-    "summary": "Financial stress from inflation",
-    "category": "financial_stress",
-    "confidence": 0.8
-  },
-  "86": {
-    "summary": "Mobility issues from chronic pain",
-    "category": "health_concern",
+    "summary": "Legal housing issues over Dubai rental agreements with landlords.",
+    "category": "legal_housing",
     "confidence": 0.6
   },
+  "86": {
+    "summary": "Academic stress from mentoring junior colleagues while upholding professional standards.",
+    "category": "academic_stress",
+    "confidence": 0.55
+  },
   "87": {
-    "summary": "Retirement adjustment and legacy concerns",
-    "category": "retirement_adjustment",
-    "confidence": 0.7
+    "summary": "Mental health crisis from climate change anxiety impacting career decisions.",
+    "category": "mental_health_crisis",
+    "confidence": 0.85
   },
   "88": {
-    "summary": "Grief over loss of children",
-    "category": "grief",
-    "confidence": 0.7
+    "summary": "Immigration challenges navigating UAE bureaucracy for residency permits.",
+    "category": "immigration",
+    "confidence": 0.6
   },
   "89": {
-    "summary": "Financial stress from long-term care",
-    "category": "financial_stress",
-    "confidence": 0.8
+    "summary": "Grief over losing a sibling in Greece, triggering cultural identity struggles.",
+    "category": "grief_bereavement",
+    "confidence": 0.55
   },
   "90": {
-    "summary": "Chronic illness and frailty",
-    "category": "chronic_illness",
+    "summary": "Relationship breakup after irreconcilable differences in parenting approaches.",
+    "category": "relationship_breakup",
     "confidence": 0.6
   },
   "91": {
-    "summary": "Health concerns from aging",
-    "category": "health_concern",
+    "summary": "Loneliness isolation amid professional transition, strained parental bonds.",
+    "category": "loneliness_isolation",
     "confidence": 0.6
   },
   "92": {
-    "summary": "Loneliness from social isolation",
-    "category": "loneliness",
-    "confidence": 0.6
+    "summary": "Chronic health pain from past injuries, affecting involvement in son's activities.",
+    "category": "chronic_health_pain",
+    "confidence": 0.5
   },
   "93": {
-    "summary": "Financial stress from healthcare costs",
-    "category": "financial_stress",
-    "confidence": 0.8
+    "summary": "Financial employment pressures from market volatility impacting family security.",
+    "category": "financial_employment",
+    "confidence": 0.55
   },
   "94": {
-    "summary": "Grief over loss of peers",
-    "category": "grief",
-    "confidence": 0.7
+    "summary": "Caregiver burden from son's education and nanny's changing availability.",
+    "category": "caregiver_burden",
+    "confidence": 0.5
   },
   "95": {
-    "summary": "Retirement adjustment and finding meaning",
-    "category": "retirement_adjustment",
-    "confidence": 0.7
+    "summary": "Violence abuse from workplace conflicts escalating into personal threats.",
+    "category": "violence_abuse",
+    "confidence": 0.45
   },
   "96": {
-    "summary": "Chronic pain limiting independence",
-    "category": "chronic_pain",
-    "confidence": 0.6
+    "summary": "Legal housing disputes over Dubai property ownership restrictions.",
+    "category": "legal_housing",
+    "confidence": 0.5
   },
   "97": {
-    "summary": "Health decline requiring assisted living",
-    "category": "health_concern",
-    "confidence": 0.6
+    "summary": "Academic stress resurfacing from pursuing advanced certifications amid career shifts.",
+    "category": "academic_stress",
+    "confidence": 0.5
   },
   "98": {
-    "summary": "Financial stress from long-term care",
-    "category": "financial_stress",
-    "confidence": 0.8
+    "summary": "Mental health crisis from prolonged burnout and parental relationship strain.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "99": {
-    "summary": "Loneliness from social isolation",
-    "category": "loneliness",
-    "confidence": 0.6
+    "summary": "Immigration nostalgia for Athens, conflicting with UAE professional identity.",
+    "category": "immigration",
+    "confidence": 0.55
   },
   "100": {
-    "summary": "Chronic illness and frailty",
-    "category": "chronic_illness",
-    "confidence": 0.6
+    "summary": "Grief bereavement over losing a lifelong partner, deep loneliness.",
+    "category": "grief_bereavement",
+    "confidence": 0.5
   }
 }

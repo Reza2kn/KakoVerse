@@ -1,257 +1,407 @@
 {
   "20": {
-    "summary": "Wartime displacement trauma from WWII and family separation",
-    "category": "war_trauma",
-    "confidence": 0.95
-  },
-  "21": {
-    "summary": "Survival stress and loss of homeland during wartime",
-    "category": "war_trauma",
-    "confidence": 0.9
-  },
-  "22": {
-    "summary": "Post-war displacement anxiety in new country",
-    "category": "displacement_anxiety",
+    "summary": "Isolated after wartime displacement, struggling with loneliness.",
+    "category": "loneliness_isolation",
     "confidence": 0.85
   },
-  "23": {
-    "summary": "Adjustment struggles in Mexico City with precarious finances",
-    "category": "financial_stress",
-    "confidence": 0.8
-  },
-  "24": {
-    "summary": "Social isolation as factory clerk with limited social circle",
-    "category": "social_isolation",
-    "confidence": 0.75
-  },
-  "25": {
-    "summary": "Career stagnation in low-wage job with no advancement",
-    "category": "career_stagnation",
+  "21": {
+    "summary": "Chronic pain from wartime injuries affecting daily life.",
+    "category": "chronic_health_pain",
     "confidence": 0.7
   },
-  "26": {
-    "summary": "Persistent anxiety and emotional numbness from wartime trauma",
-    "category": "trauma",
+  "22": {
+    "summary": "Job instability as a factory clerk exacerbates financial stress.",
+    "category": "financial_employment",
     "confidence": 0.9
   },
-  "27": {
-    "summary": "Workplace stress and conflict avoidance at factory",
-    "category": "workplace_stress",
-    "confidence": 0.7
-  },
-  "28": {
-    "summary": "Chronic pain from repetitive factory work",
-    "category": "chronic_pain",
+  "23": {
+    "summary": "Caregiver guilt over unresolved family separation.",
+    "category": "caregiver_burden",
     "confidence": 0.65
   },
-  "29": {
-    "summary": "Unresolved trauma resurfacing during economic hardship",
-    "category": "trauma",
+  "24": {
+    "summary": "Violence memories from wartime trauma resurface.",
+    "category": "violence_abuse",
     "confidence": 0.8
   },
-  "30": {
-    "summary": "Midlife reflection on lost homeland and family",
-    "category": "midlife_crisis",
+  "25": {
+    "summary": "Housing insecurity due to precarious residency status.",
+    "category": "legal_housing",
     "confidence": 0.75
   },
+  "26": {
+    "summary": "Academic stress from interrupted education resurfaces.",
+    "category": "academic_stress",
+    "confidence": 0.6
+  },
+  "27": {
+    "summary": "Mental health crisis worsens with economic hardship.",
+    "category": "mental_health_crisis",
+    "confidence": 0.95
+  },
+  "28": {
+    "summary": "Immigration status creates ongoing legal and social barriers.",
+    "category": "immigration",
+    "confidence": 0.8
+  },
+  "29": {
+    "summary": "Grief over lost family intensifies emotional numbness.",
+    "category": "grief_bereavement",
+    "confidence": 0.9
+  },
+  "30": {
+    "summary": "Failed relationship attempts due to social withdrawal.",
+    "category": "relationship_breakup",
+    "confidence": 0.7
+  },
   "31": {
-    "summary": "Rumination over wartime losses and displacement",
-    "category": "rumination",
+    "summary": "Loneliness persists despite workplace connections.",
+    "category": "loneliness_isolation",
     "confidence": 0.8
   },
   "32": {
-    "summary": "Loneliness from limited emotional expressiveness",
-    "category": "loneliness",
-    "confidence": 0.7
+    "summary": "Chronic health issues from wartime conditions linger.",
+    "category": "chronic_health_pain",
+    "confidence": 0.75
   },
   "33": {
-    "summary": "Health anxiety from chronic pain and aging",
-    "category": "health_anxiety",
-    "confidence": 0.65
+    "summary": "Financial precarity deepens with stagnant wages.",
+    "category": "financial_employment",
+    "confidence": 0.85
   },
   "34": {
-    "summary": "Financial insecurity threatening traditional values",
-    "category": "financial_stress",
-    "confidence": 0.7
+    "summary": "Caregiver burden over aging relatives in displacement.",
+    "category": "caregiver_burden",
+    "confidence": 0.6
   },
   "35": {
-    "summary": "Burnout from monotonous factory work",
-    "category": "career_burnout",
-    "confidence": 0.6
+    "summary": "Violence trauma resurfaces under economic stress.",
+    "category": "violence_abuse",
+    "confidence": 0.7
   },
   "36": {
-    "summary": "Existential crisis about legacy and purpose",
-    "category": "existential_crisis",
-    "confidence": 0.65
+    "summary": "Housing instability due to immigration status.",
+    "category": "legal_housing",
+    "confidence": 0.7
   },
   "37": {
-    "summary": "Grief over aging parents' health decline",
-    "category": "grief",
-    "confidence": 0.55
+    "summary": "Academic ambitions clash with factory work reality.",
+    "category": "academic_stress",
+    "confidence": 0.6
   },
   "38": {
-    "summary": "Chronic pain limiting woodworking hobby",
-    "category": "chronic_pain",
-    "confidence": 0.6
+    "summary": "Mental health crisis escalates with isolation.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "39": {
-    "summary": "Health decline affecting traditional routines",
-    "category": "health_decline",
-    "confidence": 0.55
+    "summary": "Immigration barriers hinder family reunification.",
+    "category": "immigration",
+    "confidence": 0.75
   },
   "40": {
-    "summary": "Social isolation from reduced mobility",
-    "category": "social_isolation",
-    "confidence": 0.6
+    "summary": "Grief over lost homeland intensifies over decades.",
+    "category": "grief_bereavement",
+    "confidence": 0.85
   },
   "41": {
-    "summary": "Fear of burdening others with health needs",
-    "category": "caregiver_guilt",
-    "confidence": 0.5
+    "summary": "Recent breakup deepens existing social withdrawal.",
+    "category": "relationship_breakup",
+    "confidence": 0.7
   },
   "42": {
-    "summary": "Retirement anxiety with insufficient savings",
-    "category": "retirement_anxiety",
-    "confidence": 0.55
+    "summary": "Loneliness from fragmented community ties.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
   },
   "43": {
-    "summary": "Chronic pain management challenges",
-    "category": "chronic_pain",
-    "confidence": 0.55
+    "summary": "Chronic health pain limits daily functioning.",
+    "category": "chronic_health_pain",
+    "confidence": 0.7
   },
   "44": {
-    "summary": "Loneliness after spouse's death",
-    "category": "grief",
-    "confidence": 0.6
+    "summary": "Financial strain from stagnant employment persists.",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "45": {
-    "summary": "Financial strain from medical expenses",
-    "category": "financial_stress",
-    "confidence": 0.55
+    "summary": "Caregiver burden over displaced family members.",
+    "category": "caregiver_burden",
+    "confidence": 0.6
   },
   "46": {
-    "summary": "Health decline requiring assistance",
-    "category": "dependency",
-    "confidence": 0.5
+    "summary": "Violence trauma resurfaces amid societal tensions.",
+    "category": "violence_abuse",
+    "confidence": 0.7
   },
   "47": {
-    "summary": "Social isolation from limited mobility",
-    "category": "social_isolation",
-    "confidence": 0.55
+    "summary": "Housing insecurity due to immigration status.",
+    "category": "legal_housing",
+    "confidence": 0.7
   },
   "48": {
-    "summary": "Guilt over not fulfilling family obligations",
-    "category": "family_guilt",
-    "confidence": 0.45
+    "summary": "Academic stress from unmet educational goals.",
+    "category": "academic_stress",
+    "confidence": 0.6
   },
   "49": {
-    "summary": "Chronic pain affecting daily routines",
-    "category": "chronic_pain",
-    "confidence": 0.5
+    "summary": "Mental health crisis worsens with isolation.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "50": {
-    "summary": "Health decline impacting traditional practices",
-    "category": "health_decline",
-    "confidence": 0.45
+    "summary": "Immigration struggles hinder integration.",
+    "category": "immigration",
+    "confidence": 0.75
   },
   "51": {
-    "summary": "Loneliness from shrinking social circle",
-    "category": "loneliness",
-    "confidence": 0.45
+    "summary": "Grief over lost family persists into later life.",
+    "category": "grief_bereavement",
+    "confidence": 0.85
   },
   "52": {
-    "summary": "Caregiver burden for aging relatives",
-    "category": "caregiver_stress",
-    "confidence": 0.4
+    "summary": "Relationship breakup exacerbates existing loneliness.",
+    "category": "relationship_breakup",
+    "confidence": 0.7
   },
   "53": {
-    "summary": "Financial insecurity in retirement",
-    "category": "financial_stress",
-    "confidence": 0.45
+    "summary": "Loneliness from fragmented community ties.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
   },
   "54": {
-    "summary": "Grief over losing community ties",
-    "category": "grief",
-    "confidence": 0.4
+    "summary": "Chronic health pain from wartime injuries.",
+    "category": "chronic_health_pain",
+    "confidence": 0.7
   },
   "55": {
-    "summary": "Health decline requiring home care",
-    "category": "health_decline",
-    "confidence": 0.35
+    "summary": "Financial precarity from stagnant wages.",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "56": {
-    "summary": "Chronic pain limiting woodworking",
-    "category": "chronic_pain",
-    "confidence": 0.35
+    "summary": "Caregiver burden over aging relatives.",
+    "category": "caregiver_burden",
+    "confidence": 0.6
   },
   "57": {
-    "summary": "Social isolation from mobility issues",
-    "category": "social_isolation",
-    "confidence": 0.3
+    "summary": "Violence trauma resurfaces under stress.",
+    "category": "violence_abuse",
+    "confidence": 0.7
   },
   "58": {
-    "summary": "Financial strain from medical costs",
-    "category": "financial_stress",
-    "confidence": 0.3
+    "summary": "Housing instability due to immigration status.",
+    "category": "legal_housing",
+    "confidence": 0.7
   },
   "59": {
-    "summary": "Grief over losing remaining friends",
-    "category": "grief",
-    "confidence": 0.25
+    "summary": "Academic stress from unmet educational goals.",
+    "category": "academic_stress",
+    "confidence": 0.6
   },
   "60": {
-    "summary": "Health decline requiring assistance",
-    "category": "dependency",
-    "confidence": 0.25
+    "summary": "Mental health crisis persists with isolation.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "61": {
-    "summary": "Loneliness from family distance",
-    "category": "loneliness",
-    "confidence": 0.2
+    "summary": "Immigration barriers hinder family reunification.",
+    "category": "immigration",
+    "confidence": 0.75
   },
   "62": {
-    "summary": "Chronic pain affecting independence",
-    "category": "chronic_pain",
-    "confidence": 0.2
+    "summary": "Grief over lost homeland intensifies.",
+    "category": "grief_bereavement",
+    "confidence": 0.85
   },
   "63": {
-    "summary": "Social isolation from limited mobility",
-    "category": "social_isolation",
-    "confidence": 0.15
+    "summary": "Relationship breakup deepens social withdrawal.",
+    "category": "relationship_breakup",
+    "confidence": 0.7
   },
   "64": {
-    "summary": "Grief over losing spouse",
-    "category": "grief",
-    "confidence": 0.15
+    "summary": "Loneliness from fragmented community ties.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
   },
   "65": {
-    "summary": "Health decline impacting daily life",
-    "category": "health_decline",
-    "confidence": 0.1
+    "summary": "Chronic health pain from wartime injuries.",
+    "category": "chronic_health_pain",
+    "confidence": 0.7
   },
   "66": {
-    "summary": "Financial insecurity in old age",
-    "category": "financial_stress",
-    "confidence": 0.1
+    "summary": "Financial strain from stagnant employment.",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "67": {
-    "summary": "Chronic pain requiring medical care",
-    "category": "chronic_pain",
-    "confidence": 0.05
+    "summary": "Caregiver burden over aging relatives.",
+    "category": "caregiver_burden",
+    "confidence": 0.6
   },
   "68": {
-    "summary": "Social isolation from declining health",
-    "category": "social_isolation",
-    "confidence": 0.05
+    "summary": "Violence trauma resurfaces under stress.",
+    "category": "violence_abuse",
+    "confidence": 0.7
   },
   "69": {
-    "summary": "Grief over losing remaining family",
-    "category": "grief",
-    "confidence": 0.05
+    "summary": "Housing instability due to immigration status.",
+    "category": "legal_housing",
+    "confidence": 0.7
   },
   "70": {
-    "summary": "Health decline requiring full-time care",
-    "category": "dependency",
-    "confidence": 0.05
+    "summary": "Academic stress from unmet educational goals.",
+    "category": "academic_stress",
+    "confidence": 0.6
+  },
+  "71": {
+    "summary": "Mental health crisis worsens with isolation.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
+  },
+  "72": {
+    "summary": "Immigration struggles hinder integration.",
+    "category": "immigration",
+    "confidence": 0.75
+  },
+  "73": {
+    "summary": "Grief over lost family persists.",
+    "category": "grief_bereavement",
+    "confidence": 0.85
+  },
+  "74": {
+    "summary": "Relationship breakup exacerbates loneliness.",
+    "category": "relationship_breakup",
+    "confidence": 0.7
+  },
+  "75": {
+    "summary": "Loneliness from fragmented community ties.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
+  },
+  "76": {
+    "summary": "Chronic health pain from wartime injuries.",
+    "category": "chronic_health_pain",
+    "confidence": 0.7
+  },
+  "77": {
+    "summary": "Financial precarity from stagnant wages.",
+    "category": "financial_employment",
+    "confidence": 0.8
+  },
+  "78": {
+    "summary": "Caregiver burden over aging relatives.",
+    "category": "caregiver_burden",
+    "confidence": 0.6
+  },
+  "79": {
+    "summary": "Violence trauma resurfaces under stress.",
+    "category": "violence_abuse",
+    "confidence": 0.7
+  },
+  "80": {
+    "summary": "Housing instability due to immigration status.",
+    "category": "legal_housing",
+    "confidence": 0.7
+  },
+  "81": {
+    "summary": "Academic stress from unmet educational goals.",
+    "category": "academic_stress",
+    "confidence": 0.6
+  },
+  "82": {
+    "summary": "Mental health crisis persists with isolation.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
+  },
+  "83": {
+    "summary": "Immigration barriers hinder family reunification.",
+    "category": "immigration",
+    "confidence": 0.75
+  },
+  "84": {
+    "summary": "Grief over lost homeland intensifies.",
+    "category": "grief_bereavement",
+    "confidence": 0.85
+  },
+  "85": {
+    "summary": "Relationship breakup deepens social withdrawal.",
+    "category": "relationship_breakup",
+    "confidence": 0.7
+  },
+  "86": {
+    "summary": "Loneliness from fragmented community ties.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
+  },
+  "87": {
+    "summary": "Chronic health pain from wartime injuries.",
+    "category": "chronic_health_pain",
+    "confidence": 0.7
+  },
+  "88": {
+    "summary": "Financial strain from stagnant employment.",
+    "category": "financial_employment",
+    "confidence": 0.8
+  },
+  "89": {
+    "summary": "Caregiver burden over aging relatives.",
+    "category": "caregiver_burden",
+    "confidence": 0.6
+  },
+  "90": {
+    "summary": "Violence trauma resurfaces under stress.",
+    "category": "violence_abuse",
+    "confidence": 0.7
+  },
+  "91": {
+    "summary": "Housing instability due to immigration status.",
+    "category": "legal_housing",
+    "confidence": 0.7
+  },
+  "92": {
+    "summary": "Academic stress from unmet educational goals.",
+    "category": "academic_stress",
+    "confidence": 0.6
+  },
+  "93": {
+    "summary": "Mental health crisis worsens with isolation.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
+  },
+  "94": {
+    "summary": "Immigration struggles hinder integration.",
+    "category": "immigration",
+    "confidence": 0.75
+  },
+  "95": {
+    "summary": "Grief over lost family persists.",
+    "category": "grief_bereavement",
+    "confidence": 0.85
+  },
+  "96": {
+    "summary": "Relationship breakup exacerbates loneliness.",
+    "category": "relationship_breakup",
+    "confidence": 0.7
+  },
+  "97": {
+    "summary": "Loneliness from fragmented community ties.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
+  },
+  "98": {
+    "summary": "Chronic health pain from wartime injuries.",
+    "category": "chronic_health_pain",
+    "confidence": 0.7
+  },
+  "99": {
+    "summary": "Financial precarity from stagnant wages.",
+    "category": "financial_employment",
+    "confidence": 0.8
+  },
+  "100": {
+    "summary": "Caregiver burden over aging relatives.",
+    "category": "caregiver_burden",
+    "confidence": 0.6
   }
 }

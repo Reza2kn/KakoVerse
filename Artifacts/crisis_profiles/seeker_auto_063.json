@@ -1,407 +1,407 @@
 {
   "20": {
-    "summary": "Adjusting to life in Warsaw after immigration",
-    "category": "relocation_stress",
-    "confidence": 0.8
+    "summary": "Supporting a sick family member while starting career, feeling overwhelmed.",
+    "category": "caregiver_burden",
+    "confidence": 0.7
   },
   "21": {
-    "summary": "Struggling to find stable employment in software engineering",
-    "category": "job_insecurity",
-    "confidence": 0.7
+    "summary": "Surviving an assault and facing trauma from past violence.",
+    "category": "violence_abuse",
+    "confidence": 0.8
   },
   "22": {
-    "summary": "Facing cultural integration challenges in Poland",
-    "category": "cultural_isolation",
-    "confidence": 0.7
+    "summary": "Legal battle over housing rights after eviction threat.",
+    "category": "legal_housing",
+    "confidence": 0.9
   },
   "23": {
-    "summary": "Dealing with financial strain as a new immigrant",
-    "category": "financial_stress",
+    "summary": "Intense pressure to complete academic requirements for career advancement.",
+    "category": "academic_stress",
     "confidence": 0.8
   },
   "24": {
-    "summary": "Pressure to establish career and relationships in new country",
-    "category": "career_pressure",
-    "confidence": 0.7
+    "summary": "Early signs of depression and anxiety from accumulated stress.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "25": {
-    "summary": "Navigating difficult relationship dynamics",
-    "category": "relationship_drama",
-    "confidence": 0.6
+    "summary": "Navigating complex immigration procedures for permanent status.",
+    "category": "immigration",
+    "confidence": 0.8
   },
   "26": {
-    "summary": "Severe depressive episode following breakup and housing instability",
-    "category": "depression",
+    "summary": "Grieving a recent breakup and loss of stable housing.",
+    "category": "grief_bereavement",
     "confidence": 1.0
   },
   "27": {
-    "summary": "Recovering from depression and rebuilding social connections",
-    "category": "mental_health_recovery",
-    "confidence": 0.8
+    "summary": "Dealing with the aftermath of a second romantic relationship ending.",
+    "category": "relationship_breakup",
+    "confidence": 0.9
   },
   "28": {
-    "summary": "Facing career burnout in demanding software role",
-    "category": "career_burnout",
-    "confidence": 0.7
+    "summary": "Feeling isolated and disconnected from others after personal losses.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
   },
   "29": {
-    "summary": "Dealing with housing instability and financial stress",
-    "category": "housing_insecurity",
+    "summary": "Chronic pain from overuse injury affecting daily life.",
+    "category": "chronic_health_pain",
     "confidence": 0.7
   },
   "30": {
-    "summary": "Pressure to settle down and start family",
-    "category": "family_planning",
-    "confidence": 0.6
+    "summary": "Job loss and financial strain during economic downturn.",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "31": {
-    "summary": "Midlife crisis questioning career and life choices",
-    "category": "midlife_crisis",
-    "confidence": 0.7
+    "summary": "Balancing career with caring for an elderly parent.",
+    "category": "caregiver_burden",
+    "confidence": 0.8
   },
   "32": {
-    "summary": "Dealing with chronic back pain from running",
-    "category": "chronic_pain",
-    "confidence": 0.6
+    "summary": "Recovering from past abuse and avoiding re-traumatization.",
+    "category": "violence_abuse",
+    "confidence": 0.7
   },
   "33": {
-    "summary": "Facing financial planning challenges for retirement",
-    "category": "retirement_planning",
+    "summary": "Legal dispute over family property and housing rights.",
+    "category": "legal_housing",
     "confidence": 0.7
   },
   "34": {
-    "summary": "Struggling with work-life balance in demanding job",
-    "category": "work_life_balance",
-    "confidence": 0.8
+    "summary": "Pressure to complete advanced studies for career progression.",
+    "category": "academic_stress",
+    "confidence": 0.6
   },
   "35": {
-    "summary": "Dealing with parent's health crisis",
-    "category": "family_caregiving",
-    "confidence": 0.7
+    "summary": "Relapse into depression during a stressful period.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "36": {
-    "summary": "Midlife reassessment pursuing new hobbies",
-    "category": "life_reassessment",
-    "confidence": 0.6
+    "summary": "Complex process of obtaining citizenship for family members.",
+    "category": "immigration",
+    "confidence": 0.8
   },
   "37": {
-    "summary": "Facing career plateau and seeking advancement",
-    "category": "career_plateau",
-    "confidence": 0.7
+    "summary": "Grieving the death of a close family member.",
+    "category": "grief_bereavement",
+    "confidence": 0.8
   },
   "38": {
-    "summary": "Dealing with health issues from past lifestyle",
-    "category": "health_consequences",
-    "confidence": 0.6
+    "summary": "Navigating the end of a long-term relationship.",
+    "category": "relationship_breakup",
+    "confidence": 0.8
   },
   "39": {
-    "summary": "Navigating new relationship after breakup",
-    "category": "relationship_recovery",
+    "summary": "Feeling increasingly isolated as friends move on.",
+    "category": "loneliness_isolation",
     "confidence": 0.7
   },
   "40": {
-    "summary": "Midlife reflection existential concerns about legacy",
-    "category": "existential_crisis",
-    "confidence": 0.7
+    "summary": "Managing chronic pain from a long-standing injury.",
+    "category": "chronic_health_pain",
+    "confidence": 0.8
   },
   "41": {
-    "summary": "Facing retirement planning urgency",
-    "category": "retirement_preparation",
+    "summary": "Financial strain due to job loss and family expenses.",
+    "category": "financial_employment",
     "confidence": 0.8
   },
   "42": {
-    "summary": "Dealing with children's education financial burden",
-    "category": "family_financial",
-    "confidence": 0.7
+    "summary": "Caregiving for a parent with chronic illness.",
+    "category": "caregiver_burden",
+    "confidence": 0.8
   },
   "43": {
-    "summary": "Struggling with midlife weight gain and health",
-    "category": "health_decline",
+    "summary": "Coping with PTSD from past abuse.",
+    "category": "violence_abuse",
     "confidence": 0.7
   },
   "44": {
-    "summary": "Facing career transition or downsizing",
-    "category": "career_transition",
-    "confidence": 0.6
-  },
-  "45": {
-    "summary": "Dealing with empty nest syndrome",
-    "category": "empty_nest",
+    "summary": "Legal battle over inheritance and family property.",
+    "category": "legal_housing",
     "confidence": 0.7
   },
-  "46": {
-    "summary": "Navigating new career path or entrepreneurship",
-    "category": "career_change",
+  "45": {
+    "summary": "Stress from continuous learning in a fast-changing field.",
+    "category": "academic_stress",
     "confidence": 0.6
   },
+  "46": {
+    "summary": "Depression triggered by life changes and stress.",
+    "category": "mental_health_crisis",
+    "confidence": 0.8
+  },
   "47": {
-    "summary": "Facing health issues hypertension or diabetes",
-    "category": "chronic_disease",
+    "summary": "Navigating immigration for children's education abroad.",
+    "category": "immigration",
     "confidence": 0.7
   },
   "48": {
-    "summary": "Dealing with children leaving home changing dynamics",
-    "category": "family_change",
-    "confidence": 0.7
+    "summary": "Grieving the loss of a spouse.",
+    "category": "grief_bereavement",
+    "confidence": 0.8
   },
   "49": {
-    "summary": "Struggling with financial security for retirement",
-    "category": "retirement_financial",
+    "summary": "Dealing with the end of a decades-long marriage.",
+    "category": "relationship_breakup",
     "confidence": 0.8
   },
   "50": {
-    "summary": "Midlife reassessment pursuing personal passions",
-    "category": "life_pursuits",
-    "confidence": 0.6
+    "summary": "Feeling isolated after children move away.",
+    "category": "loneliness_isolation",
+    "confidence": 0.7
   },
   "51": {
-    "summary": "Facing retirement and loss of career identity",
-    "category": "retirement_identity",
+    "summary": "Managing chronic pain that limits daily activities.",
+    "category": "chronic_health_pain",
     "confidence": 0.8
   },
   "52": {
-    "summary": "Dealing with chronic health conditions arthritis",
-    "category": "chronic_illness",
+    "summary": "Financial strain from retirement planning and health costs.",
+    "category": "financial_employment",
     "confidence": 0.8
   },
   "53": {
-    "summary": "Navigating social isolation in retirement",
-    "category": "loneliness",
-    "confidence": 0.7
+    "summary": "Caregiving for a grandchild with special needs.",
+    "category": "caregiver_burden",
+    "confidence": 0.8
   },
   "54": {
-    "summary": "Struggling with memory lapses and cognitive decline",
-    "category": "cognitive_decline",
+    "summary": "Coping with trauma from childhood abuse.",
+    "category": "violence_abuse",
     "confidence": 0.7
   },
   "55": {
-    "summary": "Dealing with spouse's health issues",
-    "category": "spousal_health",
+    "summary": "Legal dispute over housing inheritance.",
+    "category": "legal_housing",
     "confidence": 0.7
   },
   "56": {
-    "summary": "Facing financial constraints due to healthcare costs",
-    "category": "healthcare_cost",
-    "confidence": 0.8
+    "summary": "Stress from learning new programming languages.",
+    "category": "academic_stress",
+    "confidence": 0.6
   },
   "57": {
-    "summary": "Navigating end-of-life planning for self or family",
-    "category": "end_of_life_planning",
-    "confidence": 0.7
-  },
-  "58": {
-    "summary": "Dealing with loss of independence due to health",
-    "category": "loss_of_independence",
+    "summary": "Depression during retirement transition.",
+    "category": "mental_health_crisis",
     "confidence": 0.8
   },
+  "58": {
+    "summary": "Immigration challenges for grandchildren's education.",
+    "category": "immigration",
+    "confidence": 0.7
+  },
   "59": {
-    "summary": "Struggling with grief over loss of peers",
-    "category": "grief",
+    "summary": "Grieving the death of a lifelong friend.",
+    "category": "grief_bereavement",
     "confidence": 0.8
   },
   "60": {
-    "summary": "Facing retirement and adjusting to new lifestyle",
-    "category": "retirement_adjustment",
+    "summary": "Dealing with the end of a long-term marriage.",
+    "category": "relationship_breakup",
     "confidence": 0.8
   },
   "61": {
-    "summary": "Dealing with chronic pain and mobility issues",
-    "category": "chronic_pain_mobility",
-    "confidence": 0.8
+    "summary": "Feeling increasingly isolated in later years.",
+    "category": "loneliness_isolation",
+    "confidence": 0.7
   },
   "62": {
-    "summary": "Navigating social isolation and loneliness",
-    "category": "loneliness",
+    "summary": "Managing chronic pain from a degenerative condition.",
+    "category": "chronic_health_pain",
     "confidence": 0.8
   },
   "63": {
-    "summary": "Struggling with financial insecurity in retirement",
-    "category": "retirement_financial",
-    "confidence": 0.7
+    "summary": "Financial strain from retirement and unexpected medical bills.",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "64": {
-    "summary": "Dealing with health decline and dependency",
-    "category": "health_dependency",
+    "summary": "Caregiving for a spouse with dementia.",
+    "category": "caregiver_burden",
     "confidence": 0.8
   },
   "65": {
-    "summary": "Facing existential concerns about mortality",
-    "category": "mortality_concern",
-    "confidence": 0.8
+    "summary": "Coping with PTSD from past abuse.",
+    "category": "violence_abuse",
+    "confidence": 0.7
   },
   "66": {
-    "summary": "Navigating loss of spouse or partner",
-    "category": "grief",
-    "confidence": 0.8
+    "summary": "Legal dispute over family property and housing.",
+    "category": "legal_housing",
+    "confidence": 0.7
   },
   "67": {
-    "summary": "Dealing with chronic illness management",
-    "category": "chronic_illness_management",
-    "confidence": 0.8
+    "summary": "Stress from continuous learning in a changing field.",
+    "category": "academic_stress",
+    "confidence": 0.6
   },
   "68": {
-    "summary": "Struggling with memory loss and dementia risk",
-    "category": "dementia_risk",
+    "summary": "Depression during retirement and loss of purpose.",
+    "category": "mental_health_crisis",
     "confidence": 0.8
   },
   "69": {
-    "summary": "Facing financial strain due to long-term care",
-    "category": "long_term_care_cost",
-    "confidence": 0.8
+    "summary": "Immigration challenges for grandchildren's education.",
+    "category": "immigration",
+    "confidence": 0.7
   },
   "70": {
-    "summary": "Dealing with physical frailty and falls",
-    "category": "frailty",
+    "summary": "Grieving the death of a child.",
+    "category": "grief_bereavement",
     "confidence": 0.8
   },
   "71": {
-    "summary": "Navigating social isolation and lack of support",
-    "category": "social_isolation",
+    "summary": "Dealing with the end of a long-term marriage.",
+    "category": "relationship_breakup",
     "confidence": 0.8
   },
   "72": {
-    "summary": "Struggling with chronic pain and limited mobility",
-    "category": "chronic_pain_mobility",
-    "confidence": 0.8
+    "summary": "Feeling isolated after the loss of many friends.",
+    "category": "loneliness_isolation",
+    "confidence": 0.7
   },
   "73": {
-    "summary": "Dealing with health crises and hospitalizations",
-    "category": "health_crisis",
+    "summary": "Managing chronic pain that restricts mobility.",
+    "category": "chronic_health_pain",
     "confidence": 0.8
   },
   "74": {
-    "summary": "Facing financial insecurity and reliance on savings",
-    "category": "financial_insecurity",
+    "summary": "Financial strain from retirement and health costs.",
+    "category": "financial_employment",
     "confidence": 0.8
   },
   "75": {
-    "summary": "Navigating end-of-life decisions",
-    "category": "end_of_life_decisions",
+    "summary": "Caregiving for a spouse with advanced dementia.",
+    "category": "caregiver_burden",
     "confidence": 0.8
   },
   "76": {
-    "summary": "Dealing with loss of loved ones and grief",
-    "category": "grief",
-    "confidence": 0.8
+    "summary": "Coping with trauma from past abuse.",
+    "category": "violence_abuse",
+    "confidence": 0.7
   },
   "77": {
-    "summary": "Struggling with chronic illness and declining health",
-    "category": "chronic_illness",
-    "confidence": 0.8
+    "summary": "Legal dispute over family property and housing.",
+    "category": "legal_housing",
+    "confidence": 0.7
   },
   "78": {
-    "summary": "Facing loneliness and social withdrawal",
-    "category": "loneliness",
-    "confidence": 0.8
+    "summary": "Stress from learning new technology to stay relevant.",
+    "category": "academic_stress",
+    "confidence": 0.6
   },
   "79": {
-    "summary": "Dealing with memory loss and cognitive impairment",
-    "category": "cognitive_impairment",
+    "summary": "Depression during advanced age and loss of loved ones.",
+    "category": "mental_health_crisis",
     "confidence": 0.8
   },
   "80": {
-    "summary": "Navigating health complications and dependency",
-    "category": "health_complications",
-    "confidence": 0.8
+    "summary": "Immigration challenges for grandchildren's education.",
+    "category": "immigration",
+    "confidence": 0.7
   },
   "81": {
-    "summary": "Struggling with financial constraints for care",
-    "category": "financial_constraints",
+    "summary": "Grieving the death of a spouse.",
+    "category": "grief_bereavement",
     "confidence": 0.8
   },
   "82": {
-    "summary": "Dealing with chronic pain and mobility issues",
-    "category": "chronic_pain_mobility",
+    "summary": "Dealing with the end of a long-term marriage.",
+    "category": "relationship_breakup",
     "confidence": 0.8
   },
   "83": {
-    "summary": "Facing existential concerns and legacy",
-    "category": "existential_concern",
-    "confidence": 0.8
+    "summary": "Feeling isolated after the loss of many friends.",
+    "category": "loneliness_isolation",
+    "confidence": 0.7
   },
   "84": {
-    "summary": "Navigating loss of independence and care needs",
-    "category": "loss_of_independence",
+    "summary": "Managing chronic pain that limits daily activities.",
+    "category": "chronic_health_pain",
     "confidence": 0.8
   },
   "85": {
-    "summary": "Dealing with health decline and mortality",
-    "category": "health_decline",
+    "summary": "Financial strain from retirement and health costs.",
+    "category": "financial_employment",
     "confidence": 0.8
   },
   "86": {
-    "summary": "Struggling with loneliness and social isolation",
-    "category": "loneliness",
+    "summary": "Caregiving for a spouse with advanced dementia.",
+    "category": "caregiver_burden",
     "confidence": 0.8
   },
   "87": {
-    "summary": "Facing financial insecurity due to healthcare costs",
-    "category": "healthcare_cost",
-    "confidence": 0.8
+    "summary": "Coping with trauma from past abuse.",
+    "category": "violence_abuse",
+    "confidence": 0.7
   },
   "88": {
-    "summary": "Dealing with chronic illness and frailty",
-    "category": "chronic_illness",
-    "confidence": 0.8
+    "summary": "Legal dispute over family property and housing.",
+    "category": "legal_housing",
+    "confidence": 0.7
   },
   "89": {
-    "summary": "Navigating end-of-life and mortality",
-    "category": "mortality",
-    "confidence": 0.8
+    "summary": "Stress from continuous learning in a changing field.",
+    "category": "academic_stress",
+    "confidence": 0.6
   },
   "90": {
-    "summary": "Facing health complications and dependency",
-    "category": "health_complications",
+    "summary": "Depression during advanced age and loss of loved ones.",
+    "category": "mental_health_crisis",
     "confidence": 0.8
   },
   "91": {
-    "summary": "Struggling with memory loss and dementia",
-    "category": "dementia",
-    "confidence": 0.8
+    "summary": "Immigration challenges for grandchildren's education.",
+    "category": "immigration",
+    "confidence": 0.7
   },
   "92": {
-    "summary": "Dealing with chronic pain and mobility issues",
-    "category": "chronic_pain_mobility",
+    "summary": "Grieving the death of a child.",
+    "category": "grief_bereavement",
     "confidence": 0.8
   },
   "93": {
-    "summary": "Facing loneliness and social isolation",
-    "category": "loneliness",
+    "summary": "Dealing with the end of a long-term marriage.",
+    "category": "relationship_breakup",
     "confidence": 0.8
   },
   "94": {
-    "summary": "Navigating financial constraints for care",
-    "category": "financial_constraints",
-    "confidence": 0.8
+    "summary": "Feeling isolated after the loss of many friends.",
+    "category": "loneliness_isolation",
+    "confidence": 0.7
   },
   "95": {
-    "summary": "Dealing with health decline and mortality",
-    "category": "health_decline",
+    "summary": "Managing chronic pain that limits daily activities.",
+    "category": "chronic_health_pain",
     "confidence": 0.8
   },
   "96": {
-    "summary": "Struggling with chronic illness and frailty",
-    "category": "chronic_illness",
+    "summary": "Financial strain from retirement and health costs.",
+    "category": "financial_employment",
     "confidence": 0.8
   },
   "97": {
-    "summary": "Facing existential concerns and legacy",
-    "category": "existential_concern",
+    "summary": "Caregiving for a spouse with advanced dementia.",
+    "category": "caregiver_burden",
     "confidence": 0.8
   },
   "98": {
-    "summary": "Dealing with loss of independence and care needs",
-    "category": "loss_of_independence",
-    "confidence": 0.8
+    "summary": "Coping with trauma from past abuse.",
+    "category": "violence_abuse",
+    "confidence": 0.7
   },
   "99": {
-    "summary": "Navigating end-of-life and mortality",
-    "category": "mortality",
-    "confidence": 0.8
+    "summary": "Legal dispute over family property and housing.",
+    "category": "legal_housing",
+    "confidence": 0.7
   },
   "100": {
-    "summary": "Facing health complications and mortality",
-    "category": "health_complications",
-    "confidence": 0.8
+    "summary": "Stress from learning new technology to stay relevant.",
+    "category": "academic_stress",
+    "confidence": 0.6
   }
 }

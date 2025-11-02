@@ -1,407 +1,407 @@
 {
   "20": {
-    "summary": "Adjustment to independence and career uncertainty",
-    "category": "adjustment",
-    "confidence": 0.8
+    "summary": "Navigating first independent housing in Lagos amid urban sprawl.",
+    "category": "legal_housing",
+    "confidence": 0.85
   },
   "21": {
-    "summary": "Financial instability in new career",
-    "category": "financial_stress",
-    "confidence": 0.7
+    "summary": "Adjusting to formal education after informal trade background.",
+    "category": "academic_stress",
+    "confidence": 0.75
   },
   "22": {
-    "summary": "Identity conflict between Nigerian roots and new environment",
-    "category": "identity_crisis",
-    "confidence": 0.8
-  },
-  "23": {
-    "summary": "Work pressure and startup burnout risk",
-    "category": "career_burnout",
-    "confidence": 0.7
-  },
-  "24": {
-    "summary": "Social isolation in foreign country",
-    "category": "loneliness",
-    "confidence": 0.8
-  },
-  "25": {
-    "summary": "Career stagnation in competitive tech industry",
-    "category": "career_stagnation",
-    "confidence": 0.7
-  },
-  "26": {
-    "summary": "Acute adjustment disorder with anxiety",
-    "category": "mental_health",
+    "summary": "Acute anxiety crisis from cross-cultural dissonance in new environment.",
+    "category": "mental_health_crisis",
     "confidence": 0.9
   },
-  "27": {
-    "summary": "Financial precarity and housing insecurity",
-    "category": "financial_stress",
+  "23": {
+    "summary": "Immigration hurdles straining financial stability and social ties.",
+    "category": "immigration",
     "confidence": 0.8
+  },
+  "24": {
+    "summary": "Grief over lost connections to Lagos community intensifies isolation.",
+    "category": "grief_bereavement",
+    "confidence": 0.7
+  },
+  "25": {
+    "summary": "Failed romantic relationship exacerbates loneliness in Singapore.",
+    "category": "relationship_breakup",
+    "confidence": 0.8
+  },
+  "26": {
+    "summary": "Severe loneliness amid precarious employment and cultural stigma.",
+    "category": "loneliness_isolation",
+    "confidence": 0.95
+  },
+  "27": {
+    "summary": "Chronic back pain from sedentary work causing career doubts.",
+    "category": "chronic_health_pain",
+    "confidence": 0.6
   },
   "28": {
-    "summary": "Mid-career identity crisis",
-    "category": "identity_crisis",
-    "confidence": 0.7
+    "summary": "Job insecurity threatens housing stability in high-cost Singapore.",
+    "category": "financial_employment",
+    "confidence": 0.9
   },
   "29": {
-    "summary": "Burnout from high-pressure startup work",
-    "category": "career_burnout",
-    "confidence": 0.8
+    "summary": "Caregiver burden for aging parent in Lagos strains mental health.",
+    "category": "caregiver_burden",
+    "confidence": 0.7
   },
   "30": {
-    "summary": "Relationship instability due to cultural differences",
-    "category": "relationship_crisis",
-    "confidence": 0.7
+    "summary": "Discrimination at workplace triggers identity crisis.",
+    "category": "violence_abuse",
+    "confidence": 0.6
   },
   "31": {
-    "summary": "Career plateau and skill obsolescence",
-    "category": "career_stagnation",
-    "confidence": 0.6
+    "summary": "Landlord disputes over rental agreement in Singapore.",
+    "category": "legal_housing",
+    "confidence": 0.7
   },
   "32": {
-    "summary": "Family pressure to return to Nigeria",
-    "category": "family_pressure",
-    "confidence": 0.7
-  },
-  "33": {
-    "summary": "Health issues from chronic stress",
-    "category": "chronic_pain",
-    "confidence": 0.6
-  },
-  "34": {
-    "summary": "Entrepreneurial failure in tech venture",
-    "category": "financial_loss",
-    "confidence": 0.7
-  },
-  "35": {
-    "summary": "Midlife crisis and existential doubt",
-    "category": "existential_crisis",
+    "summary": "Academic pressure to upskill conflicting with work demands.",
+    "category": "academic_stress",
     "confidence": 0.8
   },
+  "33": {
+    "summary": "Mental health crisis resurfaces amid mounting cross-cultural stress.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
+  },
+  "34": {
+    "summary": "Visa renewal anxiety disrupts long-term plans in Singapore.",
+    "category": "immigration",
+    "confidence": 0.85
+  },
+  "35": {
+    "summary": "Bereavement of mentor in Lagos triggers grief spiral.",
+    "category": "grief_bereavement",
+    "confidence": 0.75
+  },
   "36": {
-    "summary": "Parenting challenges in cross-cultural family",
-    "category": "parenting_stress",
-    "confidence": 0.7
+    "summary": "Relationship breakdown due to cultural differences.",
+    "category": "relationship_breakup",
+    "confidence": 0.8
   },
   "37": {
-    "summary": "Career transition difficulties",
-    "category": "career_change",
-    "confidence": 0.6
+    "summary": "Persistent loneliness despite forming new professional ties.",
+    "category": "loneliness_isolation",
+    "confidence": 0.9
   },
   "38": {
-    "summary": "Marital conflict and relationship strain",
-    "category": "relationship_crisis",
+    "summary": "Chronic fatigue from insomnia impacts work performance.",
+    "category": "chronic_health_pain",
     "confidence": 0.7
   },
   "39": {
-    "summary": "Financial planning crisis for future security",
-    "category": "financial_planning",
-    "confidence": 0.6
+    "summary": "Financial instability forces difficult housing trade-offs.",
+    "category": "financial_employment",
+    "confidence": 0.85
   },
   "40": {
-    "summary": "Health decline from accumulated stress",
-    "category": "chronic_illness",
-    "confidence": 0.7
+    "summary": "Caregiver strain from supporting family in Nigeria.",
+    "category": "caregiver_burden",
+    "confidence": 0.75
   },
   "41": {
-    "summary": "Corporate downsizing and job insecurity",
-    "category": "job_loss",
-    "confidence": 0.6
+    "summary": "Workplace discrimination leads to psychological distress.",
+    "category": "violence_abuse",
+    "confidence": 0.7
   },
   "42": {
-    "summary": "Empty nest syndrome and identity shift",
-    "category": "life_transition",
-    "confidence": 0.7
+    "summary": "Legal disputes over property inheritance in Lagos.",
+    "category": "legal_housing",
+    "confidence": 0.8
   },
   "43": {
-    "summary": "Retirement planning anxiety",
-    "category": "financial_stress",
-    "confidence": 0.6
-  },
-  "44": {
-    "summary": "Chronic health conditions emerging",
-    "category": "chronic_pain",
+    "summary": "Academic pressure to validate career credentials.",
+    "category": "academic_stress",
     "confidence": 0.7
   },
+  "44": {
+    "summary": "Mental health crisis worsens amid isolation and stigma.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
+  },
   "45": {
-    "summary": "Career burnout and disillusionment",
-    "category": "career_burnout",
+    "summary": "Immigration status uncertainty causes chronic stress.",
+    "category": "immigration",
     "confidence": 0.8
   },
   "46": {
-    "summary": "Parental health crisis requiring care",
-    "category": "caregiver_stress",
+    "summary": "Grief over extended family loss compounds existing trauma.",
+    "category": "grief_bereavement",
     "confidence": 0.7
   },
   "47": {
-    "summary": "Financial market losses affecting retirement",
-    "category": "financial_loss",
-    "confidence": 0.6
+    "summary": "Failed partnership intensifies feelings of abandonment.",
+    "category": "relationship_breakup",
+    "confidence": 0.8
   },
   "48": {
-    "summary": "Midlife health decline and mobility issues",
-    "category": "chronic_illness",
-    "confidence": 0.7
+    "summary": "Loneliness persists despite professional success.",
+    "category": "loneliness_isolation",
+    "confidence": 0.9
   },
   "49": {
-    "summary": "Career obsolescence in rapidly changing tech",
-    "category": "career_stagnation",
-    "confidence": 0.6
+    "summary": "Chronic pain from past injuries affects daily functioning.",
+    "category": "chronic_health_pain",
+    "confidence": 0.65
   },
   "50": {
-    "summary": "Chronic pain and reduced physical capacity",
-    "category": "chronic_pain",
+    "summary": "Financial strain from supporting family in Nigeria.",
+    "category": "financial_employment",
     "confidence": 0.8
   },
   "51": {
-    "summary": "Financial insecurity in retirement phase",
-    "category": "financial_stress",
+    "summary": "Caregiver burden for elderly relative causes burnout.",
+    "category": "caregiver_burden",
     "confidence": 0.7
   },
   "52": {
-    "summary": "Grief over aging parents' declining health",
-    "category": "grief",
-    "confidence": 0.8
+    "summary": "Experiencing workplace harassment in tech industry.",
+    "category": "violence_abuse",
+    "confidence": 0.75
   },
   "53": {
-    "summary": "Health crisis requiring major medical intervention",
-    "category": "medical_emergency",
-    "confidence": 0.7
-  },
-  "54": {
-    "summary": "Social isolation in later life",
-    "category": "loneliness",
+    "summary": "Legal issues over property dispute in Lagos.",
+    "category": "legal_housing",
     "confidence": 0.8
   },
-  "55": {
-    "summary": "Financial shortfall for retirement needs",
-    "category": "financial_stress",
+  "54": {
+    "summary": "Academic pressure to pursue advanced degrees.",
+    "category": "academic_stress",
     "confidence": 0.7
   },
+  "55": {
+    "summary": "Mental health crisis triggered by cultural alienation.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
+  },
   "56": {
-    "summary": "Chronic illness management challenges",
-    "category": "chronic_illness",
+    "summary": "Immigration barriers prevent family reunification.",
+    "category": "immigration",
     "confidence": 0.8
   },
   "57": {
-    "summary": "Caregiver burden for spouse/children",
-    "category": "caregiver_stress",
+    "summary": "Grief over loss of community ties in Lagos.",
+    "category": "grief_bereavement",
     "confidence": 0.7
   },
   "58": {
-    "summary": "Health complications from past stress",
-    "category": "chronic_illness",
+    "summary": "Relationship breakdown due to differing life goals.",
+    "category": "relationship_breakup",
     "confidence": 0.8
   },
   "59": {
-    "summary": "Retirement adjustment difficulties",
-    "category": "life_transition",
-    "confidence": 0.7
+    "summary": "Loneliness persists despite professional networks.",
+    "category": "loneliness_isolation",
+    "confidence": 0.9
   },
   "60": {
-    "summary": "Age-related chronic pain and mobility loss",
-    "category": "chronic_pain",
-    "confidence": 0.9
+    "summary": "Chronic health issues limit career mobility.",
+    "category": "chronic_health_pain",
+    "confidence": 0.7
   },
   "61": {
-    "summary": "Financial insecurity in retirement",
-    "category": "financial_stress",
-    "confidence": 0.8
+    "summary": "Financial instability threatens housing security.",
+    "category": "financial_employment",
+    "confidence": 0.85
   },
   "62": {
-    "summary": "Grief over loss of peers and independence",
-    "category": "grief",
-    "confidence": 0.9
+    "summary": "Caregiver burden for disabled family member.",
+    "category": "caregiver_burden",
+    "confidence": 0.75
   },
   "63": {
-    "summary": "Health decline requiring assisted living",
-    "category": "health_crisis",
-    "confidence": 0.8
+    "summary": "Experiencing discrimination in workplace.",
+    "category": "violence_abuse",
+    "confidence": 0.7
   },
   "64": {
-    "summary": "Social isolation and loneliness",
-    "category": "loneliness",
-    "confidence": 0.9
-  },
-  "65": {
-    "summary": "Chronic illness complications",
-    "category": "chronic_illness",
-    "confidence": 0.9
-  },
-  "66": {
-    "summary": "Financial strain from medical expenses",
-    "category": "financial_stress",
+    "summary": "Legal disputes over inheritance in Lagos.",
+    "category": "legal_housing",
     "confidence": 0.8
   },
+  "65": {
+    "summary": "Academic pressure to upskill in competitive industry.",
+    "category": "academic_stress",
+    "confidence": 0.7
+  },
+  "66": {
+    "summary": "Mental health crisis resurfaces amid isolation.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
+  },
   "67": {
-    "summary": "Caregiver burnout for aging spouse",
-    "category": "caregiver_stress",
+    "summary": "Immigration status creates long-term uncertainty.",
+    "category": "immigration",
     "confidence": 0.8
   },
   "68": {
-    "summary": "Health crisis requiring major intervention",
-    "category": "medical_emergency",
-    "confidence": 0.8
+    "summary": "Grief over loss of cultural roots intensifies identity crisis.",
+    "category": "grief_bereavement",
+    "confidence": 0.7
   },
   "69": {
-    "summary": "Loneliness and reduced social network",
-    "category": "loneliness",
-    "confidence": 0.9
+    "summary": "Relationship breakdown due to geographic separation.",
+    "category": "relationship_breakup",
+    "confidence": 0.8
   },
   "70": {
-    "summary": "Age-related chronic pain and frailty",
-    "category": "chronic_pain",
+    "summary": "Loneliness persists despite career achievements.",
+    "category": "loneliness_isolation",
     "confidence": 0.9
   },
   "71": {
-    "summary": "Financial insecurity in advanced age",
-    "category": "financial_stress",
-    "confidence": 0.8
+    "summary": "Chronic pain from past injuries affects quality of life.",
+    "category": "chronic_health_pain",
+    "confidence": 0.65
   },
   "72": {
-    "summary": "Grief over loss of spouse/children",
-    "category": "grief",
-    "confidence": 0.9
+    "summary": "Financial strain from medical expenses.",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "73": {
-    "summary": "Health decline requiring home care",
-    "category": "health_crisis",
-    "confidence": 0.9
+    "summary": "Caregiver burden for aging parent causes emotional exhaustion.",
+    "category": "caregiver_burden",
+    "confidence": 0.75
   },
   "74": {
-    "summary": "Social isolation and loneliness",
-    "category": "loneliness",
-    "confidence": 0.9
+    "summary": "Workplace discrimination leads to psychological distress.",
+    "category": "violence_abuse",
+    "confidence": 0.7
   },
   "75": {
-    "summary": "Chronic illness complications",
-    "category": "chronic_illness",
-    "confidence": 0.9
+    "summary": "Legal issues over property inheritance in Lagos.",
+    "category": "legal_housing",
+    "confidence": 0.8
   },
   "76": {
-    "summary": "Financial strain from medical costs",
-    "category": "financial_stress",
-    "confidence": 0.8
+    "summary": "Academic pressure to validate career credentials.",
+    "category": "academic_stress",
+    "confidence": 0.7
   },
   "77": {
-    "summary": "Caregiver burden for aging relatives",
-    "category": "caregiver_stress",
-    "confidence": 0.8
+    "summary": "Mental health crisis worsens amid isolation.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "78": {
-    "summary": "Health crisis requiring institutional care",
-    "category": "medical_emergency",
-    "confidence": 0.9
-  },
-  "79": {
-    "summary": "Loneliness and reduced mobility",
-    "category": "loneliness",
-    "confidence": 0.9
-  },
-  "80": {
-    "summary": "Age-related chronic pain and frailty",
-    "category": "chronic_pain",
-    "confidence": 0.9
-  },
-  "81": {
-    "summary": "Financial insecurity in advanced age",
-    "category": "financial_stress",
+    "summary": "Immigration barriers prevent family reunification.",
+    "category": "immigration",
     "confidence": 0.8
   },
-  "82": {
-    "summary": "Grief over loss of peers",
-    "category": "grief",
+  "79": {
+    "summary": "Grief over loss of community ties compounds existing trauma.",
+    "category": "grief_bereavement",
+    "confidence": 0.7
+  },
+  "80": {
+    "summary": "Relationship breakdown due to cultural differences.",
+    "category": "relationship_breakup",
+    "confidence": 0.8
+  },
+  "81": {
+    "summary": "Loneliness persists despite professional networks.",
+    "category": "loneliness_isolation",
     "confidence": 0.9
+  },
+  "82": {
+    "summary": "Chronic health issues limit daily functioning.",
+    "category": "chronic_health_pain",
+    "confidence": 0.65
   },
   "83": {
-    "summary": "Health decline requiring full-time care",
-    "category": "health_crisis",
-    "confidence": 0.9
+    "summary": "Financial instability threatens housing security.",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "84": {
-    "summary": "Social isolation and loneliness",
-    "category": "loneliness",
-    "confidence": 0.9
+    "summary": "Caregiver burden for disabled relative causes burnout.",
+    "category": "caregiver_burden",
+    "confidence": 0.7
   },
   "85": {
-    "summary": "Chronic illness complications",
-    "category": "chronic_illness",
-    "confidence": 0.9
+    "summary": "Experiencing workplace harassment.",
+    "category": "violence_abuse",
+    "confidence": 0.7
   },
   "86": {
-    "summary": "Financial strain from medical expenses",
-    "category": "financial_stress",
+    "summary": "Legal disputes over property inheritance in Lagos.",
+    "category": "legal_housing",
     "confidence": 0.8
   },
   "87": {
-    "summary": "Caregiver burden for aging relatives",
-    "category": "caregiver_stress",
-    "confidence": 0.8
+    "summary": "Academic pressure to upskill in competitive industry.",
+    "category": "academic_stress",
+    "confidence": 0.7
   },
   "88": {
-    "summary": "Health crisis requiring institutionalization",
-    "category": "medical_emergency",
+    "summary": "Mental health crisis triggered by isolation.",
+    "category": "mental_health_crisis",
     "confidence": 0.9
   },
   "89": {
-    "summary": "Loneliness and reduced mobility",
-    "category": "loneliness",
-    "confidence": 0.9
+    "summary": "Immigration status creates chronic uncertainty.",
+    "category": "immigration",
+    "confidence": 0.8
   },
   "90": {
-    "summary": "Age-related chronic pain and frailty",
-    "category": "chronic_pain",
-    "confidence": 0.9
+    "summary": "Grief over loss of cultural roots intensifies identity crisis.",
+    "category": "grief_bereavement",
+    "confidence": 0.7
   },
   "91": {
-    "summary": "Financial insecurity in advanced age",
-    "category": "financial_stress",
+    "summary": "Relationship breakdown due to geographic separation.",
+    "category": "relationship_breakup",
     "confidence": 0.8
   },
   "92": {
-    "summary": "Grief over loss of peers",
-    "category": "grief",
+    "summary": "Loneliness persists despite career success.",
+    "category": "loneliness_isolation",
     "confidence": 0.9
   },
   "93": {
-    "summary": "Health decline requiring full-time care",
-    "category": "health_crisis",
-    "confidence": 0.9
+    "summary": "Chronic pain from past injuries affects daily life.",
+    "category": "chronic_health_pain",
+    "confidence": 0.65
   },
   "94": {
-    "summary": "Social isolation and loneliness",
-    "category": "loneliness",
-    "confidence": 0.9
-  },
-  "95": {
-    "summary": "Chronic illness complications",
-    "category": "chronic_illness",
-    "confidence": 0.9
-  },
-  "96": {
-    "summary": "Financial strain from medical costs",
-    "category": "financial_stress",
+    "summary": "Financial strain from supporting family abroad.",
+    "category": "financial_employment",
     "confidence": 0.8
   },
+  "95": {
+    "summary": "Caregiver burden for elderly parent causes emotional exhaustion.",
+    "category": "caregiver_burden",
+    "confidence": 0.7
+  },
+  "96": {
+    "summary": "Workplace discrimination leads to psychological distress.",
+    "category": "violence_abuse",
+    "confidence": 0.7
+  },
   "97": {
-    "summary": "Caregiver burden for aging relatives",
-    "category": "caregiver_stress",
+    "summary": "Legal issues over property inheritance in Lagos.",
+    "category": "legal_housing",
     "confidence": 0.8
   },
   "98": {
-    "summary": "Health crisis requiring institutionalization",
-    "category": "medical_emergency",
-    "confidence": 0.9
+    "summary": "Academic pressure to validate career credentials.",
+    "category": "academic_stress",
+    "confidence": 0.7
   },
   "99": {
-    "summary": "Loneliness and reduced mobility",
-    "category": "loneliness",
+    "summary": "Mental health crisis worsens amid isolation.",
+    "category": "mental_health_crisis",
     "confidence": 0.9
   },
   "100": {
-    "summary": "Age-related chronic pain and frailty",
-    "category": "chronic_pain",
-    "confidence": 0.9
+    "summary": "Immigration barriers prevent family reunification.",
+    "category": "immigration",
+    "confidence": 0.8
   }
 }

@@ -1,407 +1,407 @@
 {
   "20": {
-    "summary": "Survivor's guilt after WWII displacement",
-    "category": "grief",
-    "confidence": 0.95
-  },
-  "21": {
-    "summary": "Family separation anxiety post-war",
-    "category": "isolation",
+    "summary": "Trauma from wartime displacement intensifies mental health struggles.",
+    "category": "mental_health_crisis",
     "confidence": 0.9
   },
+  "21": {
+    "summary": "Navigating immigration bureaucracy amid unstable employment.",
+    "category": "immigration",
+    "confidence": 0.8
+  },
   "22": {
-    "summary": "Cultural identity conflict in new country",
-    "category": "identity_crisis",
+    "summary": "Grief over lost homeland and family separation consumes daily life.",
+    "category": "grief_bereavement",
     "confidence": 0.85
   },
   "23": {
-    "summary": "Unemployment stress in post-war economy",
-    "category": "financial_stress",
-    "confidence": 0.8
-  },
-  "24": {
-    "summary": "Acute anxiety following transatlantic displacement trauma",
-    "category": "trauma",
-    "confidence": 1.0
-  },
-  "25": {
-    "summary": "Career mismatch with wartime skills",
-    "category": "occupational_dissatisfaction",
+    "summary": "Romantic relationship dissolves under pressure of displacement.",
+    "category": "relationship_breakup",
     "confidence": 0.75
   },
-  "26": {
-    "summary": "Pressure to support family financially",
-    "category": "financial_stress",
+  "24": {
+    "summary": "Isolation deepens as transatlantic trauma disrupts social integration.",
+    "category": "loneliness_isolation",
     "confidence": 0.9
   },
+  "25": {
+    "summary": "Chronic back pain from factory work exacerbates mental fatigue.",
+    "category": "chronic_health_pain",
+    "confidence": 0.7
+  },
+  "26": {
+    "summary": "Job insecurity fuels anxiety about supporting family back home.",
+    "category": "financial_employment",
+    "confidence": 0.85
+  },
   "27": {
-    "summary": "Social isolation in immigrant community",
-    "category": "loneliness",
+    "summary": "Caregiving for ill mother strains limited resources and energy.",
+    "category": "caregiver_burden",
     "confidence": 0.8
   },
   "28": {
-    "summary": "Unresolved war trauma resurfacing",
-    "category": "ptsd",
-    "confidence": 0.85
-  },
-  "29": {
-    "summary": "Cultural assimilation fatigue",
-    "category": "identity_crisis",
+    "summary": "Discrimination at workplace sparks feelings of powerlessness.",
+    "category": "violence_abuse",
     "confidence": 0.7
   },
+  "29": {
+    "summary": "Housing instability threatens stability after rent hike.",
+    "category": "legal_housing",
+    "confidence": 0.75
+  },
   "30": {
-    "summary": "Premature aging from wartime stress",
-    "category": "chronic_health",
+    "summary": "Language barriers hinder skill certification for career growth.",
+    "category": "academic_stress",
     "confidence": 0.65
   },
   "31": {
-    "summary": "Marriage pressure conflicting with trauma",
-    "category": "relationship_stress",
-    "confidence": 0.7
+    "summary": "Flashbacks disrupt sleep, worsening occupational performance.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "32": {
-    "summary": "Generational communication gaps with children",
-    "category": "family_tension",
-    "confidence": 0.65
+    "summary": "Citizenship application delays increase existential uncertainty.",
+    "category": "immigration",
+    "confidence": 0.75
   },
   "33": {
-    "summary": "Midlife crisis amid immigrant status",
-    "category": "existential_crisis",
-    "confidence": 0.6
+    "summary": "Bereavement over wartime cousin's death reignites grief.",
+    "category": "grief_bereavement",
+    "confidence": 0.8
   },
   "34": {
-    "summary": "Unfulfilled artistic ambitions",
-    "category": "creative_block",
-    "confidence": 0.55
+    "summary": "Marriage ends due to unresolved trauma and communication gaps.",
+    "category": "relationship_breakup",
+    "confidence": 0.7
   },
   "35": {
-    "summary": "Chronic health issues from wartime injuries",
-    "category": "chronic_pain",
-    "confidence": 0.7
+    "summary": "Isolation persists despite community outreach efforts.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
   },
   "36": {
-    "summary": "Career stagnation in manual labor",
-    "category": "occupational_dissatisfaction",
-    "confidence": 0.6
+    "summary": "Arthritis from manual labor limits ability to work full shifts.",
+    "category": "chronic_health_pain",
+    "confidence": 0.75
   },
   "37": {
-    "summary": "Cultural nostalgia overwhelming daily life",
-    "category": "grief",
-    "confidence": 0.65
+    "summary": "Unemployment claims strain fragile financial stability.",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "38": {
-    "summary": "Financial insecurity despite hard work",
-    "category": "financial_stress",
-    "confidence": 0.7
+    "summary": "Caring for aging parents with dementia drains emotional reserves.",
+    "category": "caregiver_burden",
+    "confidence": 0.85
   },
   "39": {
-    "summary": "Fear of failing family legacy",
-    "category": "existential_crisis",
-    "confidence": 0.6
+    "summary": "Harassment from coworkers erodes workplace safety.",
+    "category": "violence_abuse",
+    "confidence": 0.7
   },
   "40": {
-    "summary": "Retirement anxiety in foreign land",
-    "category": "transition_stress",
-    "confidence": 0.55
+    "summary": "Eviction notice threatens housing security after rent increase.",
+    "category": "legal_housing",
+    "confidence": 0.75
   },
   "41": {
-    "summary": "Unresolved displacement trauma resurfacing",
-    "category": "ptsd",
-    "confidence": 0.6
-  },
-  "42": {
-    "summary": "Health decline from wartime exposure",
-    "category": "chronic_health",
+    "summary": "Language barriers prevent accessing vocational training.",
+    "category": "academic_stress",
     "confidence": 0.65
   },
+  "42": {
+    "summary": "Nightmares disrupt work performance, risking job loss.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
+  },
   "43": {
-    "summary": "Children assimilating faster than self",
-    "category": "generational_gap",
-    "confidence": 0.55
+    "summary": "Visa renewal complications create immigration limbo.",
+    "category": "immigration",
+    "confidence": 0.75
   },
   "44": {
-    "summary": "Midlife reassessment of immigrant journey",
-    "category": "existential_crisis",
-    "confidence": 0.5
+    "summary": "Grief over father's death resurfaces unresolved wartime trauma.",
+    "category": "grief_bereavement",
+    "confidence": 0.8
   },
   "45": {
-    "summary": "Chronic pain from old injuries",
-    "category": "chronic_pain",
+    "summary": "Divorce proceedings compound existing financial stress.",
+    "category": "relationship_breakup",
     "confidence": 0.7
   },
   "46": {
-    "summary": "Retirement adjustment difficulties",
-    "category": "transition_stress",
-    "confidence": 0.6
+    "summary": "Isolation worsens after family relocates without contact.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
   },
   "47": {
-    "summary": "Guilt over unfulfilled artistic pursuits",
-    "category": "regret",
-    "confidence": 0.55
+    "summary": "Chronic pain from factory injury limits mobility and income.",
+    "category": "chronic_health_pain",
+    "confidence": 0.75
   },
   "48": {
-    "summary": "Health issues from wartime malnutrition",
-    "category": "chronic_health",
-    "confidence": 0.6
+    "summary": "Job loss due to automation deepens financial precarity.",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "49": {
-    "summary": "Children leaving home (empty nest)",
-    "category": "life_transition",
-    "confidence": 0.5
+    "summary": "Caregiving for disabled spouse strains limited resources.",
+    "category": "caregiver_burden",
+    "confidence": 0.8
   },
   "50": {
-    "summary": "Retirement poverty fears",
-    "category": "financial_stress",
-    "confidence": 0.55
+    "summary": "Housing discrimination based on ethnicity causes legal battles.",
+    "category": "violence_abuse",
+    "confidence": 0.7
   },
   "51": {
-    "summary": "Unresolved war trauma resurfacing",
-    "category": "ptsd",
-    "confidence": 0.55
+    "summary": "Unstable housing threatens family's basic needs.",
+    "category": "legal_housing",
+    "confidence": 0.75
   },
   "52": {
-    "summary": "Chronic health decline",
-    "category": "chronic_health",
-    "confidence": 0.6
+    "summary": "Language barriers prevent accessing higher education.",
+    "category": "academic_stress",
+    "confidence": 0.65
   },
   "53": {
-    "summary": "Guilt over unfulfilled artistic potential",
-    "category": "regret",
-    "confidence": 0.5
+    "summary": "PTSD symptoms interfere with maintaining steady employment.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "54": {
-    "summary": "Retirement adjustment challenges",
-    "category": "transition_stress",
-    "confidence": 0.5
+    "summary": "Immigration status uncertainty hinders long-term planning.",
+    "category": "immigration",
+    "confidence": 0.75
   },
   "55": {
-    "summary": "Legacy concerns with assimilated children",
-    "category": "family_tension",
-    "confidence": 0.45
+    "summary": "Grief over sibling's death in homeland reignites trauma.",
+    "category": "grief_bereavement",
+    "confidence": 0.8
   },
   "56": {
-    "summary": "Chronic pain limiting hobbies",
-    "category": "chronic_pain",
-    "confidence": 0.55
+    "summary": "Marital breakdown after years of unresolved conflict.",
+    "category": "relationship_breakup",
+    "confidence": 0.7
   },
   "57": {
-    "summary": "Retirement financial insecurity",
-    "category": "financial_stress",
-    "confidence": 0.5
+    "summary": "Isolation persists despite community integration efforts.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
   },
   "58": {
-    "summary": "Health decline impacting independence",
-    "category": "chronic_health",
-    "confidence": 0.55
+    "summary": "Arthritis from decades of manual labor restricts daily activities.",
+    "category": "chronic_health_pain",
+    "confidence": 0.75
   },
   "59": {
-    "summary": "Guilt over unfulfilled artistic dreams",
-    "category": "regret",
-    "confidence": 0.45
+    "summary": "Retirement savings insufficient due to lifelong wage constraints.",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "60": {
-    "summary": "Retirement adjustment difficulties",
-    "category": "transition_stress",
-    "confidence": 0.45
+    "summary": "Caregiving for aging spouse with dementia drains resources.",
+    "category": "caregiver_burden",
+    "confidence": 0.85
   },
   "61": {
-    "summary": "Chronic health issues requiring care",
-    "category": "caregiver_stress",
-    "confidence": 0.5
+    "summary": "Housing discrimination based on ethnicity causes legal battles.",
+    "category": "violence_abuse",
+    "confidence": 0.7
   },
   "62": {
-    "summary": "Guilt over unfulfilled artistic potential",
-    "category": "regret",
-    "confidence": 0.4
+    "summary": "Unstable housing threatens family's basic needs.",
+    "category": "legal_housing",
+    "confidence": 0.75
   },
   "63": {
-    "summary": "Retirement financial strain",
-    "category": "financial_stress",
-    "confidence": 0.45
+    "summary": "Language barriers prevent accessing vocational training.",
+    "category": "academic_stress",
+    "confidence": 0.65
   },
   "64": {
-    "summary": "Chronic pain limiting mobility",
-    "category": "chronic_pain",
-    "confidence": 0.5
+    "summary": "Nightmares disrupt sleep, worsening occupational performance.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "65": {
-    "summary": "Retirement adjustment challenges",
-    "category": "transition_stress",
-    "confidence": 0.4
+    "summary": "Citizenship application delays increase existential uncertainty.",
+    "category": "immigration",
+    "confidence": 0.75
   },
   "66": {
-    "summary": "Health decline requiring assistance",
-    "category": "caregiver_stress",
-    "confidence": 0.45
+    "summary": "Bereavement over spouse's death reignites grief.",
+    "category": "grief_bereavement",
+    "confidence": 0.8
   },
   "67": {
-    "summary": "Guilt over unfulfilled artistic pursuits",
-    "category": "regret",
-    "confidence": 0.35
+    "summary": "Relationship breakdown after years of unresolved conflict.",
+    "category": "relationship_breakup",
+    "confidence": 0.7
   },
   "68": {
-    "summary": "Retirement financial insecurity",
-    "category": "financial_stress",
-    "confidence": 0.4
+    "summary": "Isolation persists despite community outreach efforts.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
   },
   "69": {
-    "summary": "Chronic health issues impacting daily life",
-    "category": "chronic_health",
-    "confidence": 0.45
+    "summary": "Chronic pain from factory injury limits mobility and income.",
+    "category": "chronic_health_pain",
+    "confidence": 0.75
   },
   "70": {
-    "summary": "Retirement adjustment difficulties",
-    "category": "transition_stress",
-    "confidence": 0.35
+    "summary": "Job loss due to automation deepens financial precarity.",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "71": {
-    "summary": "Guilt over unfulfilled artistic potential",
-    "category": "regret",
-    "confidence": 0.3
+    "summary": "Caregiving for disabled spouse strains limited resources.",
+    "category": "caregiver_burden",
+    "confidence": 0.8
   },
   "72": {
-    "summary": "Retirement financial strain",
-    "category": "financial_stress",
-    "confidence": 0.35
+    "summary": "Housing discrimination based on ethnicity causes legal battles.",
+    "category": "violence_abuse",
+    "confidence": 0.7
   },
   "73": {
-    "summary": "Chronic pain limiting activities",
-    "category": "chronic_pain",
-    "confidence": 0.4
+    "summary": "Unstable housing threatens family's basic needs.",
+    "category": "legal_housing",
+    "confidence": 0.75
   },
   "74": {
-    "summary": "Retirement adjustment challenges",
-    "category": "transition_stress",
-    "confidence": 0.3
+    "summary": "Language barriers prevent accessing higher education.",
+    "category": "academic_stress",
+    "confidence": 0.65
   },
   "75": {
-    "summary": "Health decline requiring care",
-    "category": "caregiver_stress",
-    "confidence": 0.35
+    "summary": "PTSD symptoms interfere with maintaining steady employment.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "76": {
-    "summary": "Guilt over unfulfilled artistic dreams",
-    "category": "regret",
-    "confidence": 0.25
+    "summary": "Visa renewal complications create immigration limbo.",
+    "category": "immigration",
+    "confidence": 0.75
   },
   "77": {
-    "summary": "Retirement financial insecurity",
-    "category": "financial_stress",
-    "confidence": 0.3
+    "summary": "Grief over father's death resurfaces unresolved wartime trauma.",
+    "category": "grief_bereavement",
+    "confidence": 0.8
   },
   "78": {
-    "summary": "Chronic health issues impacting independence",
-    "category": "chronic_health",
-    "confidence": 0.35
+    "summary": "Divorce proceedings compound existing financial stress.",
+    "category": "relationship_breakup",
+    "confidence": 0.7
   },
   "79": {
-    "summary": "Retirement adjustment difficulties",
-    "category": "transition_stress",
-    "confidence": 0.25
+    "summary": "Isolation worsens after family relocates without contact.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
   },
   "80": {
-    "summary": "Guilt over unfulfilled artistic potential",
-    "category": "regret",
-    "confidence": 0.2
+    "summary": "Arthritis from manual labor limits ability to work full shifts.",
+    "category": "chronic_health_pain",
+    "confidence": 0.75
   },
   "81": {
-    "summary": "Retirement financial strain",
-    "category": "financial_stress",
-    "confidence": 0.25
+    "summary": "Unemployment claims strain fragile financial stability.",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "82": {
-    "summary": "Chronic pain limiting mobility",
-    "category": "chronic_pain",
-    "confidence": 0.3
+    "summary": "Caring for aging parents with dementia drains emotional reserves.",
+    "category": "caregiver_burden",
+    "confidence": 0.85
   },
   "83": {
-    "summary": "Retirement adjustment challenges",
-    "category": "transition_stress",
-    "confidence": 0.2
+    "summary": "Harassment from coworkers erodes workplace safety.",
+    "category": "violence_abuse",
+    "confidence": 0.7
   },
   "84": {
-    "summary": "Health decline requiring assistance",
-    "category": "caregiver_stress",
-    "confidence": 0.25
+    "summary": "Eviction notice threatens housing security after rent increase.",
+    "category": "legal_housing",
+    "confidence": 0.75
   },
   "85": {
-    "summary": "Guilt over unfulfilled artistic pursuits",
-    "category": "regret",
-    "confidence": 0.15
+    "summary": "Language barriers prevent accessing vocational training.",
+    "category": "academic_stress",
+    "confidence": 0.65
   },
   "86": {
-    "summary": "Retirement financial insecurity",
-    "category": "financial_stress",
-    "confidence": 0.2
+    "summary": "Flashbacks disrupt sleep, worsening occupational performance.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "87": {
-    "summary": "Chronic health issues impacting daily life",
-    "category": "chronic_health",
-    "confidence": 0.25
+    "summary": "Citizenship application delays increase existential uncertainty.",
+    "category": "immigration",
+    "confidence": 0.75
   },
   "88": {
-    "summary": "Retirement adjustment difficulties",
-    "category": "transition_stress",
-    "confidence": 0.15
+    "summary": "Bereavement over wartime cousin's death reignites grief.",
+    "category": "grief_bereavement",
+    "confidence": 0.8
   },
   "89": {
-    "summary": "Guilt over unfulfilled artistic dreams",
-    "category": "regret",
-    "confidence": 0.1
+    "summary": "Marriage ends due to unresolved trauma and communication gaps.",
+    "category": "relationship_breakup",
+    "confidence": 0.7
   },
   "90": {
-    "summary": "Retirement financial strain",
-    "category": "financial_stress",
-    "confidence": 0.15
+    "summary": "Isolation persists despite community outreach efforts.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
   },
   "91": {
-    "summary": "Chronic pain limiting activities",
-    "category": "chronic_pain",
-    "confidence": 0.2
+    "summary": "Arthritis from factory injury limits mobility and income.",
+    "category": "chronic_health_pain",
+    "confidence": 0.75
   },
   "92": {
-    "summary": "Retirement adjustment challenges",
-    "category": "transition_stress",
-    "confidence": 0.1
+    "summary": "Job loss due to automation deepens financial precarity.",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "93": {
-    "summary": "Health decline requiring care",
-    "category": "caregiver_stress",
-    "confidence": 0.15
+    "summary": "Caregiving for disabled spouse strains limited resources.",
+    "category": "caregiver_burden",
+    "confidence": 0.8
   },
   "94": {
-    "summary": "Guilt over unfulfilled artistic potential",
-    "category": "regret",
-    "confidence": 0.05
+    "summary": "Housing discrimination based on ethnicity causes legal battles.",
+    "category": "violence_abuse",
+    "confidence": 0.7
   },
   "95": {
-    "summary": "Retirement financial insecurity",
-    "category": "financial_stress",
-    "confidence": 0.1
+    "summary": "Unstable housing threatens family's basic needs.",
+    "category": "legal_housing",
+    "confidence": 0.75
   },
   "96": {
-    "summary": "Chronic health issues impacting independence",
-    "category": "chronic_health",
-    "confidence": 0.15
+    "summary": "Language barriers prevent accessing higher education.",
+    "category": "academic_stress",
+    "confidence": 0.65
   },
   "97": {
-    "summary": "Retirement adjustment difficulties",
-    "category": "transition_stress",
-    "confidence": 0.05
+    "summary": "PTSD symptoms interfere with maintaining steady employment.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "98": {
-    "summary": "Guilt over unfulfilled artistic pursuits",
-    "category": "regret",
-    "confidence": 0.01
+    "summary": "Visa renewal complications create immigration limbo.",
+    "category": "immigration",
+    "confidence": 0.75
   },
   "99": {
-    "summary": "Retirement financial strain",
-    "category": "financial_stress",
-    "confidence": 0.05
+    "summary": "Grief over sibling's death in homeland reignites trauma.",
+    "category": "grief_bereavement",
+    "confidence": 0.8
   },
   "100": {
-    "summary": "Chronic pain limiting mobility",
-    "category": "chronic_pain",
-    "confidence": 0.1
+    "summary": "Marital breakdown after years of unresolved conflict.",
+    "category": "relationship_breakup",
+    "confidence": 0.7
   }
 }

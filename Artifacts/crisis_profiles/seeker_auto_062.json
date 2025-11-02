@@ -1,407 +1,407 @@
 {
   "20": {
-    "summary": "First-year career jitters in unfamiliar Buenos Aires",
-    "category": "career_adjustment",
+    "summary": "First job instability and financial strain after moving abroad.",
+    "category": "financial_employment",
     "confidence": 0.85
   },
   "21": {
-    "summary": "Navigating language barriers and cultural isolation",
-    "category": "social_isolation",
-    "confidence": 0.8
+    "summary": "Family obligations conflicting with new career priorities.",
+    "category": "caregiver_burden",
+    "confidence": 0.7
   },
   "22": {
-    "summary": "Financial stress from Argentina's economic volatility",
-    "category": "financial_stress",
-    "confidence": 0.75
-  },
-  "23": {
-    "summary": "Imposter syndrome in competitive tech industry",
-    "category": "career_doubt",
-    "confidence": 0.7
-  },
-  "24": {
-    "summary": "Homesickness for Tokyo's structured environment",
-    "category": "grief",
+    "summary": "Workplace harassment amid cultural clashes in Buenos Aires.",
+    "category": "violence_abuse",
     "confidence": 0.65
   },
-  "25": {
-    "summary": "Balancing Japanese traditions with local relationships",
-    "category": "identity_conflict",
+  "23": {
+    "summary": "Housing contract disputes with landlords in unstable economy.",
+    "category": "legal_housing",
     "confidence": 0.8
   },
-  "26": {
-    "summary": "Burnout from overworking to prove worth",
-    "category": "career_burnout",
-    "confidence": 0.7
-  },
-  "27": {
-    "summary": "Adjusting to life in Buenos Aires after relocation",
-    "category": "adjustment_disorder",
-    "confidence": 0.9
-  },
-  "28": {
-    "summary": "Pressure to establish roots in unstable economy",
-    "category": "financial_uncertainty",
+  "24": {
+    "summary": "Pressure to excel academically while balancing work.",
+    "category": "academic_stress",
     "confidence": 0.75
   },
-  "29": {
-    "summary": "Loneliness despite professional success",
-    "category": "social_isolation",
+  "25": {
+    "summary": "Anxiety spiraling into clinical depression post-relocation.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
+  },
+  "26": {
+    "summary": "Visa complications threatening residency status.",
+    "category": "immigration",
     "confidence": 0.8
   },
+  "27": {
+    "summary": "Grief over losing Tokyo's familiar support networks.",
+    "category": "grief_bereavement",
+    "confidence": 0.85
+  },
+  "28": {
+    "summary": "Breakup intensifies loneliness in unfamiliar city.",
+    "category": "relationship_breakup",
+    "confidence": 0.7
+  },
+  "29": {
+    "summary": "Isolation from limited social circles in Argentina.",
+    "category": "loneliness_isolation",
+    "confidence": 0.9
+  },
   "30": {
-    "summary": "Mid-career identity crisis questioning values",
-    "category": "existential_crisis",
+    "summary": "Chronic back pain from sedentary coding job.",
+    "category": "chronic_health_pain",
     "confidence": 0.7
   },
   "31": {
-    "summary": "Family expectations vs personal freedom",
-    "category": "family_pressure",
-    "confidence": 0.65
+    "summary": "Salary stagnation conflicting with Tokyo-era ambitions.",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "32": {
-    "summary": "Health anxiety from chronic stress",
-    "category": "chronic_health",
-    "confidence": 0.6
-  },
-  "33": {
-    "summary": "Ethical conflicts in corporate tech work",
-    "category": "moral_dilemma",
-    "confidence": 0.7
-  },
-  "34": {
-    "summary": "Midlife reassessment of cultural identity",
-    "category": "identity_crisis",
-    "confidence": 0.6
-  },
-  "35": {
-    "summary": "Financial planning paralysis amid inflation",
-    "category": "financial_stress",
-    "confidence": 0.7
-  },
-  "36": {
-    "summary": "Marriage pressure conflicting with independence",
-    "category": "relationship_dilemma",
-    "confidence": 0.6
-  },
-  "37": {
-    "summary": "Parental health crises triggering anxiety",
-    "category": "family_grief",
-    "confidence": 0.65
-  },
-  "38": {
-    "summary": "Career plateau after rapid early advancement",
-    "category": "career_stagnation",
-    "confidence": 0.7
-  },
-  "39": {
-    "summary": "Guilt over cultural assimilation",
-    "category": "identity_guilt",
-    "confidence": 0.6
-  },
-  "40": {
-    "summary": "Midlife health decline from past stress",
-    "category": "chronic_pain",
+    "summary": "Caring for aging parent across continents strains resources.",
+    "category": "caregiver_burden",
     "confidence": 0.75
   },
+  "33": {
+    "summary": "Ex-partner's threats escalate to legal intervention.",
+    "category": "violence_abuse",
+    "confidence": 0.6
+  },
+  "34": {
+    "summary": "Landlord eviction threats during economic downturn.",
+    "category": "legal_housing",
+    "confidence": 0.7
+  },
+  "35": {
+    "summary": "Graduate program deadlines clash with work demands.",
+    "category": "academic_stress",
+    "confidence": 0.65
+  },
+  "36": {
+    "summary": "Burnout from unresolved relocation trauma.",
+    "category": "mental_health_crisis",
+    "confidence": 0.85
+  },
+  "37": {
+    "summary": "Sponsorship visa renewal complications.",
+    "category": "immigration",
+    "confidence": 0.7
+  },
+  "38": {
+    "summary": "Bereavement of Tokyo-based mentor triggers nostalgia.",
+    "category": "grief_bereavement",
+    "confidence": 0.8
+  },
+  "39": {
+    "summary": "New relationship ends due to cultural differences.",
+    "category": "relationship_breakup",
+    "confidence": 0.7
+  },
+  "40": {
+    "summary": "Isolation from expat community's cliques.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
+  },
   "41": {
-    "summary": "Empty nest syndrome after children leave",
-    "category": "family_loss",
+    "summary": "Arthritis from traditional instrument practice.",
+    "category": "chronic_health_pain",
     "confidence": 0.6
   },
   "42": {
-    "summary": "Retirement anxiety in unstable economy",
-    "category": "financial_uncertainty",
-    "confidence": 0.8
+    "summary": "Freelance gig instability affects financial security.",
+    "category": "financial_employment",
+    "confidence": 0.75
   },
   "43": {
-    "summary": "Grief over loss of Japanese community ties",
-    "category": "social_isolation",
+    "summary": "Elderly parent's health crisis requires remote caregiving.",
+    "category": "caregiver_burden",
     "confidence": 0.7
   },
   "44": {
-    "summary": "Chronic illness diagnosis disrupting routines",
-    "category": "health_crisis",
-    "confidence": 0.7
-  },
-  "45": {
-    "summary": "Wealth disparity anxiety despite stability",
-    "category": "financial_stress",
-    "confidence": 0.65
-  },
-  "46": {
-    "summary": "Caregiving burden for aging parents",
-    "category": "family_duty",
-    "confidence": 0.7
-  },
-  "47": {
-    "summary": "Existential crisis about cultural legacy",
-    "category": "identity_crisis",
+    "summary": "Neighbor harassment escalates to police report.",
+    "category": "violence_abuse",
     "confidence": 0.6
   },
+  "45": {
+    "summary": "Housing discrimination lawsuit pending.",
+    "category": "legal_housing",
+    "confidence": 0.7
+  },
+  "46": {
+    "summary": "Academic certification delays impact career growth.",
+    "category": "academic_stress",
+    "confidence": 0.6
+  },
+  "47": {
+    "summary": "Depression relapse from unresolved grief.",
+    "category": "mental_health_crisis",
+    "confidence": 0.8
+  },
   "48": {
-    "summary": "Social isolation from reduced mobility",
-    "category": "loneliness",
+    "summary": "Family visa denial causes separation anxiety.",
+    "category": "immigration",
     "confidence": 0.75
   },
   "49": {
-    "summary": "Retirement adjustment struggles",
-    "category": "transition_crisis",
-    "confidence": 0.7
-  },
-  "50": {
-    "summary": "Chronic pain limiting traditional hobbies",
-    "category": "chronic_pain",
+    "summary": "Loss of Buenos Aires' only close friend.",
+    "category": "grief_bereavement",
     "confidence": 0.8
   },
+  "50": {
+    "summary": "Breakup from partner's cultural assimilation conflict.",
+    "category": "relationship_breakup",
+    "confidence": 0.7
+  },
   "51": {
-    "summary": "Grandparenting challenges with cultural gaps",
-    "category": "family_duty",
-    "confidence": 0.65
+    "summary": "Isolation from failed integration into local community.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
   },
   "52": {
-    "summary": "Financial insecurity despite savings",
-    "category": "financial_uncertainty",
+    "summary": "Chronic stress manifests as digestive illness.",
+    "category": "chronic_health_pain",
     "confidence": 0.7
   },
   "53": {
-    "summary": "Grief over loss of close friends",
-    "category": "social_isolation",
-    "confidence": 0.75
+    "summary": "Salary cuts during economic crisis strain finances.",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "54": {
-    "summary": "Health decline requiring lifestyle changes",
-    "category": "health_crisis",
-    "confidence": 0.8
-  },
-  "55": {
-    "summary": "Retirement income shortfalls",
-    "category": "financial_stress",
-    "confidence": 0.8
-  },
-  "56": {
-    "summary": "Caregiving exhaustion for spouse",
-    "category": "family_duty",
-    "confidence": 0.85
-  },
-  "57": {
-    "summary": "Identity crisis after career retirement",
-    "category": "existential_crisis",
+    "summary": "Caring for sick sibling requires emotional toll.",
+    "category": "caregiver_burden",
     "confidence": 0.7
   },
+  "55": {
+    "summary": "Workplace bullying leads to HR complaint.",
+    "category": "violence_abuse",
+    "confidence": 0.65
+  },
+  "56": {
+    "summary": "Housing contract dispute with new landlord.",
+    "category": "legal_housing",
+    "confidence": 0.7
+  },
+  "57": {
+    "summary": "Academic credential recognition delays career.",
+    "category": "academic_stress",
+    "confidence": 0.6
+  },
   "58": {
-    "summary": "Chronic illness management struggles",
-    "category": "chronic_health",
-    "confidence": 0.8
+    "summary": "Anxiety disorder diagnosed post-relocation trauma.",
+    "category": "mental_health_crisis",
+    "confidence": 0.85
   },
   "59": {
-    "summary": "Social isolation from declining mobility",
-    "category": "loneliness",
-    "confidence": 0.85
+    "summary": "Family immigration blocked by bureaucratic hurdles.",
+    "category": "immigration",
+    "confidence": 0.75
   },
   "60": {
-    "summary": "Grief over loss of independence",
-    "category": "family_loss",
-    "confidence": 0.75
+    "summary": "Grief over Tokyo childhood home's demolition.",
+    "category": "grief_bereavement",
+    "confidence": 0.8
   },
   "61": {
-    "summary": "Financial anxiety from inflation",
-    "category": "financial_uncertainty",
-    "confidence": 0.8
+    "summary": "Breakup from partner's inability to relocate.",
+    "category": "relationship_breakup",
+    "confidence": 0.7
   },
   "62": {
-    "summary": "Health crises requiring assisted living",
-    "category": "health_crisis",
-    "confidence": 0.9
+    "summary": "Isolation from expat group's exclusion.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
   },
   "63": {
-    "summary": "Loneliness after spouse's death",
-    "category": "grief",
-    "confidence": 0.9
+    "summary": "Chronic pain from traditional dance injury flares.",
+    "category": "chronic_health_pain",
+    "confidence": 0.7
   },
   "64": {
-    "summary": "Caregiving for declining parents",
-    "category": "family_duty",
-    "confidence": 0.85
-  },
-  "65": {
-    "summary": "Retirement adjustment to inactivity",
-    "category": "transition_crisis",
-    "confidence": 0.8
-  },
-  "66": {
-    "summary": "Chronic pain limiting cultural practices",
-    "category": "chronic_pain",
-    "confidence": 0.85
-  },
-  "67": {
-    "summary": "Financial insecurity in retirement",
-    "category": "financial_stress",
-    "confidence": 0.8
-  },
-  "68": {
-    "summary": "Guilt over reduced family involvement",
-    "category": "family_guilt",
+    "summary": "Freelance income volatility causes financial stress.",
+    "category": "financial_employment",
     "confidence": 0.75
   },
+  "65": {
+    "summary": "Elderly parent's dementia requires remote care coordination.",
+    "category": "caregiver_burden",
+    "confidence": 0.7
+  },
+  "66": {
+    "summary": "Neighbor harassment escalates to restraining order.",
+    "category": "violence_abuse",
+    "confidence": 0.6
+  },
+  "67": {
+    "summary": "Housing discrimination lawsuit settled.",
+    "category": "legal_housing",
+    "confidence": 0.7
+  },
+  "68": {
+    "summary": "Academic program rejection impacts career trajectory.",
+    "category": "academic_stress",
+    "confidence": 0.6
+  },
   "69": {
-    "summary": "Social isolation from declining health",
-    "category": "loneliness",
-    "confidence": 0.9
+    "summary": "Depression from unresolved immigration status.",
+    "category": "mental_health_crisis",
+    "confidence": 0.8
   },
   "70": {
-    "summary": "Chronic illness management challenges",
-    "category": "health_crisis",
-    "confidence": 0.9
+    "summary": "Family visa denial causes prolonged separation.",
+    "category": "immigration",
+    "confidence": 0.75
   },
   "71": {
-    "summary": "Grief over loss of peers",
-    "category": "social_isolation",
-    "confidence": 0.85
+    "summary": "Grief over Tokyo childhood friend's death.",
+    "category": "grief_bereavement",
+    "confidence": 0.8
   },
   "72": {
-    "summary": "Financial anxiety from rising costs",
-    "category": "financial_uncertainty",
-    "confidence": 0.8
+    "summary": "Breakup from partner's cultural assimilation failure.",
+    "category": "relationship_breakup",
+    "confidence": 0.7
   },
   "73": {
-    "summary": "Loneliness after children move away",
-    "category": "family_loss",
-    "confidence": 0.85
-  },
-  "74": {
-    "summary": "Caregiving exhaustion for spouse",
-    "category": "family_duty",
-    "confidence": 0.9
-  },
-  "75": {
-    "summary": "Chronic pain limiting mobility",
-    "category": "chronic_pain",
-    "confidence": 0.9
-  },
-  "76": {
-    "summary": "Retirement income shortfalls",
-    "category": "financial_stress",
-    "confidence": 0.85
-  },
-  "77": {
-    "summary": "Guilt over reduced cultural engagement",
-    "category": "identity_guilt",
+    "summary": "Isolation from failed integration into local clubs.",
+    "category": "loneliness_isolation",
     "confidence": 0.8
   },
+  "74": {
+    "summary": "Chronic pain from repetitive strain injury worsens.",
+    "category": "chronic_health_pain",
+    "confidence": 0.7
+  },
+  "75": {
+    "summary": "Salary stagnation conflicts with Tokyo-era financial goals.",
+    "category": "financial_employment",
+    "confidence": 0.8
+  },
+  "76": {
+    "summary": "Caring for aging Tokyo-based parent strains resources.",
+    "category": "caregiver_burden",
+    "confidence": 0.7
+  },
+  "77": {
+    "summary": "Workplace harassment leads to legal action.",
+    "category": "violence_abuse",
+    "confidence": 0.65
+  },
   "78": {
-    "summary": "Social isolation from declining health",
-    "category": "loneliness",
-    "confidence": 0.9
+    "summary": "Housing contract dispute escalates to court.",
+    "category": "legal_housing",
+    "confidence": 0.7
   },
   "79": {
-    "summary": "Health crises requiring full-time care",
-    "category": "health_crisis",
-    "confidence": 0.95
+    "summary": "Academic credential delays impact promotions.",
+    "category": "academic_stress",
+    "confidence": 0.6
   },
   "80": {
-    "summary": "Chronic pain and loneliness",
-    "category": "chronic_pain",
-    "confidence": 0.95
+    "summary": "Anxiety disorder diagnosed post-relocation trauma.",
+    "category": "mental_health_crisis",
+    "confidence": 0.85
   },
   "81": {
-    "summary": "Financial insecurity in advanced age",
-    "category": "financial_uncertainty",
-    "confidence": 0.9
+    "summary": "Family immigration blocked by new policies.",
+    "category": "immigration",
+    "confidence": 0.75
   },
   "82": {
-    "summary": "Grief over loss of independence",
-    "category": "family_loss",
-    "confidence": 0.85
+    "summary": "Grief over Tokyo mentor's death.",
+    "category": "grief_bereavement",
+    "confidence": 0.8
   },
   "83": {
-    "summary": "Loneliness after spouse's death",
-    "category": "grief",
-    "confidence": 0.9
+    "summary": "Breakup from partner's cultural assimilation failure.",
+    "category": "relationship_breakup",
+    "confidence": 0.7
   },
   "84": {
-    "summary": "Caregiving exhaustion for declining parents",
-    "category": "family_duty",
-    "confidence": 0.9
+    "summary": "Isolation from failed integration into local community.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
   },
   "85": {
-    "summary": "Chronic illness management struggles",
-    "category": "health_crisis",
-    "confidence": 0.95
+    "summary": "Chronic pain from traditional instrument practice flares.",
+    "category": "chronic_health_pain",
+    "confidence": 0.7
   },
   "86": {
-    "summary": "Financial anxiety from rising costs",
-    "category": "financial_uncertainty",
-    "confidence": 0.9
+    "summary": "Freelance income volatility causes financial stress.",
+    "category": "financial_employment",
+    "confidence": 0.75
   },
   "87": {
-    "summary": "Social isolation from declining health",
-    "category": "loneliness",
-    "confidence": 0.95
+    "summary": "Elderly parent's health crisis requires remote care.",
+    "category": "caregiver_burden",
+    "confidence": 0.7
   },
   "88": {
-    "summary": "Guilt over reduced family involvement",
-    "category": "family_guilt",
-    "confidence": 0.85
+    "summary": "Neighbor harassment escalates to police report.",
+    "category": "violence_abuse",
+    "confidence": 0.6
   },
   "89": {
-    "summary": "Health crises requiring assisted living",
-    "category": "health_crisis",
-    "confidence": 0.95
+    "summary": "Housing discrimination lawsuit pending.",
+    "category": "legal_housing",
+    "confidence": 0.7
   },
   "90": {
-    "summary": "Chronic pain and loneliness",
-    "category": "chronic_pain",
-    "confidence": 0.95
+    "summary": "Academic program rejection impacts career.",
+    "category": "academic_stress",
+    "confidence": 0.6
   },
   "91": {
-    "summary": "Financial insecurity in advanced age",
-    "category": "financial_uncertainty",
-    "confidence": 0.9
+    "summary": "Depression from unresolved immigration status.",
+    "category": "mental_health_crisis",
+    "confidence": 0.8
   },
   "92": {
-    "summary": "Grief over loss of peers",
-    "category": "social_isolation",
-    "confidence": 0.9
+    "summary": "Family visa denial causes prolonged separation.",
+    "category": "immigration",
+    "confidence": 0.75
   },
   "93": {
-    "summary": "Caregiving exhaustion for spouse",
-    "category": "family_duty",
-    "confidence": 0.95
+    "summary": "Grief over Tokyo childhood home's demolition.",
+    "category": "grief_bereavement",
+    "confidence": 0.8
   },
   "94": {
-    "summary": "Chronic illness management challenges",
-    "category": "health_crisis",
-    "confidence": 0.95
+    "summary": "Breakup from partner's cultural assimilation failure.",
+    "category": "relationship_breakup",
+    "confidence": 0.7
   },
   "95": {
-    "summary": "Financial anxiety from rising costs",
-    "category": "financial_uncertainty",
-    "confidence": 0.9
+    "summary": "Isolation from failed integration into local clubs.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
   },
   "96": {
-    "summary": "Loneliness after children move away",
-    "category": "family_loss",
-    "confidence": 0.9
+    "summary": "Chronic pain from repetitive strain injury worsens.",
+    "category": "chronic_health_pain",
+    "confidence": 0.7
   },
   "97": {
-    "summary": "Guilt over reduced cultural engagement",
-    "category": "identity_guilt",
-    "confidence": 0.85
+    "summary": "Salary cuts during economic crisis strain finances.",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "98": {
-    "summary": "Health crises requiring full-time care",
-    "category": "health_crisis",
-    "confidence": 0.95
+    "summary": "Caring for sick sibling requires emotional toll.",
+    "category": "caregiver_burden",
+    "confidence": 0.7
   },
   "99": {
-    "summary": "Chronic pain and loneliness",
-    "category": "chronic_pain",
-    "confidence": 0.95
+    "summary": "Workplace bullying leads to HR complaint.",
+    "category": "violence_abuse",
+    "confidence": 0.65
   },
   "100": {
-    "summary": "Grief over loss of independence",
-    "category": "family_loss",
-    "confidence": 0.9
+    "summary": "Housing contract dispute with new landlord.",
+    "category": "legal_housing",
+    "confidence": 0.7
   }
 }

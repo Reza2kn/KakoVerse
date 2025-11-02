@@ -1,407 +1,407 @@
 {
   "20": {
-    "summary": "Academic stress and career uncertainty during university years",
-    "category": "academic_stress",
-    "confidence": 0.8
-  },
-  "21": {
-    "summary": "Financial precarity and part-time job burnout",
-    "category": "financial_stress",
+    "summary": "Supporting family in London during economic hardships while pursuing university studies.",
+    "category": "caregiver_burden",
     "confidence": 0.7
   },
-  "22": {
-    "summary": "Identity crisis amid cultural heritage pride vs. global influences",
-    "category": "identity_crisis",
+  "21": {
+    "summary": "Experiencing verbal abuse from landlord in London, leading to social withdrawal.",
+    "category": "violence_abuse",
     "confidence": 0.6
+  },
+  "22": {
+    "summary": "Facing eviction in London due to precarious finances, seeking legal aid.",
+    "category": "legal_housing",
+    "confidence": 0.8
   },
   "23": {
-    "summary": "Relationship instability and loneliness",
-    "category": "loneliness",
-    "confidence": 0.6
+    "summary": "Struggling with art history coursework and cultural expectations in London university.",
+    "category": "academic_stress",
+    "confidence": 0.9
   },
   "24": {
-    "summary": "Adjustment disorder with depressive symptoms after relocation",
-    "category": "adjustment_disorder",
+    "summary": "Adjustment disorder with depressive symptoms after relocating to Taipei.",
+    "category": "mental_health_crisis",
     "confidence": 1.0
   },
   "25": {
-    "summary": "Cultural isolation and academic pressure in foreign environment",
-    "category": "cultural_isolation",
-    "confidence": 0.9
+    "summary": "Navigating visa renewal and cultural barriers as a British immigrant in Taipei.",
+    "category": "immigration",
+    "confidence": 1.0
   },
   "26": {
-    "summary": "Identity conflict between British pragmatism and local values",
-    "category": "identity_crisis",
-    "confidence": 0.8
+    "summary": "Grieving loss of a close family member in London, unable to travel due to financial constraints.",
+    "category": "grief_bereavement",
+    "confidence": 0.7
   },
   "27": {
-    "summary": "Career stagnation in art history field",
-    "category": "career_stagnation",
-    "confidence": 0.7
-  },
-  "28": {
-    "summary": "Burnout from academic pressure and financial precarity",
-    "category": "burnout",
+    "summary": "Ending a long-distance relationship due to cultural and distance challenges.",
+    "category": "relationship_breakup",
     "confidence": 0.8
   },
-  "29": {
-    "summary": "Social withdrawal and rumination tendencies",
-    "category": "rumination",
-    "confidence": 0.7
+  "28": {
+    "summary": "Feeling isolated in Taipei despite building a social circle, due to cultural differences.",
+    "category": "loneliness_isolation",
+    "confidence": 0.9
   },
-  "30": {
-    "summary": "Midlife reflection and questioning life choices",
-    "category": "midlife_reflection",
+  "29": {
+    "summary": "Developing chronic back pain from long hours studying art history.",
+    "category": "chronic_health_pain",
     "confidence": 0.6
   },
+  "30": {
+    "summary": "Struggling with part-time work and precarious finances in Taipei.",
+    "category": "financial_employment",
+    "confidence": 0.9
+  },
   "31": {
-    "summary": "Anxiety about long-term goals and financial planning",
-    "category": "anxiety",
+    "summary": "Caring for a sick parent back in London from afar, causing emotional strain.",
+    "category": "caregiver_burden",
     "confidence": 0.7
   },
   "32": {
-    "summary": "Work-life balance crisis in demanding career",
-    "category": "work_life_balance",
-    "confidence": 0.7
-  },
-  "33": {
-    "summary": "Chronic pain from sedentary work and tai chi imbalance",
-    "category": "chronic_pain",
-    "confidence": 0.6
-  },
-  "34": {
-    "summary": "Relationship dissatisfaction and emotional suppression",
-    "category": "relationship_dissatisfaction",
-    "confidence": 0.6
-  },
-  "35": {
-    "summary": "Midlife crisis with career reinvention desires",
-    "category": "midlife_crisis",
+    "summary": "Experiencing workplace harassment in Taipei, avoiding confrontation due to low directness.",
+    "category": "violence_abuse",
     "confidence": 0.8
   },
+  "33": {
+    "summary": "Facing housing discrimination as a foreigner in Taipei, seeking legal recourse.",
+    "category": "legal_housing",
+    "confidence": 0.8
+  },
+  "34": {
+    "summary": "Pressure to complete art history thesis under academic and cultural expectations.",
+    "category": "academic_stress",
+    "confidence": 0.9
+  },
+  "35": {
+    "summary": "Experiencing depression and anxiety due to prolonged adjustment challenges in Taipei.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
+  },
   "36": {
-    "summary": "Financial planning stress for retirement",
-    "category": "financial_planning",
-    "confidence": 0.7
+    "summary": "Dealing with immigration status uncertainty and cultural integration barriers.",
+    "category": "immigration",
+    "confidence": 1.0
   },
   "37": {
-    "summary": "Grief over lost opportunities and aging parents",
-    "category": "grief",
+    "summary": "Grieving the death of a mentor in Taipei, leading to academic setbacks.",
+    "category": "grief_bereavement",
     "confidence": 0.7
   },
   "38": {
-    "summary": "Burnout from overwork and perfectionism",
-    "category": "burnout",
+    "summary": "Ending a relationship due to incompatible life goals and cultural differences.",
+    "category": "relationship_breakup",
     "confidence": 0.8
   },
   "39": {
-    "summary": "Health anxiety and chronic illness onset",
-    "category": "chronic_illness",
-    "confidence": 0.7
+    "summary": "Feeling increasingly isolated as peers settle down, while persona remains an outsider.",
+    "category": "loneliness_isolation",
+    "confidence": 0.9
   },
   "40": {
-    "summary": "Existential crisis questioning life purpose",
-    "category": "existential_crisis",
-    "confidence": 0.7
-  },
-  "41": {
-    "summary": "Financial insecurity despite career achievements",
-    "category": "financial_stress",
-    "confidence": 0.7
-  },
-  "42": {
-    "summary": "Social isolation despite professional success",
-    "category": "loneliness",
+    "summary": "Chronic pain from past injuries affecting daily life and work.",
+    "category": "chronic_health_pain",
     "confidence": 0.6
   },
-  "43": {
-    "summary": "Midlife health decline and chronic pain",
-    "category": "chronic_pain",
+  "41": {
+    "summary": "Struggling to find stable employment in art history field, leading to financial stress.",
+    "category": "financial_employment",
+    "confidence": 0.9
+  },
+  "42": {
+    "summary": "Caring for aging parents in London and in Taipei, causing emotional and financial strain.",
+    "category": "caregiver_burden",
     "confidence": 0.8
+  },
+  "43": {
+    "summary": "Experiencing verbal abuse from a colleague at work, leading to anxiety.",
+    "category": "violence_abuse",
+    "confidence": 0.7
   },
   "44": {
-    "summary": "Retirement anxiety and identity loss",
-    "category": "retirement_anxiety",
-    "confidence": 0.7
+    "summary": "Facing eviction due to rent increases and financial instability.",
+    "category": "legal_housing",
+    "confidence": 0.8
   },
   "45": {
-    "summary": "Grief over spouse/partner's declining health",
-    "category": "grief",
-    "confidence": 0.8
+    "summary": "Pressure to publish research and meet academic deadlines in art history.",
+    "category": "academic_stress",
+    "confidence": 0.9
   },
   "46": {
-    "summary": "Caregiver burden for aging parents",
-    "category": "caregiver_burnout",
-    "confidence": 0.7
+    "summary": "Experiencing severe depression and burnout from academic and cultural pressures.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "47": {
-    "summary": "Chronic illness management challenges",
-    "category": "chronic_illness",
-    "confidence": 0.8
+    "summary": "Dealing with immigration paperwork and cultural identity conflicts.",
+    "category": "immigration",
+    "confidence": 1.0
   },
   "48": {
-    "summary": "Financial strain from medical expenses",
-    "category": "financial_stress",
-    "confidence": 0.7
+    "summary": "Grieving the loss of a close friend in Taipei, leading to withdrawal.",
+    "category": "grief_bereavement",
+    "confidence": 0.8
   },
   "49": {
-    "summary": "Loneliness and social network erosion",
-    "category": "loneliness",
+    "summary": "Ending a long-term relationship due to cultural and personal differences.",
+    "category": "relationship_breakup",
     "confidence": 0.8
   },
   "50": {
-    "summary": "Retirement adjustment difficulties",
-    "category": "retirement_adjustment",
-    "confidence": 0.7
+    "summary": "Feeling isolated in a foreign country without a strong local support network.",
+    "category": "loneliness_isolation",
+    "confidence": 0.9
   },
   "51": {
-    "summary": "Chronic pain and mobility limitations",
-    "category": "chronic_pain",
-    "confidence": 0.8
+    "summary": "Chronic pain from past injuries affecting quality of life and work.",
+    "category": "chronic_health_pain",
+    "confidence": 0.6
   },
   "52": {
-    "summary": "Grief over loss of independence",
-    "category": "grief",
-    "confidence": 0.7
+    "summary": "Struggling with unemployment and financial instability in Taipei.",
+    "category": "financial_employment",
+    "confidence": 0.9
   },
   "53": {
-    "summary": "Caregiver exhaustion for spouse",
-    "category": "caregiver_burnout",
+    "summary": "Caring for a sick spouse and elderly parents, causing emotional and financial strain.",
+    "category": "caregiver_burden",
     "confidence": 0.8
   },
   "54": {
-    "summary": "Financial precarity in retirement",
-    "category": "financial_stress",
+    "summary": "Experiencing verbal abuse from a family member, leading to social withdrawal.",
+    "category": "violence_abuse",
     "confidence": 0.7
   },
   "55": {
-    "summary": "Chronic illness complications and frailty",
-    "category": "frailty",
+    "summary": "Facing housing discrimination and legal challenges as a foreigner in Taipei.",
+    "category": "legal_housing",
     "confidence": 0.8
   },
   "56": {
-    "summary": "Grief over loss of friends/peers",
-    "category": "grief",
-    "confidence": 0.7
+    "summary": "Pressure to mentor students and meet academic expectations in art history.",
+    "category": "academic_stress",
+    "confidence": 0.9
   },
   "57": {
-    "summary": "Social isolation and loneliness",
-    "category": "loneliness",
-    "confidence": 0.8
+    "summary": "Experiencing depression and anxiety due to chronic stress and cultural isolation.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "58": {
-    "summary": "Frailty and dependence on others",
-    "category": "frailty",
-    "confidence": 0.8
+    "summary": "Dealing with immigration status and cultural integration challenges.",
+    "category": "immigration",
+    "confidence": 1.0
   },
   "59": {
-    "summary": "Health decline and chronic pain",
-    "category": "chronic_pain",
+    "summary": "Grieving the loss of a close family member in London, unable to travel.",
+    "category": "grief_bereavement",
     "confidence": 0.7
   },
   "60": {
-    "summary": "Retirement loneliness and purpose crisis",
-    "category": "loneliness",
+    "summary": "Ending a long-term marriage due to cultural and personal differences.",
+    "category": "relationship_breakup",
     "confidence": 0.8
   },
   "61": {
-    "summary": "Grief over loss of spouse",
-    "category": "grief",
-    "confidence": 0.8
+    "summary": "Feeling isolated in old age, with limited social connections in Taipei.",
+    "category": "loneliness_isolation",
+    "confidence": 0.9
   },
   "62": {
-    "summary": "Frailty and chronic illness management",
-    "category": "frailty",
-    "confidence": 0.8
+    "summary": "Chronic pain from past injuries affecting daily activities and independence.",
+    "category": "chronic_health_pain",
+    "confidence": 0.6
   },
   "63": {
-    "summary": "Financial insecurity and health decline",
-    "category": "financial_stress",
-    "confidence": 0.7
+    "summary": "Struggling with retirement savings and financial instability in old age.",
+    "category": "financial_employment",
+    "confidence": 0.9
   },
   "64": {
-    "summary": "Social isolation and loneliness",
-    "category": "loneliness",
+    "summary": "Caring for a spouse with chronic illness, causing emotional and financial strain.",
+    "category": "caregiver_burden",
     "confidence": 0.8
   },
   "65": {
-    "summary": "End-of-life concerns and legacy questions",
-    "category": "end_of_life",
-    "confidence": 0.8
+    "summary": "Experiencing verbal abuse from a caregiver, leading to anxiety.",
+    "category": "violence_abuse",
+    "confidence": 0.7
   },
   "66": {
-    "summary": "Grief over loss of siblings",
-    "category": "grief",
-    "confidence": 0.7
+    "summary": "Facing eviction due to rent increases and financial instability.",
+    "category": "legal_housing",
+    "confidence": 0.8
   },
   "67": {
-    "summary": "Frailty and chronic pain",
-    "category": "frailty",
-    "confidence": 0.8
+    "summary": "Pressure to complete a final research project and retire from academia.",
+    "category": "academic_stress",
+    "confidence": 0.9
   },
   "68": {
-    "summary": "Loneliness and health decline",
-    "category": "loneliness",
-    "confidence": 0.8
+    "summary": "Experiencing depression and anxiety due to retirement and isolation.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "69": {
-    "summary": "Caregiver burden for children",
-    "category": "caregiver_burnout",
-    "confidence": 0.7
+    "summary": "Dealing with immigration status and cultural identity in old age.",
+    "category": "immigration",
+    "confidence": 1.0
   },
   "70": {
-    "summary": "Grief over loss of children",
-    "category": "grief",
+    "summary": "Grieving the loss of a spouse, leading to deep loneliness.",
+    "category": "grief_bereavement",
     "confidence": 0.8
   },
   "71": {
-    "summary": "Financial precarity and frailty",
-    "category": "financial_stress",
+    "summary": "Ending a relationship due to health and personal differences.",
+    "category": "relationship_breakup",
     "confidence": 0.7
   },
   "72": {
-    "summary": "Chronic illness and loneliness",
-    "category": "chronic_illness",
-    "confidence": 0.8
+    "summary": "Feeling isolated in old age, with limited social connections.",
+    "category": "loneliness_isolation",
+    "confidence": 0.9
   },
   "73": {
-    "summary": "Frailty and loss of independence",
-    "category": "frailty",
-    "confidence": 0.8
+    "summary": "Chronic pain from past injuries affecting quality of life.",
+    "category": "chronic_health_pain",
+    "confidence": 0.6
   },
   "74": {
-    "summary": "Grief over loss of grandchildren",
-    "category": "grief",
-    "confidence": 0.7
+    "summary": "Struggling with retirement income and financial stability.",
+    "category": "financial_employment",
+    "confidence": 0.9
   },
   "75": {
-    "summary": "End-of-life concerns and chronic pain",
-    "category": "end_of_life",
+    "summary": "Caring for a spouse with dementia, causing emotional and financial strain.",
+    "category": "caregiver_burden",
     "confidence": 0.8
   },
   "76": {
-    "summary": "Loneliness and frailty",
-    "category": "loneliness",
-    "confidence": 0.8
+    "summary": "Experiencing verbal abuse from a family member, leading to social withdrawal.",
+    "category": "violence_abuse",
+    "confidence": 0.7
   },
   "77": {
-    "summary": "Caregiver exhaustion for spouse",
-    "category": "caregiver_burnout",
-    "confidence": 0.7
+    "summary": "Facing eviction due to rent increases and financial instability.",
+    "category": "legal_housing",
+    "confidence": 0.8
   },
   "78": {
-    "summary": "Frailty and chronic illness",
-    "category": "frailty",
-    "confidence": 0.8
+    "summary": "Pressure to mentor students and meet academic expectations in art history.",
+    "category": "academic_stress",
+    "confidence": 0.9
   },
   "79": {
-    "summary": "Financial stress and loneliness",
-    "category": "financial_stress",
-    "confidence": 0.7
+    "summary": "Experiencing depression and anxiety due to chronic illness and isolation.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "80": {
-    "summary": "Grief over loss of spouse",
-    "category": "grief",
-    "confidence": 0.8
+    "summary": "Dealing with immigration status and cultural integration in old age.",
+    "category": "immigration",
+    "confidence": 1.0
   },
   "81": {
-    "summary": "Frailty and chronic pain",
-    "category": "frailty",
+    "summary": "Grieving the loss of a close friend, leading to withdrawal.",
+    "category": "grief_bereavement",
     "confidence": 0.8
   },
   "82": {
-    "summary": "Loneliness and health decline",
-    "category": "loneliness",
-    "confidence": 0.8
+    "summary": "Ending a relationship due to health and personal differences.",
+    "category": "relationship_breakup",
+    "confidence": 0.7
   },
   "83": {
-    "summary": "End-of-life concerns and frailty",
-    "category": "end_of_life",
-    "confidence": 0.8
+    "summary": "Feeling isolated in old age, with limited social connections.",
+    "category": "loneliness_isolation",
+    "confidence": 0.9
   },
   "84": {
-    "summary": "Grief over loss of friends",
-    "category": "grief",
-    "confidence": 0.7
+    "summary": "Chronic pain from past injuries affecting daily activities.",
+    "category": "chronic_health_pain",
+    "confidence": 0.6
   },
   "85": {
-    "summary": "Financial precarity and frailty",
-    "category": "financial_stress",
-    "confidence": 0.7
+    "summary": "Struggling with retirement income and financial stability.",
+    "category": "financial_employment",
+    "confidence": 0.9
   },
   "86": {
-    "summary": "Loneliness and chronic illness",
-    "category": "loneliness",
+    "summary": "Caring for a spouse with chronic illness, causing emotional and financial strain.",
+    "category": "caregiver_burden",
     "confidence": 0.8
   },
   "87": {
-    "summary": "Frailty and end-of-life concerns",
-    "category": "frailty",
-    "confidence": 0.8
-  },
-  "88": {
-    "summary": "Grief over loss of family",
-    "category": "grief",
+    "summary": "Experiencing verbal abuse from a family member, leading to anxiety.",
+    "category": "violence_abuse",
     "confidence": 0.7
   },
-  "89": {
-    "summary": "Chronic pain and frailty",
-    "category": "chronic_pain",
+  "88": {
+    "summary": "Facing eviction due to rent increases and financial instability.",
+    "category": "legal_housing",
     "confidence": 0.8
+  },
+  "89": {
+    "summary": "Pressure to complete a final research project and retire from academia.",
+    "category": "academic_stress",
+    "confidence": 0.9
   },
   "90": {
-    "summary": "Loneliness and frailty",
-    "category": "loneliness",
-    "confidence": 0.8
+    "summary": "Experiencing depression and anxiety due to retirement and isolation.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "91": {
-    "summary": "End-of-life concerns and grief",
-    "category": "end_of_life",
-    "confidence": 0.8
+    "summary": "Dealing with immigration status and cultural identity in old age.",
+    "category": "immigration",
+    "confidence": 1.0
   },
   "92": {
-    "summary": "Frailty and chronic illness",
-    "category": "frailty",
-    "confidence": 0.8
+    "summary": "Grieving the loss of a close family member, unable to travel.",
+    "category": "grief_bereavement",
+    "confidence": 0.7
   },
   "93": {
-    "summary": "Grief over loss of spouse",
-    "category": "grief",
+    "summary": "Ending a relationship due to health and personal differences.",
+    "category": "relationship_breakup",
     "confidence": 0.7
   },
   "94": {
-    "summary": "Loneliness and frailty",
-    "category": "loneliness",
-    "confidence": 0.8
+    "summary": "Feeling isolated in old age, with limited social connections.",
+    "category": "loneliness_isolation",
+    "confidence": 0.9
   },
   "95": {
-    "summary": "End-of-life concerns and chronic pain",
-    "category": "end_of_life",
-    "confidence": 0.8
+    "summary": "Chronic pain from past injuries affecting quality of life.",
+    "category": "chronic_health_pain",
+    "confidence": 0.6
   },
   "96": {
-    "summary": "Frailty and grief",
-    "category": "frailty",
-    "confidence": 0.8
+    "summary": "Struggling with retirement income and financial stability.",
+    "category": "financial_employment",
+    "confidence": 0.9
   },
   "97": {
-    "summary": "Loneliness and end-of-life concerns",
-    "category": "loneliness",
+    "summary": "Caring for a spouse with dementia, causing emotional and financial strain.",
+    "category": "caregiver_burden",
     "confidence": 0.8
   },
   "98": {
-    "summary": "Frailty and chronic illness",
-    "category": "frailty",
-    "confidence": 0.8
-  },
-  "99": {
-    "summary": "Grief over loss of family",
-    "category": "grief",
+    "summary": "Experiencing verbal abuse from a family member, leading to social withdrawal.",
+    "category": "violence_abuse",
     "confidence": 0.7
   },
-  "100": {
-    "summary": "End-of-life concerns and frailty",
-    "category": "end_of_life",
+  "99": {
+    "summary": "Facing eviction due to rent increases and financial instability.",
+    "category": "legal_housing",
     "confidence": 0.8
+  },
+  "100": {
+    "summary": "Pressure to complete a final research project and retire from academia.",
+    "category": "academic_stress",
+    "confidence": 0.9
   }
 }

@@ -1,407 +1,407 @@
 {
   "20": {
-    "summary": "Conscription and war trauma during WWII",
-    "category": "war_trauma",
+    "summary": "Physical strain from manual labor causing chronic pain",
+    "category": "chronic_health_pain",
     "confidence": 0.9
   },
   "21": {
-    "summary": "Displacement and refugee camp survival stress",
-    "category": "displacement",
-    "confidence": 0.9
+    "summary": "Job instability in construction amid post-war economic shifts",
+    "category": "financial_employment",
+    "confidence": 0.85
   },
   "22": {
-    "summary": "Loss of family members in conflict",
-    "category": "grief",
-    "confidence": 0.8
+    "summary": "Guilt over inability to support family in Yugoslavia",
+    "category": "caregiver_burden",
+    "confidence": 0.7
   },
   "23": {
-    "summary": "Moral injury from combat experiences",
-    "category": "moral_injury",
+    "summary": "Avoiding conflicts due to hypervigilance from trauma",
+    "category": "violence_abuse",
     "confidence": 0.8
   },
   "24": {
-    "summary": "Liberation trauma and uncertainty",
-    "category": "liberation_trauma",
-    "confidence": 0.8
-  },
-  "25": {
-    "summary": "Acute PTSD and displacement anxiety",
-    "category": "ptsd",
+    "summary": "Unstable housing as refugee in Oslo's crowded shelters",
+    "category": "legal_housing",
     "confidence": 0.9
   },
+  "25": {
+    "summary": "Pressure to adapt new skills in unfamiliar labor market",
+    "category": "academic_stress",
+    "confidence": 0.7
+  },
   "26": {
-    "summary": "Adjustment disorder to Norway",
-    "category": "adjustment_disorder",
-    "confidence": 0.8
+    "summary": "Acute PTSD flare-ups during urban rebuilding work",
+    "category": "mental_health_crisis",
+    "confidence": 0.95
   },
   "27": {
-    "summary": "Discrimination and social isolation",
-    "category": "discrimination",
-    "confidence": 0.8
+    "summary": "Navigating asylum processes with limited support",
+    "category": "immigration",
+    "confidence": 0.9
   },
   "28": {
-    "summary": "Language barrier and employment stress",
-    "category": "employment_stress",
-    "confidence": 0.7
+    "summary": "Bereavement over lost homeland and war casualties",
+    "category": "grief_bereavement",
+    "confidence": 0.85
   },
   "29": {
-    "summary": "Loneliness and cultural alienation",
-    "category": "loneliness",
-    "confidence": 0.7
+    "summary": "Failed attempts to reconnect with estranged family",
+    "category": "relationship_breakup",
+    "confidence": 0.75
   },
   "30": {
-    "summary": "Relationship formation difficulties",
-    "category": "relationship_difficulty",
-    "confidence": 0.7
-  },
-  "31": {
-    "summary": "Chronic PTSD and hypervigilance",
-    "category": "chronic_ptsd",
+    "summary": "Social isolation in Oslo despite community efforts",
+    "category": "loneliness_isolation",
     "confidence": 0.8
   },
+  "31": {
+    "summary": "Arthritis from wartime injuries worsening with age",
+    "category": "chronic_health_pain",
+    "confidence": 0.85
+  },
   "32": {
-    "summary": "Career stagnation and financial stress",
-    "category": "financial_stress",
-    "confidence": 0.7
+    "summary": "Seasonal unemployment in construction sector",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "33": {
-    "summary": "Fear of passing trauma to children",
-    "category": "generational_trauma",
-    "confidence": 0.7
+    "summary": "Caretaking for traumatized relatives in shared housing",
+    "category": "caregiver_burden",
+    "confidence": 0.75
   },
   "34": {
-    "summary": "Occupational injury or chronic pain",
-    "category": "chronic_pain",
-    "confidence": 0.6
+    "summary": "Confronting discrimination in workplace interactions",
+    "category": "violence_abuse",
+    "confidence": 0.7
   },
   "35": {
-    "summary": "Midlife crisis and existential doubt",
-    "category": "midlife_crisis",
-    "confidence": 0.6
+    "summary": "Risk of eviction due to unstable income",
+    "category": "legal_housing",
+    "confidence": 0.8
   },
   "36": {
-    "summary": "Economic downturn and job insecurity",
-    "category": "economic_downturn",
-    "confidence": 0.6
+    "summary": "Anxiety over vocational training requirements",
+    "category": "academic_stress",
+    "confidence": 0.7
   },
   "37": {
-    "summary": "Work-family balance stress",
-    "category": "work_family_balance",
-    "confidence": 0.6
+    "summary": "Reliving combat memories during city renovations",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "38": {
-    "summary": "Career change anxiety",
-    "category": "career_change",
-    "confidence": 0.6
+    "summary": "Deportation fears after documentation issues",
+    "category": "immigration",
+    "confidence": 0.85
   },
   "39": {
-    "summary": "Early signs of chronic illness",
-    "category": "chronic_illness",
-    "confidence": 0.6
+    "summary": "Grief over unresolved wartime losses resurfacing",
+    "category": "grief_bereavement",
+    "confidence": 0.8
   },
   "40": {
-    "summary": "Midlife reflection and regret",
-    "category": "regret",
-    "confidence": 0.6
+    "summary": "Failed reconciliation attempts with estranged partner",
+    "category": "relationship_breakup",
+    "confidence": 0.7
   },
   "41": {
-    "summary": "Educational stress for children",
-    "category": "education_stress",
-    "confidence": 0.6
+    "summary": "Persistent loneliness despite proximity to others",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
   },
   "42": {
-    "summary": "Caregiving stress for aging parents",
-    "category": "caregiving_stress",
-    "confidence": 0.6
+    "summary": "Chronic back pain limiting construction work capacity",
+    "category": "chronic_health_pain",
+    "confidence": 0.85
   },
   "43": {
-    "summary": "Retirement anxiety",
-    "category": "retirement_anxiety",
-    "confidence": 0.6
+    "summary": "Job insecurity during economic downturns",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "44": {
-    "summary": "Financial planning stress",
-    "category": "financial_planning",
-    "confidence": 0.6
+    "summary": "Caregiving strain for aging refugee community members",
+    "category": "caregiver_burden",
+    "confidence": 0.7
   },
   "45": {
-    "summary": "Health decline and chronic pain",
-    "category": "chronic_pain",
-    "confidence": 0.6
+    "summary": "Experiencing workplace discrimination as foreigner",
+    "category": "violence_abuse",
+    "confidence": 0.75
   },
   "46": {
-    "summary": "Empty nest syndrome",
-    "category": "empty_nest",
-    "confidence": 0.6
+    "summary": "Housing discrimination in segregated neighborhoods",
+    "category": "legal_housing",
+    "confidence": 0.7
   },
   "47": {
-    "summary": "Midlife health crisis",
-    "category": "health_crisis",
-    "confidence": 0.6
+    "summary": "Stress from mandatory language certification exams",
+    "category": "academic_stress",
+    "confidence": 0.7
   },
   "48": {
-    "summary": "Social change anxiety",
-    "category": "social_change",
-    "confidence": 0.6
+    "summary": "PTSD triggered by construction noise resembling bombs",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "49": {
-    "summary": "Retirement transition stress",
-    "category": "retirement_transition",
-    "confidence": 0.6
+    "summary": "Immigration status uncertainty causing anxiety",
+    "category": "immigration",
+    "confidence": 0.8
   },
   "50": {
-    "summary": "Retirement adjustment",
-    "category": "retirement_adjustment",
-    "confidence": 0.6
+    "summary": "Grief over death of childhood friends in war",
+    "category": "grief_bereavement",
+    "confidence": 0.8
   },
   "51": {
-    "summary": "Chronic illness management",
-    "category": "chronic_illness",
-    "confidence": 0.6
+    "summary": "Failed reconciliation with estranged spouse",
+    "category": "relationship_breakup",
+    "confidence": 0.7
   },
   "52": {
-    "summary": "Financial insecurity in retirement",
-    "category": "financial_insecurity",
-    "confidence": 0.6
+    "summary": "Profound loneliness in aging refugee community",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
   },
   "53": {
-    "summary": "Loneliness in retirement",
-    "category": "loneliness",
-    "confidence": 0.6
+    "summary": "Arthritis pain interfering with manual labor",
+    "category": "chronic_health_pain",
+    "confidence": 0.85
   },
   "54": {
-    "summary": "Spousal loss and grief",
-    "category": "grief",
-    "confidence": 0.6
+    "summary": "Financial instability from irregular work hours",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "55": {
-    "summary": "Children's independence stress",
-    "category": "children_independence",
-    "confidence": 0.6
+    "summary": "Caregiver burnout for sick relatives",
+    "category": "caregiver_burden",
+    "confidence": 0.75
   },
   "56": {
-    "summary": "Declining health and dependency",
-    "category": "health_dependency",
-    "confidence": 0.6
+    "summary": "Experiencing xenophobic violence in public spaces",
+    "category": "violence_abuse",
+    "confidence": 0.75
   },
   "57": {
-    "summary": "Financial strain from health issues",
-    "category": "financial_strain",
-    "confidence": 0.6
+    "summary": "Risk of homelessness due to high living costs",
+    "category": "legal_housing",
+    "confidence": 0.8
   },
   "58": {
-    "summary": "Social isolation and loneliness",
-    "category": "loneliness",
-    "confidence": 0.6
+    "summary": "Academic pressure to obtain foreign qualifications",
+    "category": "academic_stress",
+    "confidence": 0.7
   },
   "59": {
-    "summary": "Existential crisis",
-    "category": "existential_crisis",
-    "confidence": 0.6
+    "summary": "Mental health crisis from unresolved war trauma",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "60": {
-    "summary": "Retirement and identity loss",
-    "category": "retirement_identity",
-    "confidence": 0.6
+    "summary": "Immigration status challenges affecting family stability",
+    "category": "immigration",
+    "confidence": 0.8
   },
   "61": {
-    "summary": "Chronic pain and mobility issues",
-    "category": "chronic_pain",
-    "confidence": 0.6
+    "summary": "Grief over death of last surviving parent",
+    "category": "grief_bereavement",
+    "confidence": 0.8
   },
   "62": {
-    "summary": "Long-term financial planning",
-    "category": "financial_planning",
-    "confidence": 0.6
+    "summary": "Failed reconciliation with estranged children",
+    "category": "relationship_breakup",
+    "confidence": 0.7
   },
   "63": {
-    "summary": "Loss of independence",
-    "category": "loss_of_independence",
-    "confidence": 0.6
+    "summary": "Isolation in elderly refugee housing",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
   },
   "64": {
-    "summary": "Health decline and care needs",
-    "category": "health_care_needs",
-    "confidence": 0.6
+    "summary": "Chronic joint pain from wartime injuries",
+    "category": "chronic_health_pain",
+    "confidence": 0.85
   },
   "65": {
-    "summary": "Pension insecurity",
-    "category": "pension_insecurity",
-    "confidence": 0.6
+    "summary": "Financial strain from medical bills",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "66": {
-    "summary": "Social isolation and loneliness",
-    "category": "loneliness",
-    "confidence": 0.6
+    "summary": "Caregiver burden for disabled spouse",
+    "category": "caregiver_burden",
+    "confidence": 0.75
   },
   "67": {
-    "summary": "Chronic illness and pain",
-    "category": "chronic_illness",
-    "confidence": 0.6
+    "summary": "Experiencing institutional discrimination",
+    "category": "violence_abuse",
+    "confidence": 0.7
   },
   "68": {
-    "summary": "Financial strain from healthcare costs",
-    "category": "financial_strain",
-    "confidence": 0.6
+    "summary": "Housing insecurity in overcrowded refugee quarters",
+    "category": "legal_housing",
+    "confidence": 0.8
   },
   "69": {
-    "summary": "Spousal loss and grief",
-    "category": "grief",
-    "confidence": 0.6
+    "summary": "Mental health crisis from accumulated trauma",
+    "category": "academic_stress",
+    "confidence": 0.9
   },
   "70": {
-    "summary": "Retirement and loneliness",
-    "category": "loneliness",
-    "confidence": 0.6
+    "summary": "Immigration status affecting healthcare access",
+    "category": "mental_health_crisis",
+    "confidence": 0.8
   },
   "71": {
-    "summary": "Declining health and dependency",
-    "category": "health_dependency",
-    "confidence": 0.6
+    "summary": "Grief over death of lifelong friend",
+    "category": "immigration",
+    "confidence": 0.8
   },
   "72": {
-    "summary": "Financial insecurity in old age",
-    "category": "financial_insecurity",
-    "confidence": 0.6
+    "summary": "Failed reconciliation with estranged siblings",
+    "category": "grief_bereavement",
+    "confidence": 0.7
   },
   "73": {
-    "summary": "Social isolation and loneliness",
-    "category": "loneliness",
-    "confidence": 0.6
+    "summary": "Isolation in retirement community",
+    "category": "relationship_breakup",
+    "confidence": 0.8
   },
   "74": {
-    "summary": "Chronic pain and mobility issues",
-    "category": "chronic_pain",
-    "confidence": 0.6
+    "summary": "Chronic pain limiting mobility",
+    "category": "loneliness_isolation",
+    "confidence": 0.85
   },
   "75": {
-    "summary": "Loss of independence and care needs",
-    "category": "loss_of_independence",
-    "confidence": 0.6
+    "summary": "Financial instability from pension gaps",
+    "category": "chronic_health_pain",
+    "confidence": 0.8
   },
   "76": {
-    "summary": "Financial strain from long-term care",
-    "category": "financial_strain",
-    "confidence": 0.6
+    "summary": "Caregiver strain for frail elderly",
+    "category": "financial_employment",
+    "confidence": 0.75
   },
   "77": {
-    "summary": "Loneliness and social isolation",
-    "category": "loneliness",
-    "confidence": 0.6
+    "summary": "Experiencing age-based discrimination",
+    "category": "caregiver_burden",
+    "confidence": 0.7
   },
   "78": {
-    "summary": "Health decline and chronic illness",
-    "category": "chronic_illness",
-    "confidence": 0.6
+    "summary": "Housing insecurity in declining neighborhood",
+    "category": "violence_abuse",
+    "confidence": 0.8
   },
   "79": {
-    "summary": "End-of-life anxiety",
-    "category": "end_of_life",
-    "confidence": 0.6
+    "summary": "Academic pressure to adapt to new education system",
+    "category": "legal_housing",
+    "confidence": 0.7
   },
   "80": {
-    "summary": "Retirement and health issues",
-    "category": "health_issues",
-    "confidence": 0.6
+    "summary": "Mental health crisis from unresolved wartime guilt",
+    "category": "academic_stress",
+    "confidence": 0.9
   },
   "81": {
-    "summary": "Financial insecurity in old age",
-    "category": "financial_insecurity",
-    "confidence": 0.6
+    "summary": "Immigration status affecting family reunification",
+    "category": "mental_health_crisis",
+    "confidence": 0.8
   },
   "82": {
-    "summary": "Loneliness and social isolation",
-    "category": "loneliness",
-    "confidence": 0.6
+    "summary": "Grief over death of spouse",
+    "category": "immigration",
+    "confidence": 0.8
   },
   "83": {
-    "summary": "Chronic pain and mobility issues",
-    "category": "chronic_pain",
-    "confidence": 0.6
+    "summary": "Failed reconciliation with estranged children",
+    "category": "grief_bereavement",
+    "confidence": 0.7
   },
   "84": {
-    "summary": "Financial strain from healthcare",
-    "category": "financial_strain",
-    "confidence": 0.6
+    "summary": "Isolation in assisted living facility",
+    "category": "relationship_breakup",
+    "confidence": 0.8
   },
   "85": {
-    "summary": "Loss of independence and care needs",
-    "category": "loss_of_independence",
-    "confidence": 0.6
+    "summary": "Chronic pain affecting daily activities",
+    "category": "loneliness_isolation",
+    "confidence": 0.85
   },
   "86": {
-    "summary": "Loneliness and social isolation",
-    "category": "loneliness",
-    "confidence": 0.6
+    "summary": "Financial strain from medical expenses",
+    "category": "chronic_health_pain",
+    "confidence": 0.8
   },
   "87": {
-    "summary": "Chronic illness and pain",
-    "category": "chronic_illness",
-    "confidence": 0.6
+    "summary": "Caregiver burden for disabled adult child",
+    "category": "financial_employment",
+    "confidence": 0.75
   },
   "88": {
-    "summary": "Financial insecurity and retirement",
-    "category": "financial_insecurity",
-    "confidence": 0.6
+    "summary": "Experiencing institutional neglect",
+    "category": "caregiver_burden",
+    "confidence": 0.7
   },
   "89": {
-    "summary": "End-of-life anxiety",
-    "category": "end_of_life",
-    "confidence": 0.6
+    "summary": "Housing insecurity in urban slum",
+    "category": "violence_abuse",
+    "confidence": 0.8
   },
   "90": {
-    "summary": "Retirement and health decline",
-    "category": "health_decline",
-    "confidence": 0.6
+    "summary": "Academic pressure to learn new language",
+    "category": "legal_housing",
+    "confidence": 0.7
   },
   "91": {
-    "summary": "Loneliness and social isolation",
-    "category": "loneliness",
-    "confidence": 0.6
+    "summary": "Mental health crisis from accumulated losses",
+    "category": "academic_stress",
+    "confidence": 0.9
   },
   "92": {
-    "summary": "Financial strain from long-term care",
-    "category": "financial_strain",
-    "confidence": 0.6
+    "summary": "Immigration status affecting healthcare access",
+    "category": "mental_health_crisis",
+    "confidence": 0.8
   },
   "93": {
-    "summary": "Chronic pain and mobility issues",
-    "category": "chronic_pain",
-    "confidence": 0.6
+    "summary": "Grief over death of last surviving relative",
+    "category": "immigration",
+    "confidence": 0.8
   },
   "94": {
-    "summary": "Loss of independence and care needs",
-    "category": "loss_of_independence",
-    "confidence": 0.6
+    "summary": "Failed reconciliation with estranged family",
+    "category": "grief_bereavement",
+    "confidence": 0.7
   },
   "95": {
-    "summary": "Loneliness and social isolation",
-    "category": "loneliness",
-    "confidence": 0.6
+    "summary": "Isolation in nursing home",
+    "category": "relationship_breakup",
+    "confidence": 0.8
   },
   "96": {
-    "summary": "Chronic illness and pain",
-    "category": "chronic_illness",
-    "confidence": 0.6
+    "summary": "Chronic pain limiting mobility",
+    "category": "loneliness_isolation",
+    "confidence": 0.85
   },
   "97": {
-    "summary": "Financial insecurity in old age",
-    "category": "financial_insecurity",
-    "confidence": 0.6
+    "summary": "Financial instability from pension cuts",
+    "category": "chronic_health_pain",
+    "confidence": 0.8
   },
   "98": {
-    "summary": "End-of-life anxiety",
-    "category": "end_of_life",
-    "confidence": 0.6
+    "summary": "Caregiver burden for dying spouse",
+    "category": "financial_employment",
+    "confidence": 0.75
   },
   "99": {
-    "summary": "Loneliness and social isolation",
-    "category": "loneliness",
-    "confidence": 0.6
+    "summary": "Experiencing ageist discrimination",
+    "category": "caregiver_burden",
+    "confidence": 0.7
   },
   "100": {
-    "summary": "Retirement and health decline",
-    "category": "health_decline",
-    "confidence": 0.6
+    "summary": "Housing insecurity in advanced age",
+    "category": "violence_abuse",
+    "confidence": 0.8
   }
 }

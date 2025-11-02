@@ -1,407 +1,407 @@
 {
   "20": {
-    "summary": "Navigating post-colonial identity in shifting Manila",
-    "category": "identity_crisis",
-    "confidence": 0.85
+    "summary": "Navigating post-war Manila's upheaval, she faced anxiety and isolation.",
+    "category": "mental_health_crisis",
+    "confidence": 0.6
   },
   "21": {
-    "summary": "Balancing traditional family expectations with personal ambitions",
-    "category": "role_conflict",
-    "confidence": 0.9
+    "summary": "Considered moving abroad for better opportunities but stayed in Manila.",
+    "category": "immigration",
+    "confidence": 0.5
   },
   "22": {
-    "summary": "Grief over first major loss while establishing independence",
-    "category": "grief",
-    "confidence": 0.8
-  },
-  "23": {
-    "summary": "Financial pressure managing household responsibilities",
-    "category": "financial_stress",
-    "confidence": 0.75
-  },
-  "24": {
-    "summary": "Cultural dissonance adapting to new social norms abroad",
-    "category": "acculturation_stress",
-    "confidence": 0.8
-  },
-  "25": {
-    "summary": "Professional uncertainty in male-dominated fields",
-    "category": "career_doubt",
+    "summary": "Experienced loss of a close family member during childhood.",
+    "category": "grief_bereavement",
     "confidence": 0.7
   },
+  "23": {
+    "summary": "Faced a failed romantic relationship, deepening her independence.",
+    "category": "relationship_breakup",
+    "confidence": 0.6
+  },
+  "24": {
+    "summary": "Struggled with social isolation due to family obligations and cultural expectations.",
+    "category": "loneliness_isolation",
+    "confidence": 0.7
+  },
+  "25": {
+    "summary": "Developed persistent health issues from overwork and stress.",
+    "category": "chronic_health_pain",
+    "confidence": 0.5
+  },
   "26": {
-    "summary": "Romantic relationship instability testing values",
-    "category": "relationship_conflict",
-    "confidence": 0.65
+    "summary": "Faced job instability and financial strain in a rapidly changing economy.",
+    "category": "financial_employment",
+    "confidence": 0.6
   },
   "27": {
-    "summary": "Witnessing political unrest affecting community safety",
-    "category": "collective_trauma",
+    "summary": "Took on caregiving for an elderly relative, leading to burnout.",
+    "category": "caregiver_burden",
     "confidence": 0.7
   },
   "28": {
-    "summary": "Health anxiety from chronic environmental stressors",
-    "category": "health_anxiety",
-    "confidence": 0.6
+    "summary": "Survived a violent incident in her neighborhood, causing lasting trauma.",
+    "category": "violence_abuse",
+    "confidence": 0.4
   },
   "29": {
-    "summary": "Questioning traditional gender roles in changing society",
-    "category": "gender_role_doubt",
-    "confidence": 0.85
+    "summary": "Faced housing displacement due to urban planning changes.",
+    "category": "legal_housing",
+    "confidence": 0.6
   },
   "30": {
-    "summary": "Career plateau after initial professional struggles",
-    "category": "career_stagnation",
+    "summary": "Felt pressure to excel academically to support her family.",
+    "category": "academic_stress",
     "confidence": 0.7
   },
   "31": {
-    "summary": "Family pressure regarding marriage timing",
-    "category": "social_pressure",
+    "summary": "Experienced a severe anxiety episode during a family crisis.",
+    "category": "mental_health_crisis",
     "confidence": 0.8
   },
   "32": {
-    "summary": "Ethical conflict between heritage values and new beliefs",
-    "category": "value_dissonance",
-    "confidence": 0.75
-  },
-  "33": {
-    "summary": "Economic instability during regional downturn",
-    "category": "economic_uncertainty",
+    "summary": "Decided to leave Manila for a new life abroad, seeking stability.",
+    "category": "immigration",
     "confidence": 0.7
   },
-  "34": {
-    "summary": "Balancing caregiving duties with personal goals",
-    "category": "caregiver_burnout",
-    "confidence": 0.65
-  },
-  "35": {
-    "summary": "Cultural alienation in foreign professional environment",
-    "category": "cultural_isolation",
+  "33": {
+    "summary": "Mourned the loss of a mentor who guided her community work.",
+    "category": "grief_bereavement",
     "confidence": 0.8
   },
+  "34": {
+    "summary": "Ended a long-term partnership due to irreconcilable differences.",
+    "category": "relationship_breakup",
+    "confidence": 0.6
+  },
+  "35": {
+    "summary": "Felt isolated in her new city, struggling to form new connections.",
+    "category": "loneliness_isolation",
+    "confidence": 0.9
+  },
   "36": {
-    "summary": "Midlife reassessment of life priorities",
-    "category": "midlife_crisis",
+    "summary": "Developed chronic back pain from manual labor in her craftwork.",
+    "category": "chronic_health_pain",
     "confidence": 0.7
   },
   "37": {
-    "summary": "Health concerns from past environmental exposures",
-    "category": "chronic_health",
-    "confidence": 0.6
-  },
-  "38": {
-    "summary": "Professional burnout in high-pressure field",
-    "category": "career_burnout",
-    "confidence": 0.75
-  },
-  "39": {
-    "summary": "Marital conflict testing core values",
-    "category": "relationship_dissolution",
-    "confidence": 0.7
-  },
-  "40": {
-    "summary": "Parenting challenges amid cultural transition",
-    "category": "parenting_stress",
-    "confidence": 0.65
-  },
-  "41": {
-    "summary": "Financial strain from supporting extended family",
-    "category": "financial_pressure",
-    "confidence": 0.7
-  },
-  "42": {
-    "summary": "Identity crisis after major life transition",
-    "category": "identity_reconstruction",
+    "summary": "Faced unemployment in a foreign country, leading to financial hardship.",
+    "category": "financial_employment",
     "confidence": 0.8
   },
-  "43": {
-    "summary": "Health decline affecting independence",
-    "category": "health_decline",
+  "38": {
+    "summary": "Cared for an aging parent while working, causing exhaustion.",
+    "category": "caregiver_burden",
+    "confidence": 0.8
+  },
+  "39": {
+    "summary": "Witnessed domestic violence in her community, affecting her mental health.",
+    "category": "violence_abuse",
+    "confidence": 0.6
+  },
+  "40": {
+    "summary": "Faced legal challenges over property rights in her new home.",
+    "category": "legal_housing",
     "confidence": 0.7
   },
+  "41": {
+    "summary": "Pursued further education to adapt to a new culture, facing academic pressure.",
+    "category": "academic_stress",
+    "confidence": 0.8
+  },
+  "42": {
+    "summary": "Experienced a major depressive episode after a personal loss.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
+  },
+  "43": {
+    "summary": "Faced bureaucratic hurdles in her permanent residency process.",
+    "category": "immigration",
+    "confidence": 0.8
+  },
   "44": {
-    "summary": "Generational conflict over cultural preservation",
-    "category": "generational_tension",
-    "confidence": 0.75
+    "summary": "Mourned the death of a close friend in her community.",
+    "category": "grief_bereavement",
+    "confidence": 0.8
   },
   "45": {
-    "summary": "Professional obsolescence fears in changing economy",
-    "category": "career_insecurity",
+    "summary": "Ended a marriage due to incompatibility and distance.",
+    "category": "relationship_breakup",
     "confidence": 0.7
   },
   "46": {
-    "summary": "Grief over aging parents' declining health",
-    "category": "caregiver_grief",
-    "confidence": 0.8
+    "summary": "Felt isolated in her new city, struggling to make friends.",
+    "category": "loneliness_isolation",
+    "confidence": 0.9
   },
   "47": {
-    "summary": "Social isolation despite urban living",
-    "category": "loneliness",
-    "confidence": 0.7
+    "summary": "Suffered from arthritis from years of manual work.",
+    "category": "chronic_health_pain",
+    "confidence": 0.8
   },
   "48": {
-    "summary": "Midlife health diagnosis impacting lifestyle",
-    "category": "health_shock",
-    "confidence": 0.75
+    "summary": "Faced retirement income insecurity in a foreign country.",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "49": {
-    "summary": "Retirement adjustment anxiety",
-    "category": "retirement_transition",
-    "confidence": 0.8
+    "summary": "Cared for a sick spouse, leading to burnout.",
+    "category": "caregiver_burden",
+    "confidence": 0.9
   },
   "50": {
-    "summary": "Chronic pain limiting daily activities",
-    "category": "chronic_pain",
-    "confidence": 0.7
+    "summary": "Survived a violent attack in her neighborhood, causing trauma.",
+    "category": "violence_abuse",
+    "confidence": 0.6
   },
   "51": {
-    "summary": "Grief over loss of longtime community",
-    "category": "community_loss",
-    "confidence": 0.85
+    "summary": "Faced eviction threats due to housing disputes.",
+    "category": "legal_housing",
+    "confidence": 0.7
   },
   "52": {
-    "summary": "Financial planning stress for retirement",
-    "category": "retirement_financial",
-    "confidence": 0.7
+    "summary": "Felt pressure to learn a new language for community work.",
+    "category": "academic_stress",
+    "confidence": 0.8
   },
   "53": {
-    "summary": "Health management challenges with aging",
-    "category": "aging_health",
-    "confidence": 0.8
+    "summary": "Experienced severe anxiety during a family emergency.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "54": {
-    "summary": "Cultural nostalgia affecting present engagement",
-    "category": "nostalgia",
-    "confidence": 0.75
-  },
-  "55": {
-    "summary": "Balancing independence with increasing care needs",
-    "category": "autonomy_conflict",
-    "confidence": 0.7
-  },
-  "56": {
-    "summary": "Witnessing rapid societal changes displacing traditions",
-    "category": "cultural_displacement",
+    "summary": "Faced challenges in adapting to a new city in the UAE.",
+    "category": "immigration",
     "confidence": 0.8
   },
-  "57": {
-    "summary": "Health anxiety from family medical history",
-    "category": "health_anxiety",
+  "55": {
+    "summary": "Mourned the loss of a close colleague in her community.",
+    "category": "grief_bereavement",
+    "confidence": 0.8
+  },
+  "56": {
+    "summary": "Ended a long-term partnership due to growing apart.",
+    "category": "relationship_breakup",
     "confidence": 0.7
   },
+  "57": {
+    "summary": "Felt isolated in her new home, struggling to make friends.",
+    "category": "loneliness_isolation",
+    "confidence": 0.9
+  },
   "58": {
-    "summary": "Retirement monotony and purpose crisis",
-    "category": "purpose_loss",
+    "summary": "Suffered from chronic pain from an old injury.",
+    "category": "chronic_health_pain",
     "confidence": 0.8
   },
   "59": {
-    "summary": "Social isolation from shrinking social circle",
-    "category": "social_isolation",
-    "confidence": 0.85
-  },
-  "60": {
-    "summary": "Chronic illness management burden",
-    "category": "chronic_illness",
+    "summary": "Faced financial strain due to medical expenses.",
+    "category": "financial_employment",
     "confidence": 0.8
   },
+  "60": {
+    "summary": "Cared for a sick parent, leading to exhaustion.",
+    "category": "caregiver_burden",
+    "confidence": 0.9
+  },
   "61": {
-    "summary": "Grief over loss of peers and community",
-    "category": "collective_grief",
-    "confidence": 0.85
+    "summary": "Witnessed violence in her neighborhood, causing fear.",
+    "category": "violence_abuse",
+    "confidence": 0.6
   },
   "62": {
-    "summary": "Financial insecurity despite prior stability",
-    "category": "financial_uncertainty",
-    "confidence": 0.75
+    "summary": "Faced legal issues over property inheritance.",
+    "category": "legal_housing",
+    "confidence": 0.7
   },
   "63": {
-    "summary": "Health decline limiting mobility",
-    "category": "mobility_loss",
+    "summary": "Felt pressure to write a book on her experiences.",
+    "category": "academic_stress",
     "confidence": 0.8
   },
   "64": {
-    "summary": "Caregiving exhaustion for aging spouse",
-    "category": "caregiver_burnout",
-    "confidence": 0.8
+    "summary": "Experienced a major depressive episode after a family loss.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "65": {
-    "summary": "Retirement adjustment challenges",
-    "category": "retirement_adaptation",
-    "confidence": 0.75
+    "summary": "Faced challenges in her new country, feeling like an outsider.",
+    "category": "immigration",
+    "confidence": 0.8
   },
   "66": {
-    "summary": "Chronic pain management difficulties",
-    "category": "chronic_pain",
+    "summary": "Mourned the death of a close friend.",
+    "category": "grief_bereavement",
     "confidence": 0.8
   },
   "67": {
-    "summary": "Grief over loss of independence",
-    "category": "loss_of_autonomy",
-    "confidence": 0.85
-  },
-  "68": {
-    "summary": "Health complications from past exposures",
-    "category": "late_health_effects",
+    "summary": "Ended a partnership due to health issues.",
+    "category": "relationship_breakup",
     "confidence": 0.7
   },
+  "68": {
+    "summary": "Felt isolated in her new home, despite having family.",
+    "category": "loneliness_isolation",
+    "confidence": 0.9
+  },
   "69": {
-    "summary": "Social isolation despite urban living",
-    "category": "loneliness",
-    "confidence": 0.85
+    "summary": "Suffered from chronic pain from arthritis.",
+    "category": "chronic_health_pain",
+    "confidence": 0.8
   },
   "70": {
-    "summary": "Financial strain from healthcare costs",
-    "category": "healthcare_cost",
+    "summary": "Faced retirement income challenges.",
+    "category": "financial_employment",
     "confidence": 0.8
   },
   "71": {
-    "summary": "Grief over loss of longtime partner",
-    "category": "partner_loss",
+    "summary": "Cared for a sick spouse, leading to burnout.",
+    "category": "caregiver_burden",
     "confidence": 0.9
   },
   "72": {
-    "summary": "Chronic illness management challenges",
-    "category": "chronic_illness",
-    "confidence": 0.8
+    "summary": "Survived a violent incident, causing trauma.",
+    "category": "violence_abuse",
+    "confidence": 0.6
   },
   "73": {
-    "summary": "Mobility limitations affecting daily life",
-    "category": "mobility_decline",
-    "confidence": 0.8
+    "summary": "Faced legal disputes over housing.",
+    "category": "legal_housing",
+    "confidence": 0.7
   },
   "74": {
-    "summary": "Caregiving exhaustion for aging relatives",
-    "category": "caregiver_burnout",
+    "summary": "Felt pressure to document her life story.",
+    "category": "academic_stress",
     "confidence": 0.8
   },
   "75": {
-    "summary": "Social isolation from shrinking network",
-    "category": "social_isolation",
-    "confidence": 0.85
+    "summary": "Experienced severe loneliness and depression.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "76": {
-    "summary": "Health anxiety from multiple chronic conditions",
-    "category": "comorbidity_anxiety",
+    "summary": "Faced challenges in her new country, feeling like an outsider.",
+    "category": "immigration",
     "confidence": 0.8
   },
   "77": {
-    "summary": "Grief over loss of community ties",
-    "category": "community_disconnection",
-    "confidence": 0.85
+    "summary": "Mourned the loss of a close friend.",
+    "category": "grief_bereavement",
+    "confidence": 0.8
   },
   "78": {
-    "summary": "Financial insecurity from inflation",
-    "category": "economic_pressure",
-    "confidence": 0.75
-  },
-  "79": {
-    "summary": "Chronic pain limiting social participation",
-    "category": "pain_isolation",
-    "confidence": 0.8
-  },
-  "80": {
-    "summary": "Retirement poverty risk",
-    "category": "financial_insecurity",
+    "summary": "Ended a partnership due to health issues.",
+    "category": "relationship_breakup",
     "confidence": 0.7
   },
-  "81": {
-    "summary": "Grief over loss of independence",
-    "category": "loss_of_autonomy",
-    "confidence": 0.85
-  },
-  "82": {
-    "summary": "Health decline requiring assistance",
-    "category": "care_needs",
-    "confidence": 0.8
-  },
-  "83": {
-    "summary": "Social isolation from limited mobility",
-    "category": "mobility_loneliness",
-    "confidence": 0.85
-  },
-  "84": {
-    "summary": "Chronic illness management burden",
-    "category": "chronic_illness",
-    "confidence": 0.8
-  },
-  "85": {
-    "summary": "Grief over loss of longtime partner",
-    "category": "partner_loss",
+  "79": {
+    "summary": "Felt isolated in her new home, despite having family.",
+    "category": "loneliness_isolation",
     "confidence": 0.9
   },
-  "86": {
-    "summary": "Financial strain from healthcare costs",
-    "category": "healthcare_cost",
+  "80": {
+    "summary": "Suffered from chronic pain from arthritis.",
+    "category": "chronic_health_pain",
     "confidence": 0.8
   },
+  "81": {
+    "summary": "Faced retirement income challenges.",
+    "category": "financial_employment",
+    "confidence": 0.8
+  },
+  "82": {
+    "summary": "Cared for a sick spouse, leading to burnout.",
+    "category": "caregiver_burden",
+    "confidence": 0.9
+  },
+  "83": {
+    "summary": "Survived a violent incident, causing trauma.",
+    "category": "violence_abuse",
+    "confidence": 0.6
+  },
+  "84": {
+    "summary": "Faced legal disputes over housing.",
+    "category": "legal_housing",
+    "confidence": 0.7
+  },
+  "85": {
+    "summary": "Felt pressure to document her life story.",
+    "category": "academic_stress",
+    "confidence": 0.8
+  },
+  "86": {
+    "summary": "Experienced severe loneliness and depression.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
+  },
   "87": {
-    "summary": "Mobility limitations affecting independence",
-    "category": "mobility_loss",
+    "summary": "Faced challenges in her new country, feeling like an outsider.",
+    "category": "immigration",
     "confidence": 0.8
   },
   "88": {
-    "summary": "Caregiver exhaustion for aging spouse",
-    "category": "caregiver_burnout",
+    "summary": "Mourned the loss of a close friend.",
+    "category": "grief_bereavement",
     "confidence": 0.8
   },
   "89": {
-    "summary": "Social isolation despite urban living",
-    "category": "loneliness",
-    "confidence": 0.85
+    "summary": "Ended a partnership due to health issues.",
+    "category": "relationship_breakup",
+    "confidence": 0.7
   },
   "90": {
-    "summary": "Chronic pain management challenges",
-    "category": "chronic_pain",
-    "confidence": 0.8
+    "summary": "Felt isolated in her new home, despite having family.",
+    "category": "loneliness_isolation",
+    "confidence": 0.9
   },
   "91": {
-    "summary": "Grief over loss of community",
-    "category": "community_loss",
-    "confidence": 0.85
+    "summary": "Suffered from chronic pain from arthritis.",
+    "category": "chronic_health_pain",
+    "confidence": 0.8
   },
   "92": {
-    "summary": "Financial insecurity from fixed income",
-    "category": "retirement_financial",
-    "confidence": 0.75
+    "summary": "Faced retirement income challenges.",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "93": {
-    "summary": "Profound loneliness after partner's death",
-    "category": "loneliness",
-    "confidence": 0.95
+    "summary": "Cared for a sick spouse, leading to burnout.",
+    "category": "caregiver_burden",
+    "confidence": 0.9
   },
   "94": {
-    "summary": "Health decline requiring assistance",
-    "category": "care_needs",
-    "confidence": 0.8
+    "summary": "Survived a violent incident, causing trauma.",
+    "category": "violence_abuse",
+    "confidence": 0.6
   },
   "95": {
-    "summary": "Grief over loss of independence",
-    "category": "loss_of_autonomy",
-    "confidence": 0.85
+    "summary": "Faced legal disputes over housing.",
+    "category": "legal_housing",
+    "confidence": 0.7
   },
   "96": {
-    "summary": "Social isolation from shrinking network",
-    "category": "social_isolation",
-    "confidence": 0.85
-  },
-  "97": {
-    "summary": "Chronic illness management burden",
-    "category": "chronic_illness",
+    "summary": "Felt pressure to document her life story.",
+    "category": "academic_stress",
     "confidence": 0.8
   },
+  "97": {
+    "summary": "Experienced severe loneliness and depression.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
+  },
   "98": {
-    "summary": "Caregiver exhaustion for aging relatives",
-    "category": "caregiver_burnout",
+    "summary": "Faced challenges in her new country, feeling like an outsider.",
+    "category": "immigration",
     "confidence": 0.8
   },
   "99": {
-    "summary": "Financial strain from healthcare costs",
-    "category": "healthcare_cost",
+    "summary": "Mourned the loss of a close friend.",
+    "category": "grief_bereavement",
     "confidence": 0.8
   },
   "100": {
-    "summary": "Legacy concerns amid declining health",
-    "category": "legacy_concern",
-    "confidence": 0.75
+    "summary": "Ended a partnership due to health issues.",
+    "category": "relationship_breakup",
+    "confidence": 0.7
   }
 }

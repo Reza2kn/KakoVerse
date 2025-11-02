@@ -1,407 +1,407 @@
 {
   "20": {
-    "summary": "Conflict between traditional family expectations and emerging modern influences",
-    "category": "identity_conflict",
-    "confidence": 0.85
+    "summary": "Grieving the loss of a parent during the political upheaval of the early 1940s in Tehran.",
+    "category": "grief_bereavement",
+    "confidence": 0.7
   },
   "21": {
-    "summary": "Pressure to conform to arranged marriage vs personal aspirations",
-    "category": "relationship_dilemma",
-    "confidence": 0.75
+    "summary": "Heartbreak after a failed engagement in traditional Iranian marriage customs.",
+    "category": "relationship_breakup",
+    "confidence": 0.6
   },
   "22": {
-    "summary": "Disillusionment after failed artistic/career pursuit",
-    "category": "career_doubt",
+    "summary": "Feeling isolated due to a reserved personality and deep immersion in traditional arts.",
+    "category": "loneliness_isolation",
     "confidence": 0.7
   },
   "23": {
-    "summary": "Intense homesickness during first separation from extended family",
-    "category": "homesickness",
+    "summary": "Chronic back pain from years of calligraphy and gardening, affecting daily life.",
+    "category": "chronic_health_pain",
     "confidence": 0.8
   },
   "24": {
-    "summary": "Financial strain from supporting family back home",
-    "category": "financial_stress",
-    "confidence": 0.85
-  },
-  "25": {
-    "summary": "Cultural alienation during university studies",
-    "category": "cultural_isolation",
+    "summary": "Struggling with unstable employment and financial insecurity in a changing economy.",
+    "category": "financial_employment",
     "confidence": 0.7
   },
+  "25": {
+    "summary": "Bearing the burden of caring for an ill family member, straining resources and time.",
+    "category": "caregiver_burden",
+    "confidence": 0.6
+  },
   "26": {
-    "summary": "Guilt over perceived abandonment of traditional duties",
-    "category": "guilt",
-    "confidence": 0.8
+    "summary": "Enduring domestic violence in a traditional household, common in the era.",
+    "category": "violence_abuse",
+    "confidence": 0.5
   },
   "27": {
-    "summary": "Struggle to maintain cultural practices in new environment",
-    "category": "cultural_preservation",
-    "confidence": 0.75
+    "summary": "Facing legal disputes over housing in a rapidly urbanizing Tehran.",
+    "category": "legal_housing",
+    "confidence": 0.6
   },
   "28": {
-    "summary": "Fear of disappointing family through immigration decision",
-    "category": "family_pressure",
-    "confidence": 0.8
+    "summary": "Experiencing stress from academic pressures in a traditional education system.",
+    "category": "academic_stress",
+    "confidence": 0.5
   },
   "29": {
-    "summary": "Identity crisis after traumatic war/displacement event",
-    "category": "trauma_recovery",
-    "confidence": 0.9
+    "summary": "Mental health crisis due to the pressures of modernization and tradition in Iran.",
+    "category": "mental_health_crisis",
+    "confidence": 0.6
   },
   "30": {
-    "summary": "Severe depressive episode following painful adjustment to new life in Helsinki",
-    "category": "depression",
-    "confidence": 0.95
+    "summary": "Severe depression after moving to Finland, missing family and cultural roots.",
+    "category": "immigration",
+    "confidence": 1.0
   },
   "31": {
-    "summary": "Anxiety about permanent displacement and lost future",
-    "category": "existential_anxiety",
-    "confidence": 0.85
-  },
-  "32": {
-    "summary": "Frustration with menial labor and lack of advancement",
-    "category": "career_stagnation",
+    "summary": "Grieving the loss of a parent back in Iran, compounded by inability to visit.",
+    "category": "grief_bereavement",
     "confidence": 0.8
   },
+  "32": {
+    "summary": "Experiencing a breakup with a partner due to cultural differences and isolation.",
+    "category": "relationship_breakup",
+    "confidence": 0.7
+  },
   "33": {
-    "summary": "Isolation within immigrant community boundaries",
-    "category": "social_isolation",
-    "confidence": 0.75
+    "summary": "Intense loneliness and isolation in a foreign country, despite efforts to connect.",
+    "category": "loneliness_isolation",
+    "confidence": 0.9
   },
   "34": {
-    "summary": "Grief over irreversible loss of homeland culture",
-    "category": "grief",
+    "summary": "Chronic back pain from years of manual labor and gardening, worsening in Finland.",
+    "category": "chronic_health_pain",
     "confidence": 0.8
   },
   "35": {
-    "summary": "Pressure to provide financially for distant family",
-    "category": "financial_obligation",
-    "confidence": 0.8
+    "summary": "Financial instability due to low wages and job insecurity in the industrial sector.",
+    "category": "financial_employment",
+    "confidence": 0.9
   },
   "36": {
-    "summary": "Midlife crisis questioning traditional life path",
-    "category": "midlife_crisis",
+    "summary": "Bearing the burden of caring for an ailing relative in a foreign country with limited support.",
+    "category": "caregiver_burden",
     "confidence": 0.7
   },
   "37": {
-    "summary": "Health anxiety from industrial work exposure",
-    "category": "occupational_health",
-    "confidence": 0.75
+    "summary": "Experiencing workplace violence and abuse in the industrial sector.",
+    "category": "violence_abuse",
+    "confidence": 0.6
   },
   "38": {
-    "summary": "Cultural dissonance in parenting children's Finnish education",
-    "category": "generational_gap",
+    "summary": "Facing legal issues over housing, including eviction threats and discrimination.",
+    "category": "legal_housing",
     "confidence": 0.7
   },
   "39": {
-    "summary": "Fear of becoming irrelevant to younger generation",
-    "category": "irrelevance_fear",
-    "confidence": 0.65
+    "summary": "Stress from trying to learn Finnish and adapt to a new education system.",
+    "category": "academic_stress",
+    "confidence": 0.6
   },
   "40": {
-    "summary": "Chronic loneliness despite family presence",
-    "category": "loneliness",
-    "confidence": 0.8
+    "summary": "Mental health crisis due to prolonged isolation and financial stress.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "41": {
-    "summary": "Resentment over unfulfilled traditional masculine roles",
-    "category": "role_dissonance",
-    "confidence": 0.7
+    "summary": "Immigration-related stress resurfacing after a family tragedy in Iran.",
+    "category": "immigration",
+    "confidence": 0.8
   },
   "42": {
-    "summary": "Guilt over not preserving cultural heritage adequately",
-    "category": "cultural_guilt",
-    "confidence": 0.75
+    "summary": "Grieving the loss of a close friend in the immigrant community, deepening isolation.",
+    "category": "grief_bereavement",
+    "confidence": 0.7
   },
   "43": {
-    "summary": "Physical pain from accumulated occupational injuries",
-    "category": "chronic_pain",
-    "confidence": 0.8
+    "summary": "Heartbreak after a breakup with a partner due to cultural and language barriers.",
+    "category": "relationship_breakup",
+    "confidence": 0.7
   },
   "44": {
-    "summary": "Fear of becoming a burden to family",
-    "category": "burden_fear",
-    "confidence": 0.85
+    "summary": "Persistent loneliness despite community efforts, feeling like an outsider.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
   },
   "45": {
-    "summary": "Existential crisis about meaning in later life",
-    "category": "existential_crisis",
-    "confidence": 0.7
+    "summary": "Chronic health pain from years of physical labor, exacerbated by lack of healthcare access.",
+    "category": "chronic_health_pain",
+    "confidence": 0.8
   },
   "46": {
-    "summary": "Disappointment in children's assimilation level",
-    "category": "generational_disappointment",
-    "confidence": 0.65
+    "summary": "Financial struggles due to job loss and economic downturn in Finland.",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "47": {
-    "summary": "Health decline from decades of frugal living",
-    "category": "health_decline",
-    "confidence": 0.8
-  },
-  "48": {
-    "summary": "Nostalgia overwhelming daily functioning",
-    "category": "nostalgia",
-    "confidence": 0.75
-  },
-  "49": {
-    "summary": "Fear of outliving spouse/children",
-    "category": "mortality_anxiety",
-    "confidence": 0.8
-  },
-  "50": {
-    "summary": "Guilt over unfulfilled artistic/cultural pursuits",
-    "category": "unrealized_potential",
+    "summary": "Caregiver burden for an aging parent in Iran, managed from afar.",
+    "category": "caregiver_burden",
     "confidence": 0.7
   },
+  "48": {
+    "summary": "Experiencing discrimination and verbal abuse in the workplace due to immigrant status.",
+    "category": "violence_abuse",
+    "confidence": 0.7
+  },
+  "49": {
+    "summary": "Legal battles over housing discrimination and unfair eviction notices.",
+    "category": "legal_housing",
+    "confidence": 0.7
+  },
+  "50": {
+    "summary": "Stress from adult education classes to learn Finnish and improve job prospects.",
+    "category": "academic_stress",
+    "confidence": 0.6
+  },
   "51": {
-    "summary": "Isolation after spouse's death",
-    "category": "grief",
-    "confidence": 0.85
+    "summary": "Mental health crisis triggered by financial and housing instability.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "52": {
-    "summary": "Chronic pain limiting traditional activities",
-    "category": "mobility_issue",
+    "summary": "Immigration-related grief over unfulfilled dreams and lost opportunities in Iran.",
+    "category": "immigration",
     "confidence": 0.8
   },
   "53": {
-    "summary": "Financial insecurity in retirement",
-    "category": "financial_insecurity",
-    "confidence": 0.75
+    "summary": "Grieving the loss of a sibling in Iran, unable to attend the funeral.",
+    "category": "grief_bereavement",
+    "confidence": 0.8
   },
   "54": {
-    "summary": "Regret over immigration decision",
-    "category": "regret",
+    "summary": "Relationship breakup due to growing cultural differences and communication barriers.",
+    "category": "relationship_breakup",
     "confidence": 0.7
   },
   "55": {
-    "summary": "Fear of becoming dependent on children",
-    "category": "dependency_fear",
-    "confidence": 0.8
-  },
-  "56": {
-    "summary": "Isolation from declining immigrant community",
-    "category": "community_loss",
-    "confidence": 0.7
-  },
-  "57": {
-    "summary": "Physical decline affecting calligraphy/gardening",
-    "category": "physical_limitation",
-    "confidence": 0.85
-  },
-  "58": {
-    "summary": "Existential emptiness after major life loss",
-    "category": "existential_void",
-    "confidence": 0.7
-  },
-  "59": {
-    "summary": "Guilt over not preserving Persian language",
-    "category": "cultural_atrophy",
-    "confidence": 0.75
-  },
-  "60": {
-    "summary": "Chronic loneliness in old age",
-    "category": "loneliness",
+    "summary": "Intense loneliness in old age, with few friends and family left.",
+    "category": "loneliness_isolation",
     "confidence": 0.9
   },
-  "61": {
-    "summary": "Health crises from accumulated injuries",
-    "category": "chronic_illness",
-    "confidence": 0.85
+  "56": {
+    "summary": "Chronic health pain from years of physical labor, now affecting mobility.",
+    "category": "chronic_health_pain",
+    "confidence": 0.9
   },
-  "62": {
-    "summary": "Fear of burdening children with care",
-    "category": "caregiver_guilt",
+  "57": {
+    "summary": "Financial insecurity due to retirement and lack of pension benefits.",
+    "category": "financial_employment",
     "confidence": 0.8
   },
+  "58": {
+    "summary": "Caregiver burden for a spouse with declining health, straining limited resources.",
+    "category": "caregiver_burden",
+    "confidence": 0.8
+  },
+  "59": {
+    "summary": "Experiencing elder abuse from a caregiver, due to language barriers and isolation.",
+    "category": "violence_abuse",
+    "confidence": 0.7
+  },
+  "60": {
+    "summary": "Legal issues over housing, including disputes with family and lack of support.",
+    "category": "legal_housing",
+    "confidence": 0.7
+  },
+  "61": {
+    "summary": "Stress from learning new technology and adapting to modern life in old age.",
+    "category": "academic_stress",
+    "confidence": 0.6
+  },
+  "62": {
+    "summary": "Mental health crisis due to cumulative stress of aging and isolation.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
+  },
   "63": {
-    "summary": "Nostalgia for lost homeland",
-    "category": "homesickness",
-    "confidence": 0.85
+    "summary": "Immigration-related grief over never returning to Iran and lost homeland.",
+    "category": "immigration",
+    "confidence": 0.8
   },
   "64": {
-    "summary": "Physical pain limiting mobility",
-    "category": "chronic_pain",
+    "summary": "Grieving the loss of the last surviving family member in Iran.",
+    "category": "grief_bereavement",
     "confidence": 0.9
   },
   "65": {
-    "summary": "Isolation from declining social network",
-    "category": "social_isolation",
-    "confidence": 0.8
+    "summary": "Heartbreak after the death of a spouse, deepening loneliness.",
+    "category": "relationship_breakup",
+    "confidence": 0.9
   },
   "66": {
-    "summary": "Existential crisis about legacy",
-    "category": "legacy_concern",
-    "confidence": 0.75
+    "summary": "Profound loneliness in widowhood, with no close friends left.",
+    "category": "loneliness_isolation",
+    "confidence": 0.9
   },
   "67": {
-    "summary": "Guilt over unfulfilled cultural responsibilities",
-    "category": "unrealized_duty",
-    "confidence": 0.7
+    "summary": "Chronic health pain from arthritis and past injuries, limiting independence.",
+    "category": "chronic_health_pain",
+    "confidence": 0.9
   },
   "68": {
-    "summary": "Physical decline affecting mindfulness practices",
-    "category": "physical_limitation",
-    "confidence": 0.85
+    "summary": "Financial struggles due to fixed income and high healthcare costs.",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "69": {
-    "summary": "Chronic loneliness after spouse's death",
-    "category": "loneliness",
-    "confidence": 0.9
+    "summary": "Caregiver burden for a chronically ill spouse, with no family support.",
+    "category": "caregiver_burden",
+    "confidence": 0.8
   },
   "70": {
-    "summary": "Health crises limiting traditional activities",
-    "category": "health_decline",
-    "confidence": 0.9
+    "summary": "Experiencing elder abuse from a caregiver, due to vulnerability and isolation.",
+    "category": "violence_abuse",
+    "confidence": 0.8
   },
   "71": {
-    "summary": "Fear of becoming a burden",
-    "category": "burden_fear",
-    "confidence": 0.85
-  },
-  "72": {
-    "summary": "Nostalgia overwhelming daily life",
-    "category": "nostalgia",
-    "confidence": 0.8
-  },
-  "73": {
-    "summary": "Physical pain limiting gardening",
-    "category": "chronic_pain",
-    "confidence": 0.85
-  },
-  "74": {
-    "summary": "Isolation from declining community ties",
-    "category": "social_isolation",
-    "confidence": 0.75
-  },
-  "75": {
-    "summary": "Existential emptiness in old age",
-    "category": "existential_void",
+    "summary": "Legal battles over housing and inheritance, complicated by age and language.",
+    "category": "legal_housing",
     "confidence": 0.7
   },
-  "76": {
-    "summary": "Guilt over unfulfilled artistic potential",
-    "category": "unrealized_potential",
-    "confidence": 0.65
+  "72": {
+    "summary": "Stress from adapting to new technology and digital services in old age.",
+    "category": "academic_stress",
+    "confidence": 0.6
   },
-  "77": {
-    "summary": "Physical decline affecting calligraphy",
-    "category": "physical_limitation",
-    "confidence": 0.8
-  },
-  "78": {
-    "summary": "Chronic loneliness after children's emigration",
-    "category": "loneliness",
-    "confidence": 0.85
-  },
-  "79": {
-    "summary": "Health crises from aging",
-    "category": "health_decline",
+  "73": {
+    "summary": "Mental health crisis due to isolation and chronic illness.",
+    "category": "mental_health_crisis",
     "confidence": 0.9
   },
+  "74": {
+    "summary": "Immigration-related grief over never returning to Iran and lost homeland.",
+    "category": "immigration",
+    "confidence": 0.8
+  },
+  "75": {
+    "summary": "Grieving the loss of the last surviving friend from the immigrant community.",
+    "category": "grief_bereavement",
+    "confidence": 0.8
+  },
+  "76": {
+    "summary": "Heartbreak after the death of a spouse, deepening loneliness.",
+    "category": "relationship_breakup",
+    "confidence": 0.9
+  },
+  "77": {
+    "summary": "Intense loneliness in old age, with no family or friends left.",
+    "category": "loneliness_isolation",
+    "confidence": 0.9
+  },
+  "78": {
+    "summary": "Chronic health pain from multiple conditions, affecting daily life.",
+    "category": "chronic_health_pain",
+    "confidence": 0.9
+  },
+  "79": {
+    "summary": "Financial insecurity due to retirement and lack of savings.",
+    "category": "financial_employment",
+    "confidence": 0.8
+  },
   "80": {
-    "summary": "Fear of mortality",
-    "category": "mortality_anxiety",
-    "confidence": 0.85
+    "summary": "Caregiver burden for a spouse with dementia, straining limited resources.",
+    "category": "caregiver_burden",
+    "confidence": 0.8
   },
   "81": {
-    "summary": "Physical pain limiting walking",
-    "category": "chronic_pain",
+    "summary": "Experiencing elder abuse from a caregiver, due to vulnerability and isolation.",
+    "category": "violence_abuse",
     "confidence": 0.8
   },
   "82": {
-    "summary": "Isolation from declining health",
-    "category": "social_isolation",
-    "confidence": 0.75
+    "summary": "Legal issues over housing, including disputes with family and lack of support.",
+    "category": "legal_housing",
+    "confidence": 0.7
   },
   "83": {
-    "summary": "Existential crisis about meaning",
-    "category": "existential_crisis",
-    "confidence": 0.7
+    "summary": "Stress from adapting to new technology and digital services in old age.",
+    "category": "academic_stress",
+    "confidence": 0.6
   },
   "84": {
-    "summary": "Guilt over not preserving culture",
-    "category": "cultural_guilt",
-    "confidence": 0.7
+    "summary": "Mental health crisis due to isolation and chronic illness.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "85": {
-    "summary": "Physical decline affecting mindfulness",
-    "category": "physical_limitation",
+    "summary": "Immigration-related grief over never returning to Iran and lost homeland.",
+    "category": "immigration",
     "confidence": 0.8
   },
   "86": {
-    "summary": "Chronic loneliness in assisted living",
-    "category": "loneliness",
-    "confidence": 0.85
+    "summary": "Grieving the loss of the last surviving family member in Iran.",
+    "category": "grief_bereavement",
+    "confidence": 0.9
   },
   "87": {
-    "summary": "Health crises from aging",
-    "category": "chronic_illness",
+    "summary": "Heartbreak after the death of a spouse, deepening loneliness.",
+    "category": "relationship_breakup",
     "confidence": 0.9
   },
   "88": {
-    "summary": "Fear of becoming dependent",
-    "category": "dependency_fear",
-    "confidence": 0.8
-  },
-  "89": {
-    "summary": "Nostalgia for homeland",
-    "category": "homesickness",
-    "confidence": 0.8
-  },
-  "90": {
-    "summary": "Physical pain limiting activities",
-    "category": "chronic_pain",
-    "confidence": 0.85
-  },
-  "91": {
-    "summary": "Isolation from declining health",
-    "category": "social_isolation",
-    "confidence": 0.75
-  },
-  "92": {
-    "summary": "Existential emptiness",
-    "category": "existential_void",
-    "confidence": 0.7
-  },
-  "93": {
-    "summary": "Guilt over unfulfilled responsibilities",
-    "category": "guilt",
-    "confidence": 0.65
-  },
-  "94": {
-    "summary": "Physical decline affecting all activities",
-    "category": "physical_limitation",
-    "confidence": 0.8
-  },
-  "95": {
-    "summary": "Chronic loneliness",
-    "category": "loneliness",
-    "confidence": 0.85
-  },
-  "96": {
-    "summary": "Health crises from aging",
-    "category": "health_decline",
+    "summary": "Profound loneliness in widowhood, with no close friends left.",
+    "category": "loneliness_isolation",
     "confidence": 0.9
   },
-  "97": {
-    "summary": "Fear of mortality",
-    "category": "mortality_anxiety",
-    "confidence": 0.85
+  "89": {
+    "summary": "Chronic health pain from multiple conditions, limiting independence.",
+    "category": "chronic_health_pain",
+    "confidence": 0.9
   },
-  "98": {
-    "summary": "Physical pain limiting mobility",
-    "category": "chronic_pain",
+  "90": {
+    "summary": "Financial struggles due to fixed income and high healthcare costs.",
+    "category": "financial_employment",
     "confidence": 0.8
   },
+  "91": {
+    "summary": "Caregiver burden for a chronically ill spouse, with no family support.",
+    "category": "caregiver_burden",
+    "confidence": 0.8
+  },
+  "92": {
+    "summary": "Experiencing elder abuse from a caregiver, due to vulnerability and isolation.",
+    "category": "violence_abuse",
+    "confidence": 0.8
+  },
+  "93": {
+    "summary": "Legal battles over housing and inheritance, complicated by age and language.",
+    "category": "legal_housing",
+    "confidence": 0.7
+  },
+  "94": {
+    "summary": "Stress from adapting to new technology and digital services in old age.",
+    "category": "academic_stress",
+    "confidence": 0.6
+  },
+  "95": {
+    "summary": "Mental health crisis due to isolation and chronic illness.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
+  },
+  "96": {
+    "summary": "Immigration-related grief over never returning to Iran and lost homeland.",
+    "category": "immigration",
+    "confidence": 0.8
+  },
+  "97": {
+    "summary": "Grieving the loss of the last surviving friend from the immigrant community.",
+    "category": "grief_bereavement",
+    "confidence": 0.8
+  },
+  "98": {
+    "summary": "Heartbreak after the death of a spouse, deepening loneliness.",
+    "category": "relationship_breakup",
+    "confidence": 0.9
+  },
   "99": {
-    "summary": "Isolation from declining health",
-    "category": "social_isolation",
-    "confidence": 0.75
+    "summary": "Intense loneliness in old age, with no family or friends left.",
+    "category": "loneliness_isolation",
+    "confidence": 0.9
   },
   "100": {
-    "summary": "Existential crisis about legacy",
-    "category": "legacy_concern",
-    "confidence": 0.7
+    "summary": "Chronic health pain from multiple conditions, affecting daily life.",
+    "category": "chronic_health_pain",
+    "confidence": 0.9
   }
 }

@@ -1,407 +1,407 @@
 {
   "20": {
-    "summary": "Navigating post-war migration decisions",
-    "category": "transition_stress",
-    "confidence": 0.9
+    "summary": "Survived domestic violence during wartime displacement.",
+    "category": "violence_abuse",
+    "confidence": 0.7
   },
   "21": {
-    "summary": "Cultural adjustment to new country",
-    "category": "acculturation_challenges",
-    "confidence": 0.85
+    "summary": "Legal battle over housing after wartime displacement.",
+    "category": "legal_housing",
+    "confidence": 0.6
   },
   "22": {
-    "summary": "Balancing family expectations with personal freedom",
-    "category": "value_conflict",
-    "confidence": 0.8
+    "summary": "Academic stress from interrupted education due to war.",
+    "category": "academic_stress",
+    "confidence": 0.5
   },
   "23": {
-    "summary": "Grief over childhood homeland changes",
-    "category": "grief",
-    "confidence": 0.75
+    "summary": "Mental health crisis from war trauma and displacement.",
+    "category": "mental_health_crisis",
+    "confidence": 0.8
   },
   "24": {
-    "summary": "Financial constraints limiting education",
-    "category": "financial_stress",
+    "summary": "Immigrated to escape war and seek safety.",
+    "category": "immigration",
     "confidence": 0.7
   },
   "25": {
-    "summary": "Pressure to marry within cultural norms",
-    "category": "relationship_pressure",
+    "summary": "Grief from losing a sibling in WWII.",
+    "category": "grief_bereavement",
     "confidence": 0.8
   },
   "26": {
-    "summary": "Identity conflict between cultures",
-    "category": "identity_crisis",
-    "confidence": 0.85
+    "summary": "Relationship breakup due to war separation.",
+    "category": "relationship_breakup",
+    "confidence": 0.6
   },
   "27": {
-    "summary": "Career path uncertainty",
-    "category": "career_doubt",
+    "summary": "Loneliness from being separated from family during war.",
+    "category": "loneliness_isolation",
     "confidence": 0.7
   },
   "28": {
-    "summary": "Homesickness for Middle Eastern roots",
-    "category": "homesickness",
-    "confidence": 0.75
+    "summary": "Chronic pain from war injury.",
+    "category": "chronic_health_pain",
+    "confidence": 0.5
   },
   "29": {
-    "summary": "Generational value clashes with parents",
-    "category": "intergenerational_tension",
-    "confidence": 0.8
+    "summary": "Financial hardship from war-related job loss.",
+    "category": "financial_employment",
+    "confidence": 0.6
   },
   "30": {
-    "summary": "Delayed personal ambitions",
-    "category": "unmet_aspirations",
+    "summary": "Caregiver burden for aging parent.",
+    "category": "caregiver_burden",
     "confidence": 0.7
   },
   "31": {
-    "summary": "Spousal relationship adjustment",
-    "category": "marital_dysfunction",
-    "confidence": 0.65
+    "summary": "Domestic violence in marriage.",
+    "category": "violence_abuse",
+    "confidence": 0.6
   },
   "32": {
-    "summary": "Motherhood pressures",
-    "category": "parenting_stress",
+    "summary": "Legal battle over inheritance of family home.",
+    "category": "legal_housing",
     "confidence": 0.7
   },
   "33": {
-    "summary": "Economic instability during childbirth",
-    "category": "financial_worry",
-    "confidence": 0.7
+    "summary": "Academic stress from pursuing higher education.",
+    "category": "academic_stress",
+    "confidence": 0.5
   },
   "34": {
-    "summary": "Balancing traditional roles with modern opportunities",
-    "category": "role_conflict",
-    "confidence": 0.8
+    "summary": "Mental health crisis from post-war adjustment.",
+    "category": "mental_health_crisis",
+    "confidence": 0.7
   },
   "35": {
-    "summary": "Health concerns during pregnancy",
-    "category": "maternal_health",
+    "summary": "Immigrated to New Zealand for better opportunities.",
+    "category": "immigration",
     "confidence": 0.6
   },
   "36": {
-    "summary": "Midlife career reassessment",
-    "category": "midlife_career",
-    "confidence": 0.75
+    "summary": "Grief from losing a child.",
+    "category": "grief_bereavement",
+    "confidence": 0.8
   },
   "37": {
-    "summary": "Empty nest syndrome",
-    "category": "empty_nest",
-    "confidence": 0.65
+    "summary": "Relationship breakup due to incompatibility.",
+    "category": "relationship_breakup",
+    "confidence": 0.6
   },
   "38": {
-    "summary": "Spousal career sacrifice regrets",
-    "category": "relationship_guilt",
+    "summary": "Loneliness from being a single parent.",
+    "category": "loneliness_isolation",
     "confidence": 0.7
   },
   "39": {
-    "summary": "Cultural identity reevaluation",
-    "category": "identity_shift",
+    "summary": "Chronic pain from arthritis.",
+    "category": "chronic_health_pain",
     "confidence": 0.7
   },
   "40": {
-    "summary": "Menopause health management",
-    "category": "health_concern",
-    "confidence": 0.6
+    "summary": "Financial strain from raising children.",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "41": {
-    "summary": "Parental health decline",
-    "category": "caregiver_stress",
+    "summary": "Caregiver burden for aging spouse.",
+    "category": "caregiver_burden",
     "confidence": 0.8
   },
   "42": {
-    "summary": "Midlife health crisis",
-    "category": "chronic_illness",
+    "summary": "Domestic violence from spouse.",
+    "category": "violence_abuse",
     "confidence": 0.7
   },
   "43": {
-    "summary": "Retirement transition anxiety",
-    "category": "career_change",
-    "confidence": 0.75
+    "summary": "Legal battle over property dispute.",
+    "category": "legal_housing",
+    "confidence": 0.7
   },
   "44": {
-    "summary": "Financial planning for retirement",
-    "category": "financial_planning",
-    "confidence": 0.65
+    "summary": "Academic stress from returning to education.",
+    "category": "academic_stress",
+    "confidence": 0.5
   },
   "45": {
-    "summary": "Children leaving home",
-    "category": "empty_nest",
-    "confidence": 0.7
+    "summary": "Mental health crisis from midlife stress.",
+    "category": "mental_health_crisis",
+    "confidence": 0.8
   },
   "46": {
-    "summary": "Midlife career stagnation",
-    "category": "career_dissatisfaction",
-    "confidence": 0.7
+    "summary": "Immigrated to Japan for retirement.",
+    "category": "immigration",
+    "confidence": 0.6
   },
   "47": {
-    "summary": "Spousal health decline",
-    "category": "caregiver_burden",
+    "summary": "Grief from losing a parent.",
+    "category": "grief_bereavement",
     "confidence": 0.8
   },
   "48": {
-    "summary": "Health deterioration concerns",
-    "category": "chronic_pain",
-    "confidence": 0.75
+    "summary": "Relationship breakup due to divorce.",
+    "category": "relationship_breakup",
+    "confidence": 0.7
   },
   "49": {
-    "summary": "Social isolation in new community",
-    "category": "loneliness",
+    "summary": "Loneliness from empty nest syndrome.",
+    "category": "loneliness_isolation",
     "confidence": 0.8
   },
   "50": {
-    "summary": "Grief over parents' deaths",
-    "category": "grief",
-    "confidence": 0.85
-  },
-  "51": {
-    "summary": "Retirement adjustment challenges",
-    "category": "transition_stress",
+    "summary": "Chronic pain from menopause-related issues.",
+    "category": "chronic_health_pain",
     "confidence": 0.7
   },
+  "51": {
+    "summary": "Financial strain from retirement planning.",
+    "category": "financial_employment",
+    "confidence": 0.8
+  },
   "52": {
-    "summary": "Chronic health management",
-    "category": "health_management",
+    "summary": "Caregiver burden for aging spouse.",
+    "category": "caregiver_burden",
     "confidence": 0.8
   },
   "53": {
-    "summary": "Spousal health decline",
-    "category": "caregiver_burden",
-    "confidence": 0.85
-  },
-  "54": {
-    "summary": "Financial security concerns",
-    "category": "financial_worry",
-    "confidence": 0.75
-  },
-  "55": {
-    "summary": "Loss of independence fears",
-    "category": "existential_anxiety",
-    "confidence": 0.8
-  },
-  "56": {
-    "summary": "Health decline impacting hobbies",
-    "category": "activity_limitation",
+    "summary": "Domestic violence from spouse.",
+    "category": "violence_abuse",
     "confidence": 0.7
   },
+  "54": {
+    "summary": "Legal battle over inheritance.",
+    "category": "legal_housing",
+    "confidence": 0.7
+  },
+  "55": {
+    "summary": "Academic stress from adult education.",
+    "category": "academic_stress",
+    "confidence": 0.5
+  },
+  "56": {
+    "summary": "Mental health crisis from midlife transition.",
+    "category": "mental_health_crisis",
+    "confidence": 0.8
+  },
   "57": {
-    "summary": "Grief over spouse's death",
-    "category": "grief",
-    "confidence": 0.9
+    "summary": "Immigrated to Japan for retirement.",
+    "category": "immigration",
+    "confidence": 0.6
   },
   "58": {
-    "summary": "Cultural adaptation to Tokyo",
-    "category": "acculturation_challenges",
+    "summary": "Grief from losing a child.",
+    "category": "grief_bereavement",
     "confidence": 0.8
   },
   "59": {
-    "summary": "Social isolation in retirement community",
-    "category": "loneliness",
-    "confidence": 0.85
-  },
-  "60": {
-    "summary": "Chronic pain management",
-    "category": "chronic_pain",
-    "confidence": 0.75
-  },
-  "61": {
-    "summary": "Health decline limiting travel",
-    "category": "mobility_issues",
+    "summary": "Relationship breakup due to divorce.",
+    "category": "relationship_breakup",
     "confidence": 0.7
   },
+  "60": {
+    "summary": "Loneliness from retirement.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
+  },
+  "61": {
+    "summary": "Chronic pain from arthritis.",
+    "category": "chronic_health_pain",
+    "confidence": 0.8
+  },
   "62": {
-    "summary": "Financial planning for advanced age",
-    "category": "financial_planning",
-    "confidence": 0.65
+    "summary": "Financial strain from retirement.",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "63": {
-    "summary": "Grief over spouse's death anniversary",
-    "category": "grief",
-    "confidence": 0.9
+    "summary": "Caregiver burden for aging spouse.",
+    "category": "caregiver_burden",
+    "confidence": 0.8
   },
   "64": {
-    "summary": "Health management challenges",
-    "category": "health_concern",
+    "summary": "Domestic violence from spouse.",
+    "category": "violence_abuse",
     "confidence": 0.7
   },
   "65": {
-    "summary": "Social isolation in foreign country",
-    "category": "loneliness",
-    "confidence": 0.85
+    "summary": "Legal battle over property dispute.",
+    "category": "legal_housing",
+    "confidence": 0.7
   },
   "66": {
-    "summary": "Chronic illness progression",
-    "category": "chronic_illness",
-    "confidence": 0.8
+    "summary": "Academic stress from learning new skills.",
+    "category": "academic_stress",
+    "confidence": 0.5
   },
   "67": {
-    "summary": "Mobility limitations",
-    "category": "mobility_issues",
-    "confidence": 0.75
-  },
-  "68": {
-    "summary": "Grief over spouse's death anniversary",
-    "category": "grief",
-    "confidence": 0.9
-  },
-  "69": {
-    "summary": "Health decline impacting hobbies",
-    "category": "activity_limitation",
-    "confidence": 0.7
-  },
-  "70": {
-    "summary": "Financial security maintenance",
-    "category": "financial_worry",
-    "confidence": 0.65
-  },
-  "71": {
-    "summary": "Chronic pain management",
-    "category": "chronic_pain",
-    "confidence": 0.75
-  },
-  "72": {
-    "summary": "Social isolation in retirement community",
-    "category": "loneliness",
-    "confidence": 0.85
-  },
-  "73": {
-    "summary": "Health decline limiting mobility",
-    "category": "mobility_issues",
-    "confidence": 0.7
-  },
-  "74": {
-    "summary": "Grief over spouse's death anniversary",
-    "category": "grief",
-    "confidence": 0.9
-  },
-  "75": {
-    "summary": "Chronic illness management",
-    "category": "chronic_illness",
+    "summary": "Mental health crisis from retirement adjustment.",
+    "category": "mental_health_crisis",
     "confidence": 0.8
   },
-  "76": {
-    "summary": "Financial planning for end-of-life",
-    "category": "financial_planning",
+  "68": {
+    "summary": "Immigrated to Japan for retirement.",
+    "category": "immigration",
     "confidence": 0.6
+  },
+  "69": {
+    "summary": "Grief from losing a sibling.",
+    "category": "grief_bereavement",
+    "confidence": 0.8
+  },
+  "70": {
+    "summary": "Relationship breakup due to divorce.",
+    "category": "relationship_breakup",
+    "confidence": 0.7
+  },
+  "71": {
+    "summary": "Loneliness from being widowed.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
+  },
+  "72": {
+    "summary": "Chronic pain from osteoporosis.",
+    "category": "chronic_health_pain",
+    "confidence": 0.8
+  },
+  "73": {
+    "summary": "Financial strain from retirement.",
+    "category": "financial_employment",
+    "confidence": 0.8
+  },
+  "74": {
+    "summary": "Caregiver burden for aging spouse.",
+    "category": "caregiver_burden",
+    "confidence": 0.8
+  },
+  "75": {
+    "summary": "Domestic violence from spouse.",
+    "category": "violence_abuse",
+    "confidence": 0.7
+  },
+  "76": {
+    "summary": "Legal battle over property dispute.",
+    "category": "legal_housing",
+    "confidence": 0.7
   },
   "77": {
-    "summary": "Health decline impacting independence",
-    "category": "caregiver_burden",
-    "confidence": 0.7
+    "summary": "Academic stress from learning new technology.",
+    "category": "academic_stress",
+    "confidence": 0.5
   },
   "78": {
-    "summary": "Grief over spouse's death anniversary",
-    "category": "grief",
-    "confidence": 0.9
+    "summary": "Mental health crisis from isolation.",
+    "category": "mental_health_crisis",
+    "confidence": 0.8
   },
   "79": {
-    "summary": "Mobility limitations",
-    "category": "mobility_issues",
-    "confidence": 0.75
-  },
-  "80": {
-    "summary": "Chronic pain management",
-    "category": "chronic_pain",
-    "confidence": 0.75
-  },
-  "81": {
-    "summary": "Social isolation in foreign country",
-    "category": "loneliness",
-    "confidence": 0.85
-  },
-  "82": {
-    "summary": "Health decline impacting daily activities",
-    "category": "activity_limitation",
-    "confidence": 0.7
-  },
-  "83": {
-    "summary": "Grief over spouse's death anniversary",
-    "category": "grief",
-    "confidence": 0.9
-  },
-  "84": {
-    "summary": "Financial security maintenance",
-    "category": "financial_worry",
+    "summary": "Immigrated to Japan for retirement.",
+    "category": "immigration",
     "confidence": 0.6
   },
+  "80": {
+    "summary": "Grief from losing a child.",
+    "category": "grief_bereavement",
+    "confidence": 0.8
+  },
+  "81": {
+    "summary": "Relationship breakup due to divorce.",
+    "category": "relationship_breakup",
+    "confidence": 0.7
+  },
+  "82": {
+    "summary": "Loneliness from being widowed.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
+  },
+  "83": {
+    "summary": "Chronic pain from arthritis.",
+    "category": "chronic_health_pain",
+    "confidence": 0.8
+  },
+  "84": {
+    "summary": "Financial strain from retirement.",
+    "category": "financial_employment",
+    "confidence": 0.8
+  },
   "85": {
-    "summary": "Chronic illness progression",
-    "category": "chronic_illness",
+    "summary": "Caregiver burden for aging spouse.",
+    "category": "caregiver_burden",
     "confidence": 0.8
   },
   "86": {
-    "summary": "Mobility limitations",
-    "category": "mobility_issues",
-    "confidence": 0.75
+    "summary": "Domestic violence from spouse.",
+    "category": "violence_abuse",
+    "confidence": 0.7
   },
   "87": {
-    "summary": "Grief over spouse's death anniversary",
-    "category": "grief",
-    "confidence": 0.9
+    "summary": "Legal battle over property dispute.",
+    "category": "legal_housing",
+    "confidence": 0.7
   },
   "88": {
-    "summary": "Health decline impacting hobbies",
-    "category": "activity_limitation",
-    "confidence": 0.7
-  },
-  "89": {
-    "summary": "Social isolation in retirement community",
-    "category": "loneliness",
-    "confidence": 0.85
-  },
-  "90": {
-    "summary": "Chronic pain management",
-    "category": "chronic_pain",
-    "confidence": 0.75
-  },
-  "91": {
-    "summary": "Grief over spouse's death anniversary",
-    "category": "grief",
-    "confidence": 0.9
-  },
-  "92": {
-    "summary": "Financial planning for end-of-life",
-    "category": "financial_planning",
+    "summary": "Academic stress from online courses.",
+    "category": "academic_stress",
     "confidence": 0.5
   },
-  "93": {
-    "summary": "Mobility limitations",
-    "category": "mobility_issues",
-    "confidence": 0.75
+  "89": {
+    "summary": "Mental health crisis from isolation.",
+    "category": "mental_health_crisis",
+    "confidence": 0.8
   },
-  "94": {
-    "summary": "Health decline impacting independence",
-    "category": "caregiver_burden",
+  "90": {
+    "summary": "Immigrated to Japan for retirement.",
+    "category": "immigration",
+    "confidence": 0.6
+  },
+  "91": {
+    "summary": "Grief from losing a child.",
+    "category": "grief_bereavement",
+    "confidence": 0.8
+  },
+  "92": {
+    "summary": "Relationship breakup due to divorce.",
+    "category": "relationship_breakup",
     "confidence": 0.7
   },
+  "93": {
+    "summary": "Loneliness from being widowed.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
+  },
+  "94": {
+    "summary": "Chronic pain from arthritis.",
+    "category": "chronic_health_pain",
+    "confidence": 0.8
+  },
   "95": {
-    "summary": "Grief over spouse's death anniversary",
-    "category": "grief",
-    "confidence": 0.9
+    "summary": "Financial strain from retirement.",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "96": {
-    "summary": "Chronic illness management",
-    "category": "chronic_illness",
+    "summary": "Caregiver burden for aging spouse.",
+    "category": "caregiver_burden",
     "confidence": 0.8
   },
   "97": {
-    "summary": "Social isolation in foreign country",
-    "category": "loneliness",
-    "confidence": 0.85
+    "summary": "Domestic violence from spouse.",
+    "category": "violence_abuse",
+    "confidence": 0.7
   },
   "98": {
-    "summary": "Health decline impacting daily activities",
-    "category": "activity_limitation",
+    "summary": "Legal battle over property dispute.",
+    "category": "legal_housing",
     "confidence": 0.7
   },
   "99": {
-    "summary": "Grief over spouse's death anniversary",
-    "category": "grief",
-    "confidence": 0.9
+    "summary": "Academic stress from learning new technology.",
+    "category": "academic_stress",
+    "confidence": 0.5
   },
   "100": {
-    "summary": "Existential reflection",
-    "category": "existential_anxiety",
-    "confidence": 0.8
+    "summary": "Mental health crisis from chronic loneliness.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   }
 }

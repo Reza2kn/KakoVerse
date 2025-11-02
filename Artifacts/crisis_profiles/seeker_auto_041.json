@@ -1,407 +1,407 @@
 {
   "20": {
-    "summary": "Identity formation after multiple cultural transitions",
-    "category": "identity_crisis",
-    "confidence": 0.85
+    "summary": "Early family responsibilities in immigrant household",
+    "category": "caregiver_burden",
+    "confidence": 0.8
   },
   "21": {
-    "summary": "Financial strain establishing career in new country",
-    "category": "financial_stress",
-    "confidence": 0.75
+    "summary": "Navigating community tensions in multicultural environment",
+    "category": "violence_abuse",
+    "confidence": 0.7
   },
   "22": {
-    "summary": "Isolation from disrupted family networks",
-    "category": "loneliness",
+    "summary": "Residency challenges after cross-continental relocation",
+    "category": "legal_housing",
     "confidence": 0.8
   },
   "23": {
-    "summary": "Cultural assimilation pressure in Russian workplace",
-    "category": "cultural_adjustment",
-    "confidence": 0.7
+    "summary": "Adjusting to new education system amid cultural transition",
+    "category": "academic_stress",
+    "confidence": 0.6
   },
   "24": {
-    "summary": "Work-life balance struggles with new family",
-    "category": "family_balance",
-    "confidence": 0.8
+    "summary": "Accumulating stress from relocation and work demands",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "25": {
-    "summary": "Career uncertainty in data analysis field",
-    "category": "career_doubt",
-    "confidence": 0.7
+    "summary": "Cultural integration struggles as immigrant professional",
+    "category": "immigration",
+    "confidence": 0.9
   },
   "26": {
-    "summary": "Housing instability in expensive Saint Petersburg",
-    "category": "housing_crisis",
-    "confidence": 0.65
+    "summary": "Grief over lost connections in former homelands",
+    "category": "grief_bereavement",
+    "confidence": 0.8
   },
   "27": {
-    "summary": "Adjusting to relocation and work pressure",
-    "category": "adjustment_disorder",
+    "summary": "Marital strain from relocation and work overload",
+    "category": "relationship_breakup",
     "confidence": 0.9
   },
   "28": {
-    "summary": "Spousal relationship strain from relocation",
-    "category": "relationship_tension",
-    "confidence": 0.7
-  },
-  "29": {
-    "summary": "Parenting challenges in unfamiliar cultural context",
-    "category": "parenting_stress",
+    "summary": "Cultural isolation affecting social integration",
+    "category": "loneliness_isolation",
     "confidence": 0.8
   },
+  "29": {
+    "summary": "Stress-induced physical health decline",
+    "category": "chronic_health_pain",
+    "confidence": 0.7
+  },
   "30": {
-    "summary": "Mid-career stagnation concerns",
-    "category": "career_stagnation",
-    "confidence": 0.75
+    "summary": "Job security concerns in moderate-income status",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "31": {
-    "summary": "Grief over lost connections in Nairobi/Mexico",
-    "category": "grief",
-    "confidence": 0.85
+    "summary": "Balancing family care with professional demands",
+    "category": "caregiver_burden",
+    "confidence": 0.8
   },
   "32": {
-    "summary": "Creative burnout from neglected passions",
-    "category": "creative_block",
+    "summary": "Community conflict exposure in urban setting",
+    "category": "violence_abuse",
     "confidence": 0.7
   },
   "33": {
-    "summary": "Health anxiety from chronic stress",
-    "category": "health_anxiety",
-    "confidence": 0.7
+    "summary": "Navigating housing regulations as foreign professional",
+    "category": "legal_housing",
+    "confidence": 0.8
   },
   "34": {
-    "summary": "Financial pressure with growing family",
-    "category": "financial_stress",
-    "confidence": 0.8
-  },
-  "35": {
-    "summary": "Midlife reevaluation of life path",
-    "category": "midlife_crisis",
-    "confidence": 0.8
-  },
-  "36": {
-    "summary": "Workplace discrimination as immigrant professional",
-    "category": "discrimination",
+    "summary": "Career advancement pressures in new market",
+    "category": "academic_stress",
     "confidence": 0.7
   },
+  "35": {
+    "summary": "Mental health deterioration from prolonged adjustment",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
+  },
+  "36": {
+    "summary": "Cultural assimilation challenges in Russian workplace",
+    "category": "immigration",
+    "confidence": 0.9
+  },
   "37": {
-    "summary": "Children's cultural identity confusion",
-    "category": "intergenerational_crisis",
+    "summary": "Bereavement over lost community ties",
+    "category": "grief_bereavement",
     "confidence": 0.8
   },
   "38": {
-    "summary": "Career burnout in data analysis",
-    "category": "burnout",
-    "confidence": 0.85
+    "summary": "Marital discord from relocation fatigue",
+    "category": "relationship_breakup",
+    "confidence": 0.9
   },
   "39": {
-    "summary": "Marital satisfaction decline",
-    "category": "relationship_dissolution",
-    "confidence": 0.75
-  },
-  "40": {
-    "summary": "Parenting teenage children challenges",
-    "category": "parenting_stress",
+    "summary": "Social isolation in foreign cultural context",
+    "category": "loneliness_isolation",
     "confidence": 0.8
   },
-  "41": {
-    "summary": "Financial security concerns for retirement",
-    "category": "retirement_anxiety",
+  "40": {
+    "summary": "Stress-related physical health issues emerging",
+    "category": "chronic_health_pain",
     "confidence": 0.7
   },
+  "41": {
+    "summary": "Career stagnation concerns in moderate-income bracket",
+    "category": "financial_employment",
+    "confidence": 0.8
+  },
   "42": {
-    "summary": "Health deterioration from past stress",
-    "category": "chronic_pain",
-    "confidence": 0.65
+    "summary": "Family care responsibilities straining resources",
+    "category": "caregiver_burden",
+    "confidence": 0.8
   },
   "43": {
-    "summary": "Creative stagnation in photography/drumming",
-    "category": "creative_block",
+    "summary": "Exposure to urban violence in professional environment",
+    "category": "violence_abuse",
     "confidence": 0.7
   },
   "44": {
-    "summary": "Spousal relationship maintenance",
-    "category": "relationship_tension",
-    "confidence": 0.7
+    "summary": "Housing instability affecting family stability",
+    "category": "legal_housing",
+    "confidence": 0.8
   },
   "45": {
-    "summary": "Parenting empty nest transition",
-    "category": "empty_nest",
-    "confidence": 0.8
+    "summary": "Workplace pressure impacting mental resilience",
+    "category": "academic_stress",
+    "confidence": 0.7
   },
   "46": {
-    "summary": "Midlife health crisis diagnosis",
-    "category": "health_crisis",
-    "confidence": 0.85
+    "summary": "Mental health crisis from cumulative relocation stress",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "47": {
-    "summary": "Career reinvention pressure",
-    "category": "career_change",
-    "confidence": 0.75
+    "summary": "Cultural identity conflicts in international setting",
+    "category": "immigration",
+    "confidence": 0.9
   },
   "48": {
-    "summary": "Financial planning urgency",
-    "category": "financial_stress",
-    "confidence": 0.7
+    "summary": "Grief over lost cultural connections",
+    "category": "grief_bereavement",
+    "confidence": 0.8
   },
   "49": {
-    "summary": "Spousal health decline concerns",
-    "category": "caregiver_stress",
-    "confidence": 0.8
+    "summary": "Relationship strain from prolonged relocation",
+    "category": "relationship_breakup",
+    "confidence": 0.9
   },
   "50": {
-    "summary": "Parenting adult children challenges",
-    "category": "family_balance",
-    "confidence": 0.7
-  },
-  "51": {
-    "summary": "Retirement transition anxiety",
-    "category": "retirement_anxiety",
+    "summary": "Social isolation affecting family cohesion",
+    "category": "loneliness_isolation",
     "confidence": 0.8
   },
-  "52": {
-    "summary": "Health management for chronic conditions",
-    "category": "chronic_illness",
-    "confidence": 0.75
-  },
-  "53": {
-    "summary": "Spousal relationship reassessment",
-    "category": "relationship_dissolution",
+  "51": {
+    "summary": "Chronic stress manifesting as physical ailments",
+    "category": "chronic_health_pain",
     "confidence": 0.7
   },
+  "52": {
+    "summary": "Financial insecurity impacting family stability",
+    "category": "financial_employment",
+    "confidence": 0.8
+  },
+  "53": {
+    "summary": "Caregiver burnout from family responsibilities",
+    "category": "caregiver_burden",
+    "confidence": 0.8
+  },
   "54": {
-    "summary": "Financial security maintenance",
-    "category": "financial_stress",
-    "confidence": 0.65
+    "summary": "Community violence exposure affecting family safety",
+    "category": "violence_abuse",
+    "confidence": 0.7
   },
   "55": {
-    "summary": "Legacy and purpose reevaluation",
-    "category": "midlife_crisis",
+    "summary": "Housing insecurity impacting family well-being",
+    "category": "legal_housing",
     "confidence": 0.8
   },
   "56": {
-    "summary": "Health decline impacting hobbies",
-    "category": "chronic_pain",
-    "confidence": 0.8
+    "summary": "Career development pressures in competitive market",
+    "category": "academic_stress",
+    "confidence": 0.7
   },
   "57": {
-    "summary": "Spousal health deterioration",
-    "category": "caregiver_stress",
-    "confidence": 0.85
+    "summary": "Mental health crisis from prolonged adjustment",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "58": {
-    "summary": "Retirement adjustment difficulties",
-    "category": "adjustment_disorder",
-    "confidence": 0.75
+    "summary": "Cultural integration challenges in foreign workplace",
+    "category": "immigration",
+    "confidence": 0.9
   },
   "59": {
-    "summary": "Grief over parental loss",
-    "category": "grief",
+    "summary": "Bereavement over lost community ties",
+    "category": "grief_bereavement",
     "confidence": 0.8
   },
   "60": {
-    "summary": "Health management for age-related issues",
-    "category": "chronic_illness",
-    "confidence": 0.7
+    "summary": "Relationship strain from cultural differences",
+    "category": "relationship_breakup",
+    "confidence": 0.9
   },
   "61": {
-    "summary": "Spousal relationship strain",
-    "category": "relationship_tension",
-    "confidence": 0.7
+    "summary": "Social isolation affecting family dynamics",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
   },
   "62": {
-    "summary": "Financial constraints limiting retirement",
-    "category": "financial_stress",
-    "confidence": 0.75
+    "summary": "Chronic stress-related health decline",
+    "category": "chronic_health_pain",
+    "confidence": 0.7
   },
   "63": {
-    "summary": "Health decline limiting travel",
-    "category": "chronic_pain",
+    "summary": "Financial instability impacting family security",
+    "category": "financial_employment",
     "confidence": 0.8
   },
   "64": {
-    "summary": "Grief over peer losses",
-    "category": "grief",
-    "confidence": 0.7
+    "summary": "Caregiver burden from family care responsibilities",
+    "category": "caregiver_burden",
+    "confidence": 0.8
   },
   "65": {
-    "summary": "Retirement isolation loneliness",
-    "category": "loneliness",
-    "confidence": 0.8
+    "summary": "Community violence affecting family safety",
+    "category": "violence_abuse",
+    "confidence": 0.7
   },
   "66": {
-    "summary": "Health management for multiple conditions",
-    "category": "chronic_illness",
-    "confidence": 0.85
+    "summary": "Housing instability impacting family stability",
+    "category": "legal_housing",
+    "confidence": 0.8
   },
   "67": {
-    "summary": "Spousal health decline care burden",
-    "category": "caregiver_stress",
-    "confidence": 0.8
+    "summary": "Career advancement pressures in new market",
+    "category": "academic_stress",
+    "confidence": 0.7
   },
   "68": {
-    "summary": "Financial insecurity in retirement",
-    "category": "financial_stress",
-    "confidence": 0.75
+    "summary": "Mental health crisis from cumulative relocation stress",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "69": {
-    "summary": "Health decline limiting hobbies",
-    "category": "chronic_pain",
-    "confidence": 0.8
+    "summary": "Cultural identity conflicts in international setting",
+    "category": "immigration",
+    "confidence": 0.9
   },
   "70": {
-    "summary": "Grief over spouse/partner loss",
-    "category": "grief",
-    "confidence": 0.9
+    "summary": "Grief over lost cultural connections",
+    "category": "grief_bereavement",
+    "confidence": 0.8
   },
   "71": {
-    "summary": "Health management for frailty",
-    "category": "chronic_illness",
-    "confidence": 0.8
-  },
-  "72": {
-    "summary": "Financial constraints limiting care options",
-    "category": "financial_stress",
-    "confidence": 0.75
-  },
-  "73": {
-    "summary": "Health decline limiting mobility",
-    "category": "chronic_pain",
-    "confidence": 0.8
-  },
-  "74": {
-    "summary": "Grief over children's life changes",
-    "category": "grief",
-    "confidence": 0.7
-  },
-  "75": {
-    "summary": "End-of-life planning anxiety",
-    "category": "existential_crisis",
-    "confidence": 0.85
-  },
-  "76": {
-    "summary": "Health decline requiring assistance",
-    "category": "chronic_illness",
-    "confidence": 0.8
-  },
-  "77": {
-    "summary": "Financial insecurity in advanced age",
-    "category": "financial_stress",
-    "confidence": 0.75
-  },
-  "78": {
-    "summary": "Health decline limiting independence",
-    "category": "chronic_pain",
-    "confidence": 0.8
-  },
-  "79": {
-    "summary": "Grief over extended family losses",
-    "category": "grief",
-    "confidence": 0.7
-  },
-  "80": {
-    "summary": "Health decline requiring full care",
-    "category": "chronic_illness",
-    "confidence": 0.85
-  },
-  "81": {
-    "summary": "Financial constraints limiting care",
-    "category": "financial_stress",
-    "confidence": 0.7
-  },
-  "82": {
-    "summary": "Health decline with multiple comorbidities",
-    "category": "chronic_illness",
-    "confidence": 0.8
-  },
-  "83": {
-    "summary": "Grief over life partner's death",
-    "category": "grief",
+    "summary": "Relationship strain from prolonged relocation",
+    "category": "relationship_breakup",
     "confidence": 0.9
   },
+  "72": {
+    "summary": "Social isolation affecting family cohesion",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
+  },
+  "73": {
+    "summary": "Chronic stress manifesting as physical ailments",
+    "category": "chronic_health_pain",
+    "confidence": 0.7
+  },
+  "74": {
+    "summary": "Financial insecurity impacting family stability",
+    "category": "financial_employment",
+    "confidence": 0.8
+  },
+  "75": {
+    "summary": "Caregiver burnout from family responsibilities",
+    "category": "caregiver_burden",
+    "confidence": 0.8
+  },
+  "76": {
+    "summary": "Community violence exposure affecting family safety",
+    "category": "violence_abuse",
+    "confidence": 0.7
+  },
+  "77": {
+    "summary": "Housing insecurity impacting family well-being",
+    "category": "legal_housing",
+    "confidence": 0.8
+  },
+  "78": {
+    "summary": "Career development pressures in competitive market",
+    "category": "academic_stress",
+    "confidence": 0.7
+  },
+  "79": {
+    "summary": "Mental health crisis from prolonged adjustment",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
+  },
+  "80": {
+    "summary": "Cultural integration challenges in foreign workplace",
+    "category": "immigration",
+    "confidence": 0.9
+  },
+  "81": {
+    "summary": "Bereavement over lost community ties",
+    "category": "grief_bereavement",
+    "confidence": 0.8
+  },
+  "82": {
+    "summary": "Relationship strain from cultural differences",
+    "category": "relationship_breakup",
+    "confidence": 0.9
+  },
+  "83": {
+    "summary": "Social isolation affecting family dynamics",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
+  },
   "84": {
-    "summary": "Health decline requiring institutional care",
-    "category": "chronic_pain",
-    "confidence": 0.85
+    "summary": "Chronic stress-related health decline",
+    "category": "chronic_health_pain",
+    "confidence": 0.7
   },
   "85": {
-    "summary": "Financial insecurity in final years",
-    "category": "financial_stress",
-    "confidence": 0.75
+    "summary": "Financial instability impacting family security",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "86": {
-    "summary": "Health decline with limited mobility",
-    "category": "chronic_illness",
+    "summary": "Caregiver burden from family care responsibilities",
+    "category": "caregiver_burden",
     "confidence": 0.8
   },
   "87": {
-    "summary": "Grief over children's life challenges",
-    "category": "grief",
+    "summary": "Community violence affecting family safety",
+    "category": "violence_abuse",
     "confidence": 0.7
   },
   "88": {
-    "summary": "Health decline requiring assistance",
-    "category": "chronic_pain",
+    "summary": "Housing instability impacting family stability",
+    "category": "legal_housing",
     "confidence": 0.8
   },
   "89": {
-    "summary": "Grief over grandchildren's life events",
-    "category": "grief",
-    "confidence": 0.65
-  },
-  "90": {
-    "summary": "Health decline with frailty",
-    "category": "chronic_illness",
-    "confidence": 0.85
-  },
-  "91": {
-    "summary": "Financial constraints limiting care",
-    "category": "financial_stress",
+    "summary": "Career advancement pressures in new market",
+    "category": "academic_stress",
     "confidence": 0.7
   },
+  "90": {
+    "summary": "Mental health crisis from cumulative relocation stress",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
+  },
+  "91": {
+    "summary": "Cultural identity conflicts in international setting",
+    "category": "immigration",
+    "confidence": 0.9
+  },
   "92": {
-    "summary": "Health decline requiring full care",
-    "category": "chronic_illness",
+    "summary": "Grief over lost cultural connections",
+    "category": "grief_bereavement",
     "confidence": 0.8
   },
   "93": {
-    "summary": "Grief over life partner's death",
-    "category": "grief",
+    "summary": "Relationship strain from prolonged relocation",
+    "category": "relationship_breakup",
     "confidence": 0.9
   },
   "94": {
-    "summary": "Health decline with multiple conditions",
-    "category": "chronic_pillness",
-    "confidence": 0.85
+    "summary": "Social isolation affecting family cohesion",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
   },
   "95": {
-    "summary": "Financial insecurity in final years",
-    "category": "financial_stress",
-    "confidence": 0.75
+    "summary": "Chronic stress manifesting as physical ailments",
+    "category": "chronic_health_pain",
+    "confidence": 0.7
   },
   "96": {
-    "summary": "Health decline requiring institutional care",
-    "category": "chronic_illness",
+    "summary": "Financial insecurity impacting family stability",
+    "category": "financial_employment",
     "confidence": 0.8
   },
   "97": {
-    "summary": "Grief over children's life challenges",
-    "category": "grief",
-    "confidence": 0.7
+    "summary": "Caregiver burnout from family responsibilities",
+    "category": "caregiver_burden",
+    "confidence": 0.8
   },
   "98": {
-    "summary": "Health decline with limited mobility",
-    "category": "chronic_pain",
-    "confidence": 0.8
+    "summary": "Community violence exposure affecting family safety",
+    "category": "violence_abuse",
+    "confidence": 0.7
   },
   "99": {
-    "summary": "Grief over grandchildren's life events",
-    "category": "grief",
-    "confidence": 0.65
+    "summary": "Housing insecurity impacting family well-being",
+    "category": "legal_housing",
+    "confidence": 0.8
   },
   "100": {
-    "summary": "Existential reflection on life legacy",
-    "category": "existential_crisis",
-    "confidence": 0.8
+    "summary": "Career development pressures in competitive market",
+    "category": "academic_stress",
+    "confidence": 0.7
   }
 }

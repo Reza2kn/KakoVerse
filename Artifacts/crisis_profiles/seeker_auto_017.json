@@ -1,407 +1,407 @@
 {
   "20": {
-    "summary": "Career uncertainty in competitive tech job market",
-    "category": "career_uncertainty",
-    "confidence": 0.7
-  },
-  "21": {
-    "summary": "Cultural identity conflict between Malaysia and China",
-    "category": "identity_crisis",
+    "summary": "Persistent back pain from childhood overwork, echoing 1970s labor norms.",
+    "category": "chronic_health_pain",
     "confidence": 0.8
   },
-  "22": {
-    "summary": "Financial stress from student debt and relocation",
-    "category": "financial_stress",
-    "confidence": 0.75
-  },
-  "23": {
-    "summary": "Workplace integration challenges in foreign country",
-    "category": "cross_cultural_stress",
-    "confidence": 0.85
-  },
-  "24": {
-    "summary": "Romantic relationship instability amid career focus",
-    "category": "relationship_dysfunction",
-    "confidence": 0.65
-  },
-  "25": {
-    "summary": "Family pressure to return to Malaysia",
-    "category": "family_obligation",
+  "21": {
+    "summary": "Job insecurity after sudden contract termination in early career.",
+    "category": "financial_employment",
     "confidence": 0.7
   },
+  "22": {
+    "summary": "Caregiver strain for ill sibling during formative years.",
+    "category": "caregiver_burden",
+    "confidence": 0.6
+  },
+  "23": {
+    "summary": "Witnessed domestic violence in childhood household.",
+    "category": "violence_abuse",
+    "confidence": 0.7
+  },
+  "24": {
+    "summary": "Legal battle over housing rights in Beijing during youth.",
+    "category": "legal_housing",
+    "confidence": 0.8
+  },
+  "25": {
+    "summary": "Academic pressure leading to burnout in secondary school.",
+    "category": "academic_stress",
+    "confidence": 0.9
+  },
   "26": {
-    "summary": "Burnout from demanding entry-level tech job",
-    "category": "work_burnout",
+    "summary": "Early anxiety crisis from cross-cultural adjustment.",
+    "category": "mental_health_crisis",
     "confidence": 0.8
   },
   "27": {
-    "summary": "Loneliness during cultural transition",
-    "category": "social_isolation",
-    "confidence": 0.75
+    "summary": "Immigration stress adjusting to Beijing as a child.",
+    "category": "immigration",
+    "confidence": 0.9
   },
   "28": {
-    "summary": "Career stagnation after initial promotions",
-    "category": "career_plateau",
-    "confidence": 0.7
-  },
-  "29": {
-    "summary": "Existential crisis about life direction",
-    "category": "mid_twenties_crisis",
+    "summary": "Grief over loss of mentor during formative years.",
+    "category": "grief_bereavement",
     "confidence": 0.8
   },
+  "29": {
+    "summary": "Heartbreak from first breakup affecting self-esteem.",
+    "category": "relationship_breakup",
+    "confidence": 0.7
+  },
   "30": {
-    "summary": "Work-life balance collapse with family expectations",
-    "category": "family_pressure",
-    "confidence": 0.85
+    "summary": "Isolation during university years due to cultural differences.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
   },
   "31": {
-    "summary": "Parental health concerns from Malaysia",
-    "category": "family_health",
+    "summary": "Chronic joint pain from childhood martial arts training.",
+    "category": "chronic_health_pain",
     "confidence": 0.7
   },
   "32": {
-    "summary": "Financial strain from housing costs",
-    "category": "housing_cost",
-    "confidence": 0.7
+    "summary": "Financial strain from supporting extended family in Malaysia.",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "33": {
-    "summary": "Midlife reassessment of career path",
-    "category": "midlife_crisis",
-    "confidence": 0.8
-  },
-  "34": {
-    "summary": "Workplace discrimination in multinational setting",
-    "category": "discrimination",
-    "confidence": 0.6
-  },
-  "35": {
-    "summary": "Burnout from high-pressure tech role",
-    "category": "work_burnout",
+    "summary": "Caregiver burden for aging parent in Kuala Lumpur.",
+    "category": "caregiver_burden",
     "confidence": 0.9
   },
-  "36": {
-    "summary": "Cultural assimilation fatigue",
-    "category": "cultural_integration",
+  "34": {
+    "summary": "Exposure to political violence during Beijing childhood.",
+    "category": "violence_abuse",
     "confidence": 0.8
   },
+  "35": {
+    "summary": "Housing discrimination lawsuit in early adulthood.",
+    "category": "legal_housing",
+    "confidence": 0.7
+  },
+  "36": {
+    "summary": "Academic pressure from elite school expectations.",
+    "category": "academic_stress",
+    "confidence": 0.9
+  },
   "37": {
-    "summary": "Existential anxiety about legacy",
-    "category": "existential_crisis",
-    "confidence": 0.75
+    "summary": "Midlife mental health crisis from unmet personal goals.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "38": {
-    "summary": "Health decline from sedentary work",
-    "category": "chronic_pain",
+    "summary": "Immigration status concerns resurface in later years.",
+    "category": "immigration",
     "confidence": 0.7
   },
   "39": {
-    "summary": "Career transition paralysis",
-    "category": "career_change",
-    "confidence": 0.65
+    "summary": "Grief over loss of childhood friend during relocation.",
+    "category": "grief_bereavement",
+    "confidence": 0.8
   },
   "40": {
-    "summary": "Emotional detachment from work stress",
-    "category": "emotional_detachment",
-    "confidence": 0.85
+    "summary": "Relationship breakup after cross-cultural marriage strain.",
+    "category": "relationship_breakup",
+    "confidence": 0.8
   },
   "41": {
-    "summary": "Anxiety about aging parents abroad",
-    "category": "family_grief",
-    "confidence": 0.75
+    "summary": "Loneliness from expatriate life in Beijing.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
   },
   "42": {
-    "summary": "Financial planning stress for retirement",
-    "category": "retirement_planning",
-    "confidence": 0.7
+    "summary": "Chronic back pain from sedentary programming job.",
+    "category": "chronic_health_pain",
+    "confidence": 0.9
   },
   "43": {
-    "summary": "Cross-cultural loneliness in expat community",
-    "category": "social_isolation",
+    "summary": "Financial stress from unexpected medical bills.",
+    "category": "financial_employment",
     "confidence": 0.8
   },
   "44": {
-    "summary": "Chronic back pain from running habit",
-    "category": "chronic_pain",
-    "confidence": 0.65
-  },
-  "45": {
-    "summary": "Midlife regret over career choices",
-    "category": "existential_crisis",
-    "confidence": 0.7
-  },
-  "46": {
-    "summary": "Workplace burnout crisis",
-    "category": "work_burnout",
+    "summary": "Caregiver burden for elderly relative in Malaysia.",
+    "category": "caregiver_burden",
     "confidence": 0.9
   },
-  "47": {
-    "summary": "Family pressure to return to Malaysia",
-    "category": "family_obligation",
+  "45": {
+    "summary": "Domestic violence exposure in childhood household.",
+    "category": "violence_abuse",
     "confidence": 0.8
   },
-  "48": {
-    "summary": "Job insecurity fears",
-    "category": "financial_stress",
+  "46": {
+    "summary": "Legal battle over inheritance from Malaysian relatives.",
+    "category": "legal_housing",
     "confidence": 0.7
   },
+  "47": {
+    "summary": "Academic pressure from unfulfilled educational aspirations.",
+    "category": "academic_stress",
+    "confidence": 0.9
+  },
+  "48": {
+    "summary": "Mental health crisis from prolonged work stress.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
+  },
   "49": {
-    "summary": "Chronic anxiety and emotional detachment",
-    "category": "mental_health",
-    "confidence": 0.95
+    "summary": "Revisiting immigration stress after family pressure from Malaysia.",
+    "category": "immigration",
+    "confidence": 0.9
   },
   "50": {
-    "summary": "Retirement anxiety and identity loss",
-    "category": "existential_crisis",
+    "summary": "Grief over parental loss impacting current stability.",
+    "category": "grief_bereavement",
     "confidence": 0.8
   },
   "51": {
-    "summary": "Loneliness in expat retirement",
-    "category": "social_isolation",
-    "confidence": 0.85
+    "summary": "Relationship breakup after cross-cultural marriage strain.",
+    "category": "relationship_breakup",
+    "confidence": 0.8
   },
   "52": {
-    "summary": "Chronic joint pain from aging",
-    "category": "chronic_pain",
-    "confidence": 0.75
+    "summary": "Loneliness from expatriate life in Beijing.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
   },
   "53": {
-    "summary": "Financial insecurity in retirement",
-    "category": "financial_stress",
+    "summary": "Chronic joint pain from childhood martial arts training.",
+    "category": "chronic_health_pain",
     "confidence": 0.7
   },
   "54": {
-    "summary": "Grief over Malaysian relatives' deaths",
-    "category": "family_grief",
+    "summary": "Financial strain from supporting extended family in Malaysia.",
+    "category": "financial_employment",
     "confidence": 0.8
   },
   "55": {
-    "summary": "Purpose crisis in retirement",
-    "category": "existential_crisis",
-    "confidence": 0.75
+    "summary": "Caregiver burden for aging parent in Kuala Lumpur.",
+    "category": "caregiver_burden",
+    "confidence": 0.9
   },
   "56": {
-    "summary": "Healthcare access challenges abroad",
-    "category": "healthcare_access",
-    "confidence": 0.65
+    "summary": "Exposure to political violence during Beijing childhood.",
+    "category": "violence_abuse",
+    "confidence": 0.8
   },
   "57": {
-    "summary": "Grief over spouse's death",
-    "category": "family_grief",
-    "confidence": 0.8
+    "summary": "Housing discrimination lawsuit in early adulthood.",
+    "category": "legal_housing",
+    "confidence": 0.7
   },
   "58": {
-    "summary": "Unexpected medical expenses",
-    "category": "financial_stress",
-    "confidence": 0.7
+    "summary": "Academic pressure from elite school expectations.",
+    "category": "academic_stress",
+    "confidence": 0.9
   },
   "59": {
-    "summary": "Health decline and dependency fears",
-    "category": "health_anxiety",
-    "confidence": 0.75
+    "summary": "Midlife mental health crisis from unmet personal goals.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "60": {
-    "summary": "Retirement adjustment loneliness",
-    "category": "social_isolation",
-    "confidence": 0.8
-  },
-  "61": {
-    "summary": "Chronic pain limiting hobbies",
-    "category": "chronic_pain",
+    "summary": "Immigration status concerns resurface in later years.",
+    "category": "immigration",
     "confidence": 0.7
   },
+  "61": {
+    "summary": "Grief over loss of childhood friend during relocation.",
+    "category": "grief_bereavement",
+    "confidence": 0.8
+  },
   "62": {
-    "summary": "Financial insecurity in old age",
-    "category": "financial_stress",
-    "confidence": 0.75
+    "summary": "Relationship breakup after cross-cultural marriage strain.",
+    "category": "relationship_breakup",
+    "confidence": 0.8
   },
   "63": {
-    "summary": "Grief over losing friends",
-    "category": "social_grief",
+    "summary": "Loneliness from expatriate life in Beijing.",
+    "category": "loneliness_isolation",
     "confidence": 0.8
   },
   "64": {
-    "summary": "Social isolation in community",
-    "category": "social_isolation",
-    "confidence": 0.8
+    "summary": "Chronic back pain from sedentary programming job.",
+    "category": "chronic_health_pain",
+    "confidence": 0.9
   },
   "65": {
-    "summary": "Health decline and mobility issues",
-    "category": "health_decline",
-    "confidence": 0.75
+    "summary": "Financial stress from unexpected medical bills.",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "66": {
-    "summary": "Medical debt stress",
-    "category": "financial_stress",
-    "confidence": 0.7
+    "summary": "Caregiver burden for elderly relative in Malaysia.",
+    "category": "caregiver_burden",
+    "confidence": 0.9
   },
   "67": {
-    "summary": "Chronic illness management",
-    "category": "chronic_illness",
-    "confidence": 0.75
+    "summary": "Domestic violence exposure in childhood household.",
+    "category": "violence_abuse",
+    "confidence": 0.8
   },
   "68": {
-    "summary": "Grief over losing children",
-    "category": "family_grief",
-    "confidence": 0.8
-  },
-  "69": {
-    "summary": "Loneliness without family support",
-    "category": "social_isolation",
-    "confidence": 0.8
-  },
-  "70": {
-    "summary": "Financial insecurity and health costs",
-    "category": "financial_stress",
-    "confidence": 0.75
-  },
-  "71": {
-    "summary": "Chronic pain limiting independence",
-    "category": "chronic_pain",
+    "summary": "Legal battle over inheritance from Malaysian relatives.",
+    "category": "legal_housing",
     "confidence": 0.7
   },
+  "69": {
+    "summary": "Academic pressure from unfulfilled educational aspirations.",
+    "category": "academic_stress",
+    "confidence": 0.9
+  },
+  "70": {
+    "summary": "Midlife anxiety crisis from unmet personal goals.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
+  },
+  "71": {
+    "summary": "Immigration stress adjusting to Beijing as a child.",
+    "category": "immigration",
+    "confidence": 0.9
+  },
   "72": {
-    "summary": "Grief over losing spouse",
-    "category": "family_grief",
+    "summary": "Grief over loss of mentor during formative years.",
+    "category": "grief_bereavement",
     "confidence": 0.8
   },
   "73": {
-    "summary": "Financial stress from long-term care",
-    "category": "financial_stress",
+    "summary": "Heartbreak from first breakup affecting self-esteem.",
+    "category": "relationship_breakup",
     "confidence": 0.7
   },
   "74": {
-    "summary": "Chronic illness and pain",
-    "category": "chronic_illness",
-    "confidence": 0.75
+    "summary": "Isolation during university years due to cultural differences.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
   },
   "75": {
-    "summary": "Social isolation in old age",
-    "category": "social_isolation",
+    "summary": "Persistent back pain from childhood overwork.",
+    "category": "chronic_health_pain",
     "confidence": 0.8
   },
   "76": {
-    "summary": "Grief over losing children",
-    "category": "family_grief",
-    "confidence": 0.8
+    "summary": "Job insecurity after sudden contract termination.",
+    "category": "financial_employment",
+    "confidence": 0.7
   },
   "77": {
-    "summary": "Financial insecurity and health decline",
-    "category": "financial_stress",
-    "confidence": 0.75
+    "summary": "Caregiver strain for ill sibling during formative years.",
+    "category": "caregiver_burden",
+    "confidence": 0.6
   },
   "78": {
-    "summary": "Chronic pain and mobility issues",
-    "category": "chronic_pain",
+    "summary": "Witnessed domestic violence in childhood household.",
+    "category": "violence_abuse",
     "confidence": 0.7
   },
   "79": {
-    "summary": "Grief over losing grandchildren",
-    "category": "family_grief",
+    "summary": "Legal battle over housing rights in Beijing.",
+    "category": "legal_housing",
     "confidence": 0.8
   },
   "80": {
-    "summary": "Financial stress and health issues",
-    "category": "financial_stress",
-    "confidence": 0.75
+    "summary": "Academic pressure leading to burnout in secondary school.",
+    "category": "academic_stress",
+    "confidence": 0.9
   },
   "81": {
-    "summary": "Chronic illness management",
-    "category": "chronic_illness",
-    "confidence": 0.75
+    "summary": "Early anxiety crisis from cross-cultural adjustment.",
+    "category": "mental_health_crisis",
+    "confidence": 0.8
   },
   "82": {
-    "summary": "Social isolation and loneliness",
-    "category": "social_isolation",
-    "confidence": 0.8
+    "summary": "Immigration stress adjusting to Beijing as a child.",
+    "category": "immigration",
+    "confidence": 0.9
   },
   "83": {
-    "summary": "Grief over losing all family",
-    "category": "family_grief",
-    "confidence": 0.85
-  },
-  "84": {
-    "summary": "Financial insecurity and health decline",
-    "category": "financial_stress",
-    "confidence": 0.75
-  },
-  "85": {
-    "summary": "Chronic pain and mobility issues",
-    "category": "chronic_pain",
-    "confidence": 0.7
-  },
-  "86": {
-    "summary": "Grief over losing spouse",
-    "category": "family_grief",
+    "summary": "Grief over loss of mentor during formative years.",
+    "category": "grief_bereavement",
     "confidence": 0.8
   },
+  "84": {
+    "summary": "Heartbreak from first breakup affecting self-esteem.",
+    "category": "relationship_breakup",
+    "confidence": 0.7
+  },
+  "85": {
+    "summary": "Isolation during university years due to cultural differences.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
+  },
+  "86": {
+    "summary": "Chronic joint pain from childhood martial arts training.",
+    "category": "chronic_health_pain",
+    "confidence": 0.7
+  },
   "87": {
-    "summary": "Financial stress and health costs",
-    "category": "financial_stress",
-    "confidence": 0.75
+    "summary": "Financial strain from supporting extended family.",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "88": {
-    "summary": "Chronic illness and pain",
-    "category": "chronic_illness",
-    "confidence": 0.75
+    "summary": "Caregiver burden for aging parent in Kuala Lumpur.",
+    "category": "caregiver_burden",
+    "confidence": 0.9
   },
   "89": {
-    "summary": "Social isolation and loneliness",
-    "category": "social_isolation",
+    "summary": "Exposure to political violence during Beijing childhood.",
+    "category": "violence_abuse",
     "confidence": 0.8
   },
   "90": {
-    "summary": "Grief over losing all family",
-    "category": "family_grief",
-    "confidence": 0.85
-  },
-  "91": {
-    "summary": "Financial insecurity and health decline",
-    "category": "financial_stress",
-    "confidence": 0.75
-  },
-  "92": {
-    "summary": "Chronic pain and mobility issues",
-    "category": "chronic_pain",
+    "summary": "Housing discrimination lawsuit in early adulthood.",
+    "category": "legal_housing",
     "confidence": 0.7
   },
+  "91": {
+    "summary": "Academic pressure from elite school expectations.",
+    "category": "academic_stress",
+    "confidence": 0.9
+  },
+  "92": {
+    "summary": "Midlife mental health crisis from unmet personal goals.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
+  },
   "93": {
-    "summary": "Grief over losing children",
-    "category": "family_grief",
-    "confidence": 0.8
+    "summary": "Immigration status concerns resurface in later years.",
+    "category": "immigration",
+    "confidence": 0.7
   },
   "94": {
-    "summary": "Financial stress and health issues",
-    "category": "financial_stress",
-    "confidence": 0.75
+    "summary": "Grief over loss of childhood friend during relocation.",
+    "category": "grief_bereavement",
+    "confidence": 0.8
   },
   "95": {
-    "summary": "Chronic illness and pain",
-    "category": "chronic_illness",
-    "confidence": 0.75
+    "summary": "Relationship breakup after cross-cultural marriage strain.",
+    "category": "relationship_breakup",
+    "confidence": 0.8
   },
   "96": {
-    "summary": "Social isolation and loneliness",
-    "category": "social_isolation",
+    "summary": "Loneliness from expatriate life in Beijing.",
+    "category": "loneliness_isolation",
     "confidence": 0.8
   },
   "97": {
-    "summary": "Grief over losing grandchildren",
-    "category": "family_grief",
-    "confidence": 0.8
+    "summary": "Chronic back pain from sedentary programming job.",
+    "category": "chronic_health_pain",
+    "confidence": 0.9
   },
   "98": {
-    "summary": "Financial insecurity and health decline",
-    "category": "financial_stress",
-    "confidence": 0.75
+    "summary": "Financial stress from unexpected medical bills.",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "99": {
-    "summary": "Chronic pain and mobility issues",
-    "category": "chronic_pain",
-    "confidence": 0.7
+    "summary": "Caregiver burden for elderly relative in Malaysia.",
+    "category": "caregiver_burden",
+    "confidence": 0.9
   },
   "100": {
-    "summary": "Grief over losing all family and friends",
-    "category": "family_grief",
-    "confidence": 0.9
+    "summary": "Domestic violence exposure in childhood household.",
+    "category": "violence_abuse",
+    "confidence": 0.8
   }
 }

@@ -1,407 +1,407 @@
 {
   "20": {
-    "summary": "Cultural shock and initial isolation",
-    "category": "cultural_isolation",
-    "confidence": 0.8
-  },
-  "21": {
-    "summary": "Adjustment disorder with depressive features",
-    "category": "adjustment_disorder",
+    "summary": "Anticipating relocation from Karachi to Moscow, facing cultural and economic uncertainties.",
+    "category": "immigration",
     "confidence": 0.9
   },
+  "21": {
+    "summary": "Grieving loss of home, family, and support networks after sudden move to Moscow.",
+    "category": "grief_bereavement",
+    "confidence": 0.95
+  },
   "22": {
-    "summary": "Unemployment stress",
-    "category": "financial_stress",
-    "confidence": 0.8
+    "summary": "Relationship strain leading to breakup due to relocation stress and isolation.",
+    "category": "relationship_breakup",
+    "confidence": 0.7
   },
   "23": {
-    "summary": "Job search anxiety",
-    "category": "career_uncertainty",
-    "confidence": 0.7
+    "summary": "Intense loneliness and social isolation as a foreign student in Moscow.",
+    "category": "loneliness_isolation",
+    "confidence": 0.9
   },
   "24": {
-    "summary": "Workplace integration stress",
-    "category": "workplace_integration",
-    "confidence": 0.6
+    "summary": "Chronic health issues emerging from prolonged stress and sleep disruption.",
+    "category": "chronic_health_pain",
+    "confidence": 0.8
   },
   "25": {
-    "summary": "Language barrier at work",
-    "category": "language_barrier",
-    "confidence": 0.7
+    "summary": "Financial instability and unemployment causing severe stress as an engineering student.",
+    "category": "financial_employment",
+    "confidence": 0.85
   },
   "26": {
-    "summary": "Identity conflict",
-    "category": "identity_crisis",
-    "confidence": 0.6
-  },
-  "27": {
-    "summary": "Loneliness and isolation",
-    "category": "loneliness",
+    "summary": "Caregiver burden if supporting family back home or a new dependent in Moscow.",
+    "category": "caregiver_burden",
     "confidence": 0.7
   },
+  "27": {
+    "summary": "Risk of discrimination or abuse as a foreign student in a new country.",
+    "category": "violence_abuse",
+    "confidence": 0.75
+  },
   "28": {
-    "summary": "Relationship anxiety",
-    "category": "relationship_anxiety",
-    "confidence": 0.6
+    "summary": "Legal and housing issues arising from residency status and accommodation in Moscow.",
+    "category": "legal_housing",
+    "confidence": 0.8
   },
   "29": {
-    "summary": "Pressure to start family",
-    "category": "family_pressure",
-    "confidence": 0.5
+    "summary": "Academic pressure and stress from engineering studies without stable support.",
+    "category": "academic_stress",
+    "confidence": 0.85
   },
   "30": {
-    "summary": "Career plateau",
-    "category": "career_plateau",
-    "confidence": 0.6
+    "summary": "Escalation of adjustment disorder to severe mental health crisis with passive self-harm ideation.",
+    "category": "mental_health_crisis",
+    "confidence": 0.9
   },
   "31": {
-    "summary": "Educational debt stress",
-    "category": "financial_stress",
-    "confidence": 0.5
+    "summary": "New immigration challenges as a foreign student in Russia, facing visa and residency issues.",
+    "category": "immigration",
+    "confidence": 0.7
   },
   "32": {
-    "summary": "Work-life balance stress",
-    "category": "work_life_balance",
+    "summary": "Grief over loss of a loved one, possibly due to old age or illness.",
+    "category": "grief_bereavement",
     "confidence": 0.7
   },
   "33": {
-    "summary": "Parenting anxiety",
-    "category": "parenting_anxiety",
-    "confidence": 0.6
+    "summary": "Relationship strain leading to breakup due to prolonged relocation stress.",
+    "category": "relationship_breakup",
+    "confidence": 0.65
   },
   "34": {
-    "summary": "Financial planning stress",
-    "category": "financial_planning",
-    "confidence": 0.7
+    "summary": "Persistent loneliness and isolation despite minor social adjustments.",
+    "category": "loneliness_isolation",
+    "confidence": 0.8
   },
   "35": {
-    "summary": "Career advancement pressure",
-    "category": "career_advancement",
-    "confidence": 0.6
+    "summary": "Chronic health issues worsening from unresolved stress and inadequate care.",
+    "category": "chronic_health_pain",
+    "confidence": 0.75
   },
   "36": {
-    "summary": "Midlife crisis",
-    "category": "midlife_crisis",
-    "confidence": 0.5
+    "summary": "Financial strain intensifying due to unemployment and unexpected expenses.",
+    "category": "financial_employment",
+    "confidence": 0.8
   },
   "37": {
-    "summary": "Health concerns",
-    "category": "health_concerns",
-    "confidence": 0.4
-  },
-  "38": {
-    "summary": "Health concerns",
-    "category": "health_concerns",
-    "confidence": 0.4
-  },
-  "39": {
-    "summary": "Health concerns",
-    "category": "health_concerns",
-    "confidence": 0.4
-  },
-  "40": {
-    "summary": "Midlife transition",
-    "category": "midlife_transition",
-    "confidence": 0.5
-  },
-  "41": {
-    "summary": "Health concerns",
-    "category": "health_concerns",
-    "confidence": 0.4
-  },
-  "42": {
-    "summary": "Health concerns",
-    "category": "health_concerns",
-    "confidence": 0.4
-  },
-  "43": {
-    "summary": "Health concerns",
-    "category": "health_concerns",
-    "confidence": 0.4
-  },
-  "44": {
-    "summary": "Health concerns",
-    "category": "health_concerns",
-    "confidence": 0.4
-  },
-  "45": {
-    "summary": "Health concerns",
-    "category": "health_concerns",
-    "confidence": 0.4
-  },
-  "46": {
-    "summary": "Health concerns",
-    "category": "health_concerns",
-    "confidence": 0.4
-  },
-  "47": {
-    "summary": "Health concerns",
-    "category": "health_concerns",
-    "confidence": 0.4
-  },
-  "48": {
-    "summary": "Health concerns",
-    "category": "health_concerns",
-    "confidence": 0.4
-  },
-  "49": {
-    "summary": "Health concerns",
-    "category": "health_concerns",
-    "confidence": 0.4
-  },
-  "50": {
-    "summary": "Health concerns",
-    "category": "health_concerns",
-    "confidence": 0.4
-  },
-  "51": {
-    "summary": "Health concerns",
-    "category": "health_concerns",
-    "confidence": 0.4
-  },
-  "52": {
-    "summary": "Health concerns",
-    "category": "health_concerns",
-    "confidence": 0.4
-  },
-  "53": {
-    "summary": "Health concerns",
-    "category": "health_concerns",
-    "confidence": 0.4
-  },
-  "54": {
-    "summary": "Health concerns",
-    "category": "health_concerns",
-    "confidence": 0.4
-  },
-  "55": {
-    "summary": "Health concerns",
-    "category": "health_concerns",
-    "confidence": 0.4
-  },
-  "56": {
-    "summary": "Retirement planning stress",
-    "category": "retirement_stress",
-    "confidence": 0.5
-  },
-  "57": {
-    "summary": "Health concerns",
-    "category": "health_concerns",
-    "confidence": 0.4
-  },
-  "58": {
-    "summary": "Health concerns",
-    "category": "health_concerns",
-    "confidence": 0.4
-  },
-  "59": {
-    "summary": "Health concerns",
-    "category": "health_concerns",
-    "confidence": 0.4
-  },
-  "60": {
-    "summary": "Health concerns",
-    "category": "health_concerns",
-    "confidence": 0.4
-  },
-  "61": {
-    "summary": "Health concerns",
-    "category": "health_concerns",
-    "confidence": 0.4
-  },
-  "62": {
-    "summary": "Health concerns",
-    "category": "health_concerns",
-    "confidence": 0.4
-  },
-  "63": {
-    "summary": "Health concerns",
-    "category": "health_concerns",
-    "confidence": 0.4
-  },
-  "64": {
-    "summary": "Health concerns",
-    "category": "health_concerns",
-    "confidence": 0.4
-  },
-  "65": {
-    "summary": "Health concerns",
-    "category": "health_concerns",
-    "confidence": 0.4
-  },
-  "66": {
-    "summary": "Retirement adjustment",
-    "category": "retirement_adjustment",
-    "confidence": 0.6
-  },
-  "67": {
-    "summary": "Loneliness in retirement",
-    "category": "loneliness",
+    "summary": "Caregiver burden escalating if supporting family during crises back home.",
+    "category": "caregiver_burden",
     "confidence": 0.7
   },
+  "38": {
+    "summary": "Experiencing discrimination or abuse as a foreigner in Russian society.",
+    "category": "violence_abuse",
+    "confidence": 0.7
+  },
+  "39": {
+    "summary": "Legal battles over housing or residency status causing severe distress.",
+    "category": "legal_housing",
+    "confidence": 0.75
+  },
+  "40": {
+    "summary": "Academic pressure mounting from engineering studies without adequate resources.",
+    "category": "academic_stress",
+    "confidence": 0.7
+  },
+  "41": {
+    "summary": "Mental health crisis deepening with persistent depressive symptoms.",
+    "category": "mental_health_crisis",
+    "confidence": 0.85
+  },
+  "42": {
+    "summary": "Navigating new immigration policies as a foreign resident in Russia.",
+    "category": "immigration",
+    "confidence": 0.65
+  },
+  "43": {
+    "summary": "Grief over loss of a close family member in Karachi.",
+    "category": "grief_bereavement",
+    "confidence": 0.7
+  },
+  "44": {
+    "summary": "Relationship breakup due to unresolved relocation trauma.",
+    "category": "relationship_breakup",
+    "confidence": 0.6
+  },
+  "45": {
+    "summary": "Profound loneliness despite minor social connections in Moscow.",
+    "category": "loneliness_isolation",
+    "confidence": 0.75
+  },
+  "46": {
+    "summary": "Chronic pain from stress-induced health conditions worsening.",
+    "category": "chronic_health_pain",
+    "confidence": 0.7
+  },
+  "47": {
+    "summary": "Financial instability persisting due to employment barriers.",
+    "category": "financial_employment",
+    "confidence": 0.75
+  },
+  "48": {
+    "summary": "Caregiver burden intensifying from long-term family responsibilities.",
+    "category": "caregiver_burden",
+    "confidence": 0.65
+  },
+  "49": {
+    "summary": "Experiencing discrimination or abuse in Russian society.",
+    "category": "violence_abuse",
+    "confidence": 0.65
+  },
+  "50": {
+    "summary": "Legal issues over housing or residency causing ongoing stress.",
+    "category": "legal_housing",
+    "confidence": 0.7
+  },
+  "51": {
+    "summary": "Academic pressure from engineering studies without institutional support.",
+    "category": "academic_stress",
+    "confidence": 0.65
+  },
+  "52": {
+    "summary": "Mental health crisis escalating with persistent symptoms.",
+    "category": "mental_health_crisis",
+    "confidence": 0.8
+  },
+  "53": {
+    "summary": "New immigration challenges as a foreign resident in Russia.",
+    "category": "immigration",
+    "confidence": 0.6
+  },
+  "54": {
+    "summary": "Grief over loss of a close family member.",
+    "category": "grief_bereavement",
+    "confidence": 0.65
+  },
+  "55": {
+    "summary": "Relationship breakup due to prolonged separation and stress.",
+    "category": "relationship_breakup",
+    "confidence": 0.55
+  },
+  "56": {
+    "summary": "Persistent loneliness despite minor social adjustments.",
+    "category": "loneliness_isolation",
+    "confidence": 0.65
+  },
+  "57": {
+    "summary": "Chronic health issues from unresolved stress worsening.",
+    "category": "chronic_health_pain",
+    "confidence": 0.6
+  },
+  "58": {
+    "summary": "Financial instability due to employment barriers and economic conditions.",
+    "category": "financial_employment",
+    "confidence": 0.65
+  },
+  "59": {
+    "summary": "Caregiver burden from long-term family responsibilities.",
+    "category": "caregiver_burden",
+    "confidence": 0.55
+  },
+  "60": {
+    "summary": "Experiencing discrimination or abuse as a foreigner.",
+    "category": "violence_abuse",
+    "confidence": 0.6
+  },
+  "61": {
+    "summary": "Legal battles over housing or residency causing distress.",
+    "category": "legal_housing",
+    "confidence": 0.6
+  },
+  "62": {
+    "summary": "Academic pressure from engineering studies without resources.",
+    "category": "academic_stress",
+    "confidence": 0.55
+  },
+  "63": {
+    "summary": "Mental health crisis with persistent symptoms.",
+    "category": "mental_health_crisis",
+    "confidence": 0.7
+  },
+  "64": {
+    "summary": "Navigating new immigration policies as a foreign resident.",
+    "category": "immigration",
+    "confidence": 0.5
+  },
+  "65": {
+    "summary": "Grief over loss of a close family member.",
+    "category": "grief_bereavement",
+    "confidence": 0.55
+  },
+  "66": {
+    "summary": "Relationship breakup due to prolonged separation.",
+    "category": "relationship_breakup",
+    "confidence": 0.45
+  },
+  "67": {
+    "summary": "Profound loneliness despite minor social connections.",
+    "category": "loneliness_isolation",
+    "confidence": 0.55
+  },
   "68": {
-    "summary": "Health concerns",
-    "category": "health_concerns",
+    "summary": "Chronic health issues from stress worsening.",
+    "category": "chronic_health_pain",
     "confidence": 0.5
   },
   "69": {
-    "summary": "Health concerns",
-    "category": "health_concerns",
-    "confidence": 0.5
+    "summary": "Financial instability due to employment barriers.",
+    "category": "financial_employment",
+    "confidence": 0.55
   },
   "70": {
-    "summary": "Financial concerns in retirement",
-    "category": "financial_concerns",
-    "confidence": 0.6
+    "summary": "Caregiver burden from long-term family responsibilities.",
+    "category": "caregiver_burden",
+    "confidence": 0.45
   },
   "71": {
-    "summary": "Health concerns",
-    "category": "health_concerns",
+    "summary": "Experiencing discrimination or abuse as a foreigner.",
+    "category": "violence_abuse",
     "confidence": 0.5
   },
   "72": {
-    "summary": "Health concerns",
-    "category": "health_concerns",
+    "summary": "Legal issues over housing causing ongoing stress.",
+    "category": "legal_housing",
     "confidence": 0.5
   },
   "73": {
-    "summary": "Health concerns",
-    "category": "health_concerns",
-    "confidence": 0.5
+    "summary": "Academic pressure from engineering studies without support.",
+    "category": "academic_stress",
+    "confidence": 0.45
   },
   "74": {
-    "summary": "Health concerns",
-    "category": "health_concerns",
-    "confidence": 0.5
+    "summary": "Mental health crisis with persistent symptoms.",
+    "category": "mental_health_crisis",
+    "confidence": 0.6
   },
   "75": {
-    "summary": "Grief over loss of family member",
-    "category": "grief",
-    "confidence": 0.5
-  },
-  "76": {
-    "summary": "Health concerns",
-    "category": "health_concerns",
-    "confidence": 0.5
-  },
-  "77": {
-    "summary": "Health concerns",
-    "category": "health_concerns",
-    "confidence": 0.5
-  },
-  "78": {
-    "summary": "Health concerns",
-    "category": "health_concerns",
-    "confidence": 0.5
-  },
-  "79": {
-    "summary": "Health concerns",
-    "category": "health_concerns",
-    "confidence": 0.5
-  },
-  "80": {
-    "summary": "Cognitive decline",
-    "category": "cognitive_decline",
+    "summary": "New immigration challenges as a foreign resident.",
+    "category": "immigration",
     "confidence": 0.4
   },
+  "76": {
+    "summary": "Grief over loss of a close family member.",
+    "category": "grief_bereavement",
+    "confidence": 0.45
+  },
+  "77": {
+    "summary": "Relationship breakup due to prolonged separation.",
+    "category": "relationship_breakup",
+    "confidence": 0.35
+  },
+  "78": {
+    "summary": "Persistent loneliness despite minor social connections.",
+    "category": "loneliness_isolation",
+    "confidence": 0.45
+  },
+  "79": {
+    "summary": "Chronic health issues from stress worsening.",
+    "category": "chronic_health_pain",
+    "confidence": 0.4
+  },
+  "80": {
+    "summary": "Financial instability due to employment barriers.",
+    "category": "financial_employment",
+    "confidence": 0.45
+  },
   "81": {
-    "summary": "Health concerns",
-    "category": "health_concerns",
-    "confidence": 0.5
+    "summary": "Caregiver burden from long-term family responsibilities.",
+    "category": "caregiver_burden",
+    "confidence": 0.35
   },
   "82": {
-    "summary": "Health concerns",
-    "category": "health_concerns",
-    "confidence": 0.5
+    "summary": "Experiencing discrimination or abuse as a foreigner.",
+    "category": "violence_abuse",
+    "confidence": 0.4
   },
   "83": {
-    "summary": "Health concerns",
-    "category": "health_concerns",
-    "confidence": 0.5
+    "summary": "Legal issues over housing causing distress.",
+    "category": "legal_housing",
+    "confidence": 0.4
   },
   "84": {
-    "summary": "Health concerns",
-    "category": "health_concerns",
-    "confidence": 0.5
+    "summary": "Academic pressure from engineering studies without resources.",
+    "category": "academic_stress",
+    "confidence": 0.35
   },
   "85": {
-    "summary": "Health concerns",
-    "category": "health_concerns",
+    "summary": "Mental health crisis with persistent symptoms.",
+    "category": "mental_health_crisis",
     "confidence": 0.5
   },
   "86": {
-    "summary": "Health concerns",
-    "category": "health_concerns",
-    "confidence": 0.5
+    "summary": "Navigating new immigration policies as a foreign resident.",
+    "category": "immigration",
+    "confidence": 0.3
   },
   "87": {
-    "summary": "Health concerns",
-    "category": "health_concerns",
-    "confidence": 0.5
+    "summary": "Grief over loss of a close family member.",
+    "category": "grief_bereavement",
+    "confidence": 0.35
   },
   "88": {
-    "summary": "Health concerns",
-    "category": "health_concerns",
-    "confidence": 0.5
+    "summary": "Relationship breakup due to prolonged separation.",
+    "category": "relationship_breakup",
+    "confidence": 0.25
   },
   "89": {
-    "summary": "Health concerns",
-    "category": "health_concerns",
-    "confidence": 0.5
+    "summary": "Profound loneliness despite minor social connections.",
+    "category": "loneliness_isolation",
+    "confidence": 0.35
   },
   "90": {
-    "summary": "Health concerns",
-    "category": "health_concerns",
-    "confidence": 0.5
+    "summary": "Chronic health issues from stress worsening.",
+    "category": "chronic_health_pain",
+    "confidence": 0.3
   },
   "91": {
-    "summary": "Health concerns",
-    "category": "health_concerns",
-    "confidence": 0.5
+    "summary": "Financial instability due to employment barriers.",
+    "category": "financial_employment",
+    "confidence": 0.35
   },
   "92": {
-    "summary": "Health concerns",
-    "category": "health_concerns",
-    "confidence": 0.5
+    "summary": "Caregiver burden from long-term family responsibilities.",
+    "category": "caregiver_burden",
+    "confidence": 0.25
   },
   "93": {
-    "summary": "Health concerns",
-    "category": "health_concerns",
-    "confidence": 0.5
+    "summary": "Experiencing discrimination or abuse as a foreigner.",
+    "category": "violence_abuse",
+    "confidence": 0.3
   },
   "94": {
-    "summary": "Health concerns",
-    "category": "health_concerns",
-    "confidence": 0.5
+    "summary": "Legal issues over housing causing ongoing stress.",
+    "category": "legal_housing",
+    "confidence": 0.3
   },
   "95": {
-    "summary": "Health concerns",
-    "category": "health_concerns",
-    "confidence": 0.5
+    "summary": "Academic pressure from engineering studies without support.",
+    "category": "academic_stress",
+    "confidence": 0.25
   },
   "96": {
-    "summary": "Health concerns",
-    "category": "health_concerns",
-    "confidence": 0.5
+    "summary": "Mental health crisis with persistent symptoms.",
+    "category": "mental_health_crisis",
+    "confidence": 0.4
   },
   "97": {
-    "summary": "Health concerns",
-    "category": "health_concerns",
-    "confidence": 0.5
+    "summary": "New immigration challenges as a foreign resident.",
+    "category": "immigration",
+    "confidence": 0.2
   },
   "98": {
-    "summary": "Health concerns",
-    "category": "health_concerns",
-    "confidence": 0.5
+    "summary": "Grief over loss of a close family member.",
+    "category": "grief_bereavement",
+    "confidence": 0.25
   },
   "99": {
-    "summary": "Health concerns",
-    "category": "health_concerns",
-    "confidence": 0.5
+    "summary": "Relationship breakup due to prolonged separation.",
+    "category": "relationship_breakup",
+    "confidence": 0.15
   },
   "100": {
-    "summary": "Health concerns",
-    "category": "health_concerns",
-    "confidence": 0.5
+    "summary": "Persistent loneliness despite minor social connections.",
+    "category": "loneliness_isolation",
+    "confidence": 0.25
   }
 }

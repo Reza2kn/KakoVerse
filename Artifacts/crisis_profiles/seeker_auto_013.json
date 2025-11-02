@@ -1,407 +1,407 @@
 {
   "20": {
-    "summary": "Post-war displacement and family separation",
-    "category": "grief",
-    "confidence": 0.7
+    "summary": "Navigating new immigrant life in Tehran with cultural adjustment challenges.",
+    "category": "immigration",
+    "confidence": 1.0
   },
   "21": {
-    "summary": "Adjusting to new urban environment after war",
-    "category": "relocation_stress",
-    "confidence": 0.8
+    "summary": "Grieving loss of Shanghai family ties while adapting to Tehran's societal shifts.",
+    "category": "grief_bereavement",
+    "confidence": 1.0
   },
   "22": {
-    "summary": "Struggling to find stable employment",
-    "category": "financial_stress",
-    "confidence": 0.8
+    "summary": "Ending a cross-cultural relationship amid Tehran's social realignments.",
+    "category": "relationship_breakup",
+    "confidence": 1.0
   },
   "23": {
-    "summary": "Dealing with food scarcity and rationing",
-    "category": "chronic_pain",
-    "confidence": 0.7
+    "summary": "Feeling isolated as a permanent resident in Tehran's competitive environment.",
+    "category": "loneliness_isolation",
+    "confidence": 1.0
   },
   "24": {
-    "summary": "Navigating political instability and family obligations",
-    "category": "family_dissatisfaction",
-    "confidence": 0.8
+    "summary": "Managing chronic back pain from manual labor during Shanghai childhood.",
+    "category": "chronic_health_pain",
+    "confidence": 1.0
   },
   "25": {
-    "summary": "First romantic relationship and cultural expectations",
-    "category": "relationship_dissatisfaction",
-    "confidence": 0.7
+    "summary": "Facing unemployment during Tehran's oil shock economic downturn.",
+    "category": "financial_employment",
+    "confidence": 1.0
   },
   "26": {
-    "summary": "Military conscription or forced labor",
-    "category": "trauma",
-    "confidence": 0.6
+    "summary": "Bearing caregiver burden for aging Shanghai relatives without support.",
+    "category": "caregiver_burden",
+    "confidence": 1.0
   },
   "27": {
-    "summary": "Witnessing political purges and fear of persecution",
-    "category": "trauma",
-    "confidence": 0.7
+    "summary": "Surviving political violence during Tehran's conservative-religious currents.",
+    "category": "violence_abuse",
+    "confidence": 1.0
   },
   "28": {
-    "summary": "Family pressure to marry and start a family",
-    "category": "family_dissatisfaction",
-    "confidence": 0.8
+    "summary": "Legal battles over housing inheritance in divided Shanghai/Tehran contexts.",
+    "category": "legal_housing",
+    "confidence": 1.0
   },
   "29": {
-    "summary": "Cultural identity conflict in changing society",
-    "category": "identity_crisis",
-    "confidence": 0.7
+    "summary": "Academic pressure failing engineering studies in Tehran's competitive system.",
+    "category": "academic_stress",
+    "confidence": 1.0
   },
   "30": {
-    "summary": "Marriage and family formation under economic constraints",
-    "category": "family_dissatisfaction",
-    "confidence": 0.8
+    "summary": "Mental health crisis from accumulated displacement trauma and work stress.",
+    "category": "mental_health_crisis",
+    "confidence": 1.0
   },
   "31": {
-    "summary": "First child and financial planning",
-    "category": "financial_stress",
-    "confidence": 0.8
+    "summary": "Immigration hurdles securing Tehran residency amid shifting policies.",
+    "category": "immigration",
+    "confidence": 1.0
   },
   "32": {
-    "summary": "Cultural identity conflict between heritage",
-    "category": "identity_crisis",
-    "confidence": 0.7
+    "summary": "Grief over losing Iranian family members during political upheavals.",
+    "category": "grief_bereavement",
+    "confidence": 1.0
   },
   "33": {
-    "summary": "Career advancement and political loyalty",
-    "category": "career_stress",
-    "confidence": 0.8
+    "summary": "Relationship breakup straining cross-cultural family obligations.",
+    "category": "relationship_breakup",
+    "confidence": 1.0
   },
   "34": {
-    "summary": "Health scare and family responsibility",
-    "category": "chronic_pain",
-    "confidence": 0.7
+    "summary": "Intensifying loneliness as Tehran's social networks dissolve post-move.",
+    "category": "loneliness_isolation",
+    "confidence": 1.0
   },
   "35": {
-    "summary": "Political persecution and family separation",
-    "category": "trauma",
-    "confidence": 0.8
+    "summary": "Chronic back pain worsening from industrial engineering work demands.",
+    "category": "chronic_health_pain",
+    "confidence": 1.0
   },
   "36": {
-    "summary": "Economic hardship and family support",
-    "category": "financial_stress",
-    "confidence": 0.8
+    "summary": "Financial strain from supporting extended family during economic instability.",
+    "category": "financial_employment",
+    "confidence": 1.0
   },
   "37": {
-    "summary": "Witnessing famine and moral dilemmas",
-    "category": "trauma",
-    "confidence": 0.7
+    "summary": "Caregiver burden for aging parents conflicting with Mumbai work commitments.",
+    "category": "caregiver_burden",
+    "confidence": 1.0
   },
   "38": {
-    "summary": "Family health crisis and caregiving",
-    "category": "grief",
-    "confidence": 0.7
+    "summary": "Experiencing workplace discrimination in Mumbai's competitive industry.",
+    "category": "violence_abuse",
+    "confidence": 1.0
   },
   "39": {
-    "summary": "Political campaign participation and fear",
-    "category": "trauma",
-    "confidence": 0.8
+    "summary": "Legal disputes over historic Mumbai apartment inheritance.",
+    "category": "legal_housing",
+    "confidence": 1.0
   },
   "40": {
-    "summary": "Midlife career stagnation and family pressure",
-    "category": "career_stress",
-    "confidence": 0.8
+    "summary": "Academic pressure to upskill amid Mumbai's industrial sector changes.",
+    "category": "academic_stress",
+    "confidence": 1.0
   },
   "41": {
-    "summary": "Health decline and financial planning",
-    "category": "chronic_pain",
-    "confidence": 0.7
+    "summary": "Mental health crisis escalating from chronic insomnia and family dissatisfaction.",
+    "category": "mental_health_crisis",
+    "confidence": 1.0
   },
   "42": {
-    "summary": "Family dissatisfaction and marital strain",
-    "category": "relationship_dissatisfaction",
-    "confidence": 0.8
+    "summary": "Immigration status anxieties affecting career stability in Mumbai.",
+    "category": "immigration",
+    "confidence": 1.0
   },
   "43": {
-    "summary": "Workplace stress and burnout",
-    "category": "burnout",
-    "confidence": 0.8
+    "summary": "Grief over losing Mumbai community connections after relocation.",
+    "category": "grief_bereavement",
+    "confidence": 1.0
   },
   "44": {
-    "summary": "Loss of a parent and grief",
-    "category": "grief",
-    "confidence": 0.7
+    "summary": "Relationship breakup disrupting Mumbai's small social circle.",
+    "category": "relationship_breakup",
+    "confidence": 1.0
   },
   "45": {
-    "summary": "Chronic insomnia and emotional exhaustion",
-    "category": "burnout",
-    "confidence": 0.9
+    "summary": "Intensifying loneliness in Mumbai's historic apartment amid work isolation.",
+    "category": "loneliness_isolation",
+    "confidence": 1.0
   },
   "46": {
-    "summary": "Workplace stress and family dissatisfaction",
-    "category": "burnout",
-    "confidence": 0.8
+    "summary": "Chronic pain limiting industrial engineering work capacity.",
+    "category": "chronic_health_pain",
+    "confidence": 1.0
   },
   "47": {
-    "summary": "Decision to relocate and career uncertainty",
-    "category": "relocation_stress",
-    "confidence": 0.7
+    "summary": "Financial pressures from Mumbai's high living costs straining stability.",
+    "category": "financial_employment",
+    "confidence": 1.0
   },
   "48": {
-    "summary": "Relocation to Tehran and cultural adjustment",
-    "category": "relocation_stress",
-    "confidence": 0.8
+    "summary": "Caregiver burden for aging Mumbai neighbors conflicting with personal needs.",
+    "category": "caregiver_burden",
+    "confidence": 1.0
   },
   "49": {
-    "summary": "Cultural assimilation and family integration",
-    "category": "identity_crisis",
-    "confidence": 0.7
+    "summary": "Workplace harassment in Mumbai's industrial sector.",
+    "category": "violence_abuse",
+    "confidence": 1.0
   },
   "50": {
-    "summary": "Career transition and family responsibilities",
-    "category": "career_stress",
-    "confidence": 0.8
+    "summary": "Housing insecurity threatening Mumbai apartment stability.",
+    "category": "legal_housing",
+    "confidence": 1.0
   },
   "51": {
-    "summary": "Chronic health condition and lifestyle changes",
-    "category": "chronic_pain",
-    "confidence": 0.7
+    "summary": "Academic pressure to validate engineering credentials in Mumbai.",
+    "category": "academic_stress",
+    "confidence": 1.0
   },
   "52": {
-    "summary": "Family health crisis and caregiving",
-    "category": "grief",
-    "confidence": 0.7
+    "summary": "Mental health crisis from accumulated work stress and social withdrawal.",
+    "category": "mental_health_crisis",
+    "confidence": 1.0
   },
   "53": {
-    "summary": "Loss of a close friend and loneliness",
-    "category": "loneliness",
-    "confidence": 0.7
+    "summary": "Immigration documentation issues causing career stagnation.",
+    "category": "immigration",
+    "confidence": 1.0
   },
   "54": {
-    "summary": "Workplace challenges and legacy concerns",
-    "category": "career_stress",
-    "confidence": 0.6
+    "summary": "Grief over losing Mumbai community ties after family member's death.",
+    "category": "grief_bereavement",
+    "confidence": 1.0
   },
   "55": {
-    "summary": "Health decline and reduced independence",
-    "category": "chronic_pain",
-    "confidence": 0.7
+    "summary": "Relationship breakup straining Mumbai's limited social support.",
+    "category": "relationship_breakup",
+    "confidence": 1.0
   },
   "56": {
-    "summary": "Family dissatisfaction and generational conflict",
-    "category": "relationship_dissatisfaction",
-    "confidence": 0.7
+    "summary": "Loneliness intensifying in Mumbai's fast-paced urban environment.",
+    "category": "loneliness_isolation",
+    "confidence": 1.0
   },
   "57": {
-    "summary": "Financial insecurity and retirement anxiety",
-    "category": "financial_stress",
-    "confidence": 0.7
+    "summary": "Chronic health pain disrupting industrial engineering work routines.",
+    "category": "chronic_health_pain",
+    "confidence": 1.0
   },
   "58": {
-    "summary": "Chronic illness and social isolation",
-    "category": "loneliness",
-    "confidence": 0.7
+    "summary": "Financial strain from Mumbai's economic volatility affecting stability.",
+    "category": "financial_employment",
+    "confidence": 1.0
   },
   "59": {
-    "summary": "Loss of a spouse and grief",
-    "category": "grief",
-    "confidence": 0.8
+    "summary": "Caregiver burden for aging Mumbai relatives conflicting with work.",
+    "category": "caregiver_burden",
+    "confidence": 1.0
   },
   "60": {
-    "summary": "Retirement and identity adjustment",
-    "category": "identity_crisis",
-    "confidence": 0.8
+    "summary": "Experiencing age discrimination in Mumbai's industrial sector.",
+    "category": "violence_abuse",
+    "confidence": 1.0
   },
   "61": {
-    "summary": "Health issues and mobility limitations",
-    "category": "chronic_pain",
-    "confidence": 0.7
+    "summary": "Legal battles over Mumbai apartment inheritance and ownership.",
+    "category": "legal_housing",
+    "confidence": 1.0
   },
   "62": {
-    "summary": "Family health crises and caregiving burden",
-    "category": "grief",
-    "confidence": 0.7
+    "summary": "Academic pressure to mentor junior engineers amid skill obsolescence.",
+    "category": "academic_stress",
+    "confidence": 1.0
   },
   "63": {
-    "summary": "Financial management and legacy planning",
-    "category": "financial_stress",
-    "confidence": 0.6
+    "summary": "Mental health crisis from chronic insomnia and emotional exhaustion.",
+    "category": "mental_health_crisis",
+    "confidence": 1.0
   },
   "64": {
-    "summary": "Social isolation and loneliness",
-    "category": "loneliness",
-    "confidence": 0.7
+    "summary": "Immigration status concerns affecting retirement planning.",
+    "category": "immigration",
+    "confidence": 1.0
   },
   "65": {
-    "summary": "Retirement and reduced social roles",
-    "category": "loneliness",
-    "confidence": 0.7
+    "summary": "Grief over losing Mumbai community connections after spouse's death.",
+    "category": "grief_bereavement",
+    "confidence": 1.0
   },
   "66": {
-    "summary": "Chronic health conditions and dependence",
-    "category": "chronic_pain",
-    "confidence": 0.7
+    "summary": "Relationship breakup leaving Mumbai social isolation.",
+    "category": "relationship_breakup",
+    "confidence": 1.0
   },
   "67": {
-    "summary": "Loss of siblings and grief",
-    "category": "grief",
-    "confidence": 0.7
+    "summary": "Loneliness deepening in Mumbai's competitive professional environment.",
+    "category": "loneliness_isolation",
+    "confidence": 1.0
   },
   "68": {
-    "summary": "Cognitive decline and memory issues",
-    "category": "dementia",
-    "confidence": 0.6
+    "summary": "Chronic health pain limiting mobility in Mumbai's urban landscape.",
+    "category": "chronic_health_pain",
+    "confidence": 1.0
   },
   "69": {
-    "summary": "Health complications and hospitalization",
-    "category": "chronic_pain",
-    "confidence": 0.7
+    "summary": "Financial insecurity threatening Mumbai retirement stability.",
+    "category": "financial_employment",
+    "confidence": 1.0
   },
   "70": {
-    "summary": "End-of-life reflections and mortality awareness",
-    "category": "existential_crisis",
-    "confidence": 0.7
+    "summary": "Caregiver burden for aging Mumbai neighbors conflicting with health.",
+    "category": "caregiver_burden",
+    "confidence": 1.0
   },
   "71": {
-    "summary": "Caregiving for aging parents",
-    "category": "grief",
-    "confidence": 0.6
+    "summary": "Workplace discrimination in Mumbai's industrial sector.",
+    "category": "violence_abuse",
+    "confidence": 1.0
   },
   "72": {
-    "summary": "Financial strain from healthcare costs",
-    "category": "financial_stress",
-    "confidence": 0.7
+    "summary": "Housing insecurity threatening Mumbai apartment stability.",
+    "category": "legal_housing",
+    "confidence": 1.0
   },
   "73": {
-    "summary": "Loss of close friends and loneliness",
-    "category": "loneliness",
-    "confidence": 0.7
+    "summary": "Academic pressure to validate decades of engineering experience.",
+    "category": "academic_stress",
+    "confidence": 1.0
   },
   "74": {
-    "summary": "Chronic illness and reduced mobility",
-    "category": "chronic_pain",
-    "confidence": 0.7
+    "summary": "Mental health crisis from accumulated work stress and isolation.",
+    "category": "mental_health_crisis",
+    "confidence": 1.0
   },
   "75": {
-    "summary": "Family dissatisfaction and unmet expectations",
-    "category": "relationship_dissatisfaction",
-    "confidence": 0.6
+    "summary": "Immigration status concerns affecting Mumbai retirement security.",
+    "category": "immigration",
+    "confidence": 1.0
   },
   "76": {
-    "summary": "Health decline and dependence on others",
-    "category": "chronic_pain",
-    "confidence": 0.7
+    "summary": "Grief over losing Mumbai community ties after family member's death.",
+    "category": "grief_bereavement",
+    "confidence": 1.0
   },
   "77": {
-    "summary": "Grief over multiple losses",
-    "category": "grief",
-    "confidence": 0.8
+    "summary": "Relationship breakup leaving Mumbai social isolation.",
+    "category": "relationship_breakup",
+    "confidence": 1.0
   },
   "78": {
-    "summary": "Social isolation and lack of support",
-    "category": "loneliness",
-    "confidence": 0.7
+    "summary": "Loneliness deepening in Mumbai's competitive professional environment.",
+    "category": "loneliness_isolation",
+    "confidence": 1.0
   },
   "79": {
-    "summary": "Chronic pain and limited activities",
-    "category": "chronic_pain",
-    "confidence": 0.7
+    "summary": "Chronic health pain limiting mobility in Mumbai's urban landscape.",
+    "category": "chronic_health_pain",
+    "confidence": 1.0
   },
   "80": {
-    "summary": "Dementia and memory loss",
-    "category": "dementia",
-    "confidence": 0.7
+    "summary": "Financial insecurity threatening Mumbai retirement stability.",
+    "category": "financial_employment",
+    "confidence": 1.0
   },
   "81": {
-    "summary": "Caregiving for spouse and family burden",
-    "category": "grief",
-    "confidence": 0.6
+    "summary": "Caregiver burden for aging Mumbai relatives conflicting with health.",
+    "category": "caregiver_burden",
+    "confidence": 1.0
   },
   "82": {
-    "summary": "Financial insecurity and health costs",
-    "category": "financial_stress",
-    "confidence": 0.7
+    "summary": "Experiencing age discrimination in Mumbai's industrial sector.",
+    "category": "violence_abuse",
+    "confidence": 1.0
   },
   "83": {
-    "summary": "Loss of spouse and loneliness",
-    "category": "loneliness",
-    "confidence": 0.8
+    "summary": "Legal battles over Mumbai apartment inheritance and ownership.",
+    "category": "legal_housing",
+    "confidence": 1.0
   },
   "84": {
-    "summary": "Chronic illness and reduced independence",
-    "category": "chronic_pain",
-    "confidence": 0.7
+    "summary": "Academic pressure to mentor junior engineers amid skill obsolescence.",
+    "category": "academic_stress",
+    "confidence": 1.0
   },
   "85": {
-    "summary": "Grief over family losses",
-    "category": "grief",
-    "confidence": 0.8
+    "summary": "Mental health crisis from chronic insomnia and emotional exhaustion.",
+    "category": "mental_health_crisis",
+    "confidence": 1.0
   },
   "86": {
-    "summary": "Health decline and mobility issues",
-    "category": "chronic_pain",
-    "confidence": 0.7
+    "summary": "Immigration status concerns affecting retirement planning.",
+    "category": "immigration",
+    "confidence": 1.0
   },
   "87": {
-    "summary": "Social isolation and lack of engagement",
-    "category": "loneliness",
-    "confidence": 0.7
+    "summary": "Grief over losing Mumbai community connections after spouse's death.",
+    "category": "grief_bereavement",
+    "confidence": 1.0
   },
   "88": {
-    "summary": "Chronic pain and dependence",
-    "category": "chronic_pain",
-    "confidence": 0.7
+    "summary": "Relationship breakup leaving Mumbai social isolation.",
+    "category": "relationship_breakup",
+    "confidence": 1.0
   },
   "89": {
-    "summary": "Dementia and cognitive decline",
-    "category": "dementia",
-    "confidence": 0.7
+    "summary": "Loneliness deepening in Mumbai's competitive professional environment.",
+    "category": "loneliness_isolation",
+    "confidence": 1.0
   },
   "90": {
-    "summary": "End-of-life and mortality",
-    "category": "existential_crisis",
-    "confidence": 0.8
+    "summary": "Chronic health pain limiting mobility in Mumbai's urban landscape.",
+    "category": "chronic_health_pain",
+    "confidence": 1.0
   },
   "91": {
-    "summary": "Family dissatisfaction and unmet needs",
-    "category": "relationship_dissatisfaction",
-    "confidence": 0.6
+    "summary": "Financial insecurity threatening Mumbai retirement stability.",
+    "category": "financial_employment",
+    "confidence": 1.0
   },
   "92": {
-    "summary": "Health complications and hospitalizations",
-    "category": "chronic_pain",
-    "confidence": 0.7
+    "summary": "Caregiver burden for aging Mumbai relatives conflicting with health.",
+    "category": "caregiver_burden",
+    "confidence": 1.0
   },
   "93": {
-    "summary": "Loss of close friends and loneliness",
-    "category": "loneliness",
-    "confidence": 0.7
+    "summary": "Workplace discrimination in Mumbai's industrial sector.",
+    "category": "violence_abuse",
+    "confidence": 1.0
   },
   "94": {
-    "summary": "Chronic illness and frailty",
-    "category": "chronic_pain",
-    "confidence": 0.7
+    "summary": "Housing insecurity threatening Mumbai apartment stability.",
+    "category": "legal_housing",
+    "confidence": 1.0
   },
   "95": {
-    "summary": "Grief over family losses",
-    "category": "grief",
-    "confidence": 0.8
+    "summary": "Academic pressure to validate decades of engineering experience.",
+    "category": "academic_stress",
+    "confidence": 1.0
   },
   "96": {
-    "summary": "Dementia and memory loss",
-    "category": "dementia",
-    "confidence": 0.7
+    "summary": "Mental health crisis from accumulated work stress and isolation.",
+    "category": "mental_health_crisis",
+    "confidence": 1.0
   },
   "97": {
-    "summary": "Social isolation and lack of support",
-    "category": "loneliness",
-    "confidence": 0.7
+    "summary": "Immigration status concerns affecting Mumbai retirement security.",
+    "category": "immigration",
+    "confidence": 1.0
   },
   "98": {
-    "summary": "Chronic pain and dependence",
-    "category": "chronic_pain",
-    "confidence": 0.7
+    "summary": "Grief over losing Mumbai community ties after family member's death.",
+    "category": "grief_bereavement",
+    "confidence": 1.0
   },
   "99": {
-    "summary": "End-of-life and mortality awareness",
-    "category": "existential_crisis",
-    "confidence": 0.8
+    "summary": "Relationship breakup leaving Mumbai social isolation.",
+    "category": "relationship_breakup",
+    "confidence": 1.0
   },
   "100": {
-    "summary": "Final health decline and legacy concerns",
-    "category": "existential_crisis",
-    "confidence": 0.7
+    "summary": "Loneliness deepening in Mumbai's competitive professional environment.",
+    "category": "loneliness_isolation",
+    "confidence": 1.0
   }
 }

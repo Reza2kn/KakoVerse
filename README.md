@@ -46,6 +46,13 @@ Most “empathetic” datasets are short, simple, and same-y. We want **realisti
   - **Safety** (no self-harm instructions, no medical/legal directives, no fake hotlines)  
 - **Pairs:** each turn → 3 head-to-heads → ~**4,140** pairs across 69 convos × 20 turns
 
+### ✅ Current progress
+- **Balanced crisis plan:** every persona has an age→category grid (11 crisis categories rotated evenly from ages 20–100). Crisis summaries are pre-generated and stored in `Artifacts/crisis_profiles/`.
+- **Conversations in flight:** first **12 / 69** personas have full chats (see `Artifacts/conversations/`). Generation script is resumable so you can batch the rest (e.g. `--offset 12 --limit 10 --skip-existing`).
+- **Supporter styles:** baseline, empathetic (positive signal), and cold (negative signal) responses captured per turn—ready for reward-model A/B training.
+
+> Tip: if you hit rate limits, run the generator in persona batches with `--offset` / `--limit` and lower sleep intervals to fully utilize the free tier.
+
 ---
 
 🔒 Safety (hard lines)
@@ -77,6 +84,8 @@ Better stabilization detector (beyond lexical proxies)
 Human-in-the-loop audits on a small, spicy subset
 
 Public RM checkpoints + minimal RL recipe
+
+*Coming soon:* persona-native language conversations (e.g., isiZulu for a Durban seeker, Farsi for Tehran) once English coverage is complete. The crisis category plan already keeps timelines balanced—next we’ll swap in multilingual prompts + locale-sensitive tone adapters.
 
 🤝 Contribute
 
