@@ -47,9 +47,11 @@ Most “empathetic” datasets are short, simple, and same-y. We want **realisti
 - **Pairs:** each turn → 3 head-to-heads → scales with conversation count (30 conversations already produce thousands of preference pairs)
 
 ## 🧨 Crisis category catalog
-Age assignments now obey life-stage and persona-context boundaries. Each persona’s crisis profile (ages 20–100) is filled with summaries drawn from the following 45 categories:
+Age assignments now obey life-stage and persona-context boundaries. Each persona’s crisis profile (ages 20–100) is filled with summaries drawn from the following 45 categories*:
 
 `Anger Management Issues`, `Anxiety Disorders`, `Bipolar Disorder`, `Death of a Loved One`, `Emotional Fluctuations`, `Grief and Loss`, `Identity Crises`, `Obsessive-Compulsive Disorder (OCD)`, `Ongoing Depression`, `Post-Traumatic Stress Disorder (PTSD)`, `Schizophrenia`, `Self-Esteem Issues`, `Spirituality and Faith`, `Sexual Orientation`, `Sexual Assault or Domestic Violence Recovery`, `Academic Pressure`, `Burnout`, `Chronic Stress`, `Financial Problems`, `Health Problems`, `Job Crisis`, `Life Transitions (e.g., Retirement, Relocation)`, `Workplace Stress`, `Breakups or Divorce`, `Conflicts or Communication Problems`, `Issues with Children`, `Issues with Parents`, `Marital Problems`, `Problems with Friends`, `School Bullying`, `Culture Shock`, `Appearance Anxiety`, `Career Development Issues`, `Goal Setting Issues`, `Motivation Problems`, `Personal Growth Challenges`, `Procrastination`, `Sleep Problems`, `Addictive Behaviors (e.g., Drug Use, Gambling)`, `Alcohol Abuse`, `Compulsive Behaviors`, `Eating Disorders`, `Internet Addiction`, `Self-Harm Behaviors`, `Debt Problems`.
+
+*Category list inspired by the great work done by Shi et al., Findings 2025 [Beyond Coarse Labels: Fine-Grained Problem Augmentation and Multi-Dimensional Feedback for Emotional Support Conversation](https://aclanthology.org/2025.findings-emnlp.86/) 
 
 Every category has an allowed age span (e.g., school bullying stays in the 20s, retirement transitions appear later in life), so crisis summaries remain coherent for each persona.
 
@@ -92,7 +94,7 @@ Human-in-the-loop audits on a small, spicy subset
 
 Public RM checkpoints + minimal RL recipe
 
-*Coming soon:* persona-native language conversations (e.g., isiZulu for a Durban seeker, Farsi for Tehran) once English coverage is complete. The crisis category plan already keeps timelines balanced—next we’ll swap in multilingual prompts + locale-sensitive tone adapters.
+*Coming soon:* persona-native language conversations (e.g., isiZulu for a Durban seeker, Español for MexicoCity) once the way is paved with English. The crisis category plan already keeps timelines balanced—next we’ll swap in multilingual prompts + locale-sensitive tone adapters.
 
 🤝 Contribute
 
