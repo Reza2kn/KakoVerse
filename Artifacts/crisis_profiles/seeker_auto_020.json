@@ -1,407 +1,407 @@
 {
   "20": {
-    "summary": "Workplace harassment in factory amid cultural clashes",
-    "category": "violence_abuse",
-    "confidence": 0.85
+    "summary": "Felt isolated during school due to traditional family obligations",
+    "category": "School Bullying",
+    "confidence": 0.3
   },
   "21": {
-    "summary": "Eviction threat due to unstable immigrant housing contracts",
-    "category": "legal_housing",
+    "summary": "Struggled with motivation after leaving Lagos for America",
+    "category": "Motivation Problems",
     "confidence": 0.8
   },
   "22": {
-    "summary": "Pressure to learn English while working technical shifts",
-    "category": "academic_stress",
+    "summary": "Delayed work due to cultural adjustment challenges",
+    "category": "Procrastination",
     "confidence": 0.7
   },
   "23": {
-    "summary": "Severe anxiety over cultural displacement and identity loss",
-    "category": "mental_health_crisis",
-    "confidence": 0.9
-  },
-  "24": {
-    "summary": "Visa renewal fears after workplace immigration audit",
-    "category": "immigration",
-    "confidence": 0.85
-  },
-  "25": {
-    "summary": "Grief over irreversible loss of Nigerian community ties",
-    "category": "grief_bereavement",
-    "confidence": 0.95
-  },
-  "26": {
-    "summary": "Breakup after partner rejected due to cultural differences",
-    "category": "relationship_breakup",
-    "confidence": 0.7
-  },
-  "27": {
-    "summary": "Isolation during holidays without local support networks",
-    "category": "loneliness_isolation",
-    "confidence": 0.9
-  },
-  "28": {
-    "summary": "Chronic back pain from factory labor limiting mobility",
-    "category": "chronic_health_pain",
-    "confidence": 0.8
-  },
-  "29": {
-    "summary": "Job insecurity during industrial slowdowns",
-    "category": "financial_employment",
-    "confidence": 0.9
-  },
-  "30": {
-    "summary": "Caregiving strain for ill relative back home",
-    "category": "caregiver_burden",
+    "summary": "Unclear career path between Nigerian traditions and American opportunities",
+    "category": "Goal Setting Issues",
     "confidence": 0.6
   },
-  "31": {
-    "summary": "Physical altercation with supervisor over unfair treatment",
-    "category": "violence_abuse",
-    "confidence": 0.75
-  },
-  "32": {
-    "summary": "Landlord disputes over rent increases",
-    "category": "legal_housing",
-    "confidence": 0.8
-  },
-  "33": {
-    "summary": "Stress from night school failure in technical courses",
-    "category": "academic_stress",
-    "confidence": 0.7
-  },
-  "34": {
-    "summary": "Depression crisis from prolonged cultural adjustment",
-    "category": "mental_health_crisis",
+  "24": {
+    "summary": "Career development blocked by immigration status and language barriers",
+    "category": "Career Development Issues",
     "confidence": 0.9
   },
+  "25": {
+    "summary": "Appetite loss from cultural adjustment stress and grief",
+    "category": "Eating Disorders",
+    "confidence": 0.8
+  },
+  "26": {
+    "summary": "Identity crisis between Nigerian heritage and American identity",
+    "category": "Identity Crises",
+    "confidence": 0.9
+  },
+  "27": {
+    "summary": "Questioning identity in new cultural context",
+    "category": "Sexual Orientation",
+    "confidence": 0.4
+  },
+  "28": {
+    "summary": "School bullying memories resurface during cultural stress",
+    "category": "School Bullying",
+    "confidence": 0.5
+  },
+  "29": {
+    "summary": "Goal-setting frustration with unstable employment",
+    "category": "Goal Setting Issues",
+    "confidence": 0.7
+  },
+  "30": {
+    "summary": "Job insecurity in steel industry amid economic uncertainty",
+    "category": "Job Crisis",
+    "confidence": 0.8
+  },
+  "31": {
+    "summary": "Self-harm thoughts during intense cultural adjustment",
+    "category": "Self-Harm Behaviors",
+    "confidence": 0.6
+  },
+  "32": {
+    "summary": "Internet use as escape from loneliness",
+    "category": "Internet Addiction",
+    "confidence": 0.5
+  },
+  "33": {
+    "summary": "Academic pressure to succeed for family legacy",
+    "category": "Academic Pressure",
+    "confidence": 0.3
+  },
+  "34": {
+    "summary": "Motivation dips during prolonged cultural adjustment",
+    "category": "Motivation Problems",
+    "confidence": 0.7
+  },
   "35": {
-    "summary": "Deportation risk after workplace raid",
-    "category": "immigration",
+    "summary": "Workplace stress from factory conditions and discrimination",
+    "category": "Workplace Stress",
     "confidence": 0.8
   },
   "36": {
-    "summary": "Bereavement over death of Nigerian parent",
-    "category": "grief_bereavement",
-    "confidence": 0.85
+    "summary": "Procrastination on cultural integration tasks",
+    "category": "Procrastination",
+    "confidence": 0.6
   },
   "37": {
-    "summary": "Marriage collapse due to assimilation conflicts",
-    "category": "relationship_breakup",
-    "confidence": 0.7
+    "summary": "Career development blocked by systemic barriers",
+    "category": "Career Development Issues",
+    "confidence": 0.8
   },
   "38": {
-    "summary": "Christmas isolation after friend group dissolved",
-    "category": "loneliness_isolation",
-    "confidence": 0.85
+    "summary": "Appetite fluctuations from ongoing cultural stress",
+    "category": "Eating Disorders",
+    "confidence": 0.7
   },
   "39": {
-    "summary": "Arthritis from years of manual labor",
-    "category": "chronic_health_pain",
-    "confidence": 0.8
+    "summary": "Self-harm urges during grief episodes",
+    "category": "Self-Harm Behaviors",
+    "confidence": 0.6
   },
   "40": {
-    "summary": "Wage theft by factory management",
-    "category": "financial_employment",
-    "confidence": 0.8
+    "summary": "Sexual orientation questions amid cultural taboos",
+    "category": "Sexual Orientation",
+    "confidence": 0.4
   },
   "41": {
-    "summary": "Burnout caring for aging Nigerian aunt",
-    "category": "caregiver_burden",
+    "summary": "Identity crises resurface during midlife reflection",
+    "category": "Identity Crises",
     "confidence": 0.7
   },
   "42": {
-    "summary": "Assault by racists in neighborhood",
-    "category": "violence_abuse",
-    "confidence": 0.7
+    "summary": "Internet use intensifies during loneliness",
+    "category": "Internet Addiction",
+    "confidence": 0.6
   },
   "43": {
-    "summary": "Foreclosure threat on modest home",
-    "category": "legal_housing",
-    "confidence": 0.75
+    "summary": "Academic pressure from community expectations",
+    "category": "Academic Pressure",
+    "confidence": 0.3
   },
   "44": {
-    "summary": "Exams pressure for industrial certification",
-    "category": "academic_stress",
-    "confidence": 0.65
+    "summary": "Motivation struggles with aging parents' needs",
+    "category": "Chronic Stress",
+    "confidence": 0.7
   },
   "45": {
-    "summary": "Suicidal ideation from cumulative discrimination",
-    "category": "mental_health_crisis",
-    "confidence": 0.85
+    "summary": "Chronic stress from financial precarity and family obligations",
+    "category": "Debt Problems",
+    "confidence": 0.8
   },
   "46": {
-    "summary": "Deportation proceedings after minor arrest",
-    "category": "immigration",
-    "confidence": 0.75
+    "summary": "Anxiety about cultural integration and family legacy",
+    "category": "Anxiety Disorders",
+    "confidence": 0.7
   },
   "47": {
-    "summary": "Grief over death of childhood griot mentor",
-    "category": "grief_bereavement",
-    "confidence": 0.8
+    "summary": "Personal growth blocked by cultural adjustment",
+    "category": "Personal Growth Challenges",
+    "confidence": 0.6
   },
   "48": {
-    "summary": "Divorce after years of marital neglect",
-    "category": "relationship_breakup",
-    "confidence": 0.7
+    "summary": "Recovering from cultural trauma and displacement",
+    "category": "Sexual Assault or Domestic Violence Recovery",
+    "confidence": 0.5
   },
   "49": {
-    "summary": "Elderly isolation after friends' deaths",
-    "category": "loneliness_isolation",
-    "confidence": 0.8
+    "summary": "Anger at systemic barriers and cultural suppression",
+    "category": "Anger Management Issues",
+    "confidence": 0.6
   },
   "50": {
-    "summary": "Diabetic complications from poor factory diet",
-    "category": "chronic_health_pain",
-    "confidence": 0.75
+    "summary": "Sleep disruption from cultural adjustment stress",
+    "category": "Sleep Problems",
+    "confidence": 0.7
   },
   "51": {
-    "summary": "Wage theft by new employer",
-    "category": "financial_employment",
-    "confidence": 0.7
+    "summary": "Ongoing depression from unresolved grief",
+    "category": "Ongoing Depression",
+    "confidence": 0.8
   },
   "52": {
-    "summary": "Exhaustion from caring for sick spouse",
-    "category": "caregiver_burden",
-    "confidence": 0.75
-  },
-  "53": {
-    "summary": "Physical assault during protest",
-    "category": "violence_abuse",
+    "summary": "Communication conflicts with American colleagues",
+    "category": "Conflicts or Communication Problems",
     "confidence": 0.7
   },
+  "53": {
+    "summary": "PTSD from cultural displacement and family separation",
+    "category": "Post-Traumatic Stress Disorder (PTSD)",
+    "confidence": 0.8
+  },
   "54": {
-    "summary": "Housing discrimination lawsuit",
-    "category": "legal_housing",
+    "summary": "Culture shock persists despite years abroad",
+    "category": "Culture Shock",
     "confidence": 0.7
   },
   "55": {
-    "summary": "Stress from vocational training failure",
-    "category": "academic_stress",
-    "confidence": 0.6
+    "summary": "Financial strain from supporting Nigerian family",
+    "category": "Financial Problems",
+    "confidence": 0.8
   },
   "56": {
-    "summary": "Depression crisis from unemployment",
-    "category": "mental_health_crisis",
-    "confidence": 0.8
-  },
-  "57": {
-    "summary": "Deportation threat after workplace raid",
-    "category": "immigration",
+    "summary": "Problems with friends due to cultural differences",
+    "category": "Problems with Friends",
     "confidence": 0.7
   },
-  "58": {
-    "summary": "Grief over death of Nigerian sibling",
-    "category": "grief_bereavement",
+  "57": {
+    "summary": "Emotional fluctuations from unresolved grief",
+    "category": "Emotional Fluctuations",
     "confidence": 0.8
   },
+  "58": {
+    "summary": "Appearance anxiety from cultural identity conflicts",
+    "category": "Appearance Anxiety",
+    "confidence": 0.6
+  },
   "59": {
-    "summary": "Divorce after years of cultural mismatch",
-    "category": "relationship_breakup",
+    "summary": "Self-esteem issues from workplace discrimination",
+    "category": "Self-Esteem Issues",
     "confidence": 0.7
   },
   "60": {
-    "summary": "Isolation after losing all friends",
-    "category": "loneliness_isolation",
+    "summary": "Burnout from factory work and cultural adjustment",
+    "category": "Burnout",
     "confidence": 0.8
   },
   "61": {
-    "summary": "Amputation from diabetes complications",
-    "category": "chronic_health_pain",
-    "confidence": 0.75
+    "summary": "Appearance anxiety from aging and cultural identity",
+    "category": "Appearance Anxiety",
+    "confidence": 0.6
   },
   "62": {
-    "summary": "Wage theft by contractor",
-    "category": "financial_employment",
+    "summary": "Self-esteem issues from aging and cultural displacement",
+    "category": "Self-Esteem Issues",
     "confidence": 0.7
   },
   "63": {
-    "summary": "Caregiver burnout for disabled child",
-    "category": "caregiver_burden",
+    "summary": "Workplace stress from aging workforce",
+    "category": "Workplace Stress",
     "confidence": 0.7
   },
   "64": {
-    "summary": "Assault by racists in neighborhood",
-    "category": "violence_abuse",
-    "confidence": 0.65
+    "summary": "Job loss fears in declining industry",
+    "category": "Job Crisis",
+    "confidence": 0.8
   },
   "65": {
-    "summary": "Foreclosure threat on modest home",
-    "category": "legal_housing",
-    "confidence": 0.65
+    "summary": "Conflicts with aging Nigerian parents",
+    "category": "Issues with Parents",
+    "confidence": 0.7
   },
   "66": {
-    "summary": "Exams pressure for industrial certification",
-    "category": "academic_stress",
-    "confidence": 0.55
+    "summary": "Emotional fluctuations from aging and cultural isolation",
+    "category": "Emotional Fluctuations",
+    "confidence": 0.7
   },
   "67": {
-    "summary": "Suicidal ideation from cumulative discrimination",
-    "category": "mental_health_crisis",
-    "confidence": 0.75
+    "summary": "Conflicts with aging Nigerian parents",
+    "category": "Issues with Parents",
+    "confidence": 0.7
   },
   "68": {
-    "summary": "Deportation proceedings after minor arrest",
-    "category": "immigration",
-    "confidence": 0.65
+    "summary": "Problems with friends due to cultural distance",
+    "category": "Problems with Friends",
+    "confidence": 0.6
   },
   "69": {
-    "summary": "Grief over death of Nigerian parent",
-    "category": "grief_bereavement",
+    "summary": "Burnout from lifelong cultural adjustment",
+    "category": "Burnout",
     "confidence": 0.7
   },
   "70": {
-    "summary": "Divorce after years of marital neglect",
-    "category": "relationship_breakup",
-    "confidence": 0.6
+    "summary": "Schizophrenia unlikely but cultural identity struggles persist",
+    "category": "Schizophrenia",
+    "confidence": 0.2
   },
   "71": {
-    "summary": "Elderly isolation after friends' deaths",
-    "category": "loneliness_isolation",
-    "confidence": 0.7
+    "summary": "Issues with children regarding cultural integration",
+    "category": "Issues with Children",
+    "confidence": 0.6
   },
   "72": {
-    "summary": "Arthritis from years of manual labor",
-    "category": "chronic_health_pain",
-    "confidence": 0.65
+    "summary": "Marital conflicts from cultural differences",
+    "category": "Marital Problems",
+    "confidence": 0.5
   },
   "73": {
-    "summary": "Wage theft by factory management",
-    "category": "financial_employment",
+    "summary": "Alcohol use to cope with cultural stress",
+    "category": "Alcohol Abuse",
     "confidence": 0.6
   },
   "74": {
-    "summary": "Burnout caring for aging Nigerian aunt",
-    "category": "caregiver_burden",
-    "confidence": 0.6
-  },
-  "75": {
-    "summary": "Assault by racists in neighborhood",
-    "category": "violence_abuse",
-    "confidence": 0.55
-  },
-  "76": {
-    "summary": "Landlord disputes over rent increases",
-    "category": "legal_housing",
-    "confidence": 0.55
-  },
-  "77": {
-    "summary": "Stress from night school failure",
-    "category": "academic_stress",
-    "confidence": 0.45
-  },
-  "78": {
-    "summary": "Depression crisis from prolonged unemployment",
-    "category": "mental_health_crisis",
-    "confidence": 0.65
-  },
-  "79": {
-    "summary": "Deportation risk after workplace raid",
-    "category": "immigration",
-    "confidence": 0.55
-  },
-  "80": {
-    "summary": "Grief over death of Nigerian sibling",
-    "category": "grief_bereavement",
-    "confidence": 0.6
-  },
-  "81": {
-    "summary": "Divorce after years of cultural mismatch",
-    "category": "relationship_breakup",
+    "summary": "Compulsive behaviors from unresolved grief",
+    "category": "Compulsive Behaviors",
     "confidence": 0.5
   },
+  "75": {
+    "summary": "Addictive behaviors from financial strain",
+    "category": "Addictive Behaviors (e.g., Drug Use, Gambling)",
+    "confidence": 0.6
+  },
+  "76": {
+    "summary": "Bipolar disorder unlikely but emotional fluctuations persist",
+    "category": "Bipolar Disorder",
+    "confidence": 0.3
+  },
+  "77": {
+    "summary": "OCD tendencies from cultural rituals",
+    "category": "Obsessive-Compulsive Disorder (OCD)",
+    "confidence": 0.4
+  },
+  "78": {
+    "summary": "Debt problems from supporting family",
+    "category": "Debt Problems",
+    "confidence": 0.7
+  },
+  "79": {
+    "summary": "Financial strain from aging and family obligations",
+    "category": "Financial Problems",
+    "confidence": 0.8
+  },
+  "80": {
+    "summary": "Breakup recovery from cultural displacement",
+    "category": "Breakups or Divorce",
+    "confidence": 0.5
+  },
+  "81": {
+    "summary": "Anxiety about aging and cultural identity",
+    "category": "Anxiety Disorders",
+    "confidence": 0.7
+  },
   "82": {
-    "summary": "Isolation after losing all friends",
-    "category": "loneliness_isolation",
+    "summary": "Communication conflicts with aging family",
+    "category": "Conflicts or Communication Problems",
     "confidence": 0.6
   },
   "83": {
-    "summary": "Diabetic complications from poor diet",
-    "category": "chronic_health_pain",
-    "confidence": 0.55
+    "summary": "Personal growth blocked by cultural adjustment",
+    "category": "Personal Growth Challenges",
+    "confidence": 0.6
   },
   "84": {
-    "summary": "Wage theft by new employer",
-    "category": "financial_employment",
-    "confidence": 0.5
+    "summary": "Anger at cultural suppression",
+    "category": "Anger Management Issues",
+    "confidence": 0.6
   },
   "85": {
-    "summary": "Exhaustion from caring for sick spouse",
-    "category": "caregiver_burden",
-    "confidence": 0.55
+    "summary": "Culture shock from aging abroad",
+    "category": "Culture Shock",
+    "confidence": 0.7
   },
   "86": {
-    "summary": "Physical assault during protest",
-    "category": "violence_abuse",
-    "confidence": 0.45
+    "summary": "PTSD from cultural displacement",
+    "category": "Post-Traumatic Stress Disorder (PTSD)",
+    "confidence": 0.8
   },
   "87": {
-    "summary": "Housing discrimination lawsuit",
-    "category": "legal_housing",
-    "confidence": 0.45
+    "summary": "Chronic stress from aging and cultural isolation",
+    "category": "Chronic Stress",
+    "confidence": 0.8
   },
   "88": {
-    "summary": "Exams pressure for industrial certification",
-    "category": "academic_stress",
-    "confidence": 0.35
+    "summary": "Recovering from cultural trauma",
+    "category": "Sexual Assault or Domestic Violence Recovery",
+    "confidence": 0.5
   },
   "89": {
-    "summary": "Suicidal ideation from cumulative discrimination",
-    "category": "mental_health_crisis",
-    "confidence": 0.55
+    "summary": "Ongoing depression from unresolved grief",
+    "category": "Ongoing Depression",
+    "confidence": 0.8
   },
   "90": {
-    "summary": "Deportation threat after minor arrest",
-    "category": "immigration",
-    "confidence": 0.45
+    "summary": "Sleep disruption from cultural stress",
+    "category": "Sleep Problems",
+    "confidence": 0.7
   },
   "91": {
-    "summary": "Grief over death of Nigerian parent",
-    "category": "grief_bereavement",
-    "confidence": 0.5
+    "summary": "Grief over lost homeland",
+    "category": "Death of a Loved One",
+    "confidence": 0.8
   },
   "92": {
-    "summary": "Divorce after years of marital neglect",
-    "category": "relationship_breakup",
-    "confidence": 0.4
+    "summary": "Grief over cultural displacement",
+    "category": "Grief and Loss",
+    "confidence": 0.8
   },
   "93": {
-    "summary": "Elderly isolation after friends' deaths",
-    "category": "loneliness_isolation",
-    "confidence": 0.5
+    "summary": "Spirituality struggles amid cultural transition",
+    "category": "Spirituality and Faith",
+    "confidence": 0.7
   },
   "94": {
-    "summary": "Amputation from diabetes complications",
-    "category": "chronic_health_pain",
-    "confidence": 0.45
+    "summary": "Health problems from aging and stress",
+    "category": "Health Problems",
+    "confidence": 0.8
   },
   "95": {
-    "summary": "Wage theft by contractor",
-    "category": "financial_employment",
-    "confidence": 0.4
+    "summary": "Life transition challenges aging abroad",
+    "category": "Life Transitions (e.g., Retirement, Relocation)",
+    "confidence": 0.7
   },
   "96": {
-    "summary": "Caregiver burnout for disabled child",
-    "category": "caregiver_burden",
-    "confidence": 0.45
+    "summary": "Grief over lost homeland",
+    "category": "Grief and Loss",
+    "confidence": 0.8
   },
   "97": {
-    "summary": "Assault by racists in neighborhood",
-    "category": "violence_abuse",
-    "confidence": 0.35
+    "summary": "Grief over lost homeland",
+    "category": "Death of a Loved One",
+    "confidence": 0.8
   },
   "98": {
-    "summary": "Foreclosure threat on modest home",
-    "category": "legal_housing",
-    "confidence": 0.35
+    "summary": "Spirituality struggles amid cultural transition",
+    "category": "Spirituality and Faith",
+    "confidence": 0.7
   },
   "99": {
-    "summary": "Exams pressure for industrial certification",
-    "category": "academic_stress",
-    "confidence": 0.25
+    "summary": "Health problems from aging and stress",
+    "category": "Health Problems",
+    "confidence": 0.8
   },
   "100": {
-    "summary": "Depression crisis from cumulative discrimination",
-    "category": "mental_health_crisis",
-    "confidence": 0.45
+    "summary": "Life transition challenges aging abroad",
+    "category": "Life Transitions (e.g., Retirement, Relocation)",
+    "confidence": 0.7
   }
 }

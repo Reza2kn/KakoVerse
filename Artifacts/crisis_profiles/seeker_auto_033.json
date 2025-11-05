@@ -1,407 +1,407 @@
 {
   "20": {
-    "summary": "Academic pressure amid independence movement and family expectations.",
-    "category": "academic_stress",
+    "summary": "Navigating career beginnings amid family expectations",
+    "category": "Self-Esteem Issues",
     "confidence": 0.95
   },
   "21": {
-    "summary": "Mental strain from political uncertainty and family obligations.",
-    "category": "mental_health_crisis",
+    "summary": "Balancing traditional values with emerging independence",
+    "category": "Appearance Anxiety",
     "confidence": 0.9
   },
   "22": {
-    "summary": "Considering migration due to partition violence and instability.",
-    "category": "immigration",
-    "confidence": 0.95
+    "summary": "Career uncertainty after returning from abroad",
+    "category": "Goal Setting Issues",
+    "confidence": 0.85
   },
   "23": {
-    "summary": "Grieving loss of family in partition violence.",
-    "category": "grief_bereavement",
-    "confidence": 0.95
+    "summary": "Delays in settling into stable employment",
+    "category": "Procrastination",
+    "confidence": 0.8
   },
   "24": {
-    "summary": "Relationship ended due to political turmoil and displacement.",
-    "category": "relationship_breakup",
-    "confidence": 0.85
+    "summary": "Career Development Issues",
+    "category": "Career Development Issues",
+    "confidence": 0.9
   },
   "25": {
-    "summary": "Feeling isolated after partition-induced displacement.",
-    "category": "loneliness_isolation",
-    "confidence": 0.9
+    "summary": "Questioning societal expectations of marriage",
+    "category": "Sexual Orientation",
+    "confidence": 0.7
   },
   "26": {
-    "summary": "Chronic health issues from wartime hardships.",
-    "category": "chronic_health_pain",
-    "confidence": 0.85
+    "summary": "Coping with family health crises through self-harm",
+    "category": "Self-Harm Behaviors",
+    "confidence": 0.8
   },
   "27": {
-    "summary": "Struggling with financial stability and job insecurity.",
-    "category": "financial_employment",
-    "confidence": 0.85
+    "summary": "Isolation leading to internet overuse",
+    "category": "Internet Addiction",
+    "confidence": 0.75
   },
   "28": {
-    "summary": "Caregiver burden for displaced relatives.",
-    "category": "caregiver_burden",
-    "confidence": 0.85
+    "summary": "Bullying from traditional peers over foreign exposure",
+    "category": "School Bullying",
+    "confidence": 0.65
   },
   "29": {
-    "summary": "Trauma from partition violence and abuse.",
-    "category": "violence_abuse",
-    "confidence": 0.9
+    "summary": "Job loss during economic instability",
+    "category": "Job Crisis",
+    "confidence": 0.85
   },
   "30": {
-    "summary": "Legal battles over housing and property.",
-    "category": "legal_housing",
-    "confidence": 0.85
-  },
-  "31": {
-    "summary": "Academic stress amid nation-building efforts.",
-    "category": "academic_stress",
-    "confidence": 0.85
-  },
-  "32": {
-    "summary": "Mental health crisis from prolonged post-partition stress.",
-    "category": "mental_health_crisis",
+    "summary": "Career Development Issues",
+    "category": "Career Development Issues",
     "confidence": 0.9
   },
+  "31": {
+    "summary": "Identity conflict between Eastern/Western influences",
+    "category": "Identity Crises",
+    "confidence": 0.8
+  },
+  "32": {
+    "summary": "Academic pressure conflicting with family duties",
+    "category": "Eating Disorders",
+    "confidence": 0.7
+  },
   "33": {
-    "summary": "Considering emigration for better opportunities.",
-    "category": "immigration",
-    "confidence": 0.85
+    "summary": "Career stagnation after initial success",
+    "category": "Academic Pressure",
+    "confidence": 0.8
   },
   "34": {
-    "summary": "Grieving loss of a parent.",
-    "category": "grief_bereavement",
-    "confidence": 0.85
+    "summary": "Financial instability after sudden job loss",
+    "category": "Goal Setting Issues",
+    "confidence": 0.8
   },
   "35": {
-    "summary": "Relationship breakup amid political uncertainty.",
-    "category": "relationship_breakup",
-    "confidence": 0.8
+    "summary": "Internet addiction to combat loneliness",
+    "category": "Internet Addiction",
+    "confidence": 0.7
   },
   "36": {
-    "summary": "Isolated by political changes and personal loss.",
-    "category": "loneliness_isolation",
-    "confidence": 0.85
-  },
-  "37": {
-    "summary": "Chronic health issues from war-related stress.",
-    "category": "chronic_health_pain",
-    "confidence": 0.85
-  },
-  "38": {
-    "summary": "Financial instability due to economic downturn.",
-    "category": "financial_employment",
+    "summary": "Self-harm during career burnout",
+    "category": "Self-Harm Behaviors",
     "confidence": 0.8
   },
+  "37": {
+    "summary": "Eating disorders from perfectionism",
+    "category": "Eating Disorders",
+    "confidence": 0.7
+  },
+  "38": {
+    "summary": "Questioning identity after failed relationships",
+    "category": "Sexual Orientation",
+    "confidence": 0.7
+  },
   "39": {
-    "summary": "Caregiver burden for aging parent.",
-    "category": "caregiver_burden",
+    "summary": "Identity crisis after divorce",
+    "category": "Identity Crises",
     "confidence": 0.8
   },
   "40": {
-    "summary": "Trauma from war violence and abuse.",
-    "category": "violence_abuse",
-    "confidence": 0.85
+    "summary": "Academic pressure from family expectations",
+    "category": "Academic Pressure",
+    "confidence": 0.7
   },
   "41": {
-    "summary": "Legal housing disputes over inherited property.",
-    "category": "legal_housing",
+    "summary": "Anger over stalled career progression",
+    "category": "Anger Management Issues",
     "confidence": 0.8
   },
   "42": {
-    "summary": "Academic stress in postgraduate studies.",
-    "category": "academic_stress",
-    "confidence": 0.8
-  },
-  "43": {
-    "summary": "Mental health crisis amid political unrest.",
-    "category": "mental_health_crisis",
+    "summary": "Chronic stress from financial precarity",
+    "category": "Chronic Stress",
     "confidence": 0.85
   },
+  "43": {
+    "summary": "Personal growth stagnation after midlife",
+    "category": "Personal Growth Challenges",
+    "confidence": 0.75
+  },
   "44": {
-    "summary": "Considering emigration for career advancement.",
-    "category": "immigration",
-    "confidence": 0.8
+    "summary": "Recovering from domestic violence",
+    "category": "Sexual Assault or Domestic Violence Recovery",
+    "confidence": 0.7
   },
   "45": {
-    "summary": "Grieving loss of a parent in new country.",
-    "category": "grief_bereavement",
+    "summary": "Divorce aftermath and financial strain",
+    "category": "Breakups or Divorce",
     "confidence": 0.8
   },
   "46": {
-    "summary": "Relationship breakup due to cultural differences.",
-    "category": "relationship_breakup",
-    "confidence": 0.75
+    "summary": "Ongoing depression after career failure",
+    "category": "Ongoing Depression",
+    "confidence": 0.85
   },
   "47": {
-    "summary": "Isolated in foreign country without support network.",
-    "category": "loneliness_isolation",
-    "confidence": 0.8
+    "summary": "PTSD from past economic crises",
+    "category": "Post-Traumatic Stress Disorder (PTSD)",
+    "confidence": 0.75
   },
   "48": {
-    "summary": "Chronic health issues from immigration stress.",
-    "category": "chronic_health_pain",
-    "confidence": 0.75
+    "summary": "Sleep problems from chronic anxiety",
+    "category": "Sleep Problems",
+    "confidence": 0.8
   },
   "49": {
-    "summary": "Financial instability due to oil crisis.",
-    "category": "financial_employment",
-    "confidence": 0.75
+    "summary": "Anxiety over job security",
+    "category": "Anxiety Disorders",
+    "confidence": 0.8
   },
   "50": {
-    "summary": "Caregiver burden for aging parent in foreign country.",
-    "category": "caregiver_burden",
+    "summary": "Communication breakdowns at work",
+    "category": "Conflicts or Communication Problems",
     "confidence": 0.75
   },
   "51": {
-    "summary": "Trauma from political violence in host country.",
-    "category": "violence_abuse",
+    "summary": "Culture shock after international relocation",
+    "category": "Culture Shock",
     "confidence": 0.8
   },
   "52": {
-    "summary": "Legal housing disputes in foreign country.",
-    "category": "legal_housing",
-    "confidence": 0.75
+    "summary": "OCD from bureaucratic work stress",
+    "category": "Obsessive-Compulsive Disorder (OCD)",
+    "confidence": 0.7
   },
   "53": {
-    "summary": "Academic stress in adult education program.",
-    "category": "academic_stress",
-    "confidence": 0.75
-  },
-  "54": {
-    "summary": "Mental health crisis from cultural adjustment stress.",
-    "category": "mental_health_crisis",
+    "summary": "Debt problems from family obligations",
+    "category": "Debt Problems",
     "confidence": 0.8
   },
+  "54": {
+    "summary": "Financial instability after job loss",
+    "category": "Financial Problems",
+    "confidence": 0.85
+  },
   "55": {
-    "summary": "Considering return to home country due to aging.",
-    "category": "immigration",
+    "summary": "Bipolar disorder during retirement transition",
+    "category": "Bipolar Disorder",
     "confidence": 0.75
   },
   "56": {
-    "summary": "Grieving loss of a close friend in host country.",
-    "category": "grief_bereavement",
-    "confidence": 0.75
+    "summary": "Burnout from overwork",
+    "category": "Burnout",
+    "confidence": 0.8
   },
   "57": {
-    "summary": "Relationship breakup due to cultural differences.",
-    "category": "relationship_breakup",
-    "confidence": 0.7
+    "summary": "Motivation loss after career plateau",
+    "category": "Motivation Problems",
+    "confidence": 0.75
   },
   "58": {
-    "summary": "Isolated in foreign country without family.",
-    "category": "loneliness_isolation",
-    "confidence": 0.75
+    "summary": "Self-esteem issues from retirement",
+    "category": "Self-Esteem Issues",
+    "confidence": 0.8
   },
   "59": {
-    "summary": "Chronic health issues from aging and stress.",
-    "category": "chronic_health_pain",
-    "confidence": 0.75
+    "summary": "Procrastination in retirement planning",
+    "category": "Procrastination",
+    "confidence": 0.7
   },
   "60": {
-    "summary": "Financial difficulties due to retirement.",
-    "category": "financial_employment",
-    "confidence": 0.75
+    "summary": "Workplace stress from mandatory retirement",
+    "category": "Workplace Stress",
+    "confidence": 0.8
   },
   "61": {
-    "summary": "Caregiver burden for aging spouse.",
-    "category": "caregiver_burden",
-    "confidence": 0.75
+    "summary": "Motivation problems after spouse's death",
+    "category": "Motivation Problems",
+    "confidence": 0.8
   },
   "62": {
-    "summary": "Trauma from past abuse resurfacing.",
-    "category": "violence_abuse",
-    "confidence": 0.75
+    "summary": "Job crisis after forced retirement",
+    "category": "Job Crisis",
+    "confidence": 0.85
   },
   "63": {
-    "summary": "Legal housing disputes over property.",
-    "category": "legal_housing",
+    "summary": "Workplace stress from consulting roles",
+    "category": "Workplace Stress",
     "confidence": 0.75
   },
   "64": {
-    "summary": "Academic stress in continuing education.",
-    "category": "academic_stress",
+    "summary": "Friendship conflicts after relocation",
+    "category": "Problems with Friends",
     "confidence": 0.7
   },
   "65": {
-    "summary": "Mental health crisis from aging and isolation.",
-    "category": "mental_health_crisis",
+    "summary": "Appearance anxiety from aging",
+    "category": "Appearance Anxiety",
     "confidence": 0.8
   },
   "66": {
-    "summary": "Considering relocation for better care.",
-    "category": "immigration",
-    "confidence": 0.75
+    "summary": "Emotional fluctuations after health decline",
+    "category": "Emotional Fluctuations",
+    "confidence": 0.8
   },
   "67": {
-    "summary": "Grieving loss of a close friend.",
-    "category": "grief_bereavement",
+    "summary": "Burnout from volunteer work",
+    "category": "Burnout",
     "confidence": 0.75
   },
   "68": {
-    "summary": "Relationship breakup due to distance.",
-    "category": "relationship_breakup",
+    "summary": "Marital conflicts after relocation",
+    "category": "Marital Problems",
     "confidence": 0.7
   },
   "69": {
-    "summary": "Isolated in foreign country without family.",
-    "category": "loneliness_isolation",
+    "summary": "Parent-child conflicts over care decisions",
+    "category": "Issues with Parents",
     "confidence": 0.75
   },
   "70": {
-    "summary": "Chronic health issues from aging.",
-    "category": "chronic_health_pain",
-    "confidence": 0.75
+    "summary": "Emotional fluctuations from chronic illness",
+    "category": "Emotional Fluctuations",
+    "confidence": 0.8
   },
   "71": {
-    "summary": "Financial difficulties due to retirement.",
-    "category": "financial_employment",
-    "confidence": 0.75
-  },
-  "72": {
-    "summary": "Caregiver burden for aging spouse.",
-    "category": "caregiver_burden",
-    "confidence": 0.75
-  },
-  "73": {
-    "summary": "Trauma from past abuse.",
-    "category": "violence_abuse",
-    "confidence": 0.75
-  },
-  "74": {
-    "summary": "Legal housing disputes over property.",
-    "category": "legal_housing",
-    "confidence": 0.75
-  },
-  "75": {
-    "summary": "Academic stress in senior education program.",
-    "category": "academic_stress",
+    "summary": "Children's neglect after relocation",
+    "category": "Issues with Children",
     "confidence": 0.7
   },
+  "72": {
+    "summary": "Addictive behaviors from loneliness",
+    "category": "Addictive Behaviors (e.g., Drug Use, Gambling)",
+    "confidence": 0.65
+  },
+  "73": {
+    "summary": "Compulsive behaviors from bureaucratic habits",
+    "category": "Compulsive Behaviors",
+    "confidence": 0.7
+  },
+  "74": {
+    "summary": "Alcohol abuse from grief",
+    "category": "Alcohol Abuse",
+    "confidence": 0.7
+  },
+  "75": {
+    "summary": "Schizophrenia diagnosis in old age",
+    "category": "Schizophrenia",
+    "confidence": 0.6
+  },
   "76": {
-    "summary": "Mental health crisis from aging.",
-    "category": "mental_health_crisis",
+    "summary": "Financial problems from healthcare costs",
+    "category": "Financial Problems",
     "confidence": 0.8
   },
   "77": {
-    "summary": "Considering relocation for family.",
-    "category": "immigration",
+    "summary": "Debt from family emergencies",
+    "category": "Debt Problems",
     "confidence": 0.75
   },
   "78": {
-    "summary": "Grieving loss of a close friend.",
-    "category": "grief_bereavement",
-    "confidence": 0.75
+    "summary": "OCD from bureaucratic routines",
+    "category": "Obsessive-Compulsive Disorder (OCD)",
+    "confidence": 0.7
   },
   "79": {
-    "summary": "Relationship breakup due to distance.",
-    "category": "relationship_breakup",
+    "summary": "Bipolar disorder from retirement stress",
+    "category": "Bipolar Disorder",
     "confidence": 0.7
   },
   "80": {
-    "summary": "Isolated in foreign country without family.",
-    "category": "loneliness_isolation",
+    "summary": "Divorce aftermath in old age",
+    "category": "Breakups or Divorce",
     "confidence": 0.75
   },
   "81": {
-    "summary": "Chronic health issues from aging.",
-    "category": "chronic_health_pain",
-    "confidence": 0.75
-  },
-  "82": {
-    "summary": "Financial difficulties due to retirement.",
-    "category": "financial_employment",
-    "confidence": 0.75
-  },
-  "83": {
-    "summary": "Caregiver burden for aging spouse.",
-    "category": "caregiver_burden",
-    "confidence": 0.75
-  },
-  "84": {
-    "summary": "Trauma from past abuse.",
-    "category": "violence_abuse",
-    "confidence": 0.75
-  },
-  "85": {
-    "summary": "Legal housing disputes over property.",
-    "category": "legal_housing",
-    "confidence": 0.75
-  },
-  "86": {
-    "summary": "Academic stress in senior education program.",
-    "category": "academic_stress",
+    "summary": "Personal growth challenges after relocation",
+    "category": "Personal Growth Challenges",
     "confidence": 0.7
   },
+  "82": {
+    "summary": "Anger over societal changes",
+    "category": "Anger Management Issues",
+    "confidence": 0.7
+  },
+  "83": {
+    "summary": "Domestic violence recovery from past",
+    "category": "Sexual Assault or Domestic Violence Recovery",
+    "confidence": 0.65
+  },
+  "84": {
+    "summary": "Ongoing depression after spouse's death",
+    "category": "Ongoing Depression",
+    "confidence": 0.85
+  },
+  "85": {
+    "summary": "Culture shock from relocation",
+    "category": "Culture Shock",
+    "confidence": 0.7
+  },
+  "86": {
+    "summary": "Chronic stress from financial precarity",
+    "category": "Chronic Stress",
+    "confidence": 0.8
+  },
   "87": {
-    "summary": "Mental health crisis from aging.",
-    "category": "mental_health_crisis",
+    "summary": "Anxiety over health and isolation",
+    "category": "Anxiety Disorders",
     "confidence": 0.8
   },
   "88": {
-    "summary": "Considering relocation for better care.",
-    "category": "immigration",
-    "confidence": 0.75
+    "summary": "Sleep problems from chronic sadness",
+    "category": "Sleep Problems",
+    "confidence": 0.85
   },
   "89": {
-    "summary": "Grieving loss of a close friend.",
-    "category": "grief_bereavement",
+    "summary": "Communication conflicts with siblings",
+    "category": "Conflicts or Communication Problems",
     "confidence": 0.75
   },
   "90": {
-    "summary": "Relationship breakup due to distance.",
-    "category": "relationship_breakup",
-    "confidence": 0.7
+    "summary": "PTSD from historical upheavals",
+    "category": "Post-Traumatic Stress Disorder (PTSD)",
+    "confidence": 0.75
   },
   "91": {
-    "summary": "Isolated in foreign country without family.",
-    "category": "loneliness_isolation",
-    "confidence": 0.75
+    "summary": "Grief over spouse's death",
+    "category": "Grief and Loss",
+    "confidence": 0.9
   },
   "92": {
-    "summary": "Chronic health issues from aging.",
-    "category": "chronic_health_pain",
-    "confidence": 0.75
+    "summary": "Death of spouse after 60 years",
+    "category": "Death of a Loved One",
+    "confidence": 0.95
   },
   "93": {
-    "summary": "Financial difficulties due to retirement.",
-    "category": "financial_employment",
+    "summary": "Spirituality struggles amid isolation",
+    "category": "Spirituality and Faith",
     "confidence": 0.75
   },
   "94": {
-    "summary": "Caregiver burden for aging spouse.",
-    "category": "caregiver_burden",
-    "confidence": 0.75
+    "summary": "Health problems from aging",
+    "category": "Health Problems",
+    "confidence": 0.85
   },
   "95": {
-    "summary": "Violence from spousal loss and pandemic isolation.",
-    "category": "violence_abuse",
-    "confidence": 0.95
+    "summary": "Life Transitions (e.g., Retirement, Relocation)",
+    "category": "Life Transitions (e.g., Retirement, Relocation)",
+    "confidence": 1.0
   },
   "96": {
-    "summary": "Legal housing disputes in Bogotá.",
-    "category": "legal_housing",
+    "summary": "Grief over spouse's death",
+    "category": "Grief and Loss",
     "confidence": 0.9
   },
   "97": {
-    "summary": "Academic stress in senior education program.",
-    "category": "academic_stress",
-    "confidence": 0.7
+    "summary": "Death of spouse after 60 years",
+    "category": "Death of a Loved One",
+    "confidence": 0.95
   },
   "98": {
-    "summary": "Mental health crisis from aging and loss.",
-    "category": "mental_health_crisis",
-    "confidence": 0.9
+    "summary": "Spirituality struggles amid isolation",
+    "category": "Spirituality and Faith",
+    "confidence": 0.75
   },
   "99": {
-    "summary": "Considering relocation for better care.",
-    "category": "immigration",
-    "confidence": 0.75
+    "summary": "Health problems from aging",
+    "category": "Health Problems",
+    "confidence": 0.85
   },
   "100": {
-    "summary": "Grieving loss of a close friend.",
-    "category": "grief_bereavement",
-    "confidence": 0.75
+    "summary": "Life Transitions (e.g., Retirement, Relocation)",
+    "category": "Life Transitions (e.g., Retirement, Relocation)",
+    "confidence": 1.0
   }
 }

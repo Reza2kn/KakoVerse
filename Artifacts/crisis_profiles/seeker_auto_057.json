@@ -1,407 +1,407 @@
 {
   "20": {
-    "summary": "Recent immigration to Bangkok, struggling with cultural adjustment and business pressures.",
-    "category": "immigration",
-    "confidence": 0.9
+    "summary": "School bullying affecting self-esteem during adolescence.",
+    "category": "School Bullying",
+    "confidence": 0.3
   },
   "21": {
-    "summary": "Grief over loss of parent in Lima, feeling isolated in new country.",
-    "category": "grief_bereavement",
-    "confidence": 0.7
+    "summary": "Struggling with self-worth amid career uncertainty.",
+    "category": "Self-Esteem Issues",
+    "confidence": 0.6
   },
   "22": {
-    "summary": "Marital conflict leading to temporary separation.",
-    "category": "relationship_breakup",
-    "confidence": 0.6
+    "summary": "Procrastination delaying career advancement.",
+    "category": "Procrastination",
+    "confidence": 0.4
   },
   "23": {
-    "summary": "Loneliness due to being a foreigner in Bangkok, lacking deep local connections.",
-    "category": "loneliness_isolation",
-    "confidence": 0.8
+    "summary": "Difficulty setting achievable career goals.",
+    "category": "Goal Setting Issues",
+    "confidence": 0.5
   },
   "24": {
-    "summary": "Chronic back pain from long shop hours, affecting daily work.",
-    "category": "chronic_health_pain",
-    "confidence": 0.5
+    "summary": "Career development challenges in new business venture.",
+    "category": "Career Development Issues",
+    "confidence": 0.7
   },
   "25": {
-    "summary": "Business downturn causing financial strain and employment worries.",
-    "category": "financial_employment",
-    "confidence": 0.8
+    "summary": "Questioning sexual identity in conservative society.",
+    "category": "Sexual Orientation",
+    "confidence": 0.2
   },
   "26": {
-    "summary": "Caring for ill relative, leading to exhaustion and stress.",
-    "category": "caregiver_burden",
-    "confidence": 0.6
+    "summary": "Eating disorders due to societal pressure on appearance.",
+    "category": "Eating Disorders",
+    "confidence": 0.3
   },
   "27": {
-    "summary": "Encountered local violence, causing fear and trauma.",
-    "category": "violence_abuse",
-    "confidence": 0.4
+    "summary": "Internet addiction replacing community engagement.",
+    "category": "Internet Addiction",
+    "confidence": 0.0
   },
   "28": {
-    "summary": "Legal trouble over shop lease, causing anxiety.",
-    "category": "legal_housing",
-    "confidence": 0.7
+    "summary": "School bullying aftermath affecting adult relationships.",
+    "category": "School Bullying",
+    "confidence": 0.2
   },
   "29": {
-    "summary": "Stress from trying to learn Thai language and business practices.",
-    "category": "academic_stress",
-    "confidence": 0.5
+    "summary": "Parenting challenges with first child.",
+    "category": "Issues with Children",
+    "confidence": 0.6
   },
   "30": {
-    "summary": "Persistent low mood and lack of interest in activities.",
-    "category": "mental_health_crisis",
-    "confidence": 1.0
+    "summary": "Alcohol abuse to cope with low mood and stress.",
+    "category": "Alcohol Abuse",
+    "confidence": 0.9
   },
   "31": {
-    "summary": "Ongoing immigration paperwork and cultural adaptation challenges.",
-    "category": "immigration",
-    "confidence": 0.8
+    "summary": "Self-harm behaviors emerging from untreated depression.",
+    "category": "Self-Harm Behaviors",
+    "confidence": 0.6
   },
   "32": {
-    "summary": "Grief over death of close friend in Lima.",
-    "category": "grief_bereavement",
-    "confidence": 0.6
+    "summary": "Identity crisis between Peruvian roots and Thai life.",
+    "category": "Identity Crises",
+    "confidence": 0.7
   },
   "33": {
-    "summary": "Marital conflict leading to separation.",
-    "category": "relationship_breakup",
-    "confidence": 0.7
-  },
-  "34": {
-    "summary": "Loneliness despite family, due to being an outsider in Bangkok.",
-    "category": "loneliness_isolation",
-    "confidence": 0.8
-  },
-  "35": {
-    "summary": "Chronic joint pain from manual work, limiting business activities.",
-    "category": "chronic_health_pain",
-    "confidence": 0.6
-  },
-  "36": {
-    "summary": "Business failure threat, leading to financial instability.",
-    "category": "financial_employment",
-    "confidence": 0.9
-  },
-  "37": {
-    "summary": "Caring for aging parent, causing emotional and physical strain.",
-    "category": "caregiver_burden",
-    "confidence": 0.7
-  },
-  "38": {
-    "summary": "Victim of robbery, causing trauma and fear.",
-    "category": "violence_abuse",
-    "confidence": 0.5
-  },
-  "39": {
-    "summary": "Legal dispute over shop ownership, causing stress.",
-    "category": "legal_housing",
-    "confidence": 0.8
-  },
-  "40": {
-    "summary": "Stress from pursuing a business certification.",
-    "category": "academic_stress",
+    "summary": "Academic pressure conflicting with family obligations.",
+    "category": "Academic Pressure",
     "confidence": 0.4
   },
+  "34": {
+    "summary": "Marital strain from business stress and cultural differences.",
+    "category": "Breakups or Divorce",
+    "confidence": 0.5
+  },
+  "35": {
+    "summary": "Gambling addiction to escape financial pressures.",
+    "category": "Addictive Behaviors (e.g., Drug Use, Gambling)",
+    "confidence": 0.3
+  },
+  "36": {
+    "summary": "Compulsive behaviors disrupting family routines.",
+    "category": "Compulsive Behaviors",
+    "confidence": 0.4
+  },
+  "37": {
+    "summary": "Schizophrenia symptoms misinterpreted as cultural beliefs.",
+    "category": "Schizophrenia",
+    "confidence": 0.2
+  },
+  "38": {
+    "summary": "Marital conflicts over business decisions and parenting.",
+    "category": "Marital Problems",
+    "confidence": 0.7
+  },
+  "39": {
+    "summary": "Friendship conflicts due to cultural integration struggles.",
+    "category": "Problems with Friends",
+    "confidence": 0.6
+  },
+  "40": {
+    "summary": "Parental expectations causing generational tension.",
+    "category": "Issues with Parents",
+    "confidence": 0.7
+  },
   "41": {
-    "summary": "Relapse of depression, affecting family and business.",
-    "category": "mental_health_crisis",
-    "confidence": 0.9
+    "summary": "Emotional fluctuations from unmet personal goals.",
+    "category": "Emotional Fluctuations",
+    "confidence": 0.6
   },
   "42": {
-    "summary": "Immigration status concerns, fearing deportation.",
-    "category": "immigration",
+    "summary": "Self-doubt impacting business leadership confidence.",
+    "category": "Self-Esteem Issues",
     "confidence": 0.7
   },
   "43": {
-    "summary": "Grief over loss of a child.",
-    "category": "grief_bereavement",
-    "confidence": 0.8
+    "summary": "Appearance anxiety from societal aging pressures.",
+    "category": "Appearance Anxiety",
+    "confidence": 0.3
   },
   "44": {
-    "summary": "Divorce proceedings, causing emotional turmoil.",
-    "category": "relationship_breakup",
-    "confidence": 0.8
+    "summary": "Motivation loss affecting business productivity.",
+    "category": "Motivation Problems",
+    "confidence": 0.7
   },
   "45": {
-    "summary": "Loneliness after divorce, with few friends.",
-    "category": "loneliness_isolation",
-    "confidence": 0.8
+    "summary": "Internet addiction replacing radio and community activities.",
+    "category": "Internet Addiction",
+    "confidence": 0.0
   },
   "46": {
-    "summary": "Chronic pain from past injury, affecting mobility.",
-    "category": "chronic_health_pain",
-    "confidence": 0.7
+    "summary": "Burnout from balancing business and family demands.",
+    "category": "Burnout",
+    "confidence": 0.8
   },
   "47": {
-    "summary": "Business closure, leading to financial hardship.",
-    "category": "financial_employment",
-    "confidence": 0.9
+    "summary": "Business crisis threatening family financial stability.",
+    "category": "Job Crisis",
+    "confidence": 0.7
   },
   "48": {
-    "summary": "Caring for spouse with illness, causing burnout.",
-    "category": "caregiver_burden",
-    "confidence": 0.8
+    "summary": "Procrastination delaying retirement planning.",
+    "category": "Procrastination",
+    "confidence": 0.5
   },
   "49": {
-    "summary": "Domestic violence incident, causing fear and trauma.",
-    "category": "violence_abuse",
-    "confidence": 0.5
+    "summary": "Goal-setting conflicts between tradition and modernity.",
+    "category": "Goal Setting Issues",
+    "confidence": 0.6
   },
   "50": {
-    "summary": "Legal battle over inherited property in Lima.",
-    "category": "legal_housing",
-    "confidence": 0.7
+    "summary": "Workplace stress from managing employees and suppliers.",
+    "category": "Workplace Stress",
+    "confidence": 0.8
   },
   "51": {
-    "summary": "Stress from learning new accounting software.",
-    "category": "academic_stress",
-    "confidence": 0.4
+    "summary": "Career development stagnation in small business.",
+    "category": "Career Development Issues",
+    "confidence": 0.7
   },
   "52": {
-    "summary": "Depression due to aging and health issues.",
-    "category": "mental_health_crisis",
-    "confidence": 0.8
+    "summary": "Self-harm thoughts during depressive episodes.",
+    "category": "Self-Harm Behaviors",
+    "confidence": 0.6
   },
   "53": {
-    "summary": "Immigration status worries, considering return to Peru.",
-    "category": "immigration",
-    "confidence": 0.6
+    "summary": "Midlife identity crisis between heritage and adopted culture.",
+    "category": "Identity Crises",
+    "confidence": 0.7
   },
   "54": {
-    "summary": "Grief over death of a sibling in Lima.",
-    "category": "grief_bereavement",
-    "confidence": 0.7
+    "summary": "Eating disorders from body image pressures.",
+    "category": "Eating Disorders",
+    "confidence": 0.3
   },
   "55": {
-    "summary": "Marital conflict over financial decisions.",
-    "category": "relationship_breakup",
-    "confidence": 0.6
+    "summary": "Sexual orientation conflicts in traditional marriage.",
+    "category": "Sexual Orientation",
+    "confidence": 0.2
   },
   "56": {
-    "summary": "Loneliness after children move away.",
-    "category": "loneliness_isolation",
-    "confidence": 0.8
+    "summary": "Culture shock from aging in foreign country.",
+    "category": "Culture Shock",
+    "confidence": 0.6
   },
   "57": {
-    "summary": "Chronic arthritis pain, limiting daily activities.",
-    "category": "chronic_health_pain",
-    "confidence": 0.8
-  },
-  "58": {
-    "summary": "Retirement without sufficient savings, causing financial stress.",
-    "category": "financial_employment",
-    "confidence": 0.9
-  },
-  "59": {
-    "summary": "Caring for aging parent, leading to exhaustion.",
-    "category": "caregiver_burden",
-    "confidence": 0.8
-  },
-  "60": {
-    "summary": "Elder abuse by a caregiver, causing trauma.",
-    "category": "violence_abuse",
-    "confidence": 0.5
-  },
-  "61": {
-    "summary": "Legal dispute over inheritance with children.",
-    "category": "legal_housing",
-    "confidence": 0.7
-  },
-  "62": {
-    "summary": "Stress from learning to use the internet.",
-    "category": "academic_stress",
+    "summary": "OCD behaviors disrupting family routines.",
+    "category": "Obsessive-Compulsive Disorder (OCD)",
     "confidence": 0.4
   },
-  "63": {
-    "summary": "Depression due to declining health and isolation.",
-    "category": "mental_health_crisis",
+  "58": {
+    "summary": "Financial strain from business downturns.",
+    "category": "Financial Problems",
     "confidence": 0.8
   },
+  "59": {
+    "summary": "Debt accumulation from business investments.",
+    "category": "Debt Problems",
+    "confidence": 0.7
+  },
+  "60": {
+    "summary": "Bipolar disorder misdiagnosed as stress.",
+    "category": "Bipolar Disorder",
+    "confidence": 0.3
+  },
+  "61": {
+    "summary": "Appearance anxiety from aging in conservative society.",
+    "category": "Appearance Anxiety",
+    "confidence": 0.4
+  },
+  "62": {
+    "summary": "Motivation loss due to health decline.",
+    "category": "Motivation Problems",
+    "confidence": 0.7
+  },
+  "63": {
+    "summary": "Workplace stress from business succession planning.",
+    "category": "Workplace Stress",
+    "confidence": 0.7
+  },
   "64": {
-    "summary": "Immigration status concerns affecting travel.",
-    "category": "immigration",
+    "summary": "Job crisis from business closure.",
+    "category": "Job Crisis",
     "confidence": 0.6
   },
   "65": {
-    "summary": "Grief over death of spouse.",
-    "category": "grief_bereavement",
-    "confidence": 0.9
+    "summary": "Anger management issues from unmet expectations.",
+    "category": "Anger Management Issues",
+    "confidence": 0.5
   },
   "66": {
-    "summary": "Family conflict with adult child.",
-    "category": "relationship_breakup",
+    "summary": "Parental care conflicts with aging parents.",
+    "category": "Issues with Parents",
     "confidence": 0.6
   },
   "67": {
-    "summary": "Loneliness after spouse's death, with few friends.",
-    "category": "loneliness_isolation",
-    "confidence": 0.9
+    "summary": "Friendship conflicts over inheritance disputes.",
+    "category": "Problems with Friends",
+    "confidence": 0.5
   },
   "68": {
-    "summary": "Chronic pain from multiple conditions, affecting quality of life.",
-    "category": "chronic_health_pain",
-    "confidence": 0.8
+    "summary": "Emotional fluctuations from health decline.",
+    "category": "Emotional Fluctuations",
+    "confidence": 0.7
   },
   "69": {
-    "summary": "Retirement poverty, struggling to pay bills.",
-    "category": "financial_employment",
-    "confidence": 0.9
+    "summary": "Burnout from caregiving responsibilities.",
+    "category": "Burnout",
+    "confidence": 0.6
   },
   "70": {
-    "summary": "Caring for spouse with dementia, causing burnout.",
-    "category": "caregiver_burden",
+    "summary": "Chronic stress from managing chronic illness.",
+    "category": "Chronic Stress",
     "confidence": 0.8
   },
   "71": {
-    "summary": "Elder abuse by a family member.",
-    "category": "violence_abuse",
+    "summary": "Compulsive behaviors disrupting retirement life.",
+    "category": "Compulsive Behaviors",
     "confidence": 0.5
   },
   "72": {
-    "summary": "Legal battle over will with children.",
-    "category": "legal_housing",
-    "confidence": 0.7
+    "summary": "Schizophrenia symptoms mistaken for dementia.",
+    "category": "Schizophrenia",
+    "confidence": 0.3
   },
   "73": {
-    "summary": "Stress from learning to use a smartphone.",
-    "category": "academic_stress",
+    "summary": "Gambling addiction worsening financial strain.",
+    "category": "Addictive Behaviors (e.g., Drug Use, Gambling)",
     "confidence": 0.4
   },
   "74": {
-    "summary": "Depression due to loss of independence.",
-    "category": "mental_health_crisis",
-    "confidence": 0.8
+    "summary": "Alcohol abuse escalating from coping mechanism.",
+    "category": "Alcohol Abuse",
+    "confidence": 0.7
   },
   "75": {
-    "summary": "Immigration travel restrictions affecting visits to Peru.",
-    "category": "immigration",
-    "confidence": 0.6
+    "summary": "Marital conflicts over inheritance and care.",
+    "category": "Marital Problems",
+    "confidence": 0.7
   },
   "76": {
-    "summary": "Grief over death of a grandchild.",
-    "category": "grief_bereavement",
-    "confidence": 0.8
+    "summary": "Debt problems from medical expenses.",
+    "category": "Debt Problems",
+    "confidence": 0.7
   },
   "77": {
-    "summary": "Family conflict with adult child over inheritance.",
-    "category": "relationship_breakup",
-    "confidence": 0.6
+    "summary": "Financial insecurity in retirement.",
+    "category": "Financial Problems",
+    "confidence": 0.8
   },
   "78": {
-    "summary": "Loneliness after losing many friends.",
-    "category": "loneliness_isolation",
-    "confidence": 0.9
-  },
-  "79": {
-    "summary": "Severe arthritis pain, requiring constant care.",
-    "category": "chronic_health_pain",
-    "confidence": 0.8
-  },
-  "80": {
-    "summary": "Retirement poverty, struggling to afford basic needs.",
-    "category": "financial_employment",
-    "confidence": 0.9
-  },
-  "81": {
-    "summary": "Caregiver burden from being cared for by family.",
-    "category": "caregiver_burden",
-    "confidence": 0.7
-  },
-  "82": {
-    "summary": "Elder abuse by a caregiver.",
-    "category": "violence_abuse",
-    "confidence": 0.5
-  },
-  "83": {
-    "summary": "Legal dispute over home with children.",
-    "category": "legal_housing",
-    "confidence": 0.7
-  },
-  "84": {
-    "summary": "Stress from learning to use a computer.",
-    "category": "academic_stress",
+    "summary": "Bipolar disorder mismanaged in old age.",
+    "category": "Bipolar Disorder",
     "confidence": 0.4
   },
-  "85": {
-    "summary": "Depression due to declining health and isolation.",
-    "category": "mental_health_crisis",
-    "confidence": 0.8
+  "79": {
+    "summary": "OCD behaviors affecting daily routines.",
+    "category": "Obsessive-Compulsive Disorder (OCD)",
+    "confidence": 0.5
   },
-  "86": {
-    "summary": "Immigration travel restrictions affecting family visits.",
-    "category": "immigration",
+  "80": {
+    "summary": "Divorce conflicts over assets and care.",
+    "category": "Breakups or Divorce",
     "confidence": 0.6
   },
+  "81": {
+    "summary": "Culture shock from aging in foreign country.",
+    "category": "Culture Shock",
+    "confidence": 0.5
+  },
+  "82": {
+    "summary": "Parenting conflicts with adult children.",
+    "category": "Issues with Children",
+    "confidence": 0.7
+  },
+  "83": {
+    "summary": "Ongoing depression from unresolved grief.",
+    "category": "Ongoing Depression",
+    "confidence": 0.8
+  },
+  "84": {
+    "summary": "Personal growth stagnation in later life.",
+    "category": "Personal Growth Challenges",
+    "confidence": 0.6
+  },
+  "85": {
+    "summary": "Domestic violence recovery in old age.",
+    "category": "Sexual Assault or Domestic Violence Recovery",
+    "confidence": 0.3
+  },
+  "86": {
+    "summary": "Anxiety disorders from health decline.",
+    "category": "Anxiety Disorders",
+    "confidence": 0.7
+  },
   "87": {
-    "summary": "Grief over death of a long-time friend.",
-    "category": "grief_bereavement",
+    "summary": "Sleep problems disrupting daily life.",
+    "category": "Sleep Problems",
     "confidence": 0.7
   },
   "88": {
-    "summary": "Family conflict with adult child over care decisions.",
-    "category": "relationship_breakup",
-    "confidence": 0.6
-  },
-  "89": {
-    "summary": "Loneliness after losing most of his social circle.",
-    "category": "loneliness_isolation",
-    "confidence": 0.9
-  },
-  "90": {
-    "summary": "Chronic pain from multiple conditions, affecting daily life.",
-    "category": "chronic_health_pain",
-    "confidence": 0.8
-  },
-  "91": {
-    "summary": "Retirement poverty, struggling to pay for care.",
-    "category": "financial_employment",
-    "confidence": 0.9
-  },
-  "92": {
-    "summary": "Caregiver burden from being cared for by family.",
-    "category": "caregiver_burden",
-    "confidence": 0.7
-  },
-  "93": {
-    "summary": "Elder abuse by a family member.",
-    "category": "violence_abuse",
+    "summary": "Communication conflicts with family.",
+    "category": "Conflicts or Communication Problems",
     "confidence": 0.5
   },
-  "94": {
-    "summary": "Legal battle over will with children.",
-    "category": "legal_housing",
-    "confidence": 0.7
-  },
-  "95": {
-    "summary": "Stress from learning to use a tablet.",
-    "category": "academic_stress",
-    "confidence": 0.4
-  },
-  "96": {
-    "summary": "Depression due to declining health and loss of loved ones.",
-    "category": "mental_health_crisis",
-    "confidence": 0.8
-  },
-  "97": {
-    "summary": "Immigration travel restrictions affecting family visits.",
-    "category": "immigration",
+  "89": {
+    "summary": "Anxiety disorders from isolation.",
+    "category": "Anxiety Disorders",
     "confidence": 0.6
   },
+  "90": {
+    "summary": "PTSD from historical trauma.",
+    "category": "Post-Traumatic Stress Disorder (PTSD)",
+    "confidence": 0.3
+  },
+  "91": {
+    "summary": "Grief from losing spouse and friends.",
+    "category": "Grief and Loss",
+    "confidence": 0.8
+  },
+  "92": {
+    "summary": "Death of loved ones causing profound sadness.",
+    "category": "Death of a Loved One",
+    "confidence": 0.8
+  },
+  "93": {
+    "summary": "Spirituality conflicts with traditional beliefs.",
+    "category": "Spirituality and Faith",
+    "confidence": 0.6
+  },
+  "94": {
+    "summary": "Health problems limiting independence.",
+    "category": "Health Problems",
+    "confidence": 0.9
+  },
+  "95": {
+    "summary": "Retirement transition challenges.",
+    "category": "Life Transitions (e.g., Retirement, Relocation)",
+    "confidence": 0.8
+  },
+  "96": {
+    "summary": "Death of spouse causing deep grief.",
+    "category": "Death of a Loved One",
+    "confidence": 0.9
+  },
+  "97": {
+    "summary": "Grief from losing children and friends.",
+    "category": "Grief and Loss",
+    "confidence": 0.8
+  },
   "98": {
-    "summary": "Grief over death of a sibling.",
-    "category": "grief_bereavement",
+    "summary": "Spirituality providing comfort in old age.",
+    "category": "Spirituality and Faith",
     "confidence": 0.7
   },
   "99": {
-    "summary": "Family conflict with adult child over care.",
-    "category": "relationship_breakup",
-    "confidence": 0.6
+    "summary": "Chronic health problems requiring care.",
+    "category": "Health Problems",
+    "confidence": 0.9
   },
   "100": {
-    "summary": "Loneliness after losing most of his family.",
-    "category": "loneliness_isolation",
-    "confidence": 0.9
+    "summary": "Retirement adjustment challenges.",
+    "category": "Life Transitions (e.g., Retirement, Relocation)",
+    "confidence": 0.8
   }
 }

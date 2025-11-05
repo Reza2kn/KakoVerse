@@ -1,407 +1,407 @@
 {
   "20": {
-    "summary": "Supporting family in London during economic hardships while pursuing university studies.",
-    "category": "caregiver_burden",
-    "confidence": 0.7
-  },
-  "21": {
-    "summary": "Experiencing verbal abuse from landlord in London, leading to social withdrawal.",
-    "category": "violence_abuse",
-    "confidence": 0.6
-  },
-  "22": {
-    "summary": "Facing eviction in London due to precarious finances, seeking legal aid.",
-    "category": "legal_housing",
+    "summary": "Struggles with academic deadlines due to rumination and perfectionism.",
+    "category": "Procrastination",
     "confidence": 0.8
   },
-  "23": {
-    "summary": "Struggling with art history coursework and cultural expectations in London university.",
-    "category": "academic_stress",
+  "21": {
+    "summary": "Questioning cultural identity and academic path in a foreign country.",
+    "category": "Identity Crises",
     "confidence": 0.9
   },
+  "22": {
+    "summary": "Navigating unexplored feelings about sexual orientation in a conservative environment.",
+    "category": "Sexual Orientation",
+    "confidence": 0.6
+  },
+  "23": {
+    "summary": "Excessive online engagement as a coping mechanism for cultural isolation.",
+    "category": "Internet Addiction",
+    "confidence": 0.7
+  },
   "24": {
-    "summary": "Adjustment disorder with depressive symptoms after relocating to Taipei.",
-    "category": "mental_health_crisis",
-    "confidence": 1.0
+    "summary": "Uncertainty about career path in art history amid financial precarity.",
+    "category": "Career Development Issues",
+    "confidence": 0.9
   },
   "25": {
-    "summary": "Navigating visa renewal and cultural barriers as a British immigrant in Taipei.",
-    "category": "immigration",
-    "confidence": 1.0
+    "summary": "Self-harm behaviors emerging from prolonged adjustment disorder.",
+    "category": "Self-Harm Behaviors",
+    "confidence": 0.8
   },
   "26": {
-    "summary": "Grieving loss of a close family member in London, unable to travel due to financial constraints.",
-    "category": "grief_bereavement",
+    "summary": "Eating disorders developing from depressive symptoms and relocation stress.",
+    "category": "Eating Disorders",
     "confidence": 0.7
   },
   "27": {
-    "summary": "Ending a long-distance relationship due to cultural and distance challenges.",
-    "category": "relationship_breakup",
-    "confidence": 0.8
+    "summary": "Intensifying academic pressure affecting mental health in art history studies.",
+    "category": "Academic Pressure",
+    "confidence": 0.9
   },
   "28": {
-    "summary": "Feeling isolated in Taipei despite building a social circle, due to cultural differences.",
-    "category": "loneliness_isolation",
-    "confidence": 0.9
+    "summary": "Bullying in academic environment due to foreign accent and cultural differences.",
+    "category": "School Bullying",
+    "confidence": 0.5
   },
   "29": {
-    "summary": "Developing chronic back pain from long hours studying art history.",
-    "category": "chronic_health_pain",
-    "confidence": 0.6
+    "summary": "Continued identity confusion between British heritage and local culture.",
+    "category": "Identity Crises",
+    "confidence": 0.8
   },
   "30": {
-    "summary": "Struggling with part-time work and precarious finances in Taipei.",
-    "category": "financial_employment",
-    "confidence": 0.9
+    "summary": "Academic pressure from graduate studies or thesis work.",
+    "category": "Academic Pressure",
+    "confidence": 0.7
   },
   "31": {
-    "summary": "Caring for a sick parent back in London from afar, causing emotional strain.",
-    "category": "caregiver_burden",
-    "confidence": 0.7
+    "summary": "Exploring sexual orientation in a new cultural context.",
+    "category": "Sexual Orientation",
+    "confidence": 0.6
   },
   "32": {
-    "summary": "Experiencing workplace harassment in Taipei, avoiding confrontation due to low directness.",
-    "category": "violence_abuse",
-    "confidence": 0.8
-  },
-  "33": {
-    "summary": "Facing housing discrimination as a foreigner in Taipei, seeking legal recourse.",
-    "category": "legal_housing",
-    "confidence": 0.8
-  },
-  "34": {
-    "summary": "Pressure to complete art history thesis under academic and cultural expectations.",
-    "category": "academic_stress",
-    "confidence": 0.9
-  },
-  "35": {
-    "summary": "Experiencing depression and anxiety due to prolonged adjustment challenges in Taipei.",
-    "category": "mental_health_crisis",
-    "confidence": 0.9
-  },
-  "36": {
-    "summary": "Dealing with immigration status uncertainty and cultural integration barriers.",
-    "category": "immigration",
-    "confidence": 1.0
-  },
-  "37": {
-    "summary": "Grieving the death of a mentor in Taipei, leading to academic setbacks.",
-    "category": "grief_bereavement",
+    "summary": "Reliance on online interactions to cope with loneliness.",
+    "category": "Internet Addiction",
     "confidence": 0.7
   },
-  "38": {
-    "summary": "Ending a relationship due to incompatible life goals and cultural differences.",
-    "category": "relationship_breakup",
+  "33": {
+    "summary": "Eating disorders exacerbated by stress and cultural adjustment.",
+    "category": "Eating Disorders",
+    "confidence": 0.6
+  },
+  "34": {
+    "summary": "Self-harm behaviors as a response to chronic adjustment issues.",
+    "category": "Self-Harm Behaviors",
+    "confidence": 0.7
+  },
+  "35": {
+    "summary": "PTSD symptoms from the traumatic experience of international relocation.",
+    "category": "Post-Traumatic Stress Disorder (PTSD)",
     "confidence": 0.8
   },
+  "36": {
+    "summary": "Challenges in personal growth due to cultural and professional transitions.",
+    "category": "Personal Growth Challenges",
+    "confidence": 0.8
+  },
+  "37": {
+    "summary": "Anxiety disorders developing from chronic stress and rumination.",
+    "category": "Anxiety Disorders",
+    "confidence": 0.9
+  },
+  "38": {
+    "summary": "Anger issues arising from cultural misunderstandings and stress.",
+    "category": "Anger Management Issues",
+    "confidence": 0.7
+  },
   "39": {
-    "summary": "Feeling increasingly isolated as peers settle down, while persona remains an outsider.",
-    "category": "loneliness_isolation",
+    "summary": "Persistent depression from unresolved relocation stress.",
+    "category": "Ongoing Depression",
     "confidence": 0.9
   },
   "40": {
-    "summary": "Chronic pain from past injuries affecting daily life and work.",
-    "category": "chronic_health_pain",
-    "confidence": 0.6
+    "summary": "Recovering from an incident of sexual assault in a foreign country.",
+    "category": "Sexual Assault or Domestic Violence Recovery",
+    "confidence": 0.4
   },
   "41": {
-    "summary": "Struggling to find stable employment in art history field, leading to financial stress.",
-    "category": "financial_employment",
-    "confidence": 0.9
+    "summary": "Communication problems in relationships due to cultural barriers.",
+    "category": "Conflicts or Communication Problems",
+    "confidence": 0.8
   },
   "42": {
-    "summary": "Caring for aging parents in London and in Taipei, causing emotional and financial strain.",
-    "category": "caregiver_burden",
-    "confidence": 0.8
+    "summary": "Chronic sleep problems from ongoing adjustment disorder.",
+    "category": "Sleep Problems",
+    "confidence": 0.9
   },
   "43": {
-    "summary": "Experiencing verbal abuse from a colleague at work, leading to anxiety.",
-    "category": "violence_abuse",
-    "confidence": 0.7
+    "summary": "Chronic stress from balancing career, finances, and cultural adaptation.",
+    "category": "Chronic Stress",
+    "confidence": 0.9
   },
   "44": {
-    "summary": "Facing eviction due to rent increases and financial instability.",
-    "category": "legal_housing",
-    "confidence": 0.8
+    "summary": "Persistent culture shock affecting daily functioning.",
+    "category": "Culture Shock",
+    "confidence": 0.9
   },
   "45": {
-    "summary": "Pressure to publish research and meet academic deadlines in art history.",
-    "category": "academic_stress",
-    "confidence": 0.9
+    "summary": "Schizophrenia emerging from prolonged stress and isolation.",
+    "category": "Schizophrenia",
+    "confidence": 0.3
   },
   "46": {
-    "summary": "Experiencing severe depression and burnout from academic and cultural pressures.",
-    "category": "mental_health_crisis",
-    "confidence": 0.9
-  },
-  "47": {
-    "summary": "Dealing with immigration paperwork and cultural identity conflicts.",
-    "category": "immigration",
-    "confidence": 1.0
-  },
-  "48": {
-    "summary": "Grieving the loss of a close friend in Taipei, leading to withdrawal.",
-    "category": "grief_bereavement",
-    "confidence": 0.8
-  },
-  "49": {
-    "summary": "Ending a long-term relationship due to cultural and personal differences.",
-    "category": "relationship_breakup",
-    "confidence": 0.8
-  },
-  "50": {
-    "summary": "Feeling isolated in a foreign country without a strong local support network.",
-    "category": "loneliness_isolation",
-    "confidence": 0.9
-  },
-  "51": {
-    "summary": "Chronic pain from past injuries affecting quality of life and work.",
-    "category": "chronic_health_pain",
+    "summary": "OCD symptoms developing from perfectionism in academic and personal life.",
+    "category": "Obsessive-Compulsive Disorder (OCD)",
     "confidence": 0.6
   },
-  "52": {
-    "summary": "Struggling with unemployment and financial instability in Taipei.",
-    "category": "financial_employment",
+  "47": {
+    "summary": "Debt problems from student loans and low income.",
+    "category": "Debt Problems",
+    "confidence": 0.8
+  },
+  "48": {
+    "summary": "Financial instability due to precarious employment and relocation costs.",
+    "category": "Financial Problems",
     "confidence": 0.9
   },
+  "49": {
+    "summary": "Bipolar disorder emerging from chronic stress and adjustment issues.",
+    "category": "Bipolar Disorder",
+    "confidence": 0.4
+  },
+  "50": {
+    "summary": "Breakup from a relationship due to cultural differences and stress.",
+    "category": "Breakups or Divorce",
+    "confidence": 0.7
+  },
+  "51": {
+    "summary": "Parenting challenges with children in a bicultural household.",
+    "category": "Issues with Children",
+    "confidence": 0.8
+  },
+  "52": {
+    "summary": "Compulsive behaviors in hobbies like piano and mosaics due to stress.",
+    "category": "Compulsive Behaviors",
+    "confidence": 0.7
+  },
   "53": {
-    "summary": "Caring for a sick spouse and elderly parents, causing emotional and financial strain.",
-    "category": "caregiver_burden",
+    "summary": "Marital problems due to cultural differences and communication barriers.",
+    "category": "Marital Problems",
     "confidence": 0.8
   },
   "54": {
-    "summary": "Experiencing verbal abuse from a family member, leading to social withdrawal.",
-    "category": "violence_abuse",
+    "summary": "Alcohol abuse as a coping mechanism for chronic stress and depression.",
+    "category": "Alcohol Abuse",
     "confidence": 0.7
   },
   "55": {
-    "summary": "Facing housing discrimination and legal challenges as a foreigner in Taipei.",
-    "category": "legal_housing",
-    "confidence": 0.8
+    "summary": "Addictive behaviors emerging from stress and financial problems.",
+    "category": "Addictive Behaviors (e.g., Drug Use, Gambling)",
+    "confidence": 0.6
   },
   "56": {
-    "summary": "Pressure to mentor students and meet academic expectations in art history.",
-    "category": "academic_stress",
-    "confidence": 0.9
-  },
-  "57": {
-    "summary": "Experiencing depression and anxiety due to chronic stress and cultural isolation.",
-    "category": "mental_health_crisis",
-    "confidence": 0.9
-  },
-  "58": {
-    "summary": "Dealing with immigration status and cultural integration challenges.",
-    "category": "immigration",
-    "confidence": 1.0
-  },
-  "59": {
-    "summary": "Grieving the loss of a close family member in London, unable to travel.",
-    "category": "grief_bereavement",
+    "summary": "Job crisis due to economic downturn and industry instability.",
+    "category": "Job Crisis",
     "confidence": 0.7
   },
+  "57": {
+    "summary": "Workplace stress from demanding job and cultural adaptation.",
+    "category": "Workplace Stress",
+    "confidence": 0.8
+  },
+  "58": {
+    "summary": "Struggling with goal setting in career and personal life.",
+    "category": "Goal Setting Issues",
+    "confidence": 0.7
+  },
+  "59": {
+    "summary": "Procrastination in personal projects due to chronic stress.",
+    "category": "Procrastination",
+    "confidence": 0.6
+  },
   "60": {
-    "summary": "Ending a long-term marriage due to cultural and personal differences.",
-    "category": "relationship_breakup",
+    "summary": "Career development issues in mid-life, considering a change.",
+    "category": "Career Development Issues",
     "confidence": 0.8
   },
   "61": {
-    "summary": "Feeling isolated in old age, with limited social connections in Taipei.",
-    "category": "loneliness_isolation",
-    "confidence": 0.9
-  },
-  "62": {
-    "summary": "Chronic pain from past injuries affecting daily activities and independence.",
-    "category": "chronic_health_pain",
-    "confidence": 0.6
-  },
-  "63": {
-    "summary": "Struggling with retirement savings and financial instability in old age.",
-    "category": "financial_employment",
-    "confidence": 0.9
-  },
-  "64": {
-    "summary": "Caring for a spouse with chronic illness, causing emotional and financial strain.",
-    "category": "caregiver_burden",
-    "confidence": 0.8
-  },
-  "65": {
-    "summary": "Experiencing verbal abuse from a caregiver, leading to anxiety.",
-    "category": "violence_abuse",
+    "summary": "Job crisis due to age discrimination and economic factors.",
+    "category": "Job Crisis",
     "confidence": 0.7
   },
+  "62": {
+    "summary": "Workplace stress from long-term employment and changing industry.",
+    "category": "Workplace Stress",
+    "confidence": 0.8
+  },
+  "63": {
+    "summary": "Self-esteem issues from career stagnation and cultural identity.",
+    "category": "Self-Esteem Issues",
+    "confidence": 0.8
+  },
+  "64": {
+    "summary": "Motivation problems in personal and professional life.",
+    "category": "Motivation Problems",
+    "confidence": 0.7
+  },
+  "65": {
+    "summary": "Appearance anxiety from aging and cultural beauty standards.",
+    "category": "Appearance Anxiety",
+    "confidence": 0.6
+  },
   "66": {
-    "summary": "Facing eviction due to rent increases and financial instability.",
-    "category": "legal_housing",
+    "summary": "Marital problems due to long-term relationship strain.",
+    "category": "Marital Problems",
     "confidence": 0.8
   },
   "67": {
-    "summary": "Pressure to complete a final research project and retire from academia.",
-    "category": "academic_stress",
-    "confidence": 0.9
-  },
-  "68": {
-    "summary": "Experiencing depression and anxiety due to retirement and isolation.",
-    "category": "mental_health_crisis",
-    "confidence": 0.9
-  },
-  "69": {
-    "summary": "Dealing with immigration status and cultural identity in old age.",
-    "category": "immigration",
-    "confidence": 1.0
-  },
-  "70": {
-    "summary": "Grieving the loss of a spouse, leading to deep loneliness.",
-    "category": "grief_bereavement",
-    "confidence": 0.8
-  },
-  "71": {
-    "summary": "Ending a relationship due to health and personal differences.",
-    "category": "relationship_breakup",
+    "summary": "Problems with friends due to cultural and personal differences.",
+    "category": "Problems with Friends",
     "confidence": 0.7
   },
-  "72": {
-    "summary": "Feeling isolated in old age, with limited social connections.",
-    "category": "loneliness_isolation",
+  "68": {
+    "summary": "Emotional fluctuations from mid-life changes and stress.",
+    "category": "Emotional Fluctuations",
+    "confidence": 0.8
+  },
+  "69": {
+    "summary": "Issues with parents from cultural and generational differences.",
+    "category": "Issues with Parents",
+    "confidence": 0.7
+  },
+  "70": {
+    "summary": "Burnout from long-term career and personal stress.",
+    "category": "Burnout",
     "confidence": 0.9
   },
+  "71": {
+    "summary": "Issues with children from bicultural parenting challenges.",
+    "category": "Issues with Children",
+    "confidence": 0.8
+  },
+  "72": {
+    "summary": "Schizophrenia emerging from chronic stress and isolation.",
+    "category": "Schizophrenia",
+    "confidence": 0.4
+  },
   "73": {
-    "summary": "Chronic pain from past injuries affecting quality of life.",
-    "category": "chronic_health_pain",
+    "summary": "Addictive behaviors from mid-life stress and financial issues.",
+    "category": "Addictive Behaviors (e.g., Drug Use, Gambling)",
     "confidence": 0.6
   },
   "74": {
-    "summary": "Struggling with retirement income and financial stability.",
-    "category": "financial_employment",
-    "confidence": 0.9
-  },
-  "75": {
-    "summary": "Caring for a spouse with dementia, causing emotional and financial strain.",
-    "category": "caregiver_burden",
-    "confidence": 0.8
-  },
-  "76": {
-    "summary": "Experiencing verbal abuse from a family member, leading to social withdrawal.",
-    "category": "violence_abuse",
+    "summary": "Alcohol abuse escalating from mid-life stress.",
+    "category": "Alcohol Abuse",
     "confidence": 0.7
   },
+  "75": {
+    "summary": "Compulsive behaviors in hobbies and routines.",
+    "category": "Compulsive Behaviors",
+    "confidence": 0.7
+  },
+  "76": {
+    "summary": "Bipolar disorder from chronic stress and genetic factors.",
+    "category": "Bipolar Disorder",
+    "confidence": 0.5
+  },
   "77": {
-    "summary": "Facing eviction due to rent increases and financial instability.",
-    "category": "legal_housing",
+    "summary": "Financial problems from retirement and economic changes.",
+    "category": "Financial Problems",
     "confidence": 0.8
   },
   "78": {
-    "summary": "Pressure to mentor students and meet academic expectations in art history.",
-    "category": "academic_stress",
-    "confidence": 0.9
-  },
-  "79": {
-    "summary": "Experiencing depression and anxiety due to chronic illness and isolation.",
-    "category": "mental_health_crisis",
-    "confidence": 0.9
-  },
-  "80": {
-    "summary": "Dealing with immigration status and cultural integration in old age.",
-    "category": "immigration",
-    "confidence": 1.0
-  },
-  "81": {
-    "summary": "Grieving the loss of a close friend, leading to withdrawal.",
-    "category": "grief_bereavement",
-    "confidence": 0.8
-  },
-  "82": {
-    "summary": "Ending a relationship due to health and personal differences.",
-    "category": "relationship_breakup",
+    "summary": "Debt problems from retirement and unexpected expenses.",
+    "category": "Debt Problems",
     "confidence": 0.7
   },
-  "83": {
-    "summary": "Feeling isolated in old age, with limited social connections.",
-    "category": "loneliness_isolation",
-    "confidence": 0.9
-  },
-  "84": {
-    "summary": "Chronic pain from past injuries affecting daily activities.",
-    "category": "chronic_health_pain",
+  "79": {
+    "summary": "OCD symptoms worsening with age and stress.",
+    "category": "Obsessive-Compulsive Disorder (OCD)",
     "confidence": 0.6
   },
-  "85": {
-    "summary": "Struggling with retirement income and financial stability.",
-    "category": "financial_employment",
+  "80": {
+    "summary": "Divorce due to long-term relationship strain.",
+    "category": "Breakups or Divorce",
+    "confidence": 0.8
+  },
+  "81": {
+    "summary": "Recovering from domestic violence in later life.",
+    "category": "Sexual Assault or Domestic Violence Recovery",
+    "confidence": 0.4
+  },
+  "82": {
+    "summary": "Persistent depression from chronic stress and aging.",
+    "category": "Ongoing Depression",
     "confidence": 0.9
   },
+  "83": {
+    "summary": "Chronic sleep problems from aging and stress.",
+    "category": "Sleep Problems",
+    "confidence": 0.8
+  },
+  "84": {
+    "summary": "Personal growth challenges in later life.",
+    "category": "Personal Growth Challenges",
+    "confidence": 0.7
+  },
+  "85": {
+    "summary": "Culture shock from aging in a foreign country.",
+    "category": "Culture Shock",
+    "confidence": 0.8
+  },
   "86": {
-    "summary": "Caring for a spouse with chronic illness, causing emotional and financial strain.",
-    "category": "caregiver_burden",
+    "summary": "Communication problems with family and friends.",
+    "category": "Conflicts or Communication Problems",
     "confidence": 0.8
   },
   "87": {
-    "summary": "Experiencing verbal abuse from a family member, leading to anxiety.",
-    "category": "violence_abuse",
-    "confidence": 0.7
-  },
-  "88": {
-    "summary": "Facing eviction due to rent increases and financial instability.",
-    "category": "legal_housing",
-    "confidence": 0.8
-  },
-  "89": {
-    "summary": "Pressure to complete a final research project and retire from academia.",
-    "category": "academic_stress",
+    "summary": "Anxiety disorders from chronic stress and health concerns.",
+    "category": "Anxiety Disorders",
     "confidence": 0.9
   },
+  "88": {
+    "summary": "Anger issues from chronic stress and health problems.",
+    "category": "Anger Management Issues",
+    "confidence": 0.7
+  },
+  "89": {
+    "summary": "PTSD from past traumatic events resurfacing.",
+    "category": "Post-Traumatic Stress Disorder (PTSD)",
+    "confidence": 0.6
+  },
   "90": {
-    "summary": "Experiencing depression and anxiety due to retirement and isolation.",
-    "category": "mental_health_crisis",
+    "summary": "Chronic stress from aging and financial concerns.",
+    "category": "Chronic Stress",
     "confidence": 0.9
   },
   "91": {
-    "summary": "Dealing with immigration status and cultural identity in old age.",
-    "category": "immigration",
-    "confidence": 1.0
+    "summary": "Grief from the death of a loved one.",
+    "category": "Death of a Loved One",
+    "confidence": 0.8
   },
   "92": {
-    "summary": "Grieving the loss of a close family member, unable to travel.",
-    "category": "grief_bereavement",
-    "confidence": 0.7
+    "summary": "Grief and loss from multiple losses in later life.",
+    "category": "Grief and Loss",
+    "confidence": 0.8
   },
   "93": {
-    "summary": "Ending a relationship due to health and personal differences.",
-    "category": "relationship_breakup",
+    "summary": "Spirituality and faith crisis in later life.",
+    "category": "Spirituality and Faith",
     "confidence": 0.7
   },
   "94": {
-    "summary": "Feeling isolated in old age, with limited social connections.",
-    "category": "loneliness_isolation",
+    "summary": "Health problems from chronic conditions and aging.",
+    "category": "Health Problems",
     "confidence": 0.9
   },
   "95": {
-    "summary": "Chronic pain from past injuries affecting quality of life.",
-    "category": "chronic_health_pain",
-    "confidence": 0.6
+    "summary": "Life transitions from retirement and relocation.",
+    "category": "Life Transitions (e.g., Retirement, Relocation)",
+    "confidence": 0.8
   },
   "96": {
-    "summary": "Struggling with retirement income and financial stability.",
-    "category": "financial_employment",
-    "confidence": 0.9
+    "summary": "Grief and loss from the death of a spouse or close friend.",
+    "category": "Grief and Loss",
+    "confidence": 0.8
   },
   "97": {
-    "summary": "Caring for a spouse with dementia, causing emotional and financial strain.",
-    "category": "caregiver_burden",
-    "confidence": 0.8
+    "summary": "Death of a loved one causing profound grief.",
+    "category": "Death of a Loved One",
+    "confidence": 0.9
   },
   "98": {
-    "summary": "Experiencing verbal abuse from a family member, leading to social withdrawal.",
-    "category": "violence_abuse",
-    "confidence": 0.7
-  },
-  "99": {
-    "summary": "Facing eviction due to rent increases and financial instability.",
-    "category": "legal_housing",
+    "summary": "Spirituality and faith crisis in the face of mortality.",
+    "category": "Spirituality and Faith",
     "confidence": 0.8
   },
-  "100": {
-    "summary": "Pressure to complete a final research project and retire from academia.",
-    "category": "academic_stress",
+  "99": {
+    "summary": "Health problems from chronic conditions and aging.",
+    "category": "Health Problems",
     "confidence": 0.9
+  },
+  "100": {
+    "summary": "Life transitions from retirement and relocation to a care facility.",
+    "category": "Life Transitions (e.g., Retirement, Relocation)",
+    "confidence": 0.8
   }
 }

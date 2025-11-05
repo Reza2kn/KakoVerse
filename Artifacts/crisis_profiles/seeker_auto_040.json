@@ -1,407 +1,407 @@
 {
   "20": {
-    "summary": "Job instability during post-war LA adjustment",
-    "category": "financial_employment",
-    "confidence": 0.7
-  },
-  "21": {
-    "summary": "Family pressure to support Greek relatives",
-    "category": "caregiver_burden",
+    "summary": "Facing school bullying in Athens during 1920s frugality norms.",
+    "category": "School Bullying",
     "confidence": 0.6
   },
+  "21": {
+    "summary": "Struggling with self-esteem amid cultural displacement in LA.",
+    "category": "Self-Esteem Issues",
+    "confidence": 0.7
+  },
   "22": {
-    "summary": "Neighborhood gang conflicts in LA",
-    "category": "violence_abuse",
+    "summary": "Procrastination due to balancing woodworking and sailing ambitions.",
+    "category": "Procrastination",
     "confidence": 0.5
   },
   "23": {
-    "summary": "Housing discrimination as immigrant youth",
-    "category": "legal_housing",
+    "summary": "Goal-setting conflicts between cricket and piloting interests.",
+    "category": "Goal Setting Issues",
     "confidence": 0.6
   },
   "24": {
-    "summary": "Academic struggles balancing school/work",
-    "category": "academic_stress",
-    "confidence": 0.7
+    "summary": "Career development struggles in Sydney's multicultural job market.",
+    "category": "Career Development Issues",
+    "confidence": 0.8
   },
   "25": {
-    "summary": "Mental health crisis from cultural displacement",
-    "category": "mental_health_crisis",
-    "confidence": 0.8
+    "summary": "Eating disorders linked to family pressure in 1970s Australia.",
+    "category": "Eating Disorders",
+    "confidence": 0.4
   },
   "26": {
-    "summary": "Immigration status uncertainties",
-    "category": "immigration",
-    "confidence": 0.9
+    "summary": "Self-harm behaviors during identity conflicts in Sydney.",
+    "category": "Self-Harm Behaviors",
+    "confidence": 0.7
   },
   "27": {
-    "summary": "Bereavement after father's death in Greece",
-    "category": "grief_bereavement",
-    "confidence": 0.8
+    "summary": "Identity crises navigating Greek-Australian heritage.",
+    "category": "Identity Crises",
+    "confidence": 0.9
   },
   "28": {
-    "summary": "Marriage dissolution due to cultural differences",
-    "category": "relationship_breakup",
-    "confidence": 0.7
+    "summary": "School bullying aftermath resurfacing in adulthood.",
+    "category": "School Bullying",
+    "confidence": 0.5
   },
   "29": {
-    "summary": "Social isolation in LA immigrant community",
-    "category": "loneliness_isolation",
-    "confidence": 0.8
+    "summary": "PTSD from 1970s societal upheavals in Sydney.",
+    "category": "Post-Traumatic Stress Disorder (PTSD)",
+    "confidence": 0.6
   },
   "30": {
-    "summary": "Chronic back pain from manual labor",
-    "category": "chronic_health_pain",
-    "confidence": 0.7
-  },
-  "31": {
-    "summary": "Career stagnation in logistics field",
-    "category": "financial_employment",
+    "summary": "Culture shock adapting to Jakarta's urban intensity.",
+    "category": "Culture Shock",
     "confidence": 0.8
   },
+  "31": {
+    "summary": "Internet addiction during early Jakarta isolation.",
+    "category": "Internet Addiction",
+    "confidence": 0.3
+  },
   "32": {
-    "summary": "Caregiving strain for aging mother",
-    "category": "caregiver_burden",
-    "confidence": 0.7
+    "summary": "Sexual orientation conflicts in conservative Jakarta.",
+    "category": "Sexual Orientation",
+    "confidence": 0.4
   },
   "33": {
-    "summary": "Workplace harassment in Sydney",
-    "category": "violence_abuse",
-    "confidence": 0.6
+    "summary": "Academic pressure from language-learning pursuits.",
+    "category": "Academic Pressure",
+    "confidence": 0.5
   },
   "34": {
-    "summary": "Rental disputes with landlords",
-    "category": "legal_housing",
-    "confidence": 0.7
+    "summary": "Ongoing depression from unfulfilled creative ambitions.",
+    "category": "Ongoing Depression",
+    "confidence": 0.9
   },
   "35": {
-    "summary": "Academic pressure pursuing certification",
-    "category": "academic_stress",
-    "confidence": 0.6
+    "summary": "Debt problems from career instability in Sydney.",
+    "category": "Debt Problems",
+    "confidence": 0.7
   },
   "36": {
-    "summary": "Depression from career setbacks",
-    "category": "mental_health_crisis",
+    "summary": "Financial precarity after job loss in Jakarta.",
+    "category": "Financial Problems",
     "confidence": 0.9
   },
   "37": {
-    "summary": "Citizenship application delays",
-    "category": "immigration",
-    "confidence": 0.8
+    "summary": "OCD tendencies in logistics work routines.",
+    "category": "Obsessive-Compulsive Disorder (OCD)",
+    "confidence": 0.6
   },
   "38": {
-    "summary": "Bereavement after friend's suicide",
-    "category": "grief_bereavement",
+    "summary": "Bipolar episodes amid climate anxiety and rumination.",
+    "category": "Bipolar Disorder",
     "confidence": 0.7
   },
   "39": {
-    "summary": "Divorce proceedings",
-    "category": "relationship_breakup",
-    "confidence": 0.8
+    "summary": "Breakups from relationship strain in Jakarta.",
+    "category": "Breakups or Divorce",
+    "confidence": 0.5
   },
   "40": {
-    "summary": "Isolation during Sydney relocation",
-    "category": "loneliness_isolation",
+    "summary": "Parental conflicts over immigration choices.",
+    "category": "Issues with Children",
     "confidence": 0.7
   },
   "41": {
-    "summary": "Arthritis from woodworking hobby",
-    "category": "chronic_health_pain",
-    "confidence": 0.6
+    "summary": "Alcohol abuse escalating to cope with depression.",
+    "category": "Alcohol Abuse",
+    "confidence": 0.8
   },
   "42": {
-    "summary": "Financial strain from Sydney housing costs",
-    "category": "financial_employment",
-    "confidence": 0.8
+    "summary": "Marital problems from isolation and financial stress.",
+    "category": "Marital Problems",
+    "confidence": 0.6
   },
   "43": {
-    "summary": "Caregiving for sick spouse",
-    "category": "caregiver_burden",
-    "confidence": 0.7
+    "summary": "Compulsive behaviors in woodworking routines.",
+    "category": "Compulsive Behaviors",
+    "confidence": 0.6
   },
   "44": {
-    "summary": "Domestic conflict with partner",
-    "category": "violence_abuse",
-    "confidence": 0.6
+    "summary": "Schizophrenia unlikely without psychotic symptoms.",
+    "category": "Schizophrenia",
+    "confidence": 0.2
   },
   "45": {
-    "summary": "Foreclosure threats on home",
-    "category": "legal_housing",
-    "confidence": 0.7
-  },
-  "46": {
-    "summary": "Academic pressure from language studies",
-    "category": "academic_stress",
-    "confidence": 0.6
-  },
-  "47": {
-    "summary": "Burnout from overwork",
-    "category": "mental_health_crisis",
+    "summary": "Goal-setting issues after career restructuring.",
+    "category": "Goal Setting Issues",
     "confidence": 0.8
   },
+  "46": {
+    "summary": "Addictive gambling from financial desperation.",
+    "category": "Addictive Behaviors (e.g., Drug Use, Gambling)",
+    "confidence": 0.5
+  },
+  "47": {
+    "summary": "Friendship conflicts in Jakarta's expat community.",
+    "category": "Problems with Friends",
+    "confidence": 0.6
+  },
   "48": {
-    "summary": "Immigration status challenges in Indonesia",
-    "category": "immigration",
-    "confidence": 0.9
+    "summary": "Emotional fluctuations from chronic stress.",
+    "category": "Emotional Fluctuations",
+    "confidence": 0.7
   },
   "49": {
-    "summary": "Bereavement after cat's death",
-    "category": "grief_bereavement",
+    "summary": "Parental conflicts over family expectations.",
+    "category": "Issues with Parents",
     "confidence": 0.7
   },
   "50": {
-    "summary": "Relationship breakdown with partner",
-    "category": "relationship_breakup",
+    "summary": "Motivation problems after job loss.",
+    "category": "Motivation Problems",
     "confidence": 0.8
   },
   "51": {
-    "summary": "Social isolation in Jakarta",
-    "category": "loneliness_isolation",
-    "confidence": 0.8
+    "summary": "Burnout from logistics job demands.",
+    "category": "Burnout",
+    "confidence": 0.9
   },
   "52": {
-    "summary": "Gastrointestinal issues from stress",
-    "category": "chronic_health_pain",
+    "summary": "Self-esteem issues amid aging and isolation.",
+    "category": "Self-Esteem Issues",
     "confidence": 0.7
   },
   "53": {
-    "summary": "Job loss after company restructuring",
-    "category": "financial_employment",
-    "confidence": 0.9
+    "summary": "Appearance anxiety from chronic depression.",
+    "category": "Appearance Anxiety",
+    "confidence": 0.6
   },
   "54": {
-    "summary": "Caregiving strain for aging parent",
-    "category": "caregiver_burden",
-    "confidence": 0.7
+    "summary": "Procrastination in retirement planning.",
+    "category": "Procrastination",
+    "confidence": 0.5
   },
   "55": {
-    "summary": "Neighborhood violence exposure",
-    "category": "violence_abuse",
-    "confidence": 0.6
+    "summary": "Job crisis after restructuring in Jakarta.",
+    "category": "Job Crisis",
+    "confidence": 0.9
   },
   "56": {
-    "summary": "Housing discrimination claims",
-    "category": "legal_housing",
-    "confidence": 0.7
+    "summary": "Anxiety disorders from climate and financial stress.",
+    "category": "Anxiety Disorders",
+    "confidence": 0.8
   },
   "57": {
-    "summary": "Academic pressure from language certification",
-    "category": "academic_stress",
-    "confidence": 0.6
+    "summary": "Personal growth challenges in late career.",
+    "category": "Personal Growth Challenges",
+    "confidence": 0.7
   },
   "58": {
-    "summary": "Depression from career stagnation",
-    "category": "mental_health_crisis",
-    "confidence": 0.8
+    "summary": "Sexual assault recovery unlikely without trauma history.",
+    "category": "Sexual Assault or Domestic Violence Recovery",
+    "confidence": 0.2
   },
   "59": {
-    "summary": "Immigration status renewal stress",
-    "category": "immigration",
-    "confidence": 0.8
+    "summary": "Sleep problems from depression and rumination.",
+    "category": "Sleep Problems",
+    "confidence": 0.9
   },
   "60": {
-    "summary": "Bereavement after friend's death",
-    "category": "grief_bereavement",
+    "summary": "Conflicts with family over expectations.",
+    "category": "Conflicts or Communication Problems",
     "confidence": 0.7
   },
   "61": {
-    "summary": "Relationship breakup with partner",
-    "category": "relationship_breakup",
-    "confidence": 0.8
+    "summary": "Motivation problems amid aging and isolation.",
+    "category": "Motivation Problems",
+    "confidence": 0.6
   },
   "62": {
-    "summary": "Social isolation in Jakarta",
-    "category": "loneliness_isolation",
-    "confidence": 0.8
+    "summary": "Appearance anxiety from aging and depression.",
+    "category": "Appearance Anxiety",
+    "confidence": 0.6
   },
   "63": {
-    "summary": "Chronic pain from arthritis",
-    "category": "chronic_health_pain",
-    "confidence": 0.7
+    "summary": "Job crisis after repeated restructuring.",
+    "category": "Job Crisis",
+    "confidence": 0.8
   },
   "64": {
-    "summary": "Financial strain from job loss",
-    "category": "financial_employment",
+    "summary": "Workplace stress from precarious employment.",
+    "category": "Workplace Stress",
     "confidence": 0.8
   },
   "65": {
-    "summary": "Caregiver burden for aging spouse",
-    "category": "caregiver_burden",
-    "confidence": 0.7
+    "summary": "Chronic stress from financial precarity.",
+    "category": "Chronic Stress",
+    "confidence": 0.9
   },
   "66": {
-    "summary": "Domestic conflict with partner",
-    "category": "violence_abuse",
+    "summary": "Friendship conflicts due to social isolation.",
+    "category": "Problems with Friends",
     "confidence": 0.6
   },
   "67": {
-    "summary": "Housing disputes with landlord",
-    "category": "legal_housing",
+    "summary": "Emotional fluctuations from depression.",
+    "category": "Emotional Fluctuations",
     "confidence": 0.7
   },
   "68": {
-    "summary": "Academic pressure from language studies",
-    "category": "academic_stress",
-    "confidence": 0.6
+    "summary": "Parental conflicts over aging and care.",
+    "category": "Issues with Parents",
+    "confidence": 0.7
   },
   "69": {
-    "summary": "Depression from chronic illness",
-    "category": "mental_health_crisis",
+    "summary": "Burnout from long-term job stress.",
+    "category": "Burnout",
     "confidence": 0.8
   },
   "70": {
-    "summary": "Immigration status renewal stress",
-    "category": "immigration",
-    "confidence": 0.8
+    "summary": "Anger management issues from chronic stress.",
+    "category": "Anger Management Issues",
+    "confidence": 0.6
   },
   "71": {
-    "summary": "Bereavement after spouse's death",
-    "category": "grief_bereavement",
-    "confidence": 0.7
+    "summary": "Alcohol abuse escalating to dependence.",
+    "category": "Alcohol Abuse",
+    "confidence": 0.8
   },
   "72": {
-    "summary": "Relationship breakup with partner",
-    "category": "relationship_breakup",
-    "confidence": 0.8
+    "summary": "Compulsive behaviors in woodworking.",
+    "category": "Compulsive Behaviors",
+    "confidence": 0.6
   },
   "73": {
-    "summary": "Social isolation in Jakarta",
-    "category": "loneliness_isolation",
-    "confidence": 0.8
+    "summary": "Addictive gambling from financial desperation.",
+    "category": "Addictive Behaviors (e.g., Drug Use, Gambling)",
+    "confidence": 0.5
   },
   "74": {
-    "summary": "Chronic pain from arthritis",
-    "category": "chronic_health_pain",
-    "confidence": 0.7
+    "summary": "Marital problems from isolation and stress.",
+    "category": "Marital Problems",
+    "confidence": 0.6
   },
   "75": {
-    "summary": "Financial strain from job loss",
-    "category": "financial_employment",
-    "confidence": 0.8
+    "summary": "Schizophrenia unlikely without psychotic symptoms.",
+    "category": "Schizophrenia",
+    "confidence": 0.2
   },
   "76": {
-    "summary": "Caregiver burden for aging parent",
-    "category": "caregiver_burden",
+    "summary": "Bipolar episodes amid chronic stress.",
+    "category": "Bipolar Disorder",
     "confidence": 0.7
   },
   "77": {
-    "summary": "Neighborhood violence exposure",
-    "category": "violence_abuse",
+    "summary": "OCD tendencies in routine management.",
+    "category": "Obsessive-Compulsive Disorder (OCD)",
     "confidence": 0.6
   },
   "78": {
-    "summary": "Housing discrimination claims",
-    "category": "legal_housing",
-    "confidence": 0.7
+    "summary": "Debt problems from financial precarity.",
+    "category": "Debt Problems",
+    "confidence": 0.8
   },
   "79": {
-    "summary": "Academic pressure from language certification",
-    "category": "academic_stress",
-    "confidence": 0.6
+    "summary": "Financial problems from job instability.",
+    "category": "Financial Problems",
+    "confidence": 0.9
   },
   "80": {
-    "summary": "Depression from chronic illness",
-    "category": "mental_health_crisis",
-    "confidence": 0.8
+    "summary": "Breakups from relationship strain.",
+    "category": "Breakups or Divorce",
+    "confidence": 0.5
   },
   "81": {
-    "summary": "Immigration status renewal stress",
-    "category": "immigration",
-    "confidence": 0.8
+    "summary": "Conflicts with friends over social isolation.",
+    "category": "Conflicts or Communication Problems",
+    "confidence": 0.6
   },
   "82": {
-    "summary": "Bereavement after friend's death",
-    "category": "grief_bereavement",
+    "summary": "Personal growth challenges in aging.",
+    "category": "Personal Growth Challenges",
     "confidence": 0.7
   },
   "83": {
-    "summary": "Relationship breakup with partner",
-    "category": "relationship_breakup",
-    "confidence": 0.8
+    "summary": "PTSD from past career disruptions.",
+    "category": "Post-Traumatic Stress Disorder (PTSD)",
+    "confidence": 0.6
   },
   "84": {
-    "summary": "Social isolation in Jakarta",
-    "category": "loneliness_isolation",
+    "summary": "Culture shock adapting to Jakarta's urban intensity.",
+    "category": "Culture Shock",
     "confidence": 0.8
   },
   "85": {
-    "summary": "Chronic pain from arthritis",
-    "category": "chronic_health_pain",
+    "summary": "Parental conflicts over aging and care.",
+    "category": "Issues with Children",
     "confidence": 0.7
   },
   "86": {
-    "summary": "Financial strain from job loss",
-    "category": "financial_employment",
-    "confidence": 0.8
+    "summary": "Ongoing depression from chronic stress.",
+    "category": "Ongoing Depression",
+    "confidence": 0.9
   },
   "87": {
-    "summary": "Caregiver burden for aging spouse",
-    "category": "caregiver_burden",
-    "confidence": 0.7
+    "summary": "Sleep problems from depression.",
+    "category": "Sleep Problems",
+    "confidence": 0.9
   },
   "88": {
-    "summary": "Domestic conflict with partner",
-    "category": "violence_abuse",
-    "confidence": 0.6
+    "summary": "Anxiety disorders from financial precarity.",
+    "category": "Anxiety Disorders",
+    "confidence": 0.8
   },
   "89": {
-    "summary": "Housing disputes with landlord",
-    "category": "legal_housing",
-    "confidence": 0.7
+    "summary": "Sexual assault recovery unlikely without trauma history.",
+    "category": "Sexual Assault or Domestic Violence Recovery",
+    "confidence": 0.2
   },
   "90": {
-    "summary": "Academic pressure from language studies",
-    "category": "academic_stress",
-    "confidence": 0.6
+    "summary": "Chronic stress from financial precarity.",
+    "category": "Chronic Stress",
+    "confidence": 0.9
   },
   "91": {
-    "summary": "Depression from chronic illness",
-    "category": "mental_health_crisis",
-    "confidence": 0.8
+    "summary": "Grief over lost career opportunities.",
+    "category": "Death of a Loved One",
+    "confidence": 0.5
   },
   "92": {
-    "summary": "Immigration status renewal stress",
-    "category": "immigration",
-    "confidence": 0.8
-  },
-  "93": {
-    "summary": "Bereavement after spouse's death",
-    "category": "grief_bereavement",
+    "summary": "Grief from career disruption.",
+    "category": "Grief and Loss",
     "confidence": 0.7
   },
+  "93": {
+    "summary": "Spirituality as coping for existential crisis.",
+    "category": "Spirituality and Faith",
+    "confidence": 0.6
+  },
   "94": {
-    "summary": "Relationship breakup with partner",
-    "category": "relationship_breakup",
+    "summary": "Health problems from gastrointestinal issues.",
+    "category": "Health Problems",
     "confidence": 0.8
   },
   "95": {
-    "summary": "Social isolation in Jakarta",
-    "category": "loneliness_isolation",
-    "confidence": 0.8
+    "summary": "Life transitions from job loss.",
+    "category": "Life Transitions (e.g., Retirement, Relocation)",
+    "confidence": 0.7
   },
   "96": {
-    "summary": "Chronic pain from arthritis",
-    "category": "chronic_health_pain",
-    "confidence": 0.7
+    "summary": "Grief over aging and isolation.",
+    "category": "Death of a Loved One",
+    "confidence": 0.5
   },
   "97": {
-    "summary": "Financial strain from job loss",
-    "category": "financial_employment",
-    "confidence": 0.8
-  },
-  "98": {
-    "summary": "Caregiver burden for aging parent",
-    "category": "caregiver_burden",
+    "summary": "Grief from chronic depression.",
+    "category": "Grief and Loss",
     "confidence": 0.7
   },
-  "99": {
-    "summary": "Neighborhood violence exposure",
-    "category": "violence_abuse",
+  "98": {
+    "summary": "Spirituality as coping for existential crisis.",
+    "category": "Spirituality and Faith",
     "confidence": 0.6
   },
+  "99": {
+    "summary": "Health problems from chronic stress.",
+    "category": "Health Problems",
+    "confidence": 0.8
+  },
   "100": {
-    "summary": "",
-    "category": "legal_housing",
-    "confidence": 0.75
+    "summary": "Life transitions from aging and retirement.",
+    "category": "Life Transitions (e.g., Retirement, Relocation)",
+    "confidence": 0.7
   }
 }

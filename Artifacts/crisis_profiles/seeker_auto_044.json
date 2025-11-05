@@ -1,407 +1,407 @@
 {
   "20": {
-    "summary": "Depressive episode after family displacement and brother's death in evacuation accident.",
-    "category": "academic_stress",
-    "confidence": 0.3
+    "summary": "Bullied in school in Jakarta, exacerbated by recent family displacement.",
+    "category": "School Bullying",
+    "confidence": 0.6
   },
   "21": {
-    "summary": "Persistent grief over brother's death amid herring market collapse and war news.",
-    "category": "mental_health_crisis",
+    "summary": "Struggling with self-worth after brother's death and family displacement.",
+    "category": "Self-Esteem Issues",
     "confidence": 0.9
   },
   "22": {
-    "summary": "Adjusting to Icelandic fishing life after forced immigration from Indonesia.",
-    "category": "immigration",
+    "summary": "Avoiding fishing duties due to grief and withdrawal.",
+    "category": "Procrastination",
     "confidence": 0.8
   },
   "23": {
-    "summary": "Grief over brother's death strains family bonds in tight-knit fishing community.",
-    "category": "grief_bereavement",
-    "confidence": 0.9
+    "summary": "Unable to set future goals after brother's death and upheaval.",
+    "category": "Goal Setting Issues",
+    "confidence": 0.8
   },
   "24": {
-    "summary": "Romantic relationship strain due to financial instability and mental health stigma.",
-    "category": "relationship_breakup",
-    "confidence": 0.6
+    "summary": "Career stuck due to herring market decline and trauma.",
+    "category": "Career Development Issues",
+    "confidence": 0.9
   },
   "25": {
-    "summary": "Isolation from family activities due to guilt and depression in shared cottage.",
-    "category": "loneliness_isolation",
-    "confidence": 0.8
+    "summary": "Questioning sexual orientation amid wartime isolation.",
+    "category": "Sexual Orientation",
+    "confidence": 0.7
   },
   "26": {
-    "summary": "Chronic back pain from fishing work amid precarious employment.",
-    "category": "chronic_health_pain",
-    "confidence": 0.7
+    "summary": "Identity crisis after family displacement and brother's death.",
+    "category": "Identity Crises",
+    "confidence": 0.9
   },
   "27": {
-    "summary": "Financial hardship from herring market decline affecting family expenses.",
-    "category": "financial_employment",
-    "confidence": 0.9
+    "summary": "Eating disorders from prolonged grief and loss.",
+    "category": "Eating Disorders",
+    "confidence": 0.8
   },
   "28": {
-    "summary": "Caregiving burden for aging parents in overcrowded shared cottage.",
-    "category": "caregiver_burden",
-    "confidence": 0.7
+    "summary": "Past school bullying resurfaces during current trauma.",
+    "category": "School Bullying",
+    "confidence": 0.6
   },
   "29": {
-    "summary": "Verbal abuse from community over perceived failure in fishing income.",
-    "category": "violence_abuse",
-    "confidence": 0.4
+    "summary": "Debt problems from herring market decline and family expenses.",
+    "category": "Debt Problems",
+    "confidence": 0.8
   },
   "30": {
-    "summary": "Housing insecurity due to precarious employment and family overcrowding.",
-    "category": "legal_housing",
-    "confidence": 0.6
+    "summary": "Mood swings between despair and fleeting hope.",
+    "category": "Bipolar Disorder",
+    "confidence": 0.7
   },
   "31": {
-    "summary": "Struggling to learn new fishing techniques amid market decline.",
-    "category": "academic_stress",
-    "confidence": 0.5
+    "summary": "Addiction to radio for distraction from grief.",
+    "category": "Internet Addiction",
+    "confidence": 0.7
   },
   "32": {
-    "summary": "Mental health crisis from unresolved grief and community stigma.",
-    "category": "mental_health_crisis",
-    "confidence": 0.9
+    "summary": "Self-harm urges during intense grief.",
+    "category": "Self-Harm Behaviors",
+    "confidence": 0.8
   },
   "33": {
-    "summary": "Adjusting to post-war immigration challenges in Iceland.",
-    "category": "immigration",
-    "confidence": 0.8
+    "summary": "Pressure to maintain family archives amid chaos.",
+    "category": "Academic Pressure",
+    "confidence": 0.7
   },
   "34": {
-    "summary": "Bereavement over brother's death resurfaces during fishing season.",
-    "category": "grief_bereavement",
-    "confidence": 0.9
+    "summary": "OCD-like rituals to preserve traditions.",
+    "category": "Obsessive-Compulsive Disorder (OCD)",
+    "confidence": 0.8
   },
   "35": {
-    "summary": "Relationship breakdown due to financial stress and depression.",
-    "category": "relationship_breakup",
-    "confidence": 0.7
+    "summary": "Relationship strain due to grief and displacement.",
+    "category": "Breakups or Divorce",
+    "confidence": 0.8
   },
   "36": {
-    "summary": "Loneliness from withdrawal during fishing expeditions.",
-    "category": "loneliness_isolation",
-    "confidence": 0.7
+    "summary": "Strained relationship with children after brother's death.",
+    "category": "Issues with Children",
+    "confidence": 0.8
   },
   "37": {
-    "summary": "Financial strain from medical bills for chronic fishing injuries.",
-    "category": "chronic_health_pain",
-    "confidence": 0.8
+    "summary": "Hallucinations of brother's presence during grief.",
+    "category": "Schizophrenia",
+    "confidence": 0.7
   },
   "38": {
-    "summary": "Caregiver burden for sick siblings amid economic hardship.",
-    "category": "financial_employment",
-    "confidence": 0.7
-  },
-  "39": {
-    "summary": "Community conflict over fishing quotas and resource scarcity.",
-    "category": "caregiver_burden",
-    "confidence": 0.5
-  },
-  "40": {
-    "summary": "Housing disputes with neighbors over shared cottage space.",
-    "category": "violence_abuse",
-    "confidence": 0.6
-  },
-  "41": {
-    "summary": "Academic pressure to modernize fishing methods despite traditional values.",
-    "category": "legal_housing",
-    "confidence": 0.4
-  },
-  "42": {
-    "summary": "Mental health crisis from accumulated war trauma and grief.",
-    "category": "academic_stress",
-    "confidence": 0.9
-  },
-  "43": {
-    "summary": "Immigration status challenges in post-war Iceland.",
-    "category": "mental_health_crisis",
-    "confidence": 0.7
-  },
-  "44": {
-    "summary": "Bereavement over loss of elderly relatives in community.",
-    "category": "immigration",
+    "summary": "Alcohol use to cope with grief and loss.",
+    "category": "Alcohol Abuse",
     "confidence": 0.8
   },
+  "39": {
+    "summary": "Marital strain from shared grief and financial stress.",
+    "category": "Marital Problems",
+    "confidence": 0.8
+  },
+  "40": {
+    "summary": "Gambling to escape grief and financial hardship.",
+    "category": "Addictive Behaviors (e.g., Drug Use, Gambling)",
+    "confidence": 0.8
+  },
+  "41": {
+    "summary": "Compulsive fishing rituals to cope with loss.",
+    "category": "Compulsive Behaviors",
+    "confidence": 0.8
+  },
+  "42": {
+    "summary": "Friendship strain due to withdrawal and grief.",
+    "category": "Problems with Friends",
+    "confidence": 0.8
+  },
+  "43": {
+    "summary": "Parent-child conflict over family displacement.",
+    "category": "Issues with Parents",
+    "confidence": 0.8
+  },
+  "44": {
+    "summary": "Emotional swings between guilt and despair.",
+    "category": "Emotional Fluctuations",
+    "confidence": 0.9
+  },
   "45": {
-    "summary": "Relationship strain from long fishing seasons and depression.",
-    "category": "grief_bereavement",
-    "confidence": 0.6
+    "summary": "Identity crisis after decades of displacement.",
+    "category": "Identity Crises",
+    "confidence": 0.9
   },
   "46": {
-    "summary": "Isolation during solo fishing voyages.",
-    "category": "relationship_breakup",
+    "summary": "Anxiety over weathered appearance from fishing.",
+    "category": "Appearance Anxiety",
     "confidence": 0.7
   },
   "47": {
-    "summary": "Chronic pain from decades of fishing affecting family duties.",
-    "category": "loneliness_isolation",
-    "confidence": 0.8
+    "summary": "Burnout from fishing and family responsibilities.",
+    "category": "Burnout",
+    "confidence": 0.9
   },
   "48": {
-    "summary": "Financial insecurity from aging fishing fleet and market changes.",
-    "category": "chronic_health_pain",
+    "summary": "Lack of motivation for fishing and family duties.",
+    "category": "Motivation Problems",
     "confidence": 0.8
   },
   "49": {
-    "summary": "Caregiver burden for disabled spouse.",
-    "category": "financial_employment",
-    "confidence": 0.7
+    "summary": "Low self-esteem after brother's death and displacement.",
+    "category": "Self-Esteem Issues",
+    "confidence": 0.9
   },
   "50": {
-    "summary": "Community disputes over fishing rights and resources.",
-    "category": "caregiver_burden",
-    "confidence": 0.6
+    "summary": "Inability to set goals after long-term trauma.",
+    "category": "Goal Setting Issues",
+    "confidence": 0.8
   },
   "51": {
-    "summary": "Housing concerns over cottage maintenance and family expansion.",
-    "category": "violence_abuse",
-    "confidence": 0.6
+    "summary": "Procrastination in addressing family and work issues.",
+    "category": "Procrastination",
+    "confidence": 0.8
   },
   "52": {
-    "summary": "Academic pressure to document family history and traditions.",
-    "category": "legal_housing",
-    "confidence": 0.5
+    "summary": "Job loss threat due to herring market decline.",
+    "category": "Job Crisis",
+    "confidence": 0.9
   },
   "53": {
-    "summary": "Mental health crisis from unresolved grief and isolation.",
-    "category": "academic_stress",
+    "summary": "Workplace stress from dangerous fishing and loss.",
+    "category": "Workplace Stress",
     "confidence": 0.9
   },
   "54": {
-    "summary": "Immigration legacy challenges for children.",
-    "category": "mental_health_crisis",
-    "confidence": 0.7
-  },
-  "55": {
-    "summary": "Bereavement over loss of spouse.",
-    "category": "immigration",
+    "summary": "Stagnant career due to herring market decline.",
+    "category": "Career Development Issues",
     "confidence": 0.9
   },
-  "56": {
-    "summary": "Relationship strain from children leaving home.",
-    "category": "grief_bereavement",
-    "confidence": 0.6
+  "55": {
+    "summary": "Addiction to radio for news and distraction.",
+    "category": "Internet Addiction",
+    "confidence": 0.7
   },
-  "57": {
-    "summary": "Loneliness after children move away.",
-    "category": "relationship_breakup",
+  "56": {
+    "summary": "Struggle for personal growth after brother's death.",
+    "category": "Personal Growth Challenges",
     "confidence": 0.8
   },
+  "57": {
+    "summary": "Recovering from domestic violence during evacuation.",
+    "category": "Sexual Assault or Domestic Violence Recovery",
+    "confidence": 0.7
+  },
   "58": {
-    "summary": "Chronic pain from aging affecting fishing work.",
-    "category": "loneliness_isolation",
+    "summary": "Anger outbursts over brother's death and loss.",
+    "category": "Anger Management Issues",
     "confidence": 0.8
   },
   "59": {
-    "summary": "Financial strain from retirement and healthcare costs.",
-    "category": "chronic_health_pain",
+    "summary": "Culture shock from Jakarta to Iceland, exacerbated by war.",
+    "category": "Culture Shock",
     "confidence": 0.8
   },
   "60": {
-    "summary": "Caregiver burden for grandchildren.",
-    "category": "financial_employment",
-    "confidence": 0.7
+    "summary": "Financial instability from herring market decline.",
+    "category": "Financial Problems",
+    "confidence": 0.9
   },
   "61": {
-    "summary": "Community conflicts over local fishing regulations.",
-    "category": "caregiver_burden",
-    "confidence": 0.6
+    "summary": "Anxiety over aging appearance in fishing community.",
+    "category": "Appearance Anxiety",
+    "confidence": 0.7
   },
   "62": {
-    "summary": "Housing concerns over cottage safety and maintenance.",
-    "category": "violence_abuse",
-    "confidence": 0.6
+    "summary": "Lack of motivation for fishing and family.",
+    "category": "Motivation Problems",
+    "confidence": 0.8
   },
   "63": {
-    "summary": "Academic pressure to teach traditions to grandchildren.",
-    "category": "legal_housing",
-    "confidence": 0.5
+    "summary": "Workplace stress from fishing and family responsibilities.",
+    "category": "Workplace Stress",
+    "confidence": 0.9
   },
   "64": {
-    "summary": "Mental health crisis from accumulated losses.",
-    "category": "academic_stress",
+    "summary": "Job loss due to herring market collapse.",
+    "category": "Job Crisis",
     "confidence": 0.9
   },
   "65": {
-    "summary": "Immigration identity struggles in old age.",
-    "category": "mental_health_crisis",
-    "confidence": 0.7
+    "summary": "Communication problems with family over grief.",
+    "category": "Conflicts or Communication Problems",
+    "confidence": 0.8
   },
   "66": {
-    "summary": "Bereavement over loss of lifelong friends.",
-    "category": "immigration",
+    "summary": "Caregiver stress for aging parents.",
+    "category": "Issues with Parents",
     "confidence": 0.8
   },
   "67": {
-    "summary": "Relationship strain from dementia diagnosis.",
-    "category": "grief_bereavement",
-    "confidence": 0.7
-  },
-  "68": {
-    "summary": "Loneliness from declining health.",
-    "category": "relationship_breakup",
-    "confidence": 0.9
-  },
-  "69": {
-    "summary": "Chronic pain from arthritis affecting daily life.",
-    "category": "loneliness_isolation",
+    "summary": "Emotional fluctuations due to aging and past trauma.",
+    "category": "Emotional Fluctuations",
     "confidence": 0.8
   },
+  "68": {
+    "summary": "Friendship strain due to isolation and grief.",
+    "category": "Problems with Friends",
+    "confidence": 0.8
+  },
+  "69": {
+    "summary": "Burnout from long-term fishing career.",
+    "category": "Burnout",
+    "confidence": 0.9
+  },
   "70": {
-    "summary": "Financial insecurity from fixed income and rising costs.",
-    "category": "chronic_health_pain",
+    "summary": "Anxiety disorders from past trauma and aging.",
+    "category": "Anxiety Disorders",
     "confidence": 0.8
   },
   "71": {
-    "summary": "Caregiver burden for disabled spouse.",
-    "category": "financial_employment",
-    "confidence": 0.7
+    "summary": "Gambling addiction to escape aging and grief.",
+    "category": "Addictive Behaviors (e.g., Drug Use, Gambling)",
+    "confidence": 0.8
   },
   "72": {
-    "summary": "Community disputes over local resources.",
-    "category": "caregiver_burden",
-    "confidence": 0.6
+    "summary": "Alcohol abuse to cope with aging and loss.",
+    "category": "Alcohol Abuse",
+    "confidence": 0.8
   },
   "73": {
-    "summary": "Housing concerns over cottage safety.",
-    "category": "violence_abuse",
-    "confidence": 0.6
+    "summary": "Marital strain from long-term grief and aging.",
+    "category": "Marital Problems",
+    "confidence": 0.8
   },
   "74": {
-    "summary": "Academic pressure to preserve family archives.",
-    "category": "legal_housing",
-    "confidence": 0.5
-  },
-  "75": {
-    "summary": "Mental health crisis from isolation and grief.",
-    "category": "academic_stress",
-    "confidence": 0.9
-  },
-  "76": {
-    "summary": "Immigration legacy acceptance in old age.",
-    "category": "mental_health_crisis",
+    "summary": "Schizophrenia symptoms emerging in old age.",
+    "category": "Schizophrenia",
     "confidence": 0.7
   },
+  "75": {
+    "summary": "Compulsive rituals to maintain family traditions.",
+    "category": "Compulsive Behaviors",
+    "confidence": 0.8
+  },
+  "76": {
+    "summary": "Debt problems from medical expenses and aging.",
+    "category": "Debt Problems",
+    "confidence": 0.8
+  },
   "77": {
-    "summary": "Bereavement over loss of spouse.",
-    "category": "immigration",
-    "confidence": 0.9
+    "summary": "OCD symptoms worsening with age.",
+    "category": "Obsessive-Compulsive Disorder (OCD)",
+    "confidence": 0.8
   },
   "78": {
-    "summary": "Relationship strain from children's distance.",
-    "category": "grief_bereavement",
-    "confidence": 0.6
-  },
-  "79": {
-    "summary": "Loneliness from declining health.",
-    "category": "relationship_breakup",
+    "summary": "Financial instability from retirement and health costs.",
+    "category": "Financial Problems",
     "confidence": 0.9
   },
+  "79": {
+    "summary": "Bipolar disorder emerging in old age.",
+    "category": "Bipolar Disorder",
+    "confidence": 0.7
+  },
   "80": {
-    "summary": "Chronic pain from aging affecting mobility.",
-    "category": "loneliness_isolation",
+    "summary": "Divorce or breakup after long-term marriage.",
+    "category": "Breakups or Divorce",
     "confidence": 0.8
   },
   "81": {
-    "summary": "Financial insecurity from retirement and healthcare.",
-    "category": "chronic_health_pain",
-    "confidence": 0.8
+    "summary": "Culture shock from retirement and relocation.",
+    "category": "Culture Shock",
+    "confidence": 0.7
   },
   "82": {
-    "summary": "Caregiver burden for grandchildren.",
-    "category": "financial_employment",
-    "confidence": 0.7
+    "summary": "Strained relationship with adult children.",
+    "category": "Issues with Children",
+    "confidence": 0.8
   },
   "83": {
-    "summary": "Community disputes over local resources.",
-    "category": "caregiver_burden",
-    "confidence": 0.6
+    "summary": "Chronic stress from aging and past trauma.",
+    "category": "Chronic Stress",
+    "confidence": 0.8
   },
   "84": {
-    "summary": "Housing concerns over cottage maintenance.",
-    "category": "violence_abuse",
-    "confidence": 0.6
+    "summary": "Sleep problems from anxiety and aging.",
+    "category": "Sleep Problems",
+    "confidence": 0.8
   },
   "85": {
-    "summary": "Academic pressure to document family history.",
-    "category": "legal_housing",
-    "confidence": 0.5
+    "summary": "PTSD from brother's death and evacuation.",
+    "category": "Post-Traumatic Stress Disorder (PTSD)",
+    "confidence": 0.9
   },
   "86": {
-    "summary": "Mental health crisis from accumulated losses.",
-    "category": "academic_stress",
-    "confidence": 0.9
+    "summary": "Communication problems with family and friends.",
+    "category": "Conflicts or Communication Problems",
+    "confidence": 0.8
   },
   "87": {
-    "summary": "Immigration identity struggles in old age.",
-    "category": "mental_health_crisis",
-    "confidence": 0.7
+    "summary": "Anxiety disorders from aging and trauma.",
+    "category": "Anxiety Disorders",
+    "confidence": 0.8
   },
   "88": {
-    "summary": "Bereavement over loss of spouse.",
-    "category": "immigration",
-    "confidence": 0.9
+    "summary": "Struggle for personal growth in old age.",
+    "category": "Personal Growth Challenges",
+    "confidence": 0.8
   },
   "89": {
-    "summary": "Relationship strain from dementia.",
-    "category": "grief_bereavement",
-    "confidence": 0.7
+    "summary": "Ongoing depression from past trauma.",
+    "category": "Ongoing Depression",
+    "confidence": 0.9
   },
   "90": {
-    "summary": "Loneliness from declining health.",
-    "category": "relationship_breakup",
+    "summary": "Persistent depression from brother's death.",
+    "category": "Ongoing Depression",
     "confidence": 0.9
   },
   "91": {
-    "summary": "Chronic pain from aging affecting daily life.",
-    "category": "loneliness_isolation",
+    "summary": "Grief after death of spouse or child.",
+    "category": "Death of a Loved One",
     "confidence": 0.8
   },
   "92": {
-    "summary": "Financial insecurity from fixed income.",
-    "category": "chronic_health_pain",
+    "summary": "Grief and loss from recent death.",
+    "category": "Grief and Loss",
     "confidence": 0.8
   },
   "93": {
-    "summary": "Caregiver burden for disabled spouse.",
-    "category": "financial_employment",
-    "confidence": 0.7
+    "summary": "Spirituality and faith in coping with aging.",
+    "category": "Spirituality and Faith",
+    "confidence": 0.8
   },
   "94": {
-    "summary": "Community disputes over local resources.",
-    "category": "caregiver_burden",
-    "confidence": 0.6
-  },
-  "95": {
-    "summary": "Housing concerns over cottage safety.",
-    "category": "violence_abuse",
-    "confidence": 0.6
-  },
-  "96": {
-    "summary": "Academic pressure to preserve family archives.",
-    "category": "legal_housing",
-    "confidence": 0.5
-  },
-  "97": {
-    "summary": "Mental health crisis from isolation and grief.",
-    "category": "academic_stress",
+    "summary": "Health problems from aging and fishing injuries.",
+    "category": "Health Problems",
     "confidence": 0.9
   },
+  "95": {
+    "summary": "Retirement transition and relocation.",
+    "category": "Life Transitions (e.g., Retirement, Relocation)",
+    "confidence": 0.8
+  },
+  "96": {
+    "summary": "Grief and loss from death of loved one.",
+    "category": "Grief and Loss",
+    "confidence": 0.8
+  },
+  "97": {
+    "summary": "Death of spouse or child.",
+    "category": "Death of a Loved One",
+    "confidence": 0.8
+  },
   "98": {
-    "summary": "Immigration legacy acceptance in old age.",
-    "category": "mental_health_crisis",
-    "confidence": 0.7
+    "summary": "Spirituality and faith in old age.",
+    "category": "Spirituality and Faith",
+    "confidence": 0.8
   },
   "99": {
-    "summary": "Bereavement over loss of spouse.",
-    "category": "immigration",
+    "summary": "Health problems from aging.",
+    "category": "Health Problems",
     "confidence": 0.9
   },
   "100": {
-    "summary": "Loneliness from declining health.",
-    "category": "grief_bereavement",
-    "confidence": 0.6
+    "summary": "Retirement and relocation.",
+    "category": "Life Transitions (e.g., Retirement, Relocation)",
+    "confidence": 0.8
   }
 }

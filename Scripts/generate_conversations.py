@@ -3,28 +3,32 @@
 Generate multi-turn conversations between Seeker and Supporter agents using OpenRouter.
 
 Each persona card receives one conversation thread of 15-20 turns. Seeker and
-Supporter run in separate OpenRouter contexts (Seeker: alibaba/tongyi-deepresearch-30b-a3b:free,
-Supporter: minimax/minimax-m2:free). For every Seeker message, we generate three
+Supporter run in separate OpenRouter contexts (default: minimax/minimax-m2:free
+for both roles). Every persona is assigned a unique age/category pairing from the
+crisis plan before generation, ensuring balanced coverage. For every Seeker
+message, we generate three
 Supporter variants (baseline, empathetic, cold) to drive empathy reward modelling.
 """
 
 from __future__ import annotations
 
 import argparse
+import copy
 import json
 import os
 import random
 import sys
 import time
+from collections import defaultdict
 from dataclasses import dataclass
 from pathlib import Path
-from typing import Dict, List, Optional, Sequence
+from typing import Dict, List, Optional, Sequence, Tuple
 
 import re
 import requests
 
 OPENROUTER_ENDPOINT = "https://openrouter.ai/api/v1/chat/completions"
-DEFAULT_SEEKER_MODEL = "alibaba/tongyi-deepresearch-30b-a3b:free"
+DEFAULT_SEEKER_MODEL = "minimax/minimax-m2:free"
 DEFAULT_SUPPORTER_MODEL = "minimax/minimax-m2:free"
 
 RESPONSE_STYLES = (
@@ -53,10 +57,12 @@ RESPONSE_STYLES = (
 DEFAULT_MIN_TURNS = 15
 DEFAULT_MAX_TURNS = 20
 MAX_AGENT_ATTEMPTS = 5
-DEFAULT_SLEEP = 2.0
-DEFAULT_JITTER = 1.0
-DEFAULT_REQUEST_INTERVAL = 1.2
-DEFAULT_REQUEST_JITTER = 0.6
+DEFAULT_SLEEP = 1.2
+DEFAULT_JITTER = 0.6
+DEFAULT_SEEKER_REQUEST_INTERVAL = 1.2
+DEFAULT_SEEKER_REQUEST_JITTER = 0.3
+DEFAULT_SUPPORTER_REQUEST_INTERVAL = 0.4
+DEFAULT_SUPPORTER_REQUEST_JITTER = 0.15
 THOUGHT_START_TAG = "<THOUGHT>"
 THOUGHT_END_TAG = "</THOUGHT>"
 MESSAGE_START_TAG = "<MESSAGE>"
@@ -72,6 +78,7 @@ FORMAT_TEMPLATE_EXAMPLE = (
     "</MESSAGE>\n"
     "Do not add other text before or after these tags."
 )
+FALLBACK_THOUGHT_TEXT = "Auto-generated thought because model omitted required tags."
 
 RETRY_DELAY_RE = re.compile(r"retry_delay\s*{\s*seconds:\s*([0-9]+)")
 RETRY_DELAY_ALT_RE = re.compile(r"Please retry in\s+([0-9.]+)s")
@@ -282,6 +289,246 @@ def parse_reasoned_output(payload: str) -> Dict[str, str]:
     return {"thought": thought, "message": message}
 
 
+def best_effort_parse_reasoned_output(payload: str) -> Optional[Dict[str, str]]:
+    """Attempt to split reasoning even when closing tags are missing."""
+
+    cleaned = strip_code_fences(payload).strip()
+    if not cleaned:
+        return None
+
+    thought = ""
+    thought_match = re.search(
+        rf"{re.escape(THOUGHT_START_TAG)}\s*(.*?)\s*{re.escape(THOUGHT_END_TAG)}",
+        cleaned,
+        flags=re.DOTALL,
+    )
+    if thought_match:
+        thought = thought_match.group(1).strip()
+
+    message_block: Optional[str] = None
+    if MESSAGE_START_TAG in cleaned:
+        after_start = cleaned.split(MESSAGE_START_TAG, 1)[1]
+        if MESSAGE_END_TAG in after_start:
+            message_block = after_start.split(MESSAGE_END_TAG, 1)[0]
+        else:
+            message_block = after_start
+    if message_block is None:
+        return None
+    message = message_block.strip()
+    if not message:
+        return None
+    return {"thought": thought, "message": message}
+
+
+def build_persona_catalog(
+    category_plan: Dict[str, Dict[str, str]]
+) -> Tuple[Dict[str, Dict[str, List[int]]], Dict[str, List[int]]]:
+    if not category_plan:
+        raise ValueError("Crisis category plan is empty.")
+
+    persona_catalog: Dict[str, Dict[str, List[int]]] = {}
+    category_age_pool: Dict[str, set[int]] = defaultdict(set)
+
+    for persona_id, mapping in category_plan.items():
+        category_map: Dict[str, List[int]] = defaultdict(list)
+        for age_str, category in mapping.items():
+            try:
+                age = int(age_str)
+            except (TypeError, ValueError):  # noqa: F841
+                continue
+            category_key = str(category).strip().lower()
+            if not category_key:
+                continue
+            category_map[category_key].append(age)
+            category_age_pool[category_key].add(age)
+        for ages in category_map.values():
+            ages.sort()
+        persona_catalog[persona_id] = category_map
+
+    pooled_sorted: Dict[str, List[int]] = {
+        category: sorted(ages) for category, ages in category_age_pool.items()
+    }
+    if not pooled_sorted:
+        raise ValueError("Unable to derive category pools from crisis plan.")
+    return persona_catalog, pooled_sorted
+
+
+def create_conversation_schedule(
+    *,
+    persona_ids: Sequence[str],
+    persona_catalog: Dict[str, Dict[str, List[int]]],
+    category_age_pool: Dict[str, List[int]],
+    min_per_category: int,
+    rng: random.Random,
+    seed_value: Optional[int],
+    max_attempts: int = 1000,
+) -> Dict[str, object]:
+    if min_per_category < 1:
+        raise ValueError("min_per_category must be at least 1.")
+
+    persona_ids = list(persona_ids)
+    categories = sorted(category_age_pool.keys())
+    if not categories:
+        raise ValueError("No categories available to schedule.")
+
+    target_counts: Dict[str, int] = {}
+    total_needed = len(persona_ids)
+    total_base = 0
+
+    for category in categories:
+        available_unique_ages = len(category_age_pool[category])
+        base = min(min_per_category, available_unique_ages)
+        target_counts[category] = base
+        total_base += base
+
+    if total_base > total_needed:
+        reducible = sorted(
+            ((count, category) for category, count in target_counts.items()),
+            reverse=True,
+        )
+        idx = 0
+        while total_base > total_needed and idx < len(reducible):
+            _, category = reducible[idx]
+            if target_counts[category] > 0:
+                target_counts[category] -= 1
+                total_base -= 1
+            else:
+                idx += 1
+        if total_base > total_needed:
+            raise ValueError("Not enough capacity to meet requested persona count.")
+
+    remaining = total_needed - total_base
+    expandable = [
+        category
+        for category in categories
+        if target_counts[category] < len(category_age_pool[category])
+    ]
+    while remaining > 0 and expandable:
+        category = rng.choice(expandable)
+        target_counts[category] += 1
+        remaining -= 1
+        if target_counts[category] >= len(category_age_pool[category]):
+            expandable.remove(category)
+
+    if remaining > 0:
+        raise ValueError("Unable to allocate enough unique ages for all personas.")
+
+    for attempt in range(1, max_attempts + 1):
+        rng.shuffle(persona_ids)
+        remaining_counts = dict(target_counts)
+        used_ages: set[int] = set()
+        assignments: Dict[str, Dict[str, object]] = {}
+        success = True
+
+        for persona_id in persona_ids:
+            category_map = persona_catalog.get(persona_id, {})
+            options: List[Tuple[str, List[int]]] = []
+            for category in categories:
+                if remaining_counts.get(category, 0) <= 0:
+                    continue
+                age_options = [
+                    age
+                    for age in category_map.get(category, [])
+                    if age not in used_ages
+                ]
+                if age_options:
+                    options.append((category, age_options))
+            if not options:
+                success = False
+                break
+            category, age_options = rng.choice(options)
+            age = rng.choice(age_options)
+            assignments[persona_id] = {"age": int(age), "category": category}
+            used_ages.add(age)
+            remaining_counts[category] -= 1
+
+        if success and all(count == 0 for count in remaining_counts.values()):
+            category_actual = defaultdict(int)
+            for entry in assignments.values():
+                category_actual[str(entry["category"]).lower()] += 1
+            return {
+                "meta": {
+                    "persona_count": len(persona_ids),
+                    "seed": seed_value,
+                    "min_per_category": min_per_category,
+                    "target_counts": target_counts,
+                    "actual_counts": dict(category_actual),
+                    "attempts": attempt,
+                },
+                "assignments": assignments,
+            }
+
+    raise ValueError("Failed to generate conversation schedule after multiple attempts.")
+
+
+def load_or_create_conversation_schedule(
+    *,
+    schedule_path: Path,
+    persona_ids: Sequence[str],
+    persona_catalog: Dict[str, Dict[str, List[int]]],
+    category_age_pool: Dict[str, List[int]],
+    min_per_category: int,
+    rng: random.Random,
+    seed_value: Optional[int],
+) -> Dict[str, Dict[str, object]]:
+    persona_ids = list(persona_ids)
+
+    if schedule_path.exists():
+        with schedule_path.open("r", encoding="utf-8") as handle:
+            data = json.load(handle)
+        assignments = data.get("assignments", {})
+        valid = True
+        used_ages: set[int] = set()
+        if assignments:
+            for persona_id in persona_ids:
+                entry = assignments.get(persona_id)
+                if not isinstance(entry, dict):
+                    valid = False
+                    break
+                try:
+                    age = int(entry.get("age"))
+                except (TypeError, ValueError):
+                    valid = False
+                    break
+                category = str(entry.get("category", "")).strip().lower()
+                if not category:
+                    valid = False
+                    break
+                persona_map = persona_catalog.get(persona_id)
+                if (
+                    not persona_map
+                    or category not in persona_map
+                    or age not in persona_map[category]
+                ):
+                    valid = False
+                    break
+                if age in used_ages:
+                    valid = False
+                    break
+                used_ages.add(age)
+        else:
+            valid = False
+        if valid and len(assignments) >= len(persona_ids):
+            return {pid: assignments[pid] for pid in persona_ids}
+        print(
+            "[info] Existing conversation schedule missing data or duplicates; regenerating."
+        )
+
+    schedule = create_conversation_schedule(
+        persona_ids=persona_ids,
+        persona_catalog=persona_catalog,
+        category_age_pool=category_age_pool,
+        min_per_category=min_per_category,
+        rng=rng,
+        seed_value=seed_value,
+    )
+    schedule_path.parent.mkdir(parents=True, exist_ok=True)
+    with schedule_path.open("w", encoding="utf-8") as handle:
+        json.dump(schedule, handle, ensure_ascii=False, indent=2)
+        handle.write("\n")
+    return schedule["assignments"]
+
+
 def load_text(path: Path) -> str:
     with path.open("r", encoding="utf-8") as handle:
         return handle.read()
@@ -445,10 +692,12 @@ def generate_seeker_message(
             last_error = err
             if attempt == MAX_AGENT_ATTEMPTS:
                 print(f"[warn] Forcing fallback formatting for seeker output: {err}")
-                fallback_thought = (
-                    "Auto-generated thought: original response lacked required tags."
-                )
-                return {"thought": fallback_thought, "message": cleaned}
+                parsed_fallback = best_effort_parse_reasoned_output(cleaned)
+                if parsed_fallback:
+                    if not parsed_fallback["thought"]:
+                        parsed_fallback["thought"] = FALLBACK_THOUGHT_TEXT
+                    return parsed_fallback
+                return {"thought": FALLBACK_THOUGHT_TEXT, "message": cleaned}
             time.sleep(1.0)
             continue
         if not parsed["message"]:
@@ -541,12 +790,26 @@ def generate_supporter_variants(
                     print(
                         f"[warn] Forcing fallback formatting for supporter ({style['label']}): {err}"
                     )
+                    parsed_fallback = best_effort_parse_reasoned_output(cleaned)
+                    if parsed_fallback:
+                        thought_text = (
+                            parsed_fallback["thought"] or FALLBACK_THOUGHT_TEXT
+                        )
+                        variants.append(
+                            {
+                                "style": style["label"],
+                                "care_level": round(care_level, 2),
+                                "message": parsed_fallback["message"],
+                                "thought": thought_text,
+                            }
+                        )
+                        break
                     variants.append(
                         {
                             "style": style["label"],
                             "care_level": round(care_level, 2),
                             "message": cleaned,
-                            "thought": "Auto-generated thought because model omitted required tags.",
+                            "thought": FALLBACK_THOUGHT_TEXT,
                         }
                     )
                     break
@@ -684,21 +947,6 @@ def build_arg_parser() -> argparse.ArgumentParser:
         help="Skip personas whose conversation output already exists.",
     )
     parser.add_argument(
-        "--min-request-interval",
-        type=float,
-        default=DEFAULT_REQUEST_INTERVAL,
-        help=(
-            "Minimum seconds between successive OpenRouter calls. "
-            "Increase this if you still encounter rate limits."
-        ),
-    )
-    parser.add_argument(
-        "--request-jitter",
-        type=float,
-        default=DEFAULT_REQUEST_JITTER,
-        help="Additional random jitter applied to the inter-request delay.",
-    )
-    parser.add_argument(
         "--crisis-profiles-dir",
         type=Path,
         default=Path("Artifacts/crisis_profiles"),
@@ -709,6 +957,48 @@ def build_arg_parser() -> argparse.ArgumentParser:
         type=Path,
         default=Path("Artifacts/crisis_category_plan.json"),
         help="JSON plan mapping persona IDs to age→category assignments.",
+    )
+    parser.add_argument(
+        "--seeker-request-interval",
+        type=float,
+        default=DEFAULT_SEEKER_REQUEST_INTERVAL,
+        help="Seconds between seeker model calls (default balances free-tier limit).",
+    )
+    parser.add_argument(
+        "--seeker-request-jitter",
+        type=float,
+        default=DEFAULT_SEEKER_REQUEST_JITTER,
+        help="Random jitter added to seeker interval.",
+    )
+    parser.add_argument(
+        "--supporter-request-interval",
+        type=float,
+        default=DEFAULT_SUPPORTER_REQUEST_INTERVAL,
+        help="Seconds between supporter model calls (default ≈0.4s).",
+    )
+    parser.add_argument(
+        "--supporter-request-jitter",
+        type=float,
+        default=DEFAULT_SUPPORTER_REQUEST_JITTER,
+        help="Random jitter added to supporter interval.",
+    )
+    parser.add_argument(
+        "--conversation-schedule",
+        type=Path,
+        default=Path("Artifacts/conversation_schedule.json"),
+        help="Schedule assigning personas to unique ages/categories. Auto-created if missing.",
+    )
+    parser.add_argument(
+        "--schedule-seed",
+        type=int,
+        default=None,
+        help="Seed for generating a new conversation schedule (defaults to --seed).",
+    )
+    parser.add_argument(
+        "--min-category-count",
+        type=int,
+        default=6,
+        help="Minimum appearances per crisis category when creating the schedule.",
     )
     return parser
 
@@ -738,14 +1028,48 @@ def main(argv: Sequence[str] | None = None) -> int:
     except (FileNotFoundError, ValueError) as err:
         parser.error(str(err))
         return 1
+    try:
+        persona_catalog, category_age_pool = build_persona_catalog(category_plan)
+    except ValueError as err:
+        parser.error(str(err))
+        return 1
 
-    persona_files = sorted(args.personas_dir.glob("*.json"))
-    if args.offset:
-        persona_files = persona_files[args.offset :]
-    if args.limit:
-        persona_files = persona_files[: args.limit]
-    if not persona_files:
+    persona_paths_all = sorted(args.personas_dir.glob("*.json"))
+    if not persona_paths_all:
         parser.error(f"No persona JSON files found in {args.personas_dir}")
+        return 1
+
+    persona_cache: Dict[str, Dict[str, object]] = {}
+    persona_records_all: List[Tuple[Path, str]] = []
+    for path in persona_paths_all:
+        persona = load_json(path)
+        persona_id = str(persona.get("id") or path.stem)
+        persona_cache[persona_id] = persona
+        persona_records_all.append((path, persona_id))
+
+    persona_ids_all = [persona_id for _, persona_id in persona_records_all]
+
+    schedule_seed = (
+        args.schedule_seed if args.schedule_seed is not None else args.seed
+    )
+    schedule_rng = random.Random(schedule_seed)
+    conversation_schedule = load_or_create_conversation_schedule(
+        schedule_path=args.conversation_schedule,
+        persona_ids=persona_ids_all,
+        persona_catalog=persona_catalog,
+        category_age_pool=category_age_pool,
+        min_per_category=args.min_category_count,
+        rng=schedule_rng,
+        seed_value=schedule_seed,
+    )
+
+    persona_records = persona_records_all
+    if args.offset:
+        persona_records = persona_records[args.offset :]
+    if args.limit:
+        persona_records = persona_records[: args.limit]
+    if not persona_records:
+        parser.error("No personas to process after applying offset/limit.")
         return 1
 
     output_dir: Path = args.output_dir
@@ -753,15 +1077,19 @@ def main(argv: Sequence[str] | None = None) -> int:
 
     crisis_profiles_dir: Path = args.crisis_profiles_dir
 
-    throttler = RequestThrottler(
-        min_interval=args.min_request_interval,
-        jitter=args.request_jitter,
+    seeker_throttler = RequestThrottler(
+        min_interval=args.seeker_request_interval,
+        jitter=args.seeker_request_jitter,
+        rng=rng,
+    )
+    supporter_throttler = RequestThrottler(
+        min_interval=args.supporter_request_interval,
+        jitter=args.supporter_request_jitter,
         rng=rng,
     )
 
-    for index, persona_path in enumerate(persona_files, start=1):
-        persona = load_json(persona_path)
-        persona_id = str(persona.get("id") or persona_path.stem)
+    for index, (persona_path, persona_id) in enumerate(persona_records, start=1):
+        persona = copy.deepcopy(persona_cache[persona_id])
         output_path = output_dir / f"{persona_id}.json"
         if args.skip_existing and output_path.exists():
             print(f"[skip] {persona_id} already has a conversation.")
@@ -777,13 +1105,27 @@ def main(argv: Sequence[str] | None = None) -> int:
             print(f"[warn] {err}; skipping {persona_id}.")
             continue
 
-        age_keys = sorted(map(int, category_map.keys()))
-        if not age_keys:
-            print(f"[warn] Empty category plan for {persona_id}; skipping.")
+        assignment = conversation_schedule.get(persona_id)
+        if not assignment:
+            print(f"[warn] No conversation schedule entry for {persona_id}; skipping.")
             continue
-        selected_age = age_keys[index % len(age_keys)]
+        selected_age = int(assignment.get("age"))
         age_str = str(selected_age)
-        selected_category = category_map[age_str]
+        selected_category = str(assignment.get("category", "")).lower()
+        planned_category = str(category_map.get(age_str, "")).lower()
+        if not planned_category:
+            print(
+                f"[warn] Category plan missing age {age_str} for {persona_id}; skipping."
+            )
+            continue
+        if selected_category and selected_category != planned_category:
+            print(
+                f"[warn] Schedule/category mismatch for {persona_id} age {age_str}; "
+                f"using planned category {planned_category}."
+            )
+            selected_category = planned_category
+        else:
+            selected_category = planned_category
         crisis_entry = crisis_profile.get(age_str)
         if not crisis_entry:
             print(
@@ -808,7 +1150,7 @@ def main(argv: Sequence[str] | None = None) -> int:
 
         turn_target = rng.randint(args.min_turns, args.max_turns)
         print(
-            f"[{index}/{len(persona_files)}] Persona {persona_id}: generating "
+            f"[{index}/{len(persona_records)}] Persona {persona_id}: generating "
             f"{turn_target} turns."
         )
 
@@ -837,7 +1179,7 @@ def main(argv: Sequence[str] | None = None) -> int:
                     system_prompt=seeker_system,
                     history=seeker_history,
                     rng=rng,
-                    throttler=throttler,
+                    throttler=seeker_throttler,
                 )
             except ConversationError as err:
                 print(f"[warn] Stopping early for {persona_id}: {err}")
@@ -854,7 +1196,7 @@ def main(argv: Sequence[str] | None = None) -> int:
                     history=supporter_history,
                     seeker_message=seeker_message,
                     rng=rng,
-                    throttler=throttler,
+                    throttler=supporter_throttler,
                 )
             except ConversationError as err:
                 print(f"[warn] Stopping early for {persona_id}: {err}")

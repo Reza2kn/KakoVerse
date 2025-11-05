@@ -1,407 +1,407 @@
 {
   "20": {
-    "summary": "Pandemic-induced anxiety amid Lima restrictions",
-    "category": "mental_health_crisis",
-    "confidence": 0.9
-  },
-  "21": {
-    "summary": "Cultural adjustment struggles in Osaka temporary status",
-    "category": "immigration",
+    "summary": "Navigating identity amid pandemic displacement",
+    "category": "Identity Crises",
     "confidence": 0.85
   },
+  "21": {
+    "summary": "Body image struggles from transnational stress",
+    "category": "Eating Disorders",
+    "confidence": 0.7
+  },
   "22": {
-    "summary": "Loss of family member during Caracas pandemic hardships",
-    "category": "grief_bereavement",
+    "summary": "Digital isolation during cultural adjustment",
+    "category": "Internet Addiction",
     "confidence": 0.8
   },
   "23": {
-    "summary": "Breakup amid pandemic isolation in Caracas",
-    "category": "relationship_breakup",
+    "summary": "Self-doubt after immigration challenges",
+    "category": "Self-Harm Behaviors",
     "confidence": 0.75
   },
   "24": {
-    "summary": "Social isolation from peer relationships disrupted",
-    "category": "loneliness_isolation",
-    "confidence": 0.8
+    "summary": "Questioning orientation in multicultural environment",
+    "category": "Sexual Orientation",
+    "confidence": 0.65
   },
   "25": {
-    "summary": "Chronic fatigue from pandemic-era stress",
-    "category": "chronic_health_pain",
+    "summary": "Academic pressure from delayed education",
+    "category": "Academic Pressure",
     "confidence": 0.7
   },
   "26": {
-    "summary": "Financial instability as temporary worker in Japan",
-    "category": "financial_employment",
-    "confidence": 0.8
+    "summary": "Bullying from citizenship status",
+    "category": "School Bullying",
+    "confidence": 0.55
   },
   "27": {
-    "summary": "Caregiving strain during family crises in Venezuela",
-    "category": "caregiver_burden",
-    "confidence": 0.7
-  },
-  "28": {
-    "summary": "Discrimination as immigrant in Osaka schools",
-    "category": "violence_abuse",
-    "confidence": 0.65
-  },
-  "29": {
-    "summary": "Housing/legal challenges as immigrant professional",
-    "category": "legal_housing",
-    "confidence": 0.9
-  },
-  "30": {
-    "summary": "Academic pressure from interrupted studies",
-    "category": "academic_stress",
-    "confidence": 0.6
-  },
-  "31": {
-    "summary": "Burnout from work acculturation stress",
-    "category": "mental_health_crisis",
-    "confidence": 0.9
-  },
-  "32": {
-    "summary": "Visa renewal anxieties in Australia",
-    "category": "immigration",
+    "summary": "Self-harm urges during burnout",
+    "category": "Self-Harm Behaviors",
     "confidence": 0.8
   },
+  "28": {
+    "summary": "Academic debt stress from interrupted studies",
+    "category": "Academic Pressure",
+    "confidence": 0.6
+  },
+  "29": {
+    "summary": "Workplace exclusion as immigrant professional",
+    "category": "School Bullying",
+    "confidence": 0.6
+  },
+  "30": {
+    "summary": "PTSD from pandemic trauma and displacement",
+    "category": "Post-Traumatic Stress Disorder (PTSD)",
+    "confidence": 0.9
+  },
+  "31": {
+    "summary": "Navigating queer identity in conservative workplace",
+    "category": "Sexual Orientation",
+    "confidence": 0.7
+  },
+  "32": {
+    "summary": "Body image issues from acculturative stress",
+    "category": "Eating Disorders",
+    "confidence": 0.75
+  },
   "33": {
-    "summary": "Grief over pandemic losses resurfacing",
-    "category": "grief_bereavement",
+    "summary": "Identity crisis between cultures",
+    "category": "Identity Crises",
     "confidence": 0.85
   },
   "34": {
-    "summary": "Post-breakup adjustment in new career phase",
-    "category": "relationship_breakup",
+    "summary": "Digital dependency during isolation",
+    "category": "Internet Addiction",
     "confidence": 0.7
   },
   "35": {
-    "summary": "Isolation from limited social networks",
-    "category": "loneliness_isolation",
-    "confidence": 0.8
+    "summary": "Domestic violence recovery from past relationships",
+    "category": "Sexual Assault or Domestic Violence Recovery",
+    "confidence": 0.6
   },
   "36": {
-    "summary": "Job insecurity in volatile tech industry",
-    "category": "chronic_health_pain",
-    "confidence": 0.75
+    "summary": "Career purpose crisis in tech field",
+    "category": "Personal Growth Challenges",
+    "confidence": 0.8
   },
   "37": {
-    "summary": "Balancing work and caregiving duties",
-    "category": "financial_employment",
+    "summary": "Anger over systemic barriers",
+    "category": "Anger Management Issues",
     "confidence": 0.7
   },
   "38": {
-    "summary": "Workplace discrimination experiences",
-    "category": "caregiver_burden",
-    "confidence": 0.6
-  },
-  "39": {
-    "summary": "Housing affordability stress in Sydney",
-    "category": "violence_abuse",
-    "confidence": 0.7
-  },
-  "40": {
-    "summary": "Academic debt pressure from overseas education",
-    "category": "legal_housing",
-    "confidence": 0.65
-  },
-  "41": {
-    "summary": "Burnout from prolonged acculturative stress",
-    "category": "academic_stress",
+    "summary": "Chronic burnout from high-responsibility role",
+    "category": "Chronic Stress",
     "confidence": 0.9
   },
+  "39": {
+    "summary": "Communication conflicts with international team",
+    "category": "Conflicts or Communication Problems",
+    "confidence": 0.75
+  },
+  "40": {
+    "summary": "Persistent low mood from unresolved trauma",
+    "category": "Ongoing Depression",
+    "confidence": 0.8
+  },
+  "41": {
+    "summary": "Culture shock in new professional environment",
+    "category": "Culture Shock",
+    "confidence": 0.7
+  },
   "42": {
-    "summary": "Permanent residency application challenges",
-    "category": "mental_health_crisis",
+    "summary": "Financial strain from relocation costs",
+    "category": "Financial Problems",
     "confidence": 0.8
   },
   "43": {
-    "summary": "Grief over distant family health crises",
-    "category": "immigration",
-    "confidence": 0.8
+    "summary": "Bipolar mood swings during high-pressure projects",
+    "category": "Bipolar Disorder",
+    "confidence": 0.65
   },
   "44": {
-    "summary": "Relationship dissolution from cultural differences",
-    "category": "grief_bereavement",
+    "summary": "Debt from pandemic-era expenses",
+    "category": "Debt Problems",
     "confidence": 0.7
   },
   "45": {
-    "summary": "Isolation despite urban living",
-    "category": "relationship_breakup",
-    "confidence": 0.8
+    "summary": "Parental pressure about career choices",
+    "category": "Issues with Parents",
+    "confidence": 0.7
   },
   "46": {
-    "summary": "Career stagnation fears in competitive market",
-    "category": "loneliness_isolation",
-    "confidence": 0.7
+    "summary": "Perfectionism in technical work",
+    "category": "Obsessive-Compulsive Disorder (OCD)",
+    "confidence": 0.75
   },
   "47": {
-    "summary": "Caregiver exhaustion from family responsibilities",
-    "category": "chronic_health_pain",
-    "confidence": 0.7
-  },
-  "48": {
-    "summary": "Workplace harassment allegations",
-    "category": "financial_employment",
+    "summary": "Breakup aftermath affecting focus",
+    "category": "Breakups or Divorce",
     "confidence": 0.6
   },
+  "48": {
+    "summary": "Parenting challenges as immigrant family",
+    "category": "Issues with Children",
+    "confidence": 0.5
+  },
   "49": {
-    "summary": "Legal disputes over housing contracts",
-    "category": "caregiver_burden",
-    "confidence": 0.7
+    "summary": "Alcohol use to cope with isolation",
+    "category": "Alcohol Abuse",
+    "confidence": 0.65
   },
   "50": {
-    "summary": "Academic pressure from upskilling demands",
-    "category": "violence_abuse",
+    "summary": "Substance use during career transition",
+    "category": "Addictive Behaviors (e.g., Drug Use, Gambling)",
     "confidence": 0.6
   },
   "51": {
-    "summary": "Burnout from identity dislocation",
-    "category": "legal_housing",
-    "confidence": 0.9
+    "summary": "Compulsive work habits",
+    "category": "Compulsive Behaviors",
+    "confidence": 0.7
   },
   "52": {
-    "summary": "Visa sponsorship uncertainties",
-    "category": "academic_stress",
-    "confidence": 0.8
+    "summary": "Marital conflict over relocation decisions",
+    "category": "Marital Problems",
+    "confidence": 0.55
   },
   "53": {
-    "summary": "Grief over pandemic-era losses",
-    "category": "mental_health_crisis",
-    "confidence": 0.8
+    "summary": "Paranoia about workplace surveillance",
+    "category": "Schizophrenia",
+    "confidence": 0.4
   },
   "54": {
-    "summary": "Post-relationship adjustment struggles",
-    "category": "immigration",
-    "confidence": 0.7
-  },
-  "55": {
-    "summary": "Isolation despite professional success",
-    "category": "grief_bereavement",
-    "confidence": 0.8
-  },
-  "56": {
-    "summary": "Financial pressure from career transitions",
-    "category": "relationship_breakup",
-    "confidence": 0.7
-  },
-  "57": {
-    "summary": "Caregiver burnout from aging relatives",
-    "category": "loneliness_isolation",
-    "confidence": 0.7
-  },
-  "58": {
-    "summary": "Workplace discrimination claims",
-    "category": "chronic_health_pain",
+    "summary": "Friendship conflicts over cultural differences",
+    "category": "Problems with Friends",
     "confidence": 0.6
   },
+  "55": {
+    "summary": "Emotional volatility from chronic stress",
+    "category": "Emotional Fluctuations",
+    "confidence": 0.7
+  },
+  "56": {
+    "summary": "Procrastination on personal projects",
+    "category": "Procrastination",
+    "confidence": 0.65
+  },
+  "57": {
+    "summary": "Goal-setting conflicts between cultures",
+    "category": "Goal Setting Issues",
+    "confidence": 0.6
+  },
+  "58": {
+    "summary": "Career stagnation in competitive field",
+    "category": "Career Development Issues",
+    "confidence": 0.75
+  },
   "59": {
-    "summary": "Housing affordability crises",
-    "category": "financial_employment",
+    "summary": "Anxiety about pandemic recurrence",
+    "category": "Anxiety Disorders",
     "confidence": 0.7
   },
   "60": {
-    "summary": "Academic pressure from professional development",
-    "category": "caregiver_burden",
-    "confidence": 0.6
+    "summary": "Sleep issues from burnout",
+    "category": "Sleep Problems",
+    "confidence": 0.8
   },
   "61": {
-    "summary": "Burnout from identity conflicts",
-    "category": "violence_abuse",
-    "confidence": 0.9
+    "summary": "Low self-worth from workplace exclusion",
+    "category": "Self-Esteem Issues",
+    "confidence": 0.7
   },
   "62": {
-    "summary": "Permanent residency approval stress",
-    "category": "legal_housing",
+    "summary": "Motivation loss after burnout",
+    "category": "Motivation Problems",
     "confidence": 0.8
   },
   "63": {
-    "summary": "Grief over distant family health decline",
-    "category": "academic_stress",
-    "confidence": 0.8
+    "summary": "Appearance anxiety from social media",
+    "category": "Appearance Anxiety",
+    "confidence": 0.6
   },
   "64": {
-    "summary": "Relationship dissolution from cultural gaps",
-    "category": "mental_health_crisis",
+    "summary": "Job insecurity in tech industry",
+    "category": "Job Crisis",
     "confidence": 0.7
   },
   "65": {
-    "summary": "Isolation despite professional networks",
-    "category": "immigration",
+    "summary": "Workplace stress from high expectations",
+    "category": "Workplace Stress",
     "confidence": 0.8
   },
   "66": {
-    "summary": "Financial strain from career pivots",
-    "category": "grief_bereavement",
-    "confidence": 0.7
+    "summary": "Compulsive perfectionism",
+    "category": "Compulsive Behaviors",
+    "confidence": 0.75
   },
   "67": {
-    "summary": "Caregiver exhaustion from family needs",
-    "category": "relationship_breakup",
+    "summary": "Emotional exhaustion from caregiving",
+    "category": "Emotional Fluctuations",
     "confidence": 0.7
   },
   "68": {
-    "summary": "Workplace harassment experiences",
-    "category": "loneliness_isolation",
+    "summary": "Friendship conflicts over cultural differences",
+    "category": "Problems with Friends",
     "confidence": 0.6
   },
   "69": {
-    "summary": "Housing affordability challenges",
-    "category": "chronic_health_pain",
-    "confidence": 0.7
+    "summary": "Parental pressure about career choices",
+    "category": "Issues with Parents",
+    "confidence": 0.65
   },
   "70": {
-    "summary": "Academic pressure from upskilling",
-    "category": "financial_employment",
-    "confidence": 0.6
+    "summary": "Chronic burnout from high-responsibility role",
+    "category": "Burnout",
+    "confidence": 0.85
   },
   "71": {
-    "summary": "Burnout from acculturative stress",
-    "category": "caregiver_burden",
-    "confidence": 0.9
+    "summary": "Parenting challenges as immigrant family",
+    "category": "Issues with Children",
+    "confidence": 0.55
   },
   "72": {
-    "summary": "Visa renewal anxieties",
-    "category": "violence_abuse",
-    "confidence": 0.8
+    "summary": "Alcohol use to cope with isolation",
+    "category": "Alcohol Abuse",
+    "confidence": 0.6
   },
   "73": {
-    "summary": "Grief over pandemic losses resurfacing",
-    "category": "legal_housing",
-    "confidence": 0.8
+    "summary": "Paranoia about workplace surveillance",
+    "category": "Schizophrenia",
+    "confidence": 0.45
   },
   "74": {
-    "summary": "Relationship dissolution from cultural differences",
-    "category": "academic_stress",
-    "confidence": 0.7
+    "summary": "Substance use during career transition",
+    "category": "Addictive Behaviors (e.g., Drug Use, Gambling)",
+    "confidence": 0.55
   },
   "75": {
-    "summary": "Isolation despite urban living",
-    "category": "mental_health_crisis",
-    "confidence": 0.8
+    "summary": "Marital conflict over relocation decisions",
+    "category": "Marital Problems",
+    "confidence": 0.5
   },
   "76": {
-    "summary": "Job insecurity in tech sector",
-    "category": "immigration",
-    "confidence": 0.75
+    "summary": "Perfectionism in technical work",
+    "category": "Obsessive-Compulsive Disorder (OCD)",
+    "confidence": 0.65
   },
   "77": {
-    "summary": "Caregiver burden from family health issues",
-    "category": "grief_bereavement",
-    "confidence": 0.7
+    "summary": "Bipolar mood swings during high-pressure projects",
+    "category": "Bipolar Disorder",
+    "confidence": 0.6
   },
   "78": {
-    "summary": "Workplace discrimination claims",
-    "category": "relationship_breakup",
-    "confidence": 0.6
-  },
-  "79": {
-    "summary": "Housing affordability stress",
-    "category": "loneliness_isolation",
+    "summary": "Financial strain from relocation costs",
+    "category": "Financial Problems",
     "confidence": 0.7
   },
+  "79": {
+    "summary": "Debt from pandemic-era expenses",
+    "category": "Debt Problems",
+    "confidence": 0.65
+  },
   "80": {
-    "summary": "Academic pressure from professional development",
-    "category": "chronic_health_pain",
-    "confidence": 0.6
+    "summary": "Breakup aftermath affecting focus",
+    "category": "Breakups or Divorce",
+    "confidence": 0.55
   },
   "81": {
-    "summary": "Burnout from prolonged identity conflicts",
-    "category": "financial_employment",
-    "confidence": 0.9
+    "summary": "Career purpose crisis in tech field",
+    "category": "Personal Growth Challenges",
+    "confidence": 0.75
   },
   "82": {
-    "summary": "Permanent residency approval stress",
-    "category": "caregiver_burden",
-    "confidence": 0.8
+    "summary": "Sleep issues from burnout",
+    "category": "Sleep Problems",
+    "confidence": 0.75
   },
   "83": {
-    "summary": "Grief over distant family health decline",
-    "category": "violence_abuse",
+    "summary": "Chronic stress from workplace pressures",
+    "category": "Chronic Stress",
     "confidence": 0.8
   },
   "84": {
-    "summary": "Relationship dissolution from cultural gaps",
-    "category": "legal_housing",
+    "summary": "Anger over systemic barriers",
+    "category": "Anger Management Issues",
     "confidence": 0.7
   },
   "85": {
-    "summary": "Isolation despite professional networks",
-    "category": "academic_stress",
-    "confidence": 0.8
+    "summary": "Culture shock in new professional environment",
+    "category": "Culture Shock",
+    "confidence": 0.65
   },
   "86": {
-    "summary": "Burnout from acculturative stress",
-    "category": "mental_health_crisis",
-    "confidence": 0.9
+    "summary": "Domestic violence recovery from past relationships",
+    "category": "Sexual Assault or Domestic Violence Recovery",
+    "confidence": 0.55
   },
   "87": {
-    "summary": "Visa renewal anxieties",
-    "category": "immigration",
-    "confidence": 0.8
+    "summary": "PTSD from pandemic trauma and displacement",
+    "category": "Post-Traumatic Stress Disorder (PTSD)",
+    "confidence": 0.85
   },
   "88": {
-    "summary": "Grief over pandemic losses resurfacing",
-    "category": "grief_bereavement",
-    "confidence": 0.8
+    "summary": "Communication conflicts with international team",
+    "category": "Conflicts or Communication Problems",
+    "confidence": 0.7
   },
   "89": {
-    "summary": "Relationship dissolution from cultural differences",
-    "category": "relationship_breakup",
-    "confidence": 0.7
-  },
-  "90": {
-    "summary": "Isolation despite urban living",
-    "category": "loneliness_isolation",
+    "summary": "Persistent low mood from unresolved trauma",
+    "category": "Ongoing Depression",
     "confidence": 0.8
   },
+  "90": {
+    "summary": "Anxiety about pandemic recurrence",
+    "category": "Anxiety Disorders",
+    "confidence": 0.75
+  },
   "91": {
-    "summary": "Financial strain from career transitions",
-    "category": "chronic_health_pain",
-    "confidence": 0.7
-  },
-  "92": {
-    "summary": "Caregiver burden from family health issues",
-    "category": "financial_employment",
-    "confidence": 0.7
-  },
-  "93": {
-    "summary": "Workplace discrimination claims",
-    "category": "caregiver_burden",
+    "summary": "Grief over lost opportunities",
+    "category": "Death of a Loved One",
     "confidence": 0.6
   },
+  "92": {
+    "summary": "Grief over lost opportunities",
+    "category": "Grief and Loss",
+    "confidence": 0.6
+  },
+  "93": {
+    "summary": "Spiritual crisis from cultural displacement",
+    "category": "Spirituality and Faith",
+    "confidence": 0.55
+  },
   "94": {
-    "summary": "Housing affordability challenges",
-    "category": "violence_abuse",
+    "summary": "Health anxiety from pandemic exposure",
+    "category": "Health Problems",
     "confidence": 0.7
   },
   "95": {
-    "summary": "Academic pressure from upskilling",
-    "category": "legal_housing",
-    "confidence": 0.6
+    "summary": "Retirement transition challenges",
+    "category": "Life Transitions (e.g., Retirement, Relocation)",
+    "confidence": 0.4
   },
   "96": {
-    "summary": "Burnout from prolonged identity conflicts",
-    "category": "academic_stress",
-    "confidence": 0.9
+    "summary": "Grief over lost opportunities",
+    "category": "Death of a Loved One",
+    "confidence": 0.55
   },
   "97": {
-    "summary": "Permanent residency approval stress",
-    "category": "mental_health_crisis",
-    "confidence": 0.8
+    "summary": "Grief over lost opportunities",
+    "category": "Grief and Loss",
+    "confidence": 0.55
   },
   "98": {
-    "summary": "Grief over distant family health decline",
-    "category": "immigration",
-    "confidence": 0.8
+    "summary": "Spiritual crisis from cultural displacement",
+    "category": "Spirituality and Faith",
+    "confidence": 0.5
   },
   "99": {
-    "summary": "Relationship dissolution from cultural gaps",
-    "category": "grief_bereavement",
-    "confidence": 0.7
+    "summary": "Health anxiety from pandemic exposure",
+    "category": "Health Problems",
+    "confidence": 0.65
   },
   "100": {
-    "summary": "Isolation despite professional networks",
-    "category": "relationship_breakup",
-    "confidence": 0.8
+    "summary": "Retirement transition challenges",
+    "category": "Life Transitions (e.g., Retirement, Relocation)",
+    "confidence": 0.35
   }
 }

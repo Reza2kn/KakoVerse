@@ -1,407 +1,407 @@
 {
   "20": {
-    "summary": "First job instability and financial strain after moving abroad.",
-    "category": "financial_employment",
-    "confidence": 0.85
+    "summary": "Adjusting to Tokyo's competitive education system",
+    "category": "School Bullying",
+    "confidence": 0.3
   },
   "21": {
-    "summary": "Family obligations conflicting with new career priorities.",
-    "category": "caregiver_burden",
+    "summary": "Navigating Tokyo's appearance-focused social norms",
+    "category": "Appearance Anxiety",
     "confidence": 0.7
   },
   "22": {
-    "summary": "Workplace harassment amid cultural clashes in Buenos Aires.",
-    "category": "violence_abuse",
-    "confidence": 0.65
+    "summary": "Balancing traditional studies with modern career prep",
+    "category": "Procrastination",
+    "confidence": 0.6
   },
   "23": {
-    "summary": "Housing contract disputes with landlords in unstable economy.",
-    "category": "legal_housing",
+    "summary": "Deciding between traditional career paths and tech fields",
+    "category": "Goal Setting Issues",
     "confidence": 0.8
   },
   "24": {
-    "summary": "Pressure to excel academically while balancing work.",
-    "category": "academic_stress",
-    "confidence": 0.75
+    "summary": "First software job challenges in Tokyo's tech scene",
+    "category": "Career Development Issues",
+    "confidence": 0.9
   },
   "25": {
-    "summary": "Anxiety spiraling into clinical depression post-relocation.",
-    "category": "mental_health_crisis",
+    "summary": "Questioning identity between Japanese heritage and global tech culture",
+    "category": "Identity Crises",
     "confidence": 0.9
   },
   "26": {
-    "summary": "Visa complications threatening residency status.",
-    "category": "immigration",
-    "confidence": 0.8
+    "summary": "Diet changes after moving to Argentina's food culture",
+    "category": "Eating Disorders",
+    "confidence": 0.4
   },
   "27": {
-    "summary": "Grief over losing Tokyo's familiar support networks.",
-    "category": "grief_bereavement",
-    "confidence": 0.85
-  },
-  "28": {
-    "summary": "Breakup intensifies loneliness in unfamiliar city.",
-    "category": "relationship_breakup",
-    "confidence": 0.7
-  },
-  "29": {
-    "summary": "Isolation from limited social circles in Argentina.",
-    "category": "loneliness_isolation",
+    "summary": "Relocation stress causing internet overuse for social connection",
+    "category": "Internet Addiction",
     "confidence": 0.9
   },
-  "30": {
-    "summary": "Chronic back pain from sedentary coding job.",
-    "category": "chronic_health_pain",
+  "28": {
+    "summary": "Revisiting school bullying experiences from Tokyo",
+    "category": "School Bullying",
+    "confidence": 0.5
+  },
+  "29": {
+    "summary": "Perfectionism affecting work routines in Buenos Aires",
+    "category": "Obsessive-Compulsive Disorder (OCD)",
     "confidence": 0.7
   },
-  "31": {
-    "summary": "Salary stagnation conflicting with Tokyo-era ambitions.",
-    "category": "financial_employment",
+  "30": {
+    "summary": "Managing remittances between Japan and Argentina",
+    "category": "Financial Problems",
     "confidence": 0.8
   },
-  "32": {
-    "summary": "Caring for aging parent across continents strains resources.",
-    "category": "caregiver_burden",
-    "confidence": 0.75
-  },
-  "33": {
-    "summary": "Ex-partner's threats escalate to legal intervention.",
-    "category": "violence_abuse",
+  "31": {
+    "summary": "Exploring cultural identity beyond binary norms",
+    "category": "Sexual Orientation",
     "confidence": 0.6
   },
-  "34": {
-    "summary": "Landlord eviction threats during economic downturn.",
-    "category": "legal_housing",
+  "32": {
+    "summary": "Coping with Tokyo's 1990s economic collapse memories",
+    "category": "Self-Harm Behaviors",
+    "confidence": 0.3
+  },
+  "33": {
+    "summary": "Pressure to excel in competitive Buenos Aires tech market",
+    "category": "Academic Pressure",
     "confidence": 0.7
   },
+  "34": {
+    "summary": "Culture shock from Tokyo's collectivism to Buenos Aires individualism",
+    "category": "Culture Shock",
+    "confidence": 0.9
+  },
   "35": {
-    "summary": "Graduate program deadlines clash with work demands.",
-    "category": "academic_stress",
-    "confidence": 0.65
+    "summary": "Debt from Tokyo property market crash impacting current stability",
+    "category": "Debt Problems",
+    "confidence": 0.8
   },
   "36": {
-    "summary": "Burnout from unresolved relocation trauma.",
-    "category": "mental_health_crisis",
-    "confidence": 0.85
+    "summary": "Mood swings from economic uncertainty affecting work",
+    "category": "Bipolar Disorder",
+    "confidence": 0.5
   },
   "37": {
-    "summary": "Sponsorship visa renewal complications.",
-    "category": "immigration",
+    "summary": "Relationship strain from relocation stress",
+    "category": "Breakups or Divorce",
     "confidence": 0.7
   },
   "38": {
-    "summary": "Bereavement of Tokyo-based mentor triggers nostalgia.",
-    "category": "grief_bereavement",
-    "confidence": 0.8
+    "summary": "Balancing parenting with remote work demands",
+    "category": "Issues with Children",
+    "confidence": 0.4
   },
   "39": {
-    "summary": "New relationship ends due to cultural differences.",
-    "category": "relationship_breakup",
-    "confidence": 0.7
+    "summary": "Gambling losses from Tokyo's nightlife culture",
+    "category": "Addictive Behaviors (e.g., Drug Use, Gambling)",
+    "confidence": 0.6
   },
   "40": {
-    "summary": "Isolation from expat community's cliques.",
-    "category": "loneliness_isolation",
+    "summary": "Marital tensions from differing cultural expectations",
+    "category": "Marital Problems",
     "confidence": 0.8
   },
   "41": {
-    "summary": "Arthritis from traditional instrument practice.",
-    "category": "chronic_health_pain",
-    "confidence": 0.6
+    "summary": "Paranoia about economic instability affecting mental health",
+    "category": "Schizophrenia",
+    "confidence": 0.4
   },
   "42": {
-    "summary": "Freelance gig instability affects financial security.",
-    "category": "financial_employment",
-    "confidence": 0.75
+    "summary": "Rituals to manage relocation anxiety",
+    "category": "Compulsive Behaviors",
+    "confidence": 0.7
   },
   "43": {
-    "summary": "Elderly parent's health crisis requires remote caregiving.",
-    "category": "caregiver_burden",
-    "confidence": 0.7
+    "summary": "Alcohol use to cope with loneliness in Buenos Aires",
+    "category": "Alcohol Abuse",
+    "confidence": 0.8
   },
   "44": {
-    "summary": "Neighbor harassment escalates to police report.",
-    "category": "violence_abuse",
-    "confidence": 0.6
-  },
-  "45": {
-    "summary": "Housing discrimination lawsuit pending.",
-    "category": "legal_housing",
+    "summary": "Friendship conflicts over cultural differences",
+    "category": "Problems with Friends",
     "confidence": 0.7
   },
+  "45": {
+    "summary": "Career plateau in tech industry",
+    "category": "Career Development Issues",
+    "confidence": 0.9
+  },
   "46": {
-    "summary": "Academic certification delays impact career growth.",
-    "category": "academic_stress",
-    "confidence": 0.6
+    "summary": "Emotional volatility from unprocessed relocation trauma",
+    "category": "Emotional Fluctuations",
+    "confidence": 0.8
   },
   "47": {
-    "summary": "Depression relapse from unresolved grief.",
-    "category": "mental_health_crisis",
+    "summary": "Generational conflicts with parents over relocation choice",
+    "category": "Issues with Parents",
     "confidence": 0.8
   },
   "48": {
-    "summary": "Family visa denial causes separation anxiety.",
-    "category": "immigration",
-    "confidence": 0.75
+    "summary": "Loss of passion for programming",
+    "category": "Motivation Problems",
+    "confidence": 0.7
   },
   "49": {
-    "summary": "Loss of Buenos Aires' only close friend.",
-    "category": "grief_bereavement",
-    "confidence": 0.8
+    "summary": "Burnout from maintaining cross-cultural identity",
+    "category": "Burnout",
+    "confidence": 0.9
   },
   "50": {
-    "summary": "Breakup from partner's cultural assimilation conflict.",
-    "category": "relationship_breakup",
-    "confidence": 0.7
+    "summary": "Self-doubt about career choices in new country",
+    "category": "Self-Esteem Issues",
+    "confidence": 0.8
   },
   "51": {
-    "summary": "Isolation from failed integration into local community.",
-    "category": "loneliness_isolation",
-    "confidence": 0.8
+    "summary": "Appearance anxiety from aging in foreign culture",
+    "category": "Appearance Anxiety",
+    "confidence": 0.7
   },
   "52": {
-    "summary": "Chronic stress manifests as digestive illness.",
-    "category": "chronic_health_pain",
-    "confidence": 0.7
-  },
-  "53": {
-    "summary": "Salary cuts during economic crisis strain finances.",
-    "category": "financial_employment",
+    "summary": "Job insecurity in volatile Argentine tech market",
+    "category": "Job Crisis",
     "confidence": 0.8
   },
-  "54": {
-    "summary": "Caring for sick sibling requires emotional toll.",
-    "category": "caregiver_burden",
+  "53": {
+    "summary": "Revisiting unmet academic goals",
+    "category": "Goal Setting Issues",
     "confidence": 0.7
   },
+  "54": {
+    "summary": "Workplace cultural clashes in multinational firm",
+    "category": "Workplace Stress",
+    "confidence": 0.8
+  },
   "55": {
-    "summary": "Workplace bullying leads to HR complaint.",
-    "category": "violence_abuse",
-    "confidence": 0.65
+    "summary": "Procrastination on personal projects",
+    "category": "Procrastination",
+    "confidence": 0.6
   },
   "56": {
-    "summary": "Housing contract dispute with new landlord.",
-    "category": "legal_housing",
+    "summary": "Communication breakdowns with Argentine colleagues",
+    "category": "Conflicts or Communication Problems",
     "confidence": 0.7
   },
   "57": {
-    "summary": "Academic credential recognition delays career.",
-    "category": "academic_stress",
-    "confidence": 0.6
+    "summary": "Persistent low mood from unresolved relocation grief",
+    "category": "Ongoing Depression",
+    "confidence": 0.9
   },
   "58": {
-    "summary": "Anxiety disorder diagnosed post-relocation trauma.",
-    "category": "mental_health_crisis",
-    "confidence": 0.85
+    "summary": "Anger over economic instability affecting family",
+    "category": "Anger Management Issues",
+    "confidence": 0.7
   },
   "59": {
-    "summary": "Family immigration blocked by bureaucratic hurdles.",
-    "category": "immigration",
-    "confidence": 0.75
+    "summary": "PTSD from 1990s Tokyo economic trauma",
+    "category": "Post-Traumatic Stress Disorder (PTSD)",
+    "confidence": 0.8
   },
   "60": {
-    "summary": "Grief over Tokyo childhood home's demolition.",
-    "category": "grief_bereavement",
+    "summary": "Insomnia from cultural adjustment stress",
+    "category": "Sleep Problems",
     "confidence": 0.8
   },
   "61": {
-    "summary": "Breakup from partner's inability to relocate.",
-    "category": "relationship_breakup",
+    "summary": "Motivation loss in mid-career phase",
+    "category": "Motivation Problems",
     "confidence": 0.7
   },
   "62": {
-    "summary": "Isolation from expat group's exclusion.",
-    "category": "loneliness_isolation",
+    "summary": "Self-worth tied to professional success",
+    "category": "Self-Esteem Issues",
     "confidence": 0.8
   },
   "63": {
-    "summary": "Chronic pain from traditional dance injury flares.",
-    "category": "chronic_health_pain",
-    "confidence": 0.7
+    "summary": "Workplace stress from managing cross-cultural teams",
+    "category": "Workplace Stress",
+    "confidence": 0.8
   },
   "64": {
-    "summary": "Freelance income volatility causes financial stress.",
-    "category": "financial_employment",
-    "confidence": 0.75
+    "summary": "Job market competition in aging tech professional",
+    "category": "Job Crisis",
+    "confidence": 0.8
   },
   "65": {
-    "summary": "Elderly parent's dementia requires remote care coordination.",
-    "category": "caregiver_burden",
-    "confidence": 0.7
+    "summary": "Anxiety about aging in foreign country",
+    "category": "Anxiety Disorders",
+    "confidence": 0.8
   },
   "66": {
-    "summary": "Neighbor harassment escalates to restraining order.",
-    "category": "violence_abuse",
-    "confidence": 0.6
+    "summary": "Parental dependency conflicts",
+    "category": "Issues with Parents",
+    "confidence": 0.7
   },
   "67": {
-    "summary": "Housing discrimination lawsuit settled.",
-    "category": "legal_housing",
+    "summary": "Friendship maintenance challenges abroad",
+    "category": "Problems with Friends",
     "confidence": 0.7
   },
   "68": {
-    "summary": "Academic program rejection impacts career trajectory.",
-    "category": "academic_stress",
-    "confidence": 0.6
+    "summary": "Emotional exhaustion from cultural bridging",
+    "category": "Emotional Fluctuations",
+    "confidence": 0.8
   },
   "69": {
-    "summary": "Depression from unresolved immigration status.",
-    "category": "mental_health_crisis",
-    "confidence": 0.8
+    "summary": "Burnout from long-term relocation adaptation",
+    "category": "Burnout",
+    "confidence": 0.9
   },
   "70": {
-    "summary": "Family visa denial causes prolonged separation.",
-    "category": "immigration",
-    "confidence": 0.75
+    "summary": "Identity reassessment in later career",
+    "category": "Personal Growth Challenges",
+    "confidence": 0.8
   },
   "71": {
-    "summary": "Grief over Tokyo childhood friend's death.",
-    "category": "grief_bereavement",
-    "confidence": 0.8
+    "summary": "Gambling addiction from Tokyo nightlife past",
+    "category": "Addictive Behaviors (e.g., Drug Use, Gambling)",
+    "confidence": 0.6
   },
   "72": {
-    "summary": "Breakup from partner's cultural assimilation failure.",
-    "category": "relationship_breakup",
-    "confidence": 0.7
+    "summary": "Paranoia about economic collapse",
+    "category": "Schizophrenia",
+    "confidence": 0.4
   },
   "73": {
-    "summary": "Isolation from failed integration into local clubs.",
-    "category": "loneliness_isolation",
-    "confidence": 0.8
+    "summary": "Alcohol coping mechanisms intensifying",
+    "category": "Alcohol Abuse",
+    "confidence": 0.7
   },
   "74": {
-    "summary": "Chronic pain from repetitive strain injury worsens.",
-    "category": "chronic_health_pain",
+    "summary": "Marital strain from cultural differences",
+    "category": "Marital Problems",
     "confidence": 0.7
   },
   "75": {
-    "summary": "Salary stagnation conflicts with Tokyo-era financial goals.",
-    "category": "financial_employment",
-    "confidence": 0.8
+    "summary": "Compulsive routines from Tokyo upbringing",
+    "category": "Compulsive Behaviors",
+    "confidence": 0.7
   },
   "76": {
-    "summary": "Caring for aging Tokyo-based parent strains resources.",
-    "category": "caregiver_burden",
+    "summary": "Perfectionism manifesting as OCD",
+    "category": "Obsessive-Compulsive Disorder (OCD)",
     "confidence": 0.7
   },
   "77": {
-    "summary": "Workplace harassment leads to legal action.",
-    "category": "violence_abuse",
-    "confidence": 0.65
-  },
-  "78": {
-    "summary": "Housing contract dispute escalates to court.",
-    "category": "legal_housing",
-    "confidence": 0.7
-  },
-  "79": {
-    "summary": "Academic credential delays impact promotions.",
-    "category": "academic_stress",
+    "summary": "Debt from failed business ventures",
+    "category": "Debt Problems",
     "confidence": 0.6
   },
-  "80": {
-    "summary": "Anxiety disorder diagnosed post-relocation trauma.",
-    "category": "mental_health_crisis",
-    "confidence": 0.85
-  },
-  "81": {
-    "summary": "Family immigration blocked by new policies.",
-    "category": "immigration",
-    "confidence": 0.75
-  },
-  "82": {
-    "summary": "Grief over Tokyo mentor's death.",
-    "category": "grief_bereavement",
+  "78": {
+    "summary": "Financial insecurity in retirement",
+    "category": "Financial Problems",
     "confidence": 0.8
   },
+  "79": {
+    "summary": "Mood instability from aging abroad",
+    "category": "Bipolar Disorder",
+    "confidence": 0.5
+  },
+  "80": {
+    "summary": "Divorce after relocation strain",
+    "category": "Breakups or Divorce",
+    "confidence": 0.7
+  },
+  "81": {
+    "summary": "Chronic stress from economic volatility",
+    "category": "Chronic Stress",
+    "confidence": 0.8
+  },
+  "82": {
+    "summary": "Culture shock from aging in Argentina",
+    "category": "Culture Shock",
+    "confidence": 0.7
+  },
   "83": {
-    "summary": "Breakup from partner's cultural assimilation failure.",
-    "category": "relationship_breakup",
+    "summary": "Parenting challenges with bicultural children",
+    "category": "Issues with Children",
     "confidence": 0.7
   },
   "84": {
-    "summary": "Isolation from failed integration into local community.",
-    "category": "loneliness_isolation",
-    "confidence": 0.8
+    "summary": "Workplace stress from age discrimination",
+    "category": "Chronic Stress",
+    "confidence": 0.7
   },
   "85": {
-    "summary": "Chronic pain from traditional instrument practice flares.",
-    "category": "chronic_health_pain",
-    "confidence": 0.7
+    "summary": "Recovering from domestic conflicts",
+    "category": "Sexual Assault or Domestic Violence Recovery",
+    "confidence": 0.3
   },
   "86": {
-    "summary": "Freelance income volatility causes financial stress.",
-    "category": "financial_employment",
-    "confidence": 0.75
-  },
-  "87": {
-    "summary": "Elderly parent's health crisis requires remote care.",
-    "category": "caregiver_burden",
+    "summary": "Sleep issues from chronic anxiety",
+    "category": "Sleep Problems",
     "confidence": 0.7
   },
+  "87": {
+    "summary": "Healing from past relationship trauma",
+    "category": "Sexual Assault or Domestic Violence Recovery",
+    "confidence": 0.4
+  },
   "88": {
-    "summary": "Neighbor harassment escalates to police report.",
-    "category": "violence_abuse",
-    "confidence": 0.6
+    "summary": "Anxiety about aging in foreign country",
+    "category": "Anxiety Disorders",
+    "confidence": 0.8
   },
   "89": {
-    "summary": "Housing discrimination lawsuit pending.",
-    "category": "legal_housing",
+    "summary": "Anger over unmet life expectations",
+    "category": "Anger Management Issues",
     "confidence": 0.7
   },
   "90": {
-    "summary": "Academic program rejection impacts career.",
-    "category": "academic_stress",
-    "confidence": 0.6
+    "summary": "Communication conflicts with family",
+    "category": "Conflicts or Communication Problems",
+    "confidence": 0.7
   },
   "91": {
-    "summary": "Depression from unresolved immigration status.",
-    "category": "mental_health_crisis",
-    "confidence": 0.8
+    "summary": "Grief over lost homeland connections",
+    "category": "Death of a Loved One",
+    "confidence": 0.6
   },
   "92": {
-    "summary": "Family visa denial causes prolonged separation.",
-    "category": "immigration",
-    "confidence": 0.75
+    "summary": "Grief from aging abroad",
+    "category": "Grief and Loss",
+    "confidence": 0.7
   },
   "93": {
-    "summary": "Grief over Tokyo childhood home's demolition.",
-    "category": "grief_bereavement",
-    "confidence": 0.8
+    "summary": "Spiritual crisis from cultural displacement",
+    "category": "Spirituality and Faith",
+    "confidence": 0.7
   },
   "94": {
-    "summary": "Breakup from partner's cultural assimilation failure.",
-    "category": "relationship_breakup",
-    "confidence": 0.7
+    "summary": "Health decline from stress",
+    "category": "Health Problems",
+    "confidence": 0.8
   },
   "95": {
-    "summary": "Isolation from failed integration into local clubs.",
-    "category": "loneliness_isolation",
-    "confidence": 0.8
+    "summary": "Adjusting to retirement in foreign country",
+    "category": "Life Transitions (e.g., Retirement, Relocation)",
+    "confidence": 0.9
   },
   "96": {
-    "summary": "Chronic pain from repetitive strain injury worsens.",
-    "category": "chronic_health_pain",
-    "confidence": 0.7
-  },
-  "97": {
-    "summary": "Salary cuts during economic crisis strain finances.",
-    "category": "financial_employment",
+    "summary": "Grief over deceased relatives",
+    "category": "Death of a Loved One",
     "confidence": 0.8
   },
-  "98": {
-    "summary": "Caring for sick sibling requires emotional toll.",
-    "category": "caregiver_burden",
+  "97": {
+    "summary": "Grief from aging abroad",
+    "category": "Grief and Loss",
     "confidence": 0.7
+  },
+  "98": {
+    "summary": "Spiritual search in new culture",
+    "category": "Spirituality and Faith",
+    "confidence": 0.6
   },
   "99": {
-    "summary": "Workplace bullying leads to HR complaint.",
-    "category": "violence_abuse",
-    "confidence": 0.65
+    "summary": "Health management in old age",
+    "category": "Health Problems",
+    "confidence": 0.8
   },
   "100": {
-    "summary": "Housing contract dispute with new landlord.",
-    "category": "legal_housing",
-    "confidence": 0.7
+    "summary": "Final life transitions",
+    "category": "Life Transitions (e.g., Retirement, Relocation)",
+    "confidence": 0.9
   }
 }

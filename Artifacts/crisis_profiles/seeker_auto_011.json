@@ -1,407 +1,407 @@
 {
   "20": {
-    "summary": "Struggled with academic pressures during university years.",
-    "category": "academic_stress",
-    "confidence": 0.85
+    "summary": "Faced bullying during school years in Nairobi amid pandemic disruptions.",
+    "category": "School Bullying",
+    "confidence": 0.8
   },
   "21": {
-    "summary": "Experienced acute anxiety during pandemic lockdowns.",
-    "category": "mental_health_crisis",
-    "confidence": 0.9
+    "summary": "Worried about appearance in competitive art circles.",
+    "category": "Appearance Anxiety",
+    "confidence": 0.7
   },
   "22": {
-    "summary": "Navigated immigration processes across multiple countries.",
-    "category": "immigration",
+    "summary": "Procrastination due to creative block and uncertainty.",
+    "category": "Procrastination",
     "confidence": 0.8
   },
   "23": {
-    "summary": "Coped with family separations during childhood relocations.",
-    "category": "grief_bereavement",
-    "confidence": 0.75
+    "summary": "Struggled to set clear career goals post-education.",
+    "category": "Goal Setting Issues",
+    "confidence": 0.7
   },
   "24": {
-    "summary": "Navigated relationship dissolution after moving cities.",
-    "category": "relationship_breakup",
-    "confidence": 0.6
-  },
-  "25": {
-    "summary": "Felt isolated during pandemic-induced social distancing.",
-    "category": "loneliness_isolation",
-    "confidence": 0.9
-  },
-  "26": {
-    "summary": "Dealt with unexplained fatigue during early career.",
-    "category": "chronic_health_pain",
-    "confidence": 0.65
-  },
-  "27": {
-    "summary": "Faced freelance income fluctuations during career start.",
-    "category": "financial_employment",
-    "confidence": 0.85
-  },
-  "28": {
-    "summary": "Managed caregiving for a family member during pandemic.",
-    "category": "caregiver_burden",
-    "confidence": 0.55
-  },
-  "29": {
-    "summary": "Felt unsafe in new city environment.",
-    "category": "violence_abuse",
-    "confidence": 0.4
-  },
-  "30": {
-    "summary": "Navigated housing challenges as a new immigrant.",
-    "category": "legal_housing",
-    "confidence": 0.7
-  },
-  "31": {
-    "summary": "Struggled with academic deadlines during graduate studies.",
-    "category": "academic_stress",
-    "confidence": 0.7
-  },
-  "32": {
-    "summary": "Experienced burnout from freelance work demands.",
-    "category": "mental_health_crisis",
+    "summary": "Career development stalled by pandemic job market instability.",
+    "category": "Career Development Issues",
     "confidence": 0.8
   },
-  "33": {
-    "summary": "Faced visa renewal stress in new country.",
-    "category": "immigration",
+  "25": {
+    "summary": "Questioned sexual orientation amid shifting social dynamics.",
+    "category": "Sexual Orientation",
+    "confidence": 0.5
+  },
+  "26": {
+    "summary": "Internet use increased to cope with isolation.",
+    "category": "Internet Addiction",
+    "confidence": 0.6
+  },
+  "27": {
+    "summary": "Body image issues from social media pressure.",
+    "category": "Eating Disorders",
+    "confidence": 0.6
+  },
+  "28": {
+    "summary": "School bullying resurfaced during adolescence in Stockholm.",
+    "category": "School Bullying",
     "confidence": 0.7
   },
+  "29": {
+    "summary": "Freelance instability after relocating to Cape Town.",
+    "category": "Job Crisis",
+    "confidence": 0.9
+  },
+  "30": {
+    "summary": "Procrastination worsened by creative burnout.",
+    "category": "Procrastination",
+    "confidence": 0.8
+  },
+  "31": {
+    "summary": "Identity crisis balancing cultural roots and new environment.",
+    "category": "Identity Crises",
+    "confidence": 0.8
+  },
+  "32": {
+    "summary": "Self-harm behaviors emerged during stress spikes.",
+    "category": "Self-Harm Behaviors",
+    "confidence": 0.7
+  },
+  "33": {
+    "summary": "Academic pressure from unmet expectations in design school.",
+    "category": "Academic Pressure",
+    "confidence": 0.6
+  },
   "34": {
-    "summary": "Grieved loss of extended family support networks.",
-    "category": "grief_bereavement",
-    "confidence": 0.75
+    "summary": "Workplace stress from client demands and deadlines.",
+    "category": "Workplace Stress",
+    "confidence": 0.8
   },
   "35": {
-    "summary": "Navigated post-breakup adjustment in unfamiliar city.",
-    "category": "relationship_breakup",
-    "confidence": 0.65
+    "summary": "Goal-setting challenges in mid-career transition.",
+    "category": "Goal Setting Issues",
+    "confidence": 0.7
   },
   "36": {
-    "summary": "Felt disconnected despite online community ties.",
-    "category": "loneliness_isolation",
+    "summary": "Career stagnation despite skill development.",
+    "category": "Career Development Issues",
     "confidence": 0.8
   },
   "37": {
-    "summary": "Managed persistent fatigue from overwork.",
-    "category": "chronic_health_pain",
-    "confidence": 0.7
+    "summary": "Navigating acceptance of sexual orientation in conservative spaces.",
+    "category": "Sexual Orientation",
+    "confidence": 0.6
   },
   "38": {
-    "summary": "Faced financial instability during economic downturn.",
-    "category": "financial_employment",
-    "confidence": 0.8
+    "summary": "Eating disorders triggered by body image pressures.",
+    "category": "Eating Disorders",
+    "confidence": 0.7
   },
   "39": {
-    "summary": "Balanced freelance work with personal care duties.",
-    "category": "caregiver_burden",
-    "confidence": 0.6
+    "summary": "Identity conflicts between immigrant and local identities.",
+    "category": "Identity Crises",
+    "confidence": 0.8
   },
   "40": {
-    "summary": "Encountered housing discrimination as immigrant artist.",
-    "category": "violence_abuse",
-    "confidence": 0.55
+    "summary": "Self-harm behaviors during periods of loneliness.",
+    "category": "Self-Harm Behaviors",
+    "confidence": 0.7
   },
   "41": {
-    "summary": "Navigated legal hurdles for residency status.",
-    "category": "legal_housing",
-    "confidence": 0.7
-  },
-  "42": {
-    "summary": "Struggled with academic pressures during university years.",
-    "category": "academic_stress",
-    "confidence": 0.8
-  },
-  "43": {
-    "summary": "Experienced acute anxiety during pandemic lockdowns.",
-    "category": "mental_health_crisis",
-    "confidence": 0.9
-  },
-  "44": {
-    "summary": "Navigated immigration processes across multiple countries.",
-    "category": "immigration",
-    "confidence": 0.8
-  },
-  "45": {
-    "summary": "Coped with family separations during childhood relocations.",
-    "category": "grief_bereavement",
-    "confidence": 0.75
-  },
-  "46": {
-    "summary": "Navigated relationship dissolution after moving cities.",
-    "category": "relationship_breakup",
+    "summary": "Internet addiction to escape creative dissatisfaction.",
+    "category": "Internet Addiction",
     "confidence": 0.6
   },
-  "47": {
-    "summary": "Felt isolated during pandemic-induced social distancing.",
-    "category": "loneliness_isolation",
+  "42": {
+    "summary": "Academic pressure from self-imposed standards.",
+    "category": "Academic Pressure",
+    "confidence": 0.5
+  },
+  "43": {
+    "summary": "PTSD from pandemic-era trauma in Nairobi.",
+    "category": "Post-Traumatic Stress Disorder (PTSD)",
+    "confidence": 0.7
+  },
+  "44": {
+    "summary": "Anxiety disorders exacerbated by relocation stress.",
+    "category": "Anxiety Disorders",
     "confidence": 0.9
   },
-  "48": {
-    "summary": "Dealt with unexplained fatigue during early career.",
-    "category": "chronic_health_pain",
-    "confidence": 0.65
+  "45": {
+    "summary": "Mood fluctuations between creative highs and depressive lows.",
+    "category": "Bipolar Disorder",
+    "confidence": 0.6
   },
-  "49": {
-    "summary": "Faced freelance income fluctuations during career start.",
-    "category": "financial_employment",
-    "confidence": 0.85
+  "46": {
+    "summary": "Recovering from past trauma with limited support.",
+    "category": "Sexual Assault or Domestic Violence Recovery",
+    "confidence": 0.5
   },
-  "50": {
-    "summary": "Managed caregiving for a family member during pandemic.",
-    "category": "caregiver_burden",
-    "confidence": 0.55
-  },
-  "51": {
-    "summary": "Felt unsafe in new city environment.",
-    "category": "violence_abuse",
-    "confidence": 0.4
-  },
-  "52": {
-    "summary": "Navigated housing challenges as a new immigrant.",
-    "category": "legal_housing",
-    "confidence": 0.7
-  },
-  "53": {
-    "summary": "Struggled with academic deadlines during graduate studies.",
-    "category": "academic_stress",
-    "confidence": 0.7
-  },
-  "54": {
-    "summary": "Experienced burnout from freelance work demands.",
-    "category": "mental_health_crisis",
+  "47": {
+    "summary": "Personal growth challenges balancing independence and community ties.",
+    "category": "Personal Growth Challenges",
     "confidence": 0.8
   },
-  "55": {
-    "summary": "Faced visa renewal stress in new country.",
-    "category": "immigration",
+  "48": {
+    "summary": "Ongoing depression from chronic creative dissatisfaction.",
+    "category": "Ongoing Depression",
+    "confidence": 0.8
+  },
+  "49": {
+    "summary": "Anger management issues from unmet professional expectations.",
+    "category": "Anger Management Issues",
     "confidence": 0.7
   },
+  "50": {
+    "summary": "Communication conflicts with collaborators.",
+    "category": "Conflicts or Communication Problems",
+    "confidence": 0.7
+  },
+  "51": {
+    "summary": "Sleep problems from anxiety and irregular work hours.",
+    "category": "Sleep Problems",
+    "confidence": 0.8
+  },
+  "52": {
+    "summary": "Chronic stress from financial instability as a freelancer.",
+    "category": "Chronic Stress",
+    "confidence": 0.8
+  },
+  "53": {
+    "summary": "Culture shock adjusting to South African social norms.",
+    "category": "Culture Shock",
+    "confidence": 0.6
+  },
+  "54": {
+    "summary": "OCD tendencies in artistic perfectionism.",
+    "category": "Obsessive-Compulsive Disorder (OCD)",
+    "confidence": 0.7
+  },
+  "55": {
+    "summary": "Debt problems from startup costs as a freelance artist.",
+    "category": "Debt Problems",
+    "confidence": 0.8
+  },
   "56": {
-    "summary": "Grieved loss of extended family support networks.",
-    "category": "grief_bereavement",
-    "confidence": 0.75
+    "summary": "Parental conflicts over career choices.",
+    "category": "Issues with Parents",
+    "confidence": 0.7
   },
   "57": {
-    "summary": "Navigated post-breakup adjustment in unfamiliar city.",
-    "category": "relationship_breakup",
-    "confidence": 0.65
+    "summary": "Appearance anxiety in competitive art markets.",
+    "category": "Appearance Anxiety",
+    "confidence": 0.7
   },
   "58": {
-    "summary": "Felt disconnected despite online community ties.",
-    "category": "loneliness_isolation",
+    "summary": "Self-esteem issues from rejection in creative projects.",
+    "category": "Self-Esteem Issues",
     "confidence": 0.8
   },
   "59": {
-    "summary": "Dealt with persistent fatigue from overwork.",
-    "category": "chronic_health_pain",
-    "confidence": 0.7
+    "summary": "Motivation problems due to creative stagnation.",
+    "category": "Motivation Problems",
+    "confidence": 0.8
   },
   "60": {
-    "summary": "Faced financial instability during economic downturn.",
-    "category": "financial_employment",
+    "summary": "Burnout from overcommitting to freelance projects.",
+    "category": "Burnout",
     "confidence": 0.8
   },
   "61": {
-    "summary": "Balanced freelance work with personal care duties.",
-    "category": "caregiver_burden",
-    "confidence": 0.6
-  },
-  "62": {
-    "summary": "Encountered housing discrimination as immigrant artist.",
-    "category": "violence_abuse",
-    "confidence": 0.55
-  },
-  "63": {
-    "summary": "Navigated legal hurdles for residency status.",
-    "category": "legal_housing",
+    "summary": "Self-esteem issues from aging in a youth-centric industry.",
+    "category": "Self-Esteem Issues",
     "confidence": 0.7
   },
+  "62": {
+    "summary": "Motivation problems balancing family and career.",
+    "category": "Motivation Problems",
+    "confidence": 0.7
+  },
+  "63": {
+    "summary": "Job crisis from market saturation in creative fields.",
+    "category": "Job Crisis",
+    "confidence": 0.8
+  },
   "64": {
-    "summary": "Struggled with academic pressures during university years.",
-    "category": "academic_stress",
+    "summary": "Workplace stress from client demands and deadlines.",
+    "category": "Workplace Stress",
     "confidence": 0.8
   },
   "65": {
-    "summary": "Experienced acute anxiety during pandemic lockdowns.",
-    "category": "mental_health_crisis",
-    "confidence": 0.9
+    "summary": "Emotional fluctuations from aging and career pressures.",
+    "category": "Emotional Fluctuations",
+    "confidence": 0.7
   },
   "66": {
-    "summary": "Navigated immigration processes across multiple countries.",
-    "category": "immigration",
-    "confidence": 0.8
+    "summary": "Parental conflicts over life choices.",
+    "category": "Issues with Parents",
+    "confidence": 0.7
   },
   "67": {
-    "summary": "Coped with family separations during childhood relocations.",
-    "category": "grief_bereavement",
-    "confidence": 0.75
+    "summary": "Emotional fluctuations from midlife transitions.",
+    "category": "Emotional Fluctuations",
+    "confidence": 0.7
   },
   "68": {
-    "summary": "Navigated relationship dissolution after moving cities.",
-    "category": "relationship_breakup",
-    "confidence": 0.6
+    "summary": "Burnout from long-term freelance instability.",
+    "category": "Burnout",
+    "confidence": 0.8
   },
   "69": {
-    "summary": "Felt isolated during pandemic-induced social distancing.",
-    "category": "loneliness_isolation",
-    "confidence": 0.9
+    "summary": "Marital conflicts from relocation stress.",
+    "category": "Marital Problems",
+    "confidence": 0.6
   },
   "70": {
-    "summary": "Dealt with unexplained fatigue during early career.",
-    "category": "chronic_health_pain",
-    "confidence": 0.65
+    "summary": "Friendship conflicts from geographic distance.",
+    "category": "Problems with Friends",
+    "confidence": 0.7
   },
   "71": {
-    "summary": "Faced freelance income fluctuations during career start.",
-    "category": "financial_employment",
-    "confidence": 0.85
+    "summary": "Parenting challenges balancing career and family.",
+    "category": "Issues with Children",
+    "confidence": 0.6
   },
   "72": {
-    "summary": "Managed caregiving for a family member during pandemic.",
-    "category": "caregiver_burden",
-    "confidence": 0.55
+    "summary": "Addictive behaviors from stress and isolation.",
+    "category": "Addictive Behaviors (e.g., Drug Use, Gambling)",
+    "confidence": 0.6
   },
   "73": {
-    "summary": "Felt unsafe in new city environment.",
-    "category": "violence_abuse",
-    "confidence": 0.4
+    "summary": "Compulsive behaviors in artistic perfectionism.",
+    "category": "Compulsive Behaviors",
+    "confidence": 0.7
   },
   "74": {
-    "summary": "Navigated housing challenges as a new immigrant.",
-    "category": "legal_housing",
-    "confidence": 0.7
+    "summary": "Schizophrenia-like symptoms from prolonged stress.",
+    "category": "Schizophrenia",
+    "confidence": 0.5
   },
   "75": {
-    "summary": "Struggled with academic deadlines during graduate studies.",
-    "category": "academic_stress",
-    "confidence": 0.7
+    "summary": "Alcohol abuse to cope with creative dissatisfaction.",
+    "category": "Alcohol Abuse",
+    "confidence": 0.6
   },
   "76": {
-    "summary": "Experienced burnout from freelance work demands.",
-    "category": "mental_health_crisis",
-    "confidence": 0.8
-  },
-  "77": {
-    "summary": "Faced visa renewal stress in new country.",
-    "category": "immigration",
+    "summary": "OCD tendencies in artistic routines.",
+    "category": "Obsessive-Compulsive Disorder (OCD)",
     "confidence": 0.7
   },
+  "77": {
+    "summary": "Bipolar disorder from mood instability.",
+    "category": "Bipolar Disorder",
+    "confidence": 0.6
+  },
   "78": {
-    "summary": "Grieved loss of extended family support networks.",
-    "category": "grief_bereavement",
-    "confidence": 0.75
-  },
-  "79": {
-    "summary": "Navigated post-breakup adjustment in unfamiliar city.",
-    "category": "relationship_breakup",
-    "confidence": 0.65
-  },
-  "80": {
-    "summary": "Felt disconnected despite online community ties.",
-    "category": "loneliness_isolation",
+    "summary": "Financial problems from market fluctuations.",
+    "category": "Financial Problems",
     "confidence": 0.8
   },
+  "79": {
+    "summary": "Debt problems from career transitions.",
+    "category": "Debt Problems",
+    "confidence": 0.8
+  },
+  "80": {
+    "summary": "Breakup recovery from partner relocation.",
+    "category": "Breakups or Divorce",
+    "confidence": 0.7
+  },
   "81": {
-    "summary": "Dealt with persistent fatigue from overwork.",
-    "category": "chronic_health_pain",
+    "summary": "Communication conflicts with family.",
+    "category": "Conflicts or Communication Problems",
     "confidence": 0.7
   },
   "82": {
-    "summary": "Faced financial instability during economic downturn.",
-    "category": "financial_employment",
-    "confidence": 0.8
+    "summary": "Recovering from past trauma with limited support.",
+    "category": "Sexual Assault or Domestic Violence Recovery",
+    "confidence": 0.5
   },
   "83": {
-    "summary": "Balanced freelance work with personal care duties.",
-    "category": "caregiver_burden",
-    "confidence": 0.6
-  },
-  "84": {
-    "summary": "Encountered housing discrimination as immigrant artist.",
-    "category": "violence_abuse",
-    "confidence": 0.55
-  },
-  "85": {
-    "summary": "Navigated legal hurdles for residency status.",
-    "category": "legal_housing",
+    "summary": "Anger management issues from unmet expectations.",
+    "category": "Anger Management Issues",
     "confidence": 0.7
   },
-  "86": {
-    "summary": "Struggled with academic pressures during university years.",
-    "category": "academic_stress",
+  "84": {
+    "summary": "Chronic stress from aging in a competitive industry.",
+    "category": "Chronic Stress",
     "confidence": 0.8
   },
+  "85": {
+    "summary": "Culture shock from aging in a new country.",
+    "category": "Culture Shock",
+    "confidence": 0.6
+  },
+  "86": {
+    "summary": "PTSD from pandemic-era trauma resurfacing.",
+    "category": "Post-Traumatic Stress Disorder (PTSD)",
+    "confidence": 0.7
+  },
   "87": {
-    "summary": "Experienced acute anxiety during pandemic lockdowns.",
-    "category": "mental_health_crisis",
+    "summary": "Anxiety disorders from aging and career pressures.",
+    "category": "Anxiety Disorders",
     "confidence": 0.9
   },
   "88": {
-    "summary": "Navigated immigration processes across multiple countries.",
-    "category": "immigration",
+    "summary": "Personal growth challenges balancing aging and creativity.",
+    "category": "Personal Growth Challenges",
     "confidence": 0.8
   },
   "89": {
-    "summary": "Coped with family separations during childhood relocations.",
-    "category": "grief_bereavement",
-    "confidence": 0.75
-  },
-  "90": {
-    "summary": "Navigated relationship dissolution after moving cities.",
-    "category": "relationship_breakup",
-    "confidence": 0.6
-  },
-  "91": {
-    "summary": "Felt isolated during pandemic-induced social distancing.",
-    "category": "loneliness_isolation",
-    "confidence": 0.9
-  },
-  "92": {
-    "summary": "Dealt with unexplained fatigue during early career.",
-    "category": "chronic_health_pain",
-    "confidence": 0.65
-  },
-  "93": {
-    "summary": "Faced freelance income fluctuations during career start.",
-    "category": "financial_employment",
-    "confidence": 0.85
-  },
-  "94": {
-    "summary": "Managed caregiving for a family member during pandemic.",
-    "category": "caregiver_burden",
-    "confidence": 0.55
-  },
-  "95": {
-    "summary": "Felt unsafe in new city environment.",
-    "category": "violence_abuse",
-    "confidence": 0.4
-  },
-  "96": {
-    "summary": "Navigated housing challenges as a new immigrant.",
-    "category": "legal_housing",
-    "confidence": 0.7
-  },
-  "97": {
-    "summary": "Struggled with academic deadlines during graduate studies.",
-    "category": "academic_stress",
-    "confidence": 0.7
-  },
-  "98": {
-    "summary": "Experienced burnout from freelance work demands.",
-    "category": "mental_health_crisis",
+    "summary": "Ongoing depression from chronic stress.",
+    "category": "Ongoing Depression",
     "confidence": 0.8
   },
-  "99": {
-    "summary": "Faced visa renewal stress in new country.",
-    "category": "immigration",
+  "90": {
+    "summary": "Sleep problems from anxiety and aging.",
+    "category": "Sleep Problems",
+    "confidence": 0.8
+  },
+  "91": {
+    "summary": "Death of a loved one from aging-related causes.",
+    "category": "Death of a Loved One",
+    "confidence": 0.5
+  },
+  "92": {
+    "summary": "Grief from losing a parent.",
+    "category": "Grief and Loss",
+    "confidence": 0.6
+  },
+  "93": {
+    "summary": "Spirituality struggles amid aging and relocation.",
+    "category": "Spirituality and Faith",
     "confidence": 0.7
   },
+  "94": {
+    "summary": "Health problems from aging and stress.",
+    "category": "Health Problems",
+    "confidence": 0.8
+  },
+  "95": {
+    "summary": "Life transitions from aging and career shifts.",
+    "category": "Life Transitions (e.g., Retirement, Relocation)",
+    "confidence": 0.8
+  },
+  "96": {
+    "summary": "Death of a spouse from aging-related causes.",
+    "category": "Death of a Loved One",
+    "confidence": 0.5
+  },
+  "97": {
+    "summary": "Grief from losing a partner.",
+    "category": "Grief and Loss",
+    "confidence": 0.6
+  },
+  "98": {
+    "summary": "Spirituality struggles amid aging and relocation.",
+    "category": "Spirituality and Faith",
+    "confidence": 0.7
+  },
+  "99": {
+    "summary": "Health problems from aging and chronic stress.",
+    "category": "Health Problems",
+    "confidence": 0.8
+  },
   "100": {
-    "summary": "Grieved loss of extended family support networks.",
-    "category": "grief_bereavement",
-    "confidence": 0.75
+    "summary": "Life transitions from retirement and relocation.",
+    "category": "Life Transitions (e.g., Retirement, Relocation)",
+    "confidence": 0.8
   }
 }

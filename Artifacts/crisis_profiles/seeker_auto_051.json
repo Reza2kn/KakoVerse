@@ -1,407 +1,407 @@
 {
   "20": {
-    "summary": "Entered informal trading amid 1990s economic volatility.",
-    "category": "financial_employment",
-    "confidence": 0.85
+    "summary": "Lingering effects of past school bullying impacting self-image.",
+    "category": "School Bullying",
+    "confidence": 0.4
   },
   "21": {
-    "summary": "Supported aging parents during family relocation stress.",
-    "category": "caregiver_burden",
-    "confidence": 0.78
-  },
-  "22": {
-    "summary": "Survived neighborhood conflicts during Jakarta's pandemic lockdowns.",
-    "category": "violence_abuse",
-    "confidence": 0.82
-  },
-  "23": {
-    "summary": "Faced housing disputes after sudden Jakarta residency changes.",
-    "category": "legal_housing",
-    "confidence": 0.75
-  },
-  "24": {
-    "summary": "Struggled with academic expectations in new cultural context.",
-    "category": "academic_stress",
+    "summary": "Struggles with motivation in career choices amid cultural transitions.",
+    "category": "Motivation Problems",
     "confidence": 0.7
   },
+  "22": {
+    "summary": "Uncertainty in setting long-term goals due to conflicting values.",
+    "category": "Goal Setting Issues",
+    "confidence": 0.8
+  },
+  "23": {
+    "summary": "Procrastination affecting career advancement due to perfectionism.",
+    "category": "Procrastination",
+    "confidence": 0.7
+  },
+  "24": {
+    "summary": "Career development challenges in a new cultural environment.",
+    "category": "Career Development Issues",
+    "confidence": 0.9
+  },
   "25": {
-    "summary": "First anxiety episode during pandemic-induced job insecurity.",
-    "category": "mental_health_crisis",
+    "summary": "Identity conflicts between Hong Kong roots and Indonesian residency.",
+    "category": "Identity Crises",
     "confidence": 0.9
   },
   "26": {
-    "summary": "Navigated complex immigration processes for permanent residency.",
-    "category": "immigration",
-    "confidence": 0.88
+    "summary": "Reliance on digital strategies leading to addictive behaviors.",
+    "category": "Internet Addiction",
+    "confidence": 0.6
   },
   "27": {
-    "summary": "Grieved loss of Hong Kong childhood amid Jakarta transition.",
-    "category": "grief_bereavement",
-    "confidence": 0.8
+    "summary": "Questioning sexual orientation in a conservative environment.",
+    "category": "Sexual Orientation",
+    "confidence": 0.5
   },
   "28": {
-    "summary": "Ended unstable relationship during cultural adjustment period.",
-    "category": "relationship_breakup",
-    "confidence": 0.75
+    "summary": "Past school bullying resurfaces, affecting current relationships.",
+    "category": "School Bullying",
+    "confidence": 0.4
   },
   "29": {
-    "summary": "Felt isolated despite community ties in unfamiliar city.",
-    "category": "loneliness_isolation",
-    "confidence": 0.85
+    "summary": "Procrastination in personal projects due to burnout.",
+    "category": "Procrastination",
+    "confidence": 0.7
   },
   "30": {
-    "summary": "Managed chronic back pain from manual trading work.",
-    "category": "chronic_health_pain",
-    "confidence": 0.7
+    "summary": "Struggling to set achievable goals in a new country.",
+    "category": "Goal Setting Issues",
+    "confidence": 0.8
   },
   "31": {
-    "summary": "Financial strain from supporting family across three countries.",
-    "category": "financial_employment",
-    "confidence": 0.9
+    "summary": "Self-harm as a coping mechanism for unresolved trauma.",
+    "category": "Self-Harm Behaviors",
+    "confidence": 0.5
   },
   "32": {
-    "summary": "Caregiver burnout during spouse's health crisis.",
-    "category": "caregiver_burden",
-    "confidence": 0.8
+    "summary": "Eating disorders emerging from stress and cultural adaptation.",
+    "category": "Eating Disorders",
+    "confidence": 0.4
   },
   "33": {
-    "summary": "Survived domestic violence during early marriage years.",
-    "category": "violence_abuse",
-    "confidence": 0.7
+    "summary": "Academic pressure from continuing education in a new field.",
+    "category": "Academic Pressure",
+    "confidence": 0.6
   },
   "34": {
-    "summary": "Legal battles over disputed Jakarta property.",
-    "category": "legal_housing",
-    "confidence": 0.75
+    "summary": "Workplace stress in a competitive industry.",
+    "category": "Workplace Stress",
+    "confidence": 0.8
   },
   "35": {
-    "summary": "Academic pressure to validate immigrant credentials.",
-    "category": "academic_stress",
-    "confidence": 0.65
+    "summary": "Job loss and financial insecurity in a volatile economy.",
+    "category": "Job Crisis",
+    "confidence": 0.7
   },
   "36": {
-    "summary": "Mental health crisis during Jerusalem relocation.",
-    "category": "mental_health_crisis",
-    "confidence": 0.9
+    "summary": "Career development stagnation in a foreign country.",
+    "category": "Career Development Issues",
+    "confidence": 0.8
   },
   "37": {
-    "summary": "Immigration status threats during regional political tensions.",
-    "category": "immigration",
-    "confidence": 0.8
+    "summary": "Navigating sexual orientation in a traditional community.",
+    "category": "Sexual Orientation",
+    "confidence": 0.5
   },
   "38": {
-    "summary": "Grief over ancestral Hong Kong home demolition.",
-    "category": "grief_bereavement",
-    "confidence": 0.85
+    "summary": "Internet addiction as a substitute for social connections.",
+    "category": "Internet Addiction",
+    "confidence": 0.6
   },
   "39": {
-    "summary": "Relationship breakdown after cultural expectation clashes.",
-    "category": "relationship_breakup",
-    "confidence": 0.78
+    "summary": "Identity crisis due to conflicting cultural loyalties.",
+    "category": "Identity Crises",
+    "confidence": 0.9
   },
   "40": {
-    "summary": "Isolation despite large family due to cultural divides.",
-    "category": "loneliness_isolation",
-    "confidence": 0.8
+    "summary": "Eating disorders triggered by chronic stress and displacement.",
+    "category": "Eating Disorders",
+    "confidence": 0.4
   },
   "41": {
-    "summary": "Chronic pain limiting heritage conservation work.",
-    "category": "chronic_health_pain",
-    "confidence": 0.75
+    "summary": "Self-harm behaviors escalating due to unresolved past trauma.",
+    "category": "Self-Harm Behaviors",
+    "confidence": 0.5
   },
   "42": {
-    "summary": "Financial instability from cultural project funding cuts.",
-    "category": "financial_employment",
-    "confidence": 0.85
+    "summary": "Academic pressure from pursuing advanced degrees.",
+    "category": "Academic Pressure",
+    "confidence": 0.6
   },
   "43": {
-    "summary": "Caregiver exhaustion with aging parents in new country.",
-    "category": "caregiver_burden",
-    "confidence": 0.8
+    "summary": "Recovering from past sexual assault or domestic violence.",
+    "category": "Sexual Assault or Domestic Violence Recovery",
+    "confidence": 0.3
   },
   "44": {
-    "summary": "Survived workplace harassment in conservation sector.",
-    "category": "violence_abuse",
+    "summary": "Anger management issues from accumulated stress and cultural conflicts.",
+    "category": "Anger Management Issues",
     "confidence": 0.7
   },
   "45": {
-    "summary": "Legal disputes over Jerusalem housing affordability.",
-    "category": "legal_housing",
-    "confidence": 0.75
+    "summary": "Financial problems from job loss and economic downturn.",
+    "category": "Financial Problems",
+    "confidence": 0.8
   },
   "46": {
-    "summary": "Academic pressure to upskill amid changing job market.",
-    "category": "academic_stress",
-    "confidence": 0.65
+    "summary": "Communication problems with family due to cultural differences.",
+    "category": "Conflicts or Communication Problems",
+    "confidence": 0.8
   },
   "47": {
-    "summary": "Mental health relapse during financial hardship.",
-    "category": "mental_health_crisis",
+    "summary": "Chronic stress from work and family responsibilities.",
+    "category": "Chronic Stress",
     "confidence": 0.9
   },
   "48": {
-    "summary": "Immigration status uncertainty during regional conflict.",
-    "category": "immigration",
+    "summary": "Anxiety disorders emerging from prolonged stress.",
+    "category": "Anxiety Disorders",
     "confidence": 0.8
   },
   "49": {
-    "summary": "Grief over loss of Jakarta community networks.",
-    "category": "grief_bereavement",
+    "summary": "Personal growth challenges in adapting to a new culture.",
+    "category": "Personal Growth Challenges",
     "confidence": 0.8
   },
   "50": {
-    "summary": "Relationship breakdown after prolonged cultural adaptation.",
-    "category": "relationship_breakup",
-    "confidence": 0.75
+    "summary": "Sleep problems due to anxiety and financial instability.",
+    "category": "Sleep Problems",
+    "confidence": 0.9
   },
   "51": {
-    "summary": "Isolation despite family presence in foreign culture.",
-    "category": "loneliness_isolation",
-    "confidence": 0.8
+    "summary": "Ongoing depression from unresolved identity conflicts.",
+    "category": "Ongoing Depression",
+    "confidence": 0.9
   },
   "52": {
-    "summary": "Chronic pain affecting heritage work capacity.",
-    "category": "chronic_health_pain",
-    "confidence": 0.75
+    "summary": "PTSD from past traumatic experiences in childhood.",
+    "category": "Post-Traumatic Stress Disorder (PTSD)",
+    "confidence": 0.5
   },
   "53": {
-    "summary": "Current financial precarity impacting family stability.",
-    "category": "financial_employment",
+    "summary": "Culture shock from living in a new country with different norms.",
+    "category": "Culture Shock",
     "confidence": 0.9
   },
   "54": {
-    "summary": "Caregiver burden straining family dynamics.",
-    "category": "caregiver_burden",
-    "confidence": 0.8
+    "summary": "OCD symptoms emerging from stress and need for control.",
+    "category": "Obsessive-Compulsive Disorder (OCD)",
+    "confidence": 0.4
   },
   "55": {
-    "summary": "Survived workplace discrimination in conservation field.",
-    "category": "violence_abuse",
-    "confidence": 0.7
+    "summary": "Bipolar disorder symptoms appearing under stress.",
+    "category": "Bipolar Disorder",
+    "confidence": 0.3
   },
   "56": {
-    "summary": "Legal challenges over Jerusalem housing costs.",
-    "category": "legal_housing",
-    "confidence": 0.75
+    "summary": "Emotional fluctuations due to cultural and financial stress.",
+    "category": "Emotional Fluctuations",
+    "confidence": 0.8
   },
   "57": {
-    "summary": "Academic pressure to validate cross-cultural expertise.",
-    "category": "academic_stress",
-    "confidence": 0.65
+    "summary": "Motivation problems due to burnout and financial strain.",
+    "category": "Motivation Problems",
+    "confidence": 0.7
   },
   "58": {
-    "summary": "Mental health crisis amid cultural identity conflicts.",
-    "category": "mental_health_crisis",
-    "confidence": 0.9
+    "summary": "Self-esteem issues from workplace challenges and cultural differences.",
+    "category": "Self-Esteem Issues",
+    "confidence": 0.8
   },
   "59": {
-    "summary": "Immigration status anxiety during regional instability.",
-    "category": "immigration",
-    "confidence": 0.8
+    "summary": "Appearance anxiety in a new cultural context.",
+    "category": "Appearance Anxiety",
+    "confidence": 0.5
   },
   "60": {
-    "summary": "Grief over lost opportunities in homeland.",
-    "category": "grief_bereavement",
-    "confidence": 0.8
+    "summary": "Burnout from long-term career in conservation.",
+    "category": "Burnout",
+    "confidence": 0.9
   },
   "61": {
-    "summary": "Relationship breakdown after prolonged cultural adaptation.",
-    "category": "relationship_breakup",
-    "confidence": 0.75
+    "summary": "Appearance anxiety due to aging and cultural expectations.",
+    "category": "Appearance Anxiety",
+    "confidence": 0.5
   },
   "62": {
-    "summary": "Isolation despite family presence in foreign culture.",
-    "category": "loneliness_isolation",
+    "summary": "Self-esteem issues from retirement and loss of identity.",
+    "category": "Self-Esteem Issues",
     "confidence": 0.8
   },
   "63": {
-    "summary": "Chronic pain limiting cultural heritage work.",
-    "category": "chronic_health_pain",
-    "confidence": 0.75
+    "summary": "Workplace stress in a volunteer role.",
+    "category": "Workplace Stress",
+    "confidence": 0.7
   },
   "64": {
-    "summary": "Financial instability from irregular heritage project funding.",
-    "category": "financial_employment",
-    "confidence": 0.85
+    "summary": "Job crisis after retirement due to financial needs.",
+    "category": "Job Crisis",
+    "confidence": 0.7
   },
   "65": {
-    "summary": "Caregiver burden straining family dynamics.",
-    "category": "caregiver_burden",
+    "summary": "Issues with parents from Hong Kong due to distance.",
+    "category": "Issues with Parents",
     "confidence": 0.8
   },
   "66": {
-    "summary": "Survived workplace discrimination in conservation field.",
-    "category": "violence_abuse",
+    "summary": "Issues with parents from Indonesia due to cultural differences.",
+    "category": "Issues with Parents",
     "confidence": 0.7
   },
   "67": {
-    "summary": "Legal challenges over Jerusalem housing costs.",
-    "category": "legal_housing",
-    "confidence": 0.75
+    "summary": "Problems with friends from cultural misunderstandings.",
+    "category": "Problems with Friends",
+    "confidence": 0.7
   },
   "68": {
-    "summary": "Academic pressure to validate cross-cultural expertise.",
-    "category": "academic_stress",
-    "confidence": 0.65
-  },
-  "69": {
-    "summary": "Mental health crisis amid cultural identity conflicts.",
-    "category": "mental_health_crisis",
-    "confidence": 0.9
-  },
-  "70": {
-    "summary": "Immigration status anxiety during regional instability.",
-    "category": "immigration",
+    "summary": "Burnout from volunteer work and family responsibilities.",
+    "category": "Burnout",
     "confidence": 0.8
   },
+  "69": {
+    "summary": "Marital problems due to financial stress and cultural differences.",
+    "category": "Marital Problems",
+    "confidence": 0.8
+  },
+  "70": {
+    "summary": "Problems with friends from social isolation.",
+    "category": "Problems with Friends",
+    "confidence": 0.7
+  },
   "71": {
-    "summary": "Grief over lost opportunities in homeland.",
-    "category": "grief_bereavement",
+    "summary": "Issues with children from cultural and generational gaps.",
+    "category": "Issues with Children",
     "confidence": 0.8
   },
   "72": {
-    "summary": "Relationship breakdown after prolonged cultural adaptation.",
-    "category": "relationship_breakup",
-    "confidence": 0.75
+    "summary": "Schizophrenia symptoms emerging under extreme stress.",
+    "category": "Schizophrenia",
+    "confidence": 0.3
   },
   "73": {
-    "summary": "Isolation despite family presence in foreign culture.",
-    "category": "loneliness_isolation",
-    "confidence": 0.8
+    "summary": "Compulsive behaviors from stress and need for control.",
+    "category": "Compulsive Behaviors",
+    "confidence": 0.4
   },
   "74": {
-    "summary": "Chronic pain limiting cultural heritage work.",
-    "category": "chronic_health_pain",
-    "confidence": 0.75
+    "summary": "Alcohol abuse as a coping mechanism for chronic stress.",
+    "category": "Alcohol Abuse",
+    "confidence": 0.5
   },
   "75": {
-    "summary": "Financial instability from irregular heritage project funding.",
-    "category": "financial_employment",
-    "confidence": 0.85
+    "summary": "Addictive behaviors from financial stress and boredom.",
+    "category": "Addictive Behaviors (e.g., Drug Use, Gambling)",
+    "confidence": 0.4
   },
   "76": {
-    "summary": "Caregiver burden straining family dynamics.",
-    "category": "caregiver_burden",
+    "summary": "Debt problems from financial instability and family support.",
+    "category": "Debt Problems",
     "confidence": 0.8
   },
   "77": {
-    "summary": "Survived workplace discrimination in conservation field.",
-    "category": "violence_abuse",
-    "confidence": 0.7
+    "summary": "OCD symptoms from need for control in uncertain times.",
+    "category": "Obsessive-Compulsive Disorder (OCD)",
+    "confidence": 0.4
   },
   "78": {
-    "summary": "Legal challenges over Jerusalem housing costs.",
-    "category": "legal_housing",
-    "confidence": 0.75
+    "summary": "Bipolar disorder symptoms from life transitions.",
+    "category": "Bipolar Disorder",
+    "confidence": 0.3
   },
   "79": {
-    "summary": "Academic pressure to validate cross-cultural expertise.",
-    "category": "academic_stress",
-    "confidence": 0.65
-  },
-  "80": {
-    "summary": "Mental health crisis amid cultural identity conflicts.",
-    "category": "mental_health_crisis",
-    "confidence": 0.9
-  },
-  "81": {
-    "summary": "Immigration status anxiety during regional instability.",
-    "category": "immigration",
+    "summary": "Financial problems from retirement and health issues.",
+    "category": "Financial Problems",
     "confidence": 0.8
   },
+  "80": {
+    "summary": "Breakup from spouse due to financial stress.",
+    "category": "Breakups or Divorce",
+    "confidence": 0.5
+  },
+  "81": {
+    "summary": "Communication problems with children from cultural differences.",
+    "category": "Conflicts or Communication Problems",
+    "confidence": 0.7
+  },
   "82": {
-    "summary": "Grief over lost opportunities in homeland.",
-    "category": "grief_bereavement",
+    "summary": "Ongoing depression from loss and isolation.",
+    "category": "Ongoing Depression",
     "confidence": 0.8
   },
   "83": {
-    "summary": "Relationship breakdown after prolonged cultural adaptation.",
-    "category": "relationship_breakup",
-    "confidence": 0.75
-  },
-  "84": {
-    "summary": "Isolation despite family presence in foreign culture.",
-    "category": "loneliness_isolation",
-    "confidence": 0.8
-  },
-  "85": {
-    "summary": "Chronic pain limiting cultural heritage work.",
-    "category": "chronic_health_pain",
-    "confidence": 0.75
-  },
-  "86": {
-    "summary": "Financial instability from irregular heritage project funding.",
-    "category": "financial_employment",
-    "confidence": 0.85
-  },
-  "87": {
-    "summary": "Caregiver burden straining family dynamics.",
-    "category": "caregiver_burden",
-    "confidence": 0.8
-  },
-  "88": {
-    "summary": "Survived workplace discrimination in conservation field.",
-    "category": "violence_abuse",
+    "summary": "Personal growth challenges in retirement.",
+    "category": "Personal Growth Challenges",
     "confidence": 0.7
   },
+  "84": {
+    "summary": "Anger management issues from financial stress.",
+    "category": "Anger Management Issues",
+    "confidence": 0.7
+  },
+  "85": {
+    "summary": "Culture shock from aging in a foreign country.",
+    "category": "Culture Shock",
+    "confidence": 0.5
+  },
+  "86": {
+    "summary": "Sleep problems due to aging and anxiety.",
+    "category": "Sleep Problems",
+    "confidence": 0.8
+  },
+  "87": {
+    "summary": "Recovering from past domestic violence.",
+    "category": "Sexual Assault or Domestic Violence Recovery",
+    "confidence": 0.3
+  },
+  "88": {
+    "summary": "PTSD from past traumatic events.",
+    "category": "Post-Traumatic Stress Disorder (PTSD)",
+    "confidence": 0.4
+  },
   "89": {
-    "summary": "Legal challenges over Jerusalem housing costs.",
-    "category": "legal_housing",
-    "confidence": 0.75
+    "summary": "Chronic stress from health and financial issues.",
+    "category": "Chronic Stress",
+    "confidence": 0.8
   },
   "90": {
-    "summary": "Academic pressure to validate cross-cultural expertise.",
-    "category": "academic_stress",
-    "confidence": 0.65
+    "summary": "Anxiety disorders from aging and health concerns.",
+    "category": "Anxiety Disorders",
+    "confidence": 0.8
   },
   "91": {
-    "summary": "Mental health crisis amid cultural identity conflicts.",
-    "category": "mental_health_crisis",
-    "confidence": 0.9
+    "summary": "Grief and loss from the death of loved ones.",
+    "category": "Grief and Loss",
+    "confidence": 0.8
   },
   "92": {
-    "summary": "Immigration status anxiety during regional instability.",
-    "category": "immigration",
+    "summary": "Grieving the death of a spouse.",
+    "category": "Death of a Loved One",
     "confidence": 0.8
   },
   "93": {
-    "summary": "Grief over lost opportunities in homeland.",
-    "category": "grief_bereavement",
-    "confidence": 0.8
+    "summary": "Spirituality and faith crisis in a new country.",
+    "category": "Spirituality and Faith",
+    "confidence": 0.7
   },
   "94": {
-    "summary": "Relationship breakdown after prolonged cultural adaptation.",
-    "category": "relationship_breakup",
-    "confidence": 0.75
+    "summary": "Health problems from chronic conditions.",
+    "category": "Health Problems",
+    "confidence": 0.8
   },
   "95": {
-    "summary": "Isolation despite family presence in foreign culture.",
-    "category": "loneliness_isolation",
+    "summary": "Life transition from retirement to new routines.",
+    "category": "Life Transitions (e.g., Retirement, Relocation)",
     "confidence": 0.8
   },
   "96": {
-    "summary": "Chronic pain limiting cultural heritage work.",
-    "category": "chronic_health_pain",
-    "confidence": 0.75
-  },
-  "97": {
-    "summary": "Financial instability from irregular heritage project funding.",
-    "category": "financial_employment",
-    "confidence": 0.85
-  },
-  "98": {
-    "summary": "Caregiver burden straining family dynamics.",
-    "category": "caregiver_burden",
+    "summary": "Grief and loss from multiple losses.",
+    "category": "Grief and Loss",
     "confidence": 0.8
   },
-  "99": {
-    "summary": "Survived workplace discrimination in conservation field.",
-    "category": "violence_abuse",
+  "97": {
+    "summary": "Grieving the death of a child.",
+    "category": "Death of a Loved One",
+    "confidence": 0.8
+  },
+  "98": {
+    "summary": "Spirituality and faith crisis in old age.",
+    "category": "Spirituality and Faith",
     "confidence": 0.7
   },
+  "99": {
+    "summary": "Health problems from chronic conditions.",
+    "category": "Health Problems",
+    "confidence": 0.8
+  },
   "100": {
-    "summary": "Legal challenges over Jerusalem housing costs.",
-    "category": "legal_housing",
-    "confidence": 0.75
+    "summary": "Life transition at the end of life.",
+    "category": "Life Transitions (e.g., Retirement, Relocation)",
+    "confidence": 0.7
   }
 }

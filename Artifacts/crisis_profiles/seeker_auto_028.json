@@ -1,407 +1,407 @@
 {
   "20": {
-    "summary": "Stress-induced physical symptoms from chronic displacement trauma.",
-    "category": "chronic_health_pain",
-    "confidence": 0.65
+    "summary": "Struggles to set long-term goals due to past relocations and unstable environment.",
+    "category": "Goal Setting Issues",
+    "confidence": 0.9
   },
   "21": {
-    "summary": "Income instability impacting mental health recovery.",
-    "category": "financial_employment",
+    "summary": "Procrastinates on academic and career decisions, overwhelmed by past disruptions.",
+    "category": "Procrastination",
     "confidence": 0.8
   },
   "22": {
-    "summary": "Family care responsibilities conflicting with education.",
-    "category": "caregiver_burden",
-    "confidence": 0.55
-  },
-  "23": {
-    "summary": "Re-experiencing trauma from past displacement.",
-    "category": "violence_abuse",
-    "confidence": 0.7
-  },
-  "24": {
-    "summary": "Housing insecurity due to refugee status in new country.",
-    "category": "legal_housing",
-    "confidence": 0.6
-  },
-  "25": {
-    "summary": "Academic pressure amid language barriers and resettlement.",
-    "category": "academic_stress",
-    "confidence": 0.7
-  },
-  "26": {
-    "summary": "Active self-harm ideation escalating mental health crisis.",
-    "category": "mental_health_crisis",
+    "summary": "Questioning identity due to multiple cultural backgrounds and refugee experiences.",
+    "category": "Identity Crises",
     "confidence": 0.9
   },
+  "23": {
+    "summary": "Exploring sexual orientation amidst cultural expectations and past trauma.",
+    "category": "Sexual Orientation",
+    "confidence": 0.6
+  },
+  "24": {
+    "summary": "Career development hindered by adjustment disorder and financial precarity.",
+    "category": "Career Development Issues",
+    "confidence": 0.9
+  },
+  "25": {
+    "summary": "Self-harm behaviors resurface due to ongoing anxiety and adjustment issues.",
+    "category": "Self-Harm Behaviors",
+    "confidence": 0.9
+  },
+  "26": {
+    "summary": "Turns to internet for escape, risking addiction due to social withdrawal.",
+    "category": "Internet Addiction",
+    "confidence": 0.7
+  },
   "27": {
-    "summary": "Legal limbo affecting long-term stability.",
-    "category": "immigration",
-    "confidence": 0.8
+    "summary": "Eating disorders emerge as coping mechanism for unresolved trauma and anxiety.",
+    "category": "Eating Disorders",
+    "confidence": 0.6
   },
   "28": {
-    "summary": "Grief over lost childhood stability resurfaces.",
-    "category": "grief_bereavement",
+    "summary": "Bullying in academic setting due to accent and refugee background.",
+    "category": "School Bullying",
     "confidence": 0.7
   },
   "29": {
-    "summary": "Peer relationships strained by withdrawal and trauma.",
-    "category": "relationship_breakup",
+    "summary": "Eating disorders persist, exacerbated by stress of career and financial instability.",
+    "category": "Eating Disorders",
     "confidence": 0.6
   },
   "30": {
-    "summary": "Isolation from limited social networks.",
-    "category": "loneliness_isolation",
-    "confidence": 0.7
+    "summary": "Identity crises deepen as adult, questioning belonging in new country.",
+    "category": "Identity Crises",
+    "confidence": 0.9
   },
   "31": {
-    "summary": "Chronic pain from unresolved trauma manifesting physically.",
-    "category": "chronic_health_pain",
-    "confidence": 0.6
+    "summary": "Academic pressure from further education, despite past learning disruptions.",
+    "category": "Academic Pressure",
+    "confidence": 0.7
   },
   "32": {
-    "summary": "Job insecurity compounding refugee status stress.",
-    "category": "financial_employment",
-    "confidence": 0.75
-  },
-  "33": {
-    "summary": "Caregiving duties overwhelming fragile mental state.",
-    "category": "caregiver_burden",
+    "summary": "Continued exploration of sexual orientation, facing cultural and family expectations.",
+    "category": "Sexual Orientation",
     "confidence": 0.6
   },
+  "33": {
+    "summary": "Self-harm behaviors reoccur during periods of high stress and isolation.",
+    "category": "Self-Harm Behaviors",
+    "confidence": 0.9
+  },
   "34": {
-    "summary": "Domestic violence history resurfacing under stress.",
-    "category": "violence_abuse",
+    "summary": "Internet addiction worsens as coping mechanism for chronic anxiety.",
+    "category": "Internet Addiction",
     "confidence": 0.7
   },
   "35": {
-    "summary": "Housing discrimination targeting refugees.",
-    "category": "legal_housing",
-    "confidence": 0.65
-  },
-  "36": {
-    "summary": "Academic setbacks triggering depression.",
-    "category": "academic_stress",
+    "summary": "Academic pressure from professional certification, despite past disruptions.",
+    "category": "Academic Pressure",
     "confidence": 0.7
   },
+  "36": {
+    "summary": "Sleep problems persist due to anxiety and adjustment disorder.",
+    "category": "Sleep Problems",
+    "confidence": 0.9
+  },
   "37": {
-    "summary": "Suicidal ideation crisis requiring urgent intervention.",
-    "category": "mental_health_crisis",
+    "summary": "Anxiety disorders worsen, affecting daily functioning and relationships.",
+    "category": "Anxiety Disorders",
     "confidence": 0.9
   },
   "38": {
-    "summary": "Deportation fears disrupting long-term plans.",
-    "category": "immigration",
-    "confidence": 0.8
+    "summary": "Ongoing depression from childhood trauma and adjustment disorder.",
+    "category": "Ongoing Depression",
+    "confidence": 0.9
   },
   "39": {
-    "summary": "Bereavement over lost cultural connections.",
-    "category": "grief_bereavement",
-    "confidence": 0.7
+    "summary": "Chronic stress from financial precarity and family responsibilities.",
+    "category": "Chronic Stress",
+    "confidence": 0.9
   },
   "40": {
-    "summary": "Romantic relationship collapse exacerbating isolation.",
-    "category": "relationship_breakup",
-    "confidence": 0.65
+    "summary": "Communication problems with spouse/family due to emotional numbness.",
+    "category": "Conflicts or Communication Problems",
+    "confidence": 0.7
   },
   "41": {
-    "summary": "Chronic pain from childhood trauma flaring.",
-    "category": "loneliness_isolation",
-    "confidence": 0.6
+    "summary": "Anger management issues surface from unresolved trauma and stress.",
+    "category": "Anger Management Issues",
+    "confidence": 0.7
   },
   "42": {
-    "summary": "Precarious employment affecting health.",
-    "category": "chronic_health_pain",
-    "confidence": 0.7
+    "summary": "Personal growth hindered by past trauma and adjustment disorder.",
+    "category": "Personal Growth Challenges",
+    "confidence": 0.9
   },
   "43": {
-    "summary": "Caregiver burnout amid family expectations.",
-    "category": "financial_employment",
-    "confidence": 0.6
+    "summary": "Recovering from sexual assault or domestic violence, compounded by refugee background.",
+    "category": "Sexual Assault or Domestic Violence Recovery",
+    "confidence": 0.5
   },
   "44": {
-    "summary": "Intimate partner violence recurrence.",
-    "category": "caregiver_burden",
-    "confidence": 0.7
+    "summary": "PTSD symptoms emerge from multiple relocations and refugee experiences.",
+    "category": "Post-Traumatic Stress Disorder (PTSD)",
+    "confidence": 0.9
   },
   "45": {
-    "summary": "Housing instability due to legal status.",
-    "category": "violence_abuse",
-    "confidence": 0.65
+    "summary": "Addictive behaviors develop as coping for chronic stress and trauma.",
+    "category": "Addictive Behaviors (e.g., Drug Use, Gambling)",
+    "confidence": 0.6
   },
   "46": {
-    "summary": "Academic pressure from delayed education.",
-    "category": "legal_housing",
+    "summary": "Culture shock when relocating to a new country for work or family.",
+    "category": "Culture Shock",
     "confidence": 0.7
   },
   "47": {
-    "summary": "Mental health crisis escalating to hospitalization.",
-    "category": "academic_stress",
+    "summary": "Debt problems from financial precarity and family expenses.",
+    "category": "Debt Problems",
     "confidence": 0.9
   },
   "48": {
-    "summary": "Deportation proceedings causing existential crisis.",
-    "category": "mental_health_crisis",
-    "confidence": 0.8
+    "summary": "Bipolar disorder emerges, affecting mood and stability.",
+    "category": "Bipolar Disorder",
+    "confidence": 0.5
   },
   "49": {
-    "summary": "Grief over lost homeland intensifying.",
-    "category": "immigration",
-    "confidence": 0.7
+    "summary": "OCD symptoms appear, possibly as a coping mechanism for anxiety.",
+    "category": "Obsessive-Compulsive Disorder (OCD)",
+    "confidence": 0.5
   },
   "50": {
-    "summary": "Relationship dissolution deepening isolation.",
-    "category": "grief_bereavement",
-    "confidence": 0.65
+    "summary": "Financial problems persist due to precarious status and family support.",
+    "category": "Financial Problems",
+    "confidence": 0.9
   },
   "51": {
-    "summary": "Chronic pain from unresolved trauma.",
-    "category": "relationship_breakup",
-    "confidence": 0.6
+    "summary": "Breakup or divorce due to communication problems and emotional numbness.",
+    "category": "Breakups or Divorce",
+    "confidence": 0.7
   },
   "52": {
-    "summary": "Financial precarity affecting basic needs.",
-    "category": "loneliness_isolation",
+    "summary": "Issues with children due to emotional numbness and adjustment disorder.",
+    "category": "Issues with Children",
     "confidence": 0.7
   },
   "53": {
-    "summary": "Caregiver responsibilities straining mental health.",
-    "category": "chronic_health_pain",
-    "confidence": 0.6
+    "summary": "Marital problems from unresolved trauma and communication issues.",
+    "category": "Marital Problems",
+    "confidence": 0.7
   },
   "54": {
-    "summary": "Domestic violence history resurfacing.",
-    "category": "financial_employment",
+    "summary": "Compulsive behaviors, such as overworking or ritualistic activities.",
+    "category": "Compulsive Behaviors",
     "confidence": 0.7
   },
   "55": {
-    "summary": "Housing insecurity due to legal barriers.",
-    "category": "caregiver_burden",
-    "confidence": 0.65
+    "summary": "Schizophrenia emerges, possibly due to severe trauma and stress.",
+    "category": "Schizophrenia",
+    "confidence": 0.5
   },
   "56": {
-    "summary": "Academic stress from delayed education.",
-    "category": "violence_abuse",
+    "summary": "Workplace stress from job insecurity and demanding environment.",
+    "category": "Workplace Stress",
     "confidence": 0.7
   },
   "57": {
-    "summary": "Suicidal ideation crisis requiring support.",
-    "category": "legal_housing",
+    "summary": "Struggles to set goals for retirement due to past instability.",
+    "category": "Goal Setting Issues",
     "confidence": 0.9
   },
   "58": {
-    "summary": "Immigration status uncertainty causing anxiety.",
-    "category": "academic_stress",
-    "confidence": 0.8
+    "summary": "Job crisis from layoffs or economic downturn, exacerbating financial precarity.",
+    "category": "Job Crisis",
+    "confidence": 0.9
   },
   "59": {
-    "summary": "Grief over lost cultural identity.",
-    "category": "mental_health_crisis",
-    "confidence": 0.7
+    "summary": "Procrastination on retirement planning due to anxiety and rumination.",
+    "category": "Procrastination",
+    "confidence": 0.9
   },
   "60": {
-    "summary": "Relationship breakdown exacerbating loneliness.",
-    "category": "immigration",
-    "confidence": 0.65
+    "summary": "Career development issues as transitioning to retirement or new roles.",
+    "category": "Career Development Issues",
+    "confidence": 0.7
   },
   "61": {
-    "summary": "Chronic pain from unresolved trauma.",
-    "category": "grief_bereavement",
-    "confidence": 0.6
+    "summary": "Job crisis from age discrimination or economic factors.",
+    "category": "Job Crisis",
+    "confidence": 0.9
   },
   "62": {
-    "summary": "Financial instability affecting well-being.",
-    "category": "relationship_breakup",
+    "summary": "Workplace stress from demanding job and age-related challenges.",
+    "category": "Workplace Stress",
     "confidence": 0.7
   },
   "63": {
-    "summary": "Caregiver burden overwhelming resilience.",
-    "category": "loneliness_isolation",
-    "confidence": 0.6
+    "summary": "Motivation problems for work and retirement activities.",
+    "category": "Motivation Problems",
+    "confidence": 0.7
   },
   "64": {
-    "summary": "Violence history resurfacing under stress.",
-    "category": "chronic_health_pain",
-    "confidence": 0.7
-  },
-  "65": {
-    "summary": "Housing discrimination targeting refugees.",
-    "category": "financial_employment",
-    "confidence": 0.65
-  },
-  "66": {
-    "summary": "Academic pressure from delayed education.",
-    "category": "caregiver_burden",
-    "confidence": 0.7
-  },
-  "67": {
-    "summary": "Mental health crisis requiring urgent care.",
-    "category": "violence_abuse",
+    "summary": "Self-esteem issues from past rejections and refugee status.",
+    "category": "Self-Esteem Issues",
     "confidence": 0.9
   },
+  "65": {
+    "summary": "Appearance anxiety from aging and past trauma.",
+    "category": "Appearance Anxiety",
+    "confidence": 0.7
+  },
+  "66": {
+    "summary": "Schizophrenia symptoms worsen, affecting daily life.",
+    "category": "Schizophrenia",
+    "confidence": 0.5
+  },
+  "67": {
+    "summary": "Problems with friends due to emotional numbness and isolation.",
+    "category": "Problems with Friends",
+    "confidence": 0.7
+  },
   "68": {
-    "summary": "Deportation fears disrupting life plans.",
-    "category": "legal_housing",
-    "confidence": 0.8
+    "summary": "Emotional fluctuations from unresolved trauma and aging.",
+    "category": "Emotional Fluctuations",
+    "confidence": 0.9
   },
   "69": {
-    "summary": "Grief over lost homeland intensifying.",
-    "category": "academic_stress",
+    "summary": "Issues with aging parents, including care responsibilities.",
+    "category": "Issues with Parents",
     "confidence": 0.7
   },
   "70": {
-    "summary": "Relationship dissolution deepening isolation.",
-    "category": "mental_health_crisis",
-    "confidence": 0.65
+    "summary": "Burnout from long-term stress and caregiving.",
+    "category": "Burnout",
+    "confidence": 0.7
   },
   "71": {
-    "summary": "Chronic pain from unresolved trauma.",
-    "category": "immigration",
-    "confidence": 0.6
+    "summary": "Issues with children, such as adult children's problems.",
+    "category": "Issues with Children",
+    "confidence": 0.7
   },
   "72": {
-    "summary": "Financial precarity affecting basic needs.",
-    "category": "grief_bereavement",
+    "summary": "Alcohol abuse as coping for chronic stress and loneliness.",
+    "category": "Alcohol Abuse",
     "confidence": 0.7
   },
   "73": {
-    "summary": "Caregiver responsibilities straining mental health.",
-    "category": "relationship_breakup",
-    "confidence": 0.6
+    "summary": "Addictive behaviors develop for escape from aging and health issues.",
+    "category": "Addictive Behaviors (e.g., Drug Use, Gambling)",
+    "confidence": 0.7
   },
   "74": {
-    "summary": "Domestic violence history resurfacing.",
-    "category": "loneliness_isolation",
+    "summary": "Compulsive behaviors, such as hoarding or ritualistic actions.",
+    "category": "Compulsive Behaviors",
     "confidence": 0.7
   },
   "75": {
-    "summary": "Housing instability due to legal status.",
-    "category": "chronic_health_pain",
-    "confidence": 0.65
+    "summary": "Marital problems from long-term stress and health issues.",
+    "category": "Marital Problems",
+    "confidence": 0.7
   },
   "76": {
-    "summary": "Academic stress from delayed education.",
-    "category": "financial_employment",
-    "confidence": 0.7
+    "summary": "Bipolar disorder affects mood and stability in later years.",
+    "category": "Bipolar Disorder",
+    "confidence": 0.5
   },
   "77": {
-    "summary": "Suicidal ideation crisis requiring intervention.",
-    "category": "caregiver_burden",
-    "confidence": 0.9
+    "summary": "OCD symptoms worsen, affecting daily routines.",
+    "category": "Obsessive-Compulsive Disorder (OCD)",
+    "confidence": 0.5
   },
   "78": {
-    "summary": "Immigration status uncertainty causing anxiety.",
-    "category": "violence_abuse",
-    "confidence": 0.8
+    "summary": "Financial problems from retirement and health expenses.",
+    "category": "Financial Problems",
+    "confidence": 0.9
   },
   "79": {
-    "summary": "Grief over lost cultural connections.",
-    "category": "legal_housing",
-    "confidence": 0.7
+    "summary": "Debt problems from medical bills and financial precarity.",
+    "category": "Debt Problems",
+    "confidence": 0.9
   },
   "80": {
-    "summary": "Relationship breakdown exacerbating loneliness.",
-    "category": "academic_stress",
-    "confidence": 0.65
+    "summary": "Breakup or divorce due to long-term marital issues.",
+    "category": "Breakups or Divorce",
+    "confidence": 0.7
   },
   "81": {
-    "summary": "Chronic pain from unresolved trauma.",
-    "category": "mental_health_crisis",
-    "confidence": 0.6
+    "summary": "Personal growth challenges in adapting to aging and loss.",
+    "category": "Personal Growth Challenges",
+    "confidence": 0.7
   },
   "82": {
-    "summary": "Financial instability affecting well-being.",
-    "category": "immigration",
+    "summary": "Anger management issues from frustration with aging and health.",
+    "category": "Anger Management Issues",
     "confidence": 0.7
   },
   "83": {
-    "summary": "Caregiver burden overwhelming resilience.",
-    "category": "grief_bereavement",
-    "confidence": 0.6
+    "summary": "Chronic stress from health problems and loneliness.",
+    "category": "Chronic Stress",
+    "confidence": 0.9
   },
   "84": {
-    "summary": "Violence history resurfacing under stress.",
-    "category": "relationship_breakup",
-    "confidence": 0.7
+    "summary": "Ongoing depression from loss and aging.",
+    "category": "Ongoing Depression",
+    "confidence": 0.9
   },
   "85": {
-    "summary": "Housing discrimination targeting refugees.",
-    "category": "loneliness_isolation",
-    "confidence": 0.65
+    "summary": "Culture shock from relocation or nursing home placement.",
+    "category": "Culture Shock",
+    "confidence": 0.7
   },
   "86": {
-    "summary": "Academic pressure from delayed education.",
-    "category": "chronic_health_pain",
+    "summary": "Conflicts with family over care decisions.",
+    "category": "Conflicts or Communication Problems",
     "confidence": 0.7
   },
   "87": {
-    "summary": "Mental health crisis requiring urgent care.",
-    "category": "financial_employment",
+    "summary": "Sleep problems from aging and anxiety.",
+    "category": "Sleep Problems",
     "confidence": 0.9
   },
   "88": {
-    "summary": "Deportation fears disrupting life plans.",
-    "category": "caregiver_burden",
-    "confidence": 0.8
+    "summary": "Recovering from past sexual assault or domestic violence.",
+    "category": "Sexual Assault or Domestic Violence Recovery",
+    "confidence": 0.5
   },
   "89": {
-    "summary": "Grief over lost homeland intensifying.",
-    "category": "violence_abuse",
-    "confidence": 0.7
+    "summary": "Anxiety disorders worsen with health decline.",
+    "category": "Anxiety Disorders",
+    "confidence": 0.9
   },
   "90": {
-    "summary": "Relationship dissolution deepening isolation.",
-    "category": "legal_housing",
-    "confidence": 0.65
+    "summary": "PTSD symptoms from past trauma, exacerbated by aging.",
+    "category": "Post-Traumatic Stress Disorder (PTSD)",
+    "confidence": 0.9
   },
   "91": {
-    "summary": "Chronic pain from unresolved trauma.",
-    "category": "academic_stress",
-    "confidence": 0.6
+    "summary": "Grief and loss from multiple deaths of loved ones.",
+    "category": "Grief and Loss",
+    "confidence": 0.9
   },
   "92": {
-    "summary": "Financial precarity affecting basic needs.",
-    "category": "mental_health_crisis",
-    "confidence": 0.7
+    "summary": "Death of a spouse or child, deepening grief.",
+    "category": "Death of a Loved One",
+    "confidence": 0.9
   },
   "93": {
-    "summary": "Caregiver responsibilities straining mental health.",
-    "category": "immigration",
-    "confidence": 0.6
+    "summary": "Spirituality and faith provide comfort in old age.",
+    "category": "Spirituality and Faith",
+    "confidence": 0.7
   },
   "94": {
-    "summary": "Domestic violence history resurfacing.",
-    "category": "grief_bereavement",
-    "confidence": 0.7
+    "summary": "Health problems from aging and past trauma.",
+    "category": "Health Problems",
+    "confidence": 0.9
   },
   "95": {
-    "summary": "Housing instability due to legal barriers.",
-    "category": "relationship_breakup",
-    "confidence": 0.65
-  },
-  "96": {
-    "summary": "Academic stress from delayed education.",
-    "category": "loneliness_isolation",
+    "summary": "Life transitions from retirement to nursing home.",
+    "category": "Life Transitions (e.g., Retirement, Relocation)",
     "confidence": 0.7
   },
+  "96": {
+    "summary": "Grief and loss from multiple deaths.",
+    "category": "Grief and Loss",
+    "confidence": 0.9
+  },
   "97": {
-    "summary": "Suicidal ideation crisis requiring support.",
-    "category": "chronic_health_pain",
+    "summary": "Death of a close friend or relative.",
+    "category": "Death of a Loved One",
     "confidence": 0.9
   },
   "98": {
-    "summary": "Immigration status uncertainty causing anxiety.",
-    "category": "financial_employment",
-    "confidence": 0.8
+    "summary": "Spirituality and faith as central in facing mortality.",
+    "category": "Spirituality and Faith",
+    "confidence": 0.9
   },
   "99": {
-    "summary": "Grief over lost cultural identity.",
-    "category": "caregiver_burden",
-    "confidence": 0.7
+    "summary": "Severe health problems from aging.",
+    "category": "Health Problems",
+    "confidence": 0.9
   },
   "100": {
-    "summary": "Relationship breakdown exacerbating loneliness.",
-    "category": "violence_abuse",
-    "confidence": 0.65
+    "summary": "Life transitions to end-of-life care.",
+    "category": "Life Transitions (e.g., Retirement, Relocation)",
+    "confidence": 0.9
   }
 }

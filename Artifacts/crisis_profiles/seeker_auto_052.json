@@ -1,407 +1,407 @@
 {
   "20": {
-    "summary": "Family obligations strained by refugee displacement.",
-    "category": "caregiver_burden",
-    "confidence": 0.85
-  },
-  "21": {
-    "summary": "Trauma from childhood exposure to conflict zones.",
-    "category": "violence_abuse",
-    "confidence": 0.9
-  },
-  "22": {
-    "summary": "Navigating housing discrimination as a newcomer.",
-    "category": "legal_housing",
+    "summary": "Bullying trauma resurfacing in adulthood",
+    "category": "School Bullying",
     "confidence": 0.7
   },
+  "21": {
+    "summary": "Motivation problems from cultural identity confusion",
+    "category": "Motivation Problems",
+    "confidence": 0.8
+  },
+  "22": {
+    "summary": "Goal-setting issues due to refugee background",
+    "category": "Goal Setting Issues",
+    "confidence": 0.8
+  },
   "23": {
-    "summary": "Academic pressure amid cultural identity struggles.",
-    "category": "academic_stress",
-    "confidence": 0.65
+    "summary": "Procrastination stemming from unresolved trauma",
+    "category": "Procrastination",
+    "confidence": 0.8
   },
   "24": {
-    "summary": "Emerging depression from unresolved displacement grief.",
-    "category": "mental_health_crisis",
-    "confidence": 0.95
+    "summary": "Career development blocked by cultural barriers",
+    "category": "Career Development Issues",
+    "confidence": 0.8
   },
   "25": {
-    "summary": "Navigating visa uncertainties after forced relocation.",
-    "category": "immigration",
-    "confidence": 0.9
+    "summary": "Internet addiction as escape from identity struggles",
+    "category": "Internet Addiction",
+    "confidence": 0.7
   },
   "26": {
-    "summary": "Bereavement over lost homeland and fragmented family.",
-    "category": "grief_bereavement",
+    "summary": "Eating disorder from chronic stress and displacement",
+    "category": "Eating Disorders",
     "confidence": 0.8
   },
   "27": {
-    "summary": "Cultural clashes strain romantic relationships.",
-    "category": "relationship_breakup",
-    "confidence": 0.75
+    "summary": "Self-harm behaviors coping with cultural crisis",
+    "category": "Self-Harm Behaviors",
+    "confidence": 0.9
   },
   "28": {
-    "summary": "Isolation intensifies amid cultural displacement.",
-    "category": "loneliness_isolation",
+    "summary": "Bullying trauma resurfacing in adulthood",
+    "category": "School Bullying",
     "confidence": 0.9
   },
   "29": {
-    "summary": "Chronic stress manifests as physical pain.",
-    "category": "chronic_health_pain",
-    "confidence": 0.7
+    "summary": "Marital problems from cultural differences",
+    "category": "Marital Problems",
+    "confidence": 0.8
   },
   "30": {
-    "summary": "Job insecurity exacerbates financial anxiety.",
-    "category": "financial_employment",
-    "confidence": 0.8
+    "summary": "Emotional fluctuations due to refugee trauma",
+    "category": "Emotional Fluctuations",
+    "confidence": 0.9
   },
   "31": {
-    "summary": "Caregiver guilt over distant family.",
-    "category": "caregiver_burden",
-    "confidence": 0.8
+    "summary": "Identity crisis from conflicting cultural backgrounds",
+    "category": "Identity Crises",
+    "confidence": 0.9
   },
   "32": {
-    "summary": "Domestic tensions resurface childhood trauma.",
-    "category": "violence_abuse",
+    "summary": "Sexual orientation conflict with cultural expectations",
+    "category": "Sexual Orientation",
     "confidence": 0.7
   },
   "33": {
-    "summary": "Housing instability threatens stability.",
-    "category": "legal_housing",
-    "confidence": 0.75
+    "summary": "Academic pressure to prove oneself in new country",
+    "category": "Academic Pressure",
+    "confidence": 0.7
   },
   "34": {
-    "summary": "Academic pressures resurface unresolved stress.",
-    "category": "academic_stress",
-    "confidence": 0.6
+    "summary": "Substance use to cope with chronic stress",
+    "category": "Addictive Behaviors (e.g., Drug Use, Gambling)",
+    "confidence": 0.8
   },
   "35": {
-    "summary": "Burnout from community work and unresolved grief.",
-    "category": "mental_health_crisis",
-    "confidence": 0.85
+    "summary": "Friendship problems from cultural misunderstandings",
+    "category": "Problems with Friends",
+    "confidence": 0.7
   },
   "36": {
-    "summary": "Visa renewal fears trigger anxiety.",
-    "category": "immigration",
+    "summary": "Conflict with parents over family obligations",
+    "category": "Issues with Parents",
     "confidence": 0.8
   },
   "37": {
-    "summary": "Anniversary of displacement reignites loss.",
-    "category": "grief_bereavement",
-    "confidence": 0.85
+    "summary": "Motivation problems from burnout and identity",
+    "category": "Motivation Problems",
+    "confidence": 0.8
   },
   "38": {
-    "summary": "Cultural differences lead to relationship dissolution.",
-    "category": "relationship_breakup",
+    "summary": "Appearance anxiety from cultural displacement",
+    "category": "Appearance Anxiety",
     "confidence": 0.7
   },
   "39": {
-    "summary": "Isolation deepens without cultural community.",
-    "category": "loneliness_isolation",
+    "summary": "Low self-esteem from refugee experiences",
+    "category": "Self-Esteem Issues",
     "confidence": 0.8
   },
   "40": {
-    "summary": "Chronic pain from long-term stress.",
-    "category": "chronic_health_pain",
-    "confidence": 0.75
+    "summary": "Burnout from community work and cultural stress",
+    "category": "Burnout",
+    "confidence": 0.8
   },
   "41": {
-    "summary": "Job loss threatens financial stability.",
-    "category": "financial_employment",
-    "confidence": 0.7
+    "summary": "Workplace stress from cultural diversity challenges",
+    "category": "Workplace Stress",
+    "confidence": 0.8
   },
   "42": {
-    "summary": "Caregiver fatigue from family expectations.",
-    "category": "caregiver_burden",
-    "confidence": 0.75
+    "summary": "Goal-setting issues due to unresolved trauma",
+    "category": "Goal Setting Issues",
+    "confidence": 0.8
   },
   "43": {
-    "summary": "Unresolved childhood violence resurfaces.",
-    "category": "violence_abuse",
+    "summary": "Job crisis from economic downturn and cultural barriers",
+    "category": "Job Crisis",
     "confidence": 0.7
   },
   "44": {
-    "summary": "Housing disputes escalate legal stress.",
-    "category": "legal_housing",
-    "confidence": 0.65
+    "summary": "Procrastination from chronic stress and identity issues",
+    "category": "Procrastination",
+    "confidence": 0.8
   },
   "45": {
-    "summary": "Burnout from balancing work and cultural identity.",
-    "category": "academic_stress",
-    "confidence": 0.8
+    "summary": "Academic pressure to adapt to new skills",
+    "category": "Academic Pressure",
+    "confidence": 0.7
   },
   "46": {
-    "summary": "Visa expiration looms over career plans.",
-    "category": "mental_health_crisis",
-    "confidence": 0.7
+    "summary": "Career stagnation due to cultural and economic factors",
+    "category": "Career Development Issues",
+    "confidence": 0.8
   },
   "47": {
-    "summary": "Family loss intensifies grief cycle.",
-    "category": "immigration",
-    "confidence": 0.8
+    "summary": "Internet addiction as escape from social isolation",
+    "category": "Internet Addiction",
+    "confidence": 0.7
   },
   "48": {
-    "summary": "Cultural incompatibility ends partnership.",
-    "category": "grief_bereavement",
-    "confidence": 0.7
-  },
-  "49": {
-    "summary": "Isolation worsens without cultural anchors.",
-    "category": "relationship_breakup",
+    "summary": "Identity crisis from cultural displacement and aging",
+    "category": "Identity Crises",
     "confidence": 0.8
   },
-  "50": {
-    "summary": "Stress-induced chronic pain persists.",
-    "category": "loneliness_isolation",
+  "49": {
+    "summary": "Sexual orientation conflict with cultural expectations",
+    "category": "Sexual Orientation",
     "confidence": 0.7
+  },
+  "50": {
+    "summary": "Self-harm behaviors resurfacing due to chronic stress",
+    "category": "Self-Harm Behaviors",
+    "confidence": 0.8
   },
   "51": {
-    "summary": "Financial strain from stagnant income.",
-    "category": "chronic_health_pain",
-    "confidence": 0.7
+    "summary": "Eating disorder from unresolved trauma and aging",
+    "category": "Eating Disorders",
+    "confidence": 0.8
   },
   "52": {
-    "summary": "Caregiver responsibilities overwhelm.",
-    "category": "financial_employment",
-    "confidence": 0.7
+    "summary": "Chronic stress from cultural identity and family separation",
+    "category": "Chronic Stress",
+    "confidence": 0.9
   },
   "53": {
-    "summary": "Domestic tensions mirror childhood trauma.",
-    "category": "caregiver_burden",
-    "confidence": 0.65
+    "summary": "Recovery from forced relocation trauma",
+    "category": "Sexual Assault or Domestic Violence Recovery",
+    "confidence": 0.8
   },
   "54": {
-    "summary": "Housing insecurity threatens stability.",
-    "category": "violence_abuse",
-    "confidence": 0.6
+    "summary": "Personal growth challenges due to cultural identity",
+    "category": "Personal Growth Challenges",
+    "confidence": 0.8
   },
   "55": {
-    "summary": "Academic pressures resurface unresolved stress.",
-    "category": "legal_housing",
-    "confidence": 0.55
+    "summary": "Anger management issues from unresolved refugee trauma",
+    "category": "Anger Management Issues",
+    "confidence": 0.8
   },
   "56": {
-    "summary": "Burnout from community work and grief.",
-    "category": "academic_stress",
-    "confidence": 0.75
+    "summary": "Breakup due to cultural differences and past trauma",
+    "category": "Breakups or Divorce",
+    "confidence": 0.7
   },
   "57": {
-    "summary": "Visa renewal fears persist.",
-    "category": "mental_health_crisis",
-    "confidence": 0.65
+    "summary": "Parenting issues from cultural integration challenges",
+    "category": "Issues with Children",
+    "confidence": 0.8
   },
   "58": {
-    "summary": "Family loss reignites grief.",
-    "category": "immigration",
-    "confidence": 0.75
+    "summary": "Compulsive behaviors to cope with chronic stress",
+    "category": "Compulsive Behaviors",
+    "confidence": 0.8
   },
   "59": {
-    "summary": "Cultural differences fracture relationships.",
-    "category": "grief_bereavement",
-    "confidence": 0.65
+    "summary": "Alcohol abuse to numb cultural identity pain",
+    "category": "Alcohol Abuse",
+    "confidence": 0.8
   },
   "60": {
-    "summary": "Isolation deepens without cultural community.",
-    "category": "relationship_breakup",
+    "summary": "Schizophrenia symptoms from prolonged trauma",
+    "category": "Schizophrenia",
     "confidence": 0.7
   },
   "61": {
-    "summary": "Chronic pain from long-term stress.",
-    "category": "loneliness_isolation",
-    "confidence": 0.65
+    "summary": "Appearance anxiety from aging and cultural identity",
+    "category": "Appearance Anxiety",
+    "confidence": 0.7
   },
   "62": {
-    "summary": "Financial instability worsens.",
-    "category": "chronic_health_pain",
-    "confidence": 0.6
+    "summary": "Low self-esteem from refugee experiences and aging",
+    "category": "Self-Esteem Issues",
+    "confidence": 0.8
   },
   "63": {
-    "summary": "Caregiver fatigue from family obligations.",
-    "category": "financial_employment",
-    "confidence": 0.65
+    "summary": "Job crisis from age discrimination and economic factors",
+    "category": "Job Crisis",
+    "confidence": 0.7
   },
   "64": {
-    "summary": "Unresolved childhood violence resurfaces.",
-    "category": "caregiver_burden",
-    "confidence": 0.6
+    "summary": "Workplace stress from age-related challenges",
+    "category": "Workplace Stress",
+    "confidence": 0.7
   },
   "65": {
-    "summary": "Housing disputes escalate legal stress.",
-    "category": "violence_abuse",
-    "confidence": 0.55
+    "summary": "Bipolar disorder symptoms from prolonged trauma",
+    "category": "Bipolar Disorder",
+    "confidence": 0.7
   },
   "66": {
-    "summary": "Burnout from work and cultural identity.",
-    "category": "legal_housing",
-    "confidence": 0.7
+    "summary": "Conflict with aging parents over care and culture",
+    "category": "Issues with Parents",
+    "confidence": 0.8
   },
   "67": {
-    "summary": "Visa expiration looms.",
-    "category": "academic_stress",
-    "confidence": 0.6
-  },
-  "68": {
-    "summary": "Family loss intensifies grief.",
-    "category": "mental_health_crisis",
+    "summary": "Friendship problems from social isolation",
+    "category": "Problems with Friends",
     "confidence": 0.7
   },
+  "68": {
+    "summary": "Emotional fluctuations from aging and unresolved trauma",
+    "category": "Emotional Fluctuations",
+    "confidence": 0.8
+  },
   "69": {
-    "summary": "Cultural incompatibility ends partnership.",
-    "category": "immigration",
-    "confidence": 0.6
+    "summary": "Burnout from lifelong cultural identity struggles",
+    "category": "Burnout",
+    "confidence": 0.8
   },
   "70": {
-    "summary": "Isolation worsens without cultural anchors.",
-    "category": "grief_bereavement",
-    "confidence": 0.65
+    "summary": "Debt problems from economic downturn and family separation",
+    "category": "Debt Problems",
+    "confidence": 0.7
   },
   "71": {
-    "summary": "Stress-induced chronic pain persists.",
-    "category": "relationship_breakup",
-    "confidence": 0.6
+    "summary": "Alcohol abuse to cope with aging and trauma",
+    "category": "Alcohol Abuse",
+    "confidence": 0.8
   },
   "72": {
-    "summary": "Financial strain from stagnant income.",
-    "category": "loneliness_isolation",
-    "confidence": 0.55
+    "summary": "Schizophrenia management from chronic trauma",
+    "category": "Schizophrenia",
+    "confidence": 0.7
   },
   "73": {
-    "summary": "Caregiver responsibilities overwhelm.",
-    "category": "chronic_health_pain",
-    "confidence": 0.6
+    "summary": "Compulsive behaviors from chronic stress and trauma",
+    "category": "Compulsive Behaviors",
+    "confidence": 0.8
   },
   "74": {
-    "summary": "Domestic tensions mirror childhood trauma.",
-    "category": "financial_employment",
-    "confidence": 0.55
+    "summary": "Drug use to cope with chronic stress and aging",
+    "category": "Addictive Behaviors (e.g., Drug Use, Gambling)",
+    "confidence": 0.8
   },
   "75": {
-    "summary": "Housing insecurity threatens stability.",
-    "category": "caregiver_burden",
-    "confidence": 0.5
+    "summary": "Financial problems from economic factors and family separation",
+    "category": "Financial Problems",
+    "confidence": 0.7
   },
   "76": {
-    "summary": "Academic pressures resurface unresolved stress.",
-    "category": "violence_abuse",
-    "confidence": 0.45
+    "summary": "Debt problems from medical expenses and aging",
+    "category": "Debt Problems",
+    "confidence": 0.7
   },
   "77": {
-    "summary": "Burnout from community work and grief.",
-    "category": "legal_housing",
-    "confidence": 0.65
+    "summary": "Divorce due to cultural differences and aging",
+    "category": "Breakups or Divorce",
+    "confidence": 0.7
   },
   "78": {
-    "summary": "Visa renewal fears persist.",
-    "category": "academic_stress",
-    "confidence": 0.55
+    "summary": "Marital problems from cultural integration and aging",
+    "category": "Marital Problems",
+    "confidence": 0.8
   },
   "79": {
-    "summary": "Family loss reignites grief.",
-    "category": "mental_health_crisis",
-    "confidence": 0.65
+    "summary": "Culture shock from aging in a foreign country",
+    "category": "Culture Shock",
+    "confidence": 0.7
   },
   "80": {
-    "summary": "Cultural differences fracture relationships.",
-    "category": "immigration",
-    "confidence": 0.55
+    "summary": "OCD symptoms from chronic stress and conscientiousness",
+    "category": "Obsessive-Compulsive Disorder (OCD)",
+    "confidence": 0.7
   },
   "81": {
-    "summary": "Isolation deepens without cultural community.",
-    "category": "grief_bereavement",
-    "confidence": 0.6
+    "summary": "Parenting issues with adult children due to culture",
+    "category": "Issues with Children",
+    "confidence": 0.8
   },
   "82": {
-    "summary": "Chronic pain from long-term stress.",
-    "category": "relationship_breakup",
-    "confidence": 0.55
+    "summary": "Ongoing depression from unresolved refugee trauma",
+    "category": "Ongoing Depression",
+    "confidence": 0.9
   },
   "83": {
-    "summary": "Financial instability worsens.",
-    "category": "loneliness_isolation",
-    "confidence": 0.5
+    "summary": "Personal growth challenges in late life due to culture",
+    "category": "Personal Growth Challenges",
+    "confidence": 0.8
   },
   "84": {
-    "summary": "Caregiver fatigue from family obligations.",
-    "category": "chronic_health_pain",
-    "confidence": 0.55
+    "summary": "Recovery from forced relocation trauma",
+    "category": "Sexual Assault or Domestic Violence Recovery",
+    "confidence": 0.8
   },
   "85": {
-    "summary": "Unresolved childhood violence resurfaces.",
-    "category": "financial_employment",
-    "confidence": 0.5
+    "summary": "Communication problems due to cultural barriers",
+    "category": "Conflicts or Communication Problems",
+    "confidence": 0.7
   },
   "86": {
-    "summary": "Housing disputes escalate legal stress.",
-    "category": "caregiver_burden",
-    "confidence": 0.45
+    "summary": "PTSD from forced relocation and family separation",
+    "category": "Post-Traumatic Stress Disorder (PTSD)",
+    "confidence": 0.9
   },
   "87": {
-    "summary": "Burnout from work and cultural identity.",
-    "category": "violence_abuse",
-    "confidence": 0.6
+    "summary": "Anger management issues from chronic trauma",
+    "category": "Anger Management Issues",
+    "confidence": 0.8
   },
   "88": {
-    "summary": "Visa expiration looms.",
-    "category": "legal_housing",
-    "confidence": 0.5
+    "summary": "Anxiety disorders from unresolved refugee trauma",
+    "category": "Anxiety Disorders",
+    "confidence": 0.8
   },
   "89": {
-    "summary": "Family loss intensifies grief.",
-    "category": "academic_stress",
-    "confidence": 0.6
+    "summary": "Chronic stress from aging and cultural identity",
+    "category": "Chronic Stress",
+    "confidence": 0.8
   },
   "90": {
-    "summary": "Cultural incompatibility ends partnership.",
-    "category": "mental_health_crisis",
-    "confidence": 0.5
+    "summary": "Sleep problems from chronic stress and aging",
+    "category": "Sleep Problems",
+    "confidence": 0.8
   },
   "91": {
-    "summary": "Isolation worsens without cultural anchors.",
-    "category": "immigration",
-    "confidence": 0.55
+    "summary": "Death of a loved one due to aging and family separation",
+    "category": "Death of a Loved One",
+    "confidence": 0.8
   },
   "92": {
-    "summary": "Stress-induced chronic pain persists.",
-    "category": "grief_bereavement",
-    "confidence": 0.5
+    "summary": "Grief from loss of family members and cultural displacement",
+    "category": "Grief and Loss",
+    "confidence": 0.9
   },
   "93": {
-    "summary": "Financial strain from stagnant income.",
-    "category": "relationship_breakup",
-    "confidence": 0.45
+    "summary": "Spirituality and faith crisis from refugee experiences",
+    "category": "Spirituality and Faith",
+    "confidence": 0.8
   },
   "94": {
-    "summary": "Caregiver responsibilities overwhelm.",
-    "category": "loneliness_isolation",
-    "confidence": 0.5
+    "summary": "Health problems from aging and chronic stress",
+    "category": "Health Problems",
+    "confidence": 0.8
   },
   "95": {
-    "summary": "Domestic tensions mirror childhood trauma.",
-    "category": "chronic_health_pain",
-    "confidence": 0.45
+    "summary": "Life transition challenges due to cultural identity",
+    "category": "Life Transitions (e.g., Retirement, Relocation)",
+    "confidence": 0.8
   },
   "96": {
-    "summary": "Housing insecurity threatens stability.",
-    "category": "financial_employment",
-    "confidence": 0.4
+    "summary": "Grief from loss of peers and cultural displacement",
+    "category": "Grief and Loss",
+    "confidence": 0.8
   },
   "97": {
-    "summary": "Academic pressures resurface unresolved stress.",
-    "category": "caregiver_burden",
-    "confidence": 0.35
+    "summary": "Death of a loved one due to aging",
+    "category": "Death of a Loved One",
+    "confidence": 0.8
   },
   "98": {
-    "summary": "Burnout from community work and grief.",
-    "category": "violence_abuse",
-    "confidence": 0.55
+    "summary": "Spirituality and faith exploration in late life",
+    "category": "Spirituality and Faith",
+    "confidence": 0.8
   },
   "99": {
-    "summary": "Visa renewal fears persist.",
-    "category": "legal_housing",
-    "confidence": 0.45
+    "summary": "Health problems from aging and chronic stress",
+    "category": "Health Problems",
+    "confidence": 0.8
   },
   "100": {
-    "summary": "Family loss reignites grief.",
-    "category": "academic_stress",
-    "confidence": 0.5
+    "summary": "Life transition to retirement amid cultural identity",
+    "category": "Life Transitions (e.g., Retirement, Relocation)",
+    "confidence": 0.8
   }
 }

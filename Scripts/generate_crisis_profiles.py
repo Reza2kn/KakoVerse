@@ -133,7 +133,10 @@ def build_prompt(
     instructions = (
         "You receive a persona profile and a mapping of ages to required crisis categories."
         " For each age, craft a plausible primary crisis summary grounded in the persona's"
-        " history while strictly using the provided category. Output must be JSON with ages"
+        " biography and life stage while strictly using the provided category. Each summary"
+        " must make developmental sense (e.g., avoid school bullying for seniors unless the"
+        " persona history explicitly supports it, adapt workplace issues to retired ages, etc.)."
+        " Output must be JSON with ages"
         " as keys and each value an object containing: 'summary' (<=20 words), 'category'"
         " (exactly the provided value), and 'confidence' (0-1 float). No Markdown, no extra"
         " fields, no missing ages."

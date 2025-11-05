@@ -1,407 +1,407 @@
 {
   "20": {
-    "summary": "Isolated after moves, struggled with cultural adjustment.",
-    "category": "loneliness_isolation",
+    "summary": "Navigating identity across three cultures post-immigration",
+    "category": "Identity Crises",
     "confidence": 0.85
   },
   "21": {
-    "summary": "Chronic anxiety from unstable transitions affecting daily life.",
-    "category": "chronic_health_pain",
-    "confidence": 0.9
+    "summary": "Intense academic pressure balancing immigrant family expectations",
+    "category": "Academic Pressure",
+    "confidence": 0.7
   },
   "22": {
-    "summary": "Freelance work instability amid pandemic disruptions.",
-    "category": "financial_employment",
-    "confidence": 0.8
+    "summary": "School bullying due to accent and appearance in new country",
+    "category": "School Bullying",
+    "confidence": 0.6
   },
   "23": {
-    "summary": "Family care responsibilities conflicting with personal goals.",
-    "category": "caregiver_burden",
+    "summary": "Career path confusion between technical and creative interests",
+    "category": "Goal Setting Issues",
     "confidence": 0.75
   },
   "24": {
-    "summary": "Navigating immigration bureaucracy amid social isolation.",
-    "category": "violence_abuse",
-    "confidence": 0.7
-  },
-  "25": {
-    "summary": "Housing insecurity in Reykjavik's competitive market.",
-    "category": "legal_housing",
+    "summary": "Procrastination delaying language certification exams",
+    "category": "Procrastination",
     "confidence": 0.65
   },
+  "25": {
+    "summary": "Identity crisis questioning cultural belonging and career direction",
+    "category": "Identity Crises",
+    "confidence": 0.8
+  },
   "26": {
-    "summary": "Academic pressure to validate cross-cultural identity.",
-    "category": "academic_stress",
+    "summary": "Internal conflict about sexuality in conservative immigrant community",
+    "category": "Sexual Orientation",
     "confidence": 0.7
   },
   "27": {
-    "summary": "Mental health crisis from chronic anxiety and transition stress.",
-    "category": "mental_health_crisis",
-    "confidence": 0.95
-  },
-  "28": {
-    "summary": "Immigration hurdles straining family ties and personal stability.",
-    "category": "immigration",
-    "confidence": 0.85
-  },
-  "29": {
-    "summary": "Grief over lost connections in childhood cities.",
-    "category": "grief_bereavement",
+    "summary": "Internet addiction numbing social anxiety during isolation",
+    "category": "Internet Addiction",
     "confidence": 0.7
   },
+  "28": {
+    "summary": "Bullying from colleagues over perceived cultural differences",
+    "category": "School Bullying",
+    "confidence": 0.5
+  },
+  "29": {
+    "summary": "Severe sleep problems from chronic anxiety and jet lag",
+    "category": "Sleep Problems",
+    "confidence": 0.8
+  },
   "30": {
-    "summary": "Relationship breakup amplifying existing isolation.",
-    "category": "relationship_breakup",
+    "summary": "PTSD from childhood bullying resurfacing in new environment",
+    "category": "Post-Traumatic Stress Disorder (PTSD)",
     "confidence": 0.75
   },
   "31": {
-    "summary": "Loneliness from limited social circles in Reykjavik.",
-    "category": "loneliness_isolation",
-    "confidence": 0.8
+    "summary": "Eating disorder triggered by body image pressure in creative field",
+    "category": "Eating Disorders",
+    "confidence": 0.6
   },
   "32": {
-    "summary": "Chronic anxiety impacting freelance work consistency.",
-    "category": "chronic_health_pain",
-    "confidence": 0.9
+    "summary": "Self-harm behaviors during intense cultural adjustment crisis",
+    "category": "Self-Harm Behaviors",
+    "confidence": 0.7
   },
   "33": {
-    "summary": "Financial strain from freelance income volatility.",
-    "category": "financial_employment",
-    "confidence": 0.8
+    "summary": "Academic pressure failing graduate program due to anxiety",
+    "category": "Academic Pressure",
+    "confidence": 0.6
   },
   "34": {
-    "summary": "Caregiver burden for aging family abroad.",
-    "category": "caregiver_burden",
-    "confidence": 0.7
-  },
-  "35": {
-    "summary": "Navigating legal disputes over immigration status.",
-    "category": "violence_abuse",
-    "confidence": 0.7
-  },
-  "36": {
-    "summary": "Housing instability due to bureaucratic delays.",
-    "category": "legal_housing",
-    "confidence": 0.65
-  },
-  "37": {
-    "summary": "Academic pressure to adapt to new cultural norms.",
-    "category": "academic_stress",
-    "confidence": 0.7
-  },
-  "38": {
-    "summary": "Mental health crisis from unresolved trauma.",
-    "category": "mental_health_crisis",
+    "summary": "Anxiety disorder worsening during job loss and relocation",
+    "category": "Anxiety Disorders",
     "confidence": 0.9
   },
-  "39": {
-    "summary": "Immigration process delays causing prolonged uncertainty.",
-    "category": "immigration",
+  "35": {
+    "summary": "Chronic stress from unstable freelance income and family obligations",
+    "category": "Chronic Stress",
+    "confidence": 0.85
+  },
+  "36": {
+    "summary": "Communication conflicts with partner over cultural traditions",
+    "category": "Conflicts or Communication Problems",
+    "confidence": 0.7
+  },
+  "37": {
+    "summary": "Culture shock adapting to Icelandic work culture and social norms",
+    "category": "Culture Shock",
     "confidence": 0.8
   },
+  "38": {
+    "summary": "OCD rituals increasing due to pandemic-related health anxiety",
+    "category": "Obsessive-Compulsive Disorder (OCD)",
+    "confidence": 0.7
+  },
+  "39": {
+    "summary": "Debt problems from failed business venture and medical bills",
+    "category": "Debt Problems",
+    "confidence": 0.65
+  },
   "40": {
-    "summary": "Grief over distant family members' health decline.",
-    "category": "grief_bereavement",
+    "summary": "Financial instability worrying about aging parents abroad",
+    "category": "Financial Problems",
     "confidence": 0.7
   },
   "41": {
-    "summary": "Post-breakup isolation exacerbating anxiety.",
-    "category": "relationship_breakup",
-    "confidence": 0.75
+    "summary": "Bipolar episodes during major relocation stress",
+    "category": "Bipolar Disorder",
+    "confidence": 0.6
   },
   "42": {
-    "summary": "Loneliness from limited social interactions in Iceland.",
-    "category": "loneliness_isolation",
-    "confidence": 0.8
+    "summary": "Breakup recovery after partner rejected immigration challenges",
+    "category": "Breakups or Divorce",
+    "confidence": 0.75
   },
   "43": {
-    "summary": "Chronic anxiety manifesting as physical pain.",
-    "category": "chronic_health_pain",
-    "confidence": 0.85
+    "summary": "Parenting struggles with cat as primary companion",
+    "category": "Issues with Children",
+    "confidence": 0.5
   },
   "44": {
-    "summary": "Financial stress from freelance income fluctuations.",
-    "category": "financial_employment",
-    "confidence": 0.8
-  },
-  "45": {
-    "summary": "Caregiver burden for self amid chronic anxiety.",
-    "category": "caregiver_burden",
+    "summary": "Addictive behaviors with caffeine during freelance burnout",
+    "category": "Addictive Behaviors (e.g., Drug Use, Gambling)",
     "confidence": 0.7
   },
+  "45": {
+    "summary": "Motivation problems with freelance work amid anxiety disorder",
+    "category": "Motivation Problems",
+    "confidence": 0.9
+  },
   "46": {
-    "summary": "Navigating legal challenges post-immigration.",
-    "category": "violence_abuse",
+    "summary": "Marital conflicts over relocation and cultural differences",
+    "category": "Marital Problems",
     "confidence": 0.7
   },
   "47": {
-    "summary": "Housing insecurity due to bureaucratic delays.",
-    "category": "legal_housing",
+    "summary": "Compulsive baking rituals during isolation",
+    "category": "Compulsive Behaviors",
     "confidence": 0.65
   },
   "48": {
-    "summary": "Academic pressure to validate cross-cultural identity.",
-    "category": "academic_stress",
-    "confidence": 0.7
+    "summary": "Schizophrenia-like symptoms under extreme stress",
+    "category": "Schizophrenia",
+    "confidence": 0.5
   },
   "49": {
-    "summary": "Mental health crisis from unresolved trauma.",
-    "category": "mental_health_crisis",
-    "confidence": 0.9
+    "summary": "Alcohol abuse to self-medicate social anxiety",
+    "category": "Alcohol Abuse",
+    "confidence": 0.6
   },
   "50": {
-    "summary": "Immigration process delays causing prolonged uncertainty.",
-    "category": "immigration",
-    "confidence": 0.8
-  },
-  "51": {
-    "summary": "Grief over distant family members' health decline.",
-    "category": "grief_bereavement",
+    "summary": "Emotional fluctuations during menopause and career transition",
+    "category": "Emotional Fluctuations",
     "confidence": 0.7
   },
-  "52": {
-    "summary": "Post-breakup isolation exacerbating anxiety.",
-    "category": "relationship_breakup",
+  "51": {
+    "summary": "Parental conflicts over immigration decisions",
+    "category": "Issues with Parents",
     "confidence": 0.75
   },
+  "52": {
+    "summary": "Friendship conflicts due to cultural misunderstandings",
+    "category": "Problems with Friends",
+    "confidence": 0.7
+  },
   "53": {
-    "summary": "Loneliness from limited social interactions in Iceland.",
-    "category": "loneliness_isolation",
+    "summary": "Burnout from freelance work and pandemic stress",
+    "category": "Burnout",
     "confidence": 0.8
   },
   "54": {
-    "summary": "Chronic anxiety manifesting as physical pain.",
-    "category": "chronic_health_pain",
-    "confidence": 0.85
+    "summary": "Appearance anxiety from aging in foreign culture",
+    "category": "Appearance Anxiety",
+    "confidence": 0.65
   },
   "55": {
-    "summary": "Financial stress from freelance income fluctuations.",
-    "category": "financial_employment",
-    "confidence": 0.8
-  },
-  "56": {
-    "summary": "Caregiver burden for aging family abroad.",
-    "category": "caregiver_burden",
+    "summary": "Self-esteem issues after career setbacks",
+    "category": "Self-Esteem Issues",
     "confidence": 0.7
   },
+  "56": {
+    "summary": "Career development stagnation in freelance market",
+    "category": "Career Development Issues",
+    "confidence": 0.75
+  },
   "57": {
-    "summary": "Navigating legal disputes over immigration status.",
-    "category": "violence_abuse",
+    "summary": "Personal growth blocked by cultural identity conflicts",
+    "category": "Personal Growth Challenges",
     "confidence": 0.7
   },
   "58": {
-    "summary": "Housing instability due to bureaucratic delays.",
-    "category": "legal_housing",
-    "confidence": 0.65
+    "summary": "Recovery from childhood bullying trauma",
+    "category": "Sexual Assault or Domestic Violence Recovery",
+    "confidence": 0.6
   },
   "59": {
-    "summary": "Academic pressure to adapt to new cultural norms.",
-    "category": "academic_stress",
-    "confidence": 0.7
+    "summary": "Ongoing depression from social isolation",
+    "category": "Ongoing Depression",
+    "confidence": 0.8
   },
   "60": {
-    "summary": "Mental health crisis from unresolved trauma.",
-    "category": "mental_health_crisis",
-    "confidence": 0.9
+    "summary": "Anger management issues with immigration bureaucracy",
+    "category": "Anger Management Issues",
+    "confidence": 0.7
   },
   "61": {
-    "summary": "Immigration process delays causing prolonged uncertainty.",
-    "category": "immigration",
-    "confidence": 0.8
-  },
-  "62": {
-    "summary": "Grief over distant family members' health decline.",
-    "category": "grief_bereavement",
-    "confidence": 0.7
-  },
-  "63": {
-    "summary": "Post-breakup isolation exacerbating anxiety.",
-    "category": "relationship_breakup",
+    "summary": "Motivation problems with aging and chronic anxiety",
+    "category": "Motivation Problems",
     "confidence": 0.75
   },
-  "64": {
-    "summary": "Loneliness from limited social interactions in Iceland.",
-    "category": "loneliness_isolation",
-    "confidence": 0.8
+  "62": {
+    "summary": "Appearance anxiety from aging in foreign country",
+    "category": "Appearance Anxiety",
+    "confidence": 0.6
   },
-  "65": {
-    "summary": "Chronic anxiety manifesting as physical pain.",
-    "category": "chronic_health_pain",
-    "confidence": 0.85
-  },
-  "66": {
-    "summary": "Financial stress from freelance income fluctuations.",
-    "category": "financial_employment",
-    "confidence": 0.8
-  },
-  "67": {
-    "summary": "Caregiver burden for self amid chronic anxiety.",
-    "category": "caregiver_burden",
-    "confidence": 0.7
-  },
-  "68": {
-    "summary": "Navigating legal challenges post-immigration.",
-    "category": "violence_abuse",
-    "confidence": 0.7
-  },
-  "69": {
-    "summary": "Housing insecurity due to bureaucratic delays.",
-    "category": "legal_housing",
+  "63": {
+    "summary": "Self-esteem issues after failed relationships",
+    "category": "Self-Esteem Issues",
     "confidence": 0.65
   },
+  "64": {
+    "summary": "Workplace stress freelancing in unpredictable economy",
+    "category": "Workplace Stress",
+    "confidence": 0.7
+  },
+  "65": {
+    "summary": "Job crisis from pandemic market collapse",
+    "category": "Job Crisis",
+    "confidence": 0.7
+  },
+  "66": {
+    "summary": "Schizophrenia diagnosis during midlife crisis",
+    "category": "Schizophrenia",
+    "confidence": 0.55
+  },
+  "67": {
+    "summary": "Friendship conflicts over cultural differences",
+    "category": "Problems with Friends",
+    "confidence": 0.6
+  },
+  "68": {
+    "summary": "Parental conflicts over aging care decisions",
+    "category": "Issues with Parents",
+    "confidence": 0.65
+  },
+  "69": {
+    "summary": "Emotional fluctuations from menopause and loneliness",
+    "category": "Emotional Fluctuations",
+    "confidence": 0.6
+  },
   "70": {
-    "summary": "Academic pressure to validate cross-cultural identity.",
-    "category": "academic_stress",
+    "summary": "Burnout from caring for aging parents abroad",
+    "category": "Burnout",
     "confidence": 0.7
   },
   "71": {
-    "summary": "Mental health crisis from unresolved trauma.",
-    "category": "mental_health_crisis",
-    "confidence": 0.9
+    "summary": "Grandparenting challenges with distant family",
+    "category": "Issues with Children",
+    "confidence": 0.55
   },
   "72": {
-    "summary": "Immigration process delays causing prolonged uncertainty.",
-    "category": "immigration",
-    "confidence": 0.8
+    "summary": "Alcohol abuse to cope with grief",
+    "category": "Alcohol Abuse",
+    "confidence": 0.6
   },
   "73": {
-    "summary": "Grief over distant family members' health decline.",
-    "category": "grief_bereavement",
-    "confidence": 0.7
+    "summary": "Addictive gambling during retirement stress",
+    "category": "Addictive Behaviors (e.g., Drug Use, Gambling)",
+    "confidence": 0.55
   },
   "74": {
-    "summary": "Post-breakup isolation exacerbating anxiety.",
-    "category": "relationship_breakup",
-    "confidence": 0.75
+    "summary": "Marital conflicts over retirement relocation",
+    "category": "Marital Problems",
+    "confidence": 0.6
   },
   "75": {
-    "summary": "Loneliness from limited social interactions in Iceland.",
-    "category": "loneliness_isolation",
-    "confidence": 0.8
+    "summary": "Compulsive baking rituals in retirement",
+    "category": "Compulsive Behaviors",
+    "confidence": 0.55
   },
   "76": {
-    "summary": "Chronic anxiety manifesting as physical pain.",
-    "category": "chronic_health_pain",
-    "confidence": 0.85
+    "summary": "OCD rituals increasing with age",
+    "category": "Obsessive-Compulsive Disorder (OCD)",
+    "confidence": 0.6
   },
   "77": {
-    "summary": "Financial stress from freelance income fluctuations.",
-    "category": "financial_employment",
-    "confidence": 0.8
+    "summary": "Debt problems from medical expenses",
+    "category": "Debt Problems",
+    "confidence": 0.6
   },
   "78": {
-    "summary": "Caregiver burden for aging family abroad.",
-    "category": "caregiver_burden",
-    "confidence": 0.7
+    "summary": "Financial instability in retirement",
+    "category": "Financial Problems",
+    "confidence": 0.65
   },
   "79": {
-    "summary": "Navigating legal disputes over immigration status.",
-    "category": "violence_abuse",
-    "confidence": 0.7
+    "summary": "Bipolar episodes during retirement transition",
+    "category": "Bipolar Disorder",
+    "confidence": 0.55
   },
   "80": {
-    "summary": "Housing instability due to bureaucratic delays.",
-    "category": "legal_housing",
-    "confidence": 0.65
+    "summary": "Divorce recovery after long marriage",
+    "category": "Breakups or Divorce",
+    "confidence": 0.6
   },
   "81": {
-    "summary": "Academic pressure to adapt to new cultural norms.",
-    "category": "academic_stress",
-    "confidence": 0.7
+    "summary": "Personal growth blocked by chronic illness",
+    "category": "Personal Growth Challenges",
+    "confidence": 0.55
   },
   "82": {
-    "summary": "Mental health crisis from unresolved trauma.",
-    "category": "mental_health_crisis",
-    "confidence": 0.9
+    "summary": "Anxiety disorder worsening with health decline",
+    "category": "Anxiety Disorders",
+    "confidence": 0.75
   },
   "83": {
-    "summary": "Immigration process delays causing prolonged uncertainty.",
-    "category": "immigration",
-    "confidence": 0.8
+    "summary": "Anger management issues with health problems",
+    "category": "Anger Management Issues",
+    "confidence": 0.6
   },
   "84": {
-    "summary": "Grief over distant family members' health decline.",
-    "category": "grief_bereavement",
-    "confidence": 0.7
-  },
-  "85": {
-    "summary": "Post-breakup isolation exacerbating anxiety.",
-    "category": "relationship_breakup",
-    "confidence": 0.75
-  },
-  "86": {
-    "summary": "Loneliness from limited social interactions in Iceland.",
-    "category": "loneliness_isolation",
-    "confidence": 0.8
-  },
-  "87": {
-    "summary": "Chronic anxiety manifesting as physical pain.",
-    "category": "chronic_health_pain",
-    "confidence": 0.85
-  },
-  "88": {
-    "summary": "Financial stress from freelance income fluctuations.",
-    "category": "financial_employment",
-    "confidence": 0.8
-  },
-  "89": {
-    "summary": "Caregiver burden for self amid chronic anxiety.",
-    "category": "caregiver_burden",
-    "confidence": 0.7
-  },
-  "90": {
-    "summary": "Navigating legal challenges post-immigration.",
-    "category": "violence_abuse",
-    "confidence": 0.7
-  },
-  "91": {
-    "summary": "Housing insecurity due to bureaucratic delays.",
-    "category": "legal_housing",
+    "summary": "Chronic stress from caregiving responsibilities",
+    "category": "Chronic Stress",
     "confidence": 0.65
   },
-  "92": {
-    "summary": "Academic pressure to validate cross-cultural identity.",
-    "category": "academic_stress",
+  "85": {
+    "summary": "Culture shock adapting to assisted living",
+    "category": "Culture Shock",
+    "confidence": 0.55
+  },
+  "86": {
+    "summary": "Recovery from family estrangement",
+    "category": "Sexual Assault or Domestic Violence Recovery",
+    "confidence": 0.5
+  },
+  "87": {
+    "summary": "Ongoing depression from isolation",
+    "category": "Ongoing Depression",
     "confidence": 0.7
+  },
+  "88": {
+    "summary": "PTSD from childhood trauma resurfacing",
+    "category": "Post-Traumatic Stress Disorder (PTSD)",
+    "confidence": 0.6
+  },
+  "89": {
+    "summary": "Severe sleep problems from chronic pain",
+    "category": "Sleep Problems",
+    "confidence": 0.6
+  },
+  "90": {
+    "summary": "Communication conflicts with children",
+    "category": "Conflicts or Communication Problems",
+    "confidence": 0.55
+  },
+  "91": {
+    "summary": "Grief over death of spouse",
+    "category": "Death of a Loved One",
+    "confidence": 0.7
+  },
+  "92": {
+    "summary": "Grief and loss from family deaths abroad",
+    "category": "Grief and Loss",
+    "confidence": 0.65
   },
   "93": {
-    "summary": "Mental health crisis from unresolved trauma.",
-    "category": "mental_health_crisis",
-    "confidence": 0.9
+    "summary": "Spirituality crisis questioning life purpose",
+    "category": "Spirituality and Faith",
+    "confidence": 0.55
   },
   "94": {
-    "summary": "Immigration process delays causing prolonged uncertainty.",
-    "category": "immigration",
-    "confidence": 0.8
+    "summary": "Health problems from aging and anxiety",
+    "category": "Health Problems",
+    "confidence": 0.65
   },
   "95": {
-    "summary": "Grief over distant family members' health decline.",
-    "category": "grief_bereavement",
-    "confidence": 0.7
+    "summary": "Retirement transition stress",
+    "category": "Life Transitions (e.g., Retirement, Relocation)",
+    "confidence": 0.6
   },
   "96": {
-    "summary": "Post-breakup isolation exacerbating anxiety.",
-    "category": "relationship_breakup",
-    "confidence": 0.75
+    "summary": "Grief over death of aging parents",
+    "category": "Death of a Loved One",
+    "confidence": 0.6
   },
   "97": {
-    "summary": "Loneliness from limited social interactions in Iceland.",
-    "category": "loneliness_isolation",
-    "confidence": 0.8
+    "summary": "Grief and loss from declining health",
+    "category": "Grief and Loss",
+    "confidence": 0.55
   },
   "98": {
-    "summary": "Chronic anxiety manifesting as physical pain.",
-    "category": "chronic_health_pain",
-    "confidence": 0.85
+    "summary": "Spirituality crisis after major loss",
+    "category": "Spirituality and Faith",
+    "confidence": 0.5
   },
   "99": {
-    "summary": "Financial stress from freelance income fluctuations.",
-    "category": "financial_employment",
-    "confidence": 0.8
+    "summary": "Health problems from chronic anxiety",
+    "category": "Health Problems",
+    "confidence": 0.55
   },
   "100": {
-    "summary": "Caregiver burden for self amid chronic anxiety.",
-    "category": "caregiver_burden",
-    "confidence": 0.7
+    "summary": "Retirement adjustment challenges",
+    "category": "Life Transitions (e.g., Retirement, Relocation)",
+    "confidence": 0.55
   }
 }

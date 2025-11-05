@@ -1,407 +1,407 @@
 {
   "20": {
-    "summary": "Housing instability as a young Afghan immigrant.",
-    "category": "legal_housing",
-    "confidence": 0.85
-  },
-  "21": {
-    "summary": "Academic pressure balancing family expectations.",
-    "category": "academic_stress",
-    "confidence": 0.75
-  },
-  "22": {
-    "summary": "Early mental health struggles amid political turmoil.",
-    "category": "mental_health_crisis",
-    "confidence": 0.9
-  },
-  "23": {
-    "summary": "Navigating asylum processes in hostile environments.",
-    "category": "immigration",
-    "confidence": 0.9
-  },
-  "24": {
-    "summary": "Grief over losing a sibling during civil unrest.",
-    "category": "grief_bereavement",
-    "confidence": 0.85
-  },
-  "25": {
-    "summary": "Heartbreak from a failed arranged marriage.",
-    "category": "relationship_breakup",
+    "summary": "Faced bullying in school due to ethnic background during Taliban rule.",
+    "category": "School Bullying",
     "confidence": 0.8
   },
+  "21": {
+    "summary": "Anxiety over meeting Taliban-imposed appearance norms.",
+    "category": "Appearance Anxiety",
+    "confidence": 0.9
+  },
+  "22": {
+    "summary": "Procrastination due to overwhelming war-related stress.",
+    "category": "Procrastination",
+    "confidence": 0.7
+  },
+  "23": {
+    "summary": "Difficulty setting goals amid civil war instability.",
+    "category": "Goal Setting Issues",
+    "confidence": 0.8
+  },
+  "24": {
+    "summary": "Career development hindered by ongoing civil war.",
+    "category": "Career Development Issues",
+    "confidence": 0.8
+  },
+  "25": {
+    "summary": "Self-harm behaviors due to war trauma.",
+    "category": "Self-Harm Behaviors",
+    "confidence": 0.9
+  },
   "26": {
-    "summary": "Isolation as a foreign student in Kabul's urban chaos.",
-    "category": "loneliness_isolation",
+    "summary": "Identity crises amid ethnic and political conflicts.",
+    "category": "Identity Crises",
     "confidence": 0.8
   },
   "27": {
-    "summary": "Chronic back pain from manual labor in youth.",
-    "category": "chronic_health_pain",
-    "confidence": 0.7
+    "summary": "Internet addiction as escape from war.",
+    "category": "Internet Addiction",
+    "confidence": 0.6
   },
   "28": {
-    "summary": "Financial strain after job loss during economic collapse.",
-    "category": "financial_employment",
-    "confidence": 0.8
+    "summary": "Bullying in vocational training due to ethnic background.",
+    "category": "School Bullying",
+    "confidence": 0.7
   },
   "29": {
-    "summary": "Caregiver burden for an ailing parent amid conflict.",
-    "category": "caregiver_burden",
-    "confidence": 0.85
+    "summary": "Schizophrenia emerging from war trauma.",
+    "category": "Schizophrenia",
+    "confidence": 0.8
   },
   "30": {
-    "summary": "Surviving a bombing that killed close friends.",
-    "category": "violence_abuse",
+    "summary": "Alcohol abuse to cope with war trauma.",
+    "category": "Alcohol Abuse",
     "confidence": 0.9
   },
   "31": {
-    "summary": "Housing discrimination as a migrant in Shanghai.",
-    "category": "legal_housing",
+    "summary": "Sexual orientation issues in repressive environment.",
+    "category": "Sexual Orientation",
     "confidence": 0.8
   },
   "32": {
-    "summary": "Academic stress adapting to Shanghai's competitive system.",
-    "category": "academic_stress",
-    "confidence": 0.7
-  },
-  "33": {
-    "summary": "Depression from workplace bullying in tech hub.",
-    "category": "mental_health_crisis",
-    "confidence": 0.9
-  },
-  "34": {
-    "summary": "Visa renewal stress disrupting family life.",
-    "category": "immigration",
-    "confidence": 0.85
-  },
-  "35": {
-    "summary": "Grief over losing a cousin to war.",
-    "category": "grief_bereavement",
+    "summary": "Eating disorders due to food scarcity in war.",
+    "category": "Eating Disorders",
     "confidence": 0.8
   },
+  "33": {
+    "summary": "Academic pressure in exam culture.",
+    "category": "Academic Pressure",
+    "confidence": 0.7
+  },
+  "34": {
+    "summary": "Marital problems in arranged marriage.",
+    "category": "Marital Problems",
+    "confidence": 0.6
+  },
+  "35": {
+    "summary": "Emotional fluctuations from ongoing instability.",
+    "category": "Emotional Fluctuations",
+    "confidence": 0.7
+  },
   "36": {
-    "summary": "Divorce after years of cultural clashes.",
-    "category": "relationship_breakup",
+    "summary": "Friendship problems due to war displacement.",
+    "category": "Problems with Friends",
     "confidence": 0.8
   },
   "37": {
-    "summary": "Isolation as a foreign worker in Shanghai's lockdowns.",
-    "category": "loneliness_isolation",
-    "confidence": 0.9
+    "summary": "Parental issues from cultural clashes.",
+    "category": "Issues with Parents",
+    "confidence": 0.7
   },
   "38": {
-    "summary": "Arthritis from years of manual labor.",
-    "category": "chronic_health_pain",
-    "confidence": 0.85
+    "summary": "Self-esteem issues from war trauma.",
+    "category": "Self-Esteem Issues",
+    "confidence": 0.8
   },
   "39": {
-    "summary": "Job insecurity during pandemic layoffs.",
-    "category": "financial_employment",
+    "summary": "Motivation problems from prolonged conflict.",
+    "category": "Motivation Problems",
     "confidence": 0.8
   },
   "40": {
-    "summary": "Caregiving for aging parents in cramped housing.",
-    "category": "caregiver_burden",
-    "confidence": 0.8
+    "summary": "Appearance anxiety from cultural expectations.",
+    "category": "Appearance Anxiety",
+    "confidence": 0.7
   },
   "41": {
-    "summary": "Workplace harassment in competitive tech sector.",
-    "category": "violence_abuse",
-    "confidence": 0.75
+    "summary": "Burnout from constant relocation and work.",
+    "category": "Burnout",
+    "confidence": 0.6
   },
   "42": {
-    "summary": "Housing disputes with landlord in London.",
-    "category": "legal_housing",
-    "confidence": 0.8
+    "summary": "Procrastination due to chronic stress.",
+    "category": "Procrastination",
+    "confidence": 0.6
   },
   "43": {
-    "summary": "Academic stress learning new programming languages.",
-    "category": "academic_stress",
+    "summary": "Workplace stress from demanding job.",
+    "category": "Workplace Stress",
     "confidence": 0.7
   },
   "44": {
-    "summary": "Depression from prolonged work stress.",
-    "category": "mental_health_crisis",
-    "confidence": 0.9
-  },
-  "45": {
-    "summary": "Family immigration hurdles straining finances.",
-    "category": "immigration",
-    "confidence": 0.8
-  },
-  "46": {
-    "summary": "Grief over losing a pet companion.",
-    "category": "grief_bereavement",
+    "summary": "Goal setting issues from life instability.",
+    "category": "Goal Setting Issues",
     "confidence": 0.7
   },
-  "47": {
-    "summary": "Divorce after years of emotional neglect.",
-    "category": "relationship_breakup",
+  "45": {
+    "summary": "Academic pressure from continuing education.",
+    "category": "Academic Pressure",
+    "confidence": 0.6
+  },
+  "46": {
+    "summary": "Job crisis during pandemic lockdowns.",
+    "category": "Job Crisis",
     "confidence": 0.8
   },
-  "48": {
-    "summary": "Social withdrawal amid pandemic isolation.",
-    "category": "loneliness_isolation",
+  "47": {
+    "summary": "Career development issues as temporary worker.",
+    "category": "Career Development Issues",
     "confidence": 0.9
   },
+  "48": {
+    "summary": "Sexual orientation discrimination in China.",
+    "category": "Sexual Orientation",
+    "confidence": 0.7
+  },
   "49": {
-    "summary": "Chronic pain limiting mobility and independence.",
-    "category": "chronic_health_pain",
-    "confidence": 0.85
+    "summary": "Self-harm behaviors from isolation.",
+    "category": "Self-Harm Behaviors",
+    "confidence": 0.8
   },
   "50": {
-    "summary": "Pension uncertainty amid economic volatility.",
-    "category": "financial_employment",
-    "confidence": 0.75
+    "summary": "Eating disorders from social media pressure.",
+    "category": "Eating Disorders",
+    "confidence": 0.7
   },
   "51": {
-    "summary": "Caregiver burnout for a spouse with dementia.",
-    "category": "caregiver_burden",
+    "summary": "Internet addiction from social media influencing.",
+    "category": "Internet Addiction",
     "confidence": 0.9
   },
   "52": {
-    "summary": "Elder abuse from neglectful family members.",
-    "category": "violence_abuse",
-    "confidence": 0.7
-  },
-  "53": {
-    "summary": "Housing discrimination as an older immigrant.",
-    "category": "legal_housing",
+    "summary": "Identity crises as immigrant professional.",
+    "category": "Identity Crises",
     "confidence": 0.8
   },
+  "53": {
+    "summary": "Ongoing depression from work stress.",
+    "category": "Ongoing Depression",
+    "confidence": 0.9
+  },
   "54": {
-    "summary": "Academic stress learning AI tools.",
-    "category": "academic_stress",
-    "confidence": 0.7
+    "summary": "PTSD from past war experiences.",
+    "category": "Post-Traumatic Stress Disorder (PTSD)",
+    "confidence": 0.9
   },
   "55": {
-    "summary": "Depression relapse from unresolved trauma.",
-    "category": "mental_health_crisis",
+    "summary": "Sleep problems from depression.",
+    "category": "Sleep Problems",
     "confidence": 0.9
   },
   "56": {
-    "summary": "Family immigration stress disrupting stability.",
-    "category": "immigration",
-    "confidence": 0.8
+    "summary": "Bipolar disorder emerging from trauma.",
+    "category": "Bipolar Disorder",
+    "confidence": 0.7
   },
   "57": {
-    "summary": "Grief over losing a lifelong friend.",
-    "category": "grief_bereavement",
-    "confidence": 0.8
+    "summary": "Breakup from recent relationship.",
+    "category": "Breakups or Divorce",
+    "confidence": 0.6
   },
   "58": {
-    "summary": "Divorce after decades of marital strain.",
-    "category": "relationship_breakup",
-    "confidence": 0.85
+    "summary": "Issues with children from past marriage.",
+    "category": "Issues with Children",
+    "confidence": 0.5
   },
   "59": {
-    "summary": "Social isolation in retirement.",
-    "category": "loneliness_isolation",
-    "confidence": 0.85
+    "summary": "Compulsive behaviors from anxiety.",
+    "category": "Compulsive Behaviors",
+    "confidence": 0.7
   },
   "60": {
-    "summary": "Chronic illness requiring constant medical care.",
-    "category": "chronic_health_pain",
-    "confidence": 0.9
+    "summary": "Addictive behaviors from chronic stress.",
+    "category": "Addictive Behaviors (e.g., Drug Use, Gambling)",
+    "confidence": 0.6
   },
   "61": {
-    "summary": "Pension shortfall causing financial anxiety.",
-    "category": "financial_employment",
+    "summary": "Motivation problems in retirement.",
+    "category": "Motivation Problems",
     "confidence": 0.7
   },
   "62": {
-    "summary": "Caregiving for a disabled child.",
-    "category": "caregiver_burden",
-    "confidence": 0.8
+    "summary": "Self-esteem issues in retirement.",
+    "category": "Self-Esteem Issues",
+    "confidence": 0.7
   },
   "63": {
-    "summary": "Domestic conflict with a partner.",
-    "category": "violence_abuse",
-    "confidence": 0.7
+    "summary": "Job crisis before retirement.",
+    "category": "Job Crisis",
+    "confidence": 0.6
   },
   "64": {
-    "summary": "Housing discrimination based on ethnicity.",
-    "category": "legal_housing",
-    "confidence": 0.8
+    "summary": "Workplace stress from past job.",
+    "category": "Workplace Stress",
+    "confidence": 0.5
   },
   "65": {
-    "summary": "Academic stress learning new software.",
-    "category": "academic_stress",
-    "confidence": 0.7
+    "summary": "Debt problems from medical expenses.",
+    "category": "Debt Problems",
+    "confidence": 0.6
   },
   "66": {
-    "summary": "Depression from chronic loneliness.",
-    "category": "mental_health_crisis",
-    "confidence": 0.9
+    "summary": "Issues with aging parents.",
+    "category": "Issues with Parents",
+    "confidence": 0.7
   },
   "67": {
-    "summary": "Family immigration issues causing stress.",
-    "category": "immigration",
-    "confidence": 0.8
+    "summary": "Emotional fluctuations from health decline.",
+    "category": "Emotional Fluctuations",
+    "confidence": 0.7
   },
   "68": {
-    "summary": "Grief over losing a parent.",
-    "category": "grief_bereavement",
-    "confidence": 0.85
+    "summary": "Friendship problems from isolation.",
+    "category": "Problems with Friends",
+    "confidence": 0.7
   },
   "69": {
-    "summary": "Divorce after long-term relationship breakdown.",
-    "category": "relationship_breakup",
-    "confidence": 0.8
+    "summary": "Burnout from past career.",
+    "category": "Burnout",
+    "confidence": 0.6
   },
   "70": {
-    "summary": "Social isolation in old age.",
-    "category": "loneliness_isolation",
-    "confidence": 0.85
+    "summary": "OCD from trauma and stress.",
+    "category": "Obsessive-Compulsive Disorder (OCD)",
+    "confidence": 0.7
   },
   "71": {
-    "summary": "Chronic pain limiting daily activities.",
-    "category": "chronic_health_pain",
-    "confidence": 0.9
+    "summary": "Schizophrenia emerging from old age.",
+    "category": "Schizophrenia",
+    "confidence": 0.6
   },
   "72": {
-    "summary": "Financial strain from medical bills.",
-    "category": "financial_employment",
-    "confidence": 0.75
+    "summary": "Alcohol abuse from loneliness.",
+    "category": "Alcohol Abuse",
+    "confidence": 0.7
   },
   "73": {
-    "summary": "Caregiver burden for a spouse with Alzheimer's.",
-    "category": "caregiver_burden",
-    "confidence": 0.9
+    "summary": "Compulsive behaviors from anxiety.",
+    "category": "Compulsive Behaviors",
+    "confidence": 0.7
   },
   "74": {
-    "summary": "Elder abuse from neglectful family.",
-    "category": "violence_abuse",
-    "confidence": 0.7
+    "summary": "Addictive behaviors from boredom.",
+    "category": "Addictive Behaviors (e.g., Drug Use, Gambling)",
+    "confidence": 0.6
   },
   "75": {
-    "summary": "Housing disputes with landlord.",
-    "category": "legal_housing",
-    "confidence": 0.8
-  },
-  "76": {
-    "summary": "Academic stress learning new tech.",
-    "category": "academic_stress",
+    "summary": "Financial problems from retirement.",
+    "category": "Financial Problems",
     "confidence": 0.7
   },
+  "76": {
+    "summary": "Bipolar disorder in old age.",
+    "category": "Bipolar Disorder",
+    "confidence": 0.6
+  },
   "77": {
-    "summary": "Depression from unresolved childhood trauma.",
-    "category": "mental_health_crisis",
-    "confidence": 0.9
+    "summary": "OCD from aging.",
+    "category": "Obsessive-Compulsive Disorder (OCD)",
+    "confidence": 0.6
   },
   "78": {
-    "summary": "Family immigration stress causing anxiety.",
-    "category": "immigration",
-    "confidence": 0.8
+    "summary": "Breakup from spouse passing.",
+    "category": "Breakups or Divorce",
+    "confidence": 0.7
   },
   "79": {
-    "summary": "Grief over losing a close friend.",
-    "category": "grief_bereavement",
-    "confidence": 0.8
+    "summary": "Marital problems with spouse.",
+    "category": "Marital Problems",
+    "confidence": 0.7
   },
   "80": {
-    "summary": "Divorce after decades of marital strain.",
-    "category": "relationship_breakup",
-    "confidence": 0.85
+    "summary": "Culture shock from aging abroad.",
+    "category": "Culture Shock",
+    "confidence": 0.6
   },
   "81": {
-    "summary": "Social isolation in retirement.",
-    "category": "loneliness_isolation",
-    "confidence": 0.85
+    "summary": "Issues with children from past.",
+    "category": "Issues with Children",
+    "confidence": 0.5
   },
   "82": {
-    "summary": "Chronic illness requiring constant care.",
-    "category": "chronic_health_pain",
-    "confidence": 0.9
+    "summary": "Sleep problems from aging.",
+    "category": "Sleep Problems",
+    "confidence": 0.7
   },
   "83": {
-    "summary": "Financial instability from pension shortfall.",
-    "category": "financial_employment",
-    "confidence": 0.75
+    "summary": "Chronic stress from health issues.",
+    "category": "Chronic Stress",
+    "confidence": 0.7
   },
   "84": {
-    "summary": "Caregiver burden for a disabled child.",
-    "category": "caregiver_burden",
-    "confidence": 0.8
+    "summary": "Conflicts with family members.",
+    "category": "Conflicts or Communication Problems",
+    "confidence": 0.7
   },
   "85": {
-    "summary": "Domestic conflict with a partner.",
-    "category": "violence_abuse",
+    "summary": "Ongoing depression from aging.",
+    "category": "Ongoing Depression",
     "confidence": 0.7
   },
   "86": {
-    "summary": "Housing discrimination based on age.",
-    "category": "legal_housing",
-    "confidence": 0.8
-  },
-  "87": {
-    "summary": "Academic stress learning new software.",
-    "category": "academic_stress",
+    "summary": "PTSD from past trauma.",
+    "category": "Post-Traumatic Stress Disorder (PTSD)",
     "confidence": 0.7
   },
+  "87": {
+    "summary": "Personal growth challenges in old age.",
+    "category": "Personal Growth Challenges",
+    "confidence": 0.6
+  },
   "88": {
-    "summary": "Depression from chronic loneliness.",
-    "category": "mental_health_crisis",
-    "confidence": 0.9
+    "summary": "Recovery from past domestic violence.",
+    "category": "Sexual Assault or Domestic Violence Recovery",
+    "confidence": 0.5
   },
   "89": {
-    "summary": "Family immigration stress causing anxiety.",
-    "category": "immigration",
-    "confidence": 0.8
+    "summary": "Anxiety disorders from aging.",
+    "category": "Anxiety Disorders",
+    "confidence": 0.7
   },
   "90": {
-    "summary": "Grief over losing a parent.",
-    "category": "grief_bereavement",
-    "confidence": 0.85
+    "summary": "Anger management issues from frustration.",
+    "category": "Anger Management Issues",
+    "confidence": 0.6
   },
   "91": {
-    "summary": "Divorce after long-term relationship breakdown.",
-    "category": "relationship_breakup",
-    "confidence": 0.8
+    "summary": "Grief from loss of spouse.",
+    "category": "Grief and Loss",
+    "confidence": 0.7
   },
   "92": {
-    "summary": "Social isolation in old age.",
-    "category": "loneliness_isolation",
-    "confidence": 0.85
+    "summary": "Death of a loved one.",
+    "category": "Death of a Loved One",
+    "confidence": 0.7
   },
   "93": {
-    "summary": "Chronic pain limiting mobility.",
-    "category": "chronic_health_pain",
-    "confidence": 0.9
+    "summary": "Spirituality and faith in old age.",
+    "category": "Spirituality and Faith",
+    "confidence": 0.6
   },
   "94": {
-    "summary": "Financial strain from medical bills.",
-    "category": "financial_employment",
-    "confidence": 0.75
+    "summary": "Health problems from aging.",
+    "category": "Health Problems",
+    "confidence": 0.7
   },
   "95": {
-    "summary": "Caregiver burden for a spouse with dementia.",
-    "category": "caregiver_burden",
-    "confidence": 0.9
+    "summary": "Life transition from work to retirement.",
+    "category": "Life Transitions (e.g., Retirement, Relocation)",
+    "confidence": 0.6
   },
   "96": {
-    "summary": "Elder abuse from neglectful family.",
-    "category": "violence_abuse",
+    "summary": "Death of a loved one.",
+    "category": "Death of a Loved One",
     "confidence": 0.7
   },
   "97": {
-    "summary": "Housing discrimination based on ethnicity.",
-    "category": "legal_housing",
-    "confidence": 0.8
-  },
-  "98": {
-    "summary": "Academic stress learning new tech.",
-    "category": "academic_stress",
+    "summary": "Grief from loss of friend.",
+    "category": "Grief and Loss",
     "confidence": 0.7
   },
+  "98": {
+    "summary": "Spirituality and faith in old age.",
+    "category": "Spirituality and Faith",
+    "confidence": 0.6
+  },
   "99": {
-    "summary": "Depression from unresolved trauma.",
-    "category": "mental_health_crisis",
-    "confidence": 0.9
+    "summary": "Health problems from aging.",
+    "category": "Health Problems",
+    "confidence": 0.7
   },
   "100": {
-    "summary": "Family immigration stress causing anxiety.",
-    "category": "immigration",
-    "confidence": 0.8
+    "summary": "Life transition in centenarian years.",
+    "category": "Life Transitions (e.g., Retirement, Relocation)",
+    "confidence": 0.5
   }
 }

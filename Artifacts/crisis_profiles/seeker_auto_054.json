@@ -1,407 +1,407 @@
 {
   "20": {
-    "summary": "Navigating first independent housing in Lagos amid urban sprawl.",
-    "category": "legal_housing",
+    "summary": "Navigating identity amid cultural displacement and new responsibilities.",
+    "category": "Identity Crises",
     "confidence": 0.85
   },
   "21": {
-    "summary": "Adjusting to formal education after informal trade background.",
-    "category": "academic_stress",
-    "confidence": 0.75
+    "summary": "Intense pressure to conform to new cultural norms and expectations.",
+    "category": "Eating Disorders",
+    "confidence": 0.4
   },
   "22": {
-    "summary": "Acute anxiety crisis from cross-cultural dissonance in new environment.",
-    "category": "mental_health_crisis",
-    "confidence": 0.9
+    "summary": "Questioning sexual orientation in isolated immigrant context with limited support.",
+    "category": "Sexual Orientation",
+    "confidence": 0.5
   },
   "23": {
-    "summary": "Immigration hurdles straining financial stability and social ties.",
-    "category": "immigration",
-    "confidence": 0.8
+    "summary": "Self-doubt eroding confidence in career path and cultural belonging.",
+    "category": "Self-Harm Behaviors",
+    "confidence": 0.6
   },
   "24": {
-    "summary": "Grief over lost connections to Lagos community intensifies isolation.",
-    "category": "grief_bereavement",
+    "summary": "Struggling with academic/professional expectations in high-pressure environment.",
+    "category": "Academic Pressure",
     "confidence": 0.7
   },
   "25": {
-    "summary": "Failed romantic relationship exacerbates loneliness in Singapore.",
-    "category": "relationship_breakup",
-    "confidence": 0.8
+    "summary": "Past school bullying resurfacing during workplace conflicts.",
+    "category": "School Bullying",
+    "confidence": 0.65
   },
   "26": {
-    "summary": "Severe loneliness amid precarious employment and cultural stigma.",
-    "category": "loneliness_isolation",
+    "summary": "Severe identity confusion from cross-cultural dissonance and isolation.",
+    "category": "Identity Crises",
     "confidence": 0.95
   },
   "27": {
-    "summary": "Chronic back pain from sedentary work causing career doubts.",
-    "category": "chronic_health_pain",
-    "confidence": 0.6
+    "summary": "Using internet for escapism amid social anxiety and loneliness.",
+    "category": "Internet Addiction",
+    "confidence": 0.7
   },
   "28": {
-    "summary": "Job insecurity threatens housing stability in high-cost Singapore.",
-    "category": "financial_employment",
-    "confidence": 0.9
+    "summary": "Workplace conflicts triggering childhood bullying memories.",
+    "category": "School Bullying",
+    "confidence": 0.55
   },
   "29": {
-    "summary": "Caregiver burden for aging parent in Lagos strains mental health.",
-    "category": "caregiver_burden",
-    "confidence": 0.7
+    "summary": "Persistent low mood from unresolved cultural displacement and career stagnation.",
+    "category": "Ongoing Depression",
+    "confidence": 0.8
   },
   "30": {
-    "summary": "Discrimination at workplace triggers identity crisis.",
-    "category": "violence_abuse",
-    "confidence": 0.6
+    "summary": "Frustration over stalled career advancement and cultural barriers.",
+    "category": "Anger Management Issues",
+    "confidence": 0.75
   },
   "31": {
-    "summary": "Landlord disputes over rental agreement in Singapore.",
-    "category": "legal_housing",
-    "confidence": 0.7
+    "summary": "Body image concerns from comparing self to local beauty standards.",
+    "category": "Eating Disorders",
+    "confidence": 0.55
   },
   "32": {
-    "summary": "Academic pressure to upskill conflicting with work demands.",
-    "category": "academic_stress",
-    "confidence": 0.8
+    "summary": "Occasional self-harm urges during intense identity crises.",
+    "category": "Self-Harm Behaviors",
+    "confidence": 0.65
   },
   "33": {
-    "summary": "Mental health crisis resurfaces amid mounting cross-cultural stress.",
-    "category": "mental_health_crisis",
-    "confidence": 0.9
+    "summary": "Exploring identity amid cultural expectations and personal desires.",
+    "category": "Sexual Orientation",
+    "confidence": 0.6
   },
   "34": {
-    "summary": "Visa renewal anxiety disrupts long-term plans in Singapore.",
-    "category": "immigration",
-    "confidence": 0.85
+    "summary": "Pressure to excel academically/professionally causing burnout.",
+    "category": "Academic Pressure",
+    "confidence": 0.7
   },
   "35": {
-    "summary": "Bereavement of mentor in Lagos triggers grief spiral.",
-    "category": "grief_bereavement",
-    "confidence": 0.75
-  },
-  "36": {
-    "summary": "Relationship breakdown due to cultural differences.",
-    "category": "relationship_breakup",
-    "confidence": 0.8
-  },
-  "37": {
-    "summary": "Persistent loneliness despite forming new professional ties.",
-    "category": "loneliness_isolation",
-    "confidence": 0.9
-  },
-  "38": {
-    "summary": "Chronic fatigue from insomnia impacts work performance.",
-    "category": "chronic_health_pain",
-    "confidence": 0.7
-  },
-  "39": {
-    "summary": "Financial instability forces difficult housing trade-offs.",
-    "category": "financial_employment",
+    "summary": "Anxiety spiraling from work demands and cultural isolation.",
+    "category": "Anxiety Disorders",
     "confidence": 0.85
   },
-  "40": {
-    "summary": "Caregiver strain from supporting family in Nigeria.",
-    "category": "caregiver_burden",
-    "confidence": 0.75
+  "36": {
+    "summary": "Re-experiencing past trauma from Lagos' volatile environment.",
+    "category": "Post-Traumatic Stress Disorder (PTSD)",
+    "confidence": 0.6
   },
-  "41": {
-    "summary": "Workplace discrimination leads to psychological distress.",
-    "category": "violence_abuse",
+  "37": {
+    "summary": "Miscommunication causing friction with colleagues and friends.",
+    "category": "Conflicts or Communication Problems",
     "confidence": 0.7
   },
-  "42": {
-    "summary": "Legal disputes over property inheritance in Lagos.",
-    "category": "legal_housing",
+  "38": {
+    "summary": "Fear of violence from past Lagos experiences resurfacing.",
+    "category": "Sexual Assault or Domestic Violence Recovery",
+    "confidence": 0.5
+  },
+  "39": {
+    "summary": "Insomnia worsening due to cultural stress and work pressure.",
+    "category": "Sleep Problems",
     "confidence": 0.8
   },
+  "40": {
+    "summary": "Intense homesickness and cultural dislocation.",
+    "category": "Culture Shock",
+    "confidence": 0.9
+  },
+  "41": {
+    "summary": "Financial instability causing constant stress and insecurity.",
+    "category": "Financial Problems",
+    "confidence": 0.85
+  },
+  "42": {
+    "summary": "Rigid routines emerging to manage anxiety and unpredictability.",
+    "category": "Obsessive-Compulsive Disorder (OCD)",
+    "confidence": 0.65
+  },
   "43": {
-    "summary": "Academic pressure to validate career credentials.",
-    "category": "academic_stress",
+    "summary": "Debt from startup failures adding to existing stress.",
+    "category": "Debt Problems",
     "confidence": 0.7
   },
   "44": {
-    "summary": "Mental health crisis worsens amid isolation and stigma.",
-    "category": "mental_health_crisis",
-    "confidence": 0.9
+    "summary": "Emotional volatility from chronic stress and identity struggles.",
+    "category": "Bipolar Disorder",
+    "confidence": 0.55
   },
   "45": {
-    "summary": "Immigration status uncertainty causes chronic stress.",
-    "category": "immigration",
-    "confidence": 0.8
+    "summary": "Loss of motivation after career setbacks and cultural barriers.",
+    "category": "Motivation Problems",
+    "confidence": 0.7
   },
   "46": {
-    "summary": "Grief over extended family loss compounds existing trauma.",
-    "category": "grief_bereavement",
-    "confidence": 0.7
-  },
-  "47": {
-    "summary": "Failed partnership intensifies feelings of abandonment.",
-    "category": "relationship_breakup",
-    "confidence": 0.8
-  },
-  "48": {
-    "summary": "Loneliness persists despite professional success.",
-    "category": "loneliness_isolation",
-    "confidence": 0.9
-  },
-  "49": {
-    "summary": "Chronic pain from past injuries affects daily functioning.",
-    "category": "chronic_health_pain",
+    "summary": "Grief over failed relationships in foreign environment.",
+    "category": "Breakups or Divorce",
     "confidence": 0.65
   },
+  "47": {
+    "summary": "Isolation impacting ability to connect with potential partners.",
+    "category": "Issues with Children",
+    "confidence": 0.4
+  },
+  "48": {
+    "summary": "Compulsive work habits to avoid loneliness and cultural uncertainty.",
+    "category": "Compulsive Behaviors",
+    "confidence": 0.6
+  },
+  "49": {
+    "summary": "Marital strain from cross-cultural misunderstandings.",
+    "category": "Marital Problems",
+    "confidence": 0.55
+  },
   "50": {
-    "summary": "Financial strain from supporting family in Nigeria.",
-    "category": "financial_employment",
-    "confidence": 0.8
+    "summary": "Delusions about identity and reality due to prolonged stress.",
+    "category": "Schizophrenia",
+    "confidence": 0.4
   },
   "51": {
-    "summary": "Caregiver burden for elderly relative causes burnout.",
-    "category": "caregiver_burden",
-    "confidence": 0.7
-  },
-  "52": {
-    "summary": "Experiencing workplace harassment in tech industry.",
-    "category": "violence_abuse",
+    "summary": "Alcohol use escalating to cope with cultural isolation.",
+    "category": "Alcohol Abuse",
     "confidence": 0.75
   },
+  "52": {
+    "summary": "Substance use increasing to manage anxiety and loneliness.",
+    "category": "Addictive Behaviors (e.g., Drug Use, Gambling)",
+    "confidence": 0.7
+  },
   "53": {
-    "summary": "Legal issues over property dispute in Lagos.",
-    "category": "legal_housing",
-    "confidence": 0.8
+    "summary": "Emotional swings from unresolved cultural trauma.",
+    "category": "Emotional Fluctuations",
+    "confidence": 0.6
   },
   "54": {
-    "summary": "Academic pressure to pursue advanced degrees.",
-    "category": "academic_stress",
+    "summary": "Friendship conflicts amplifying cultural isolation.",
+    "category": "Problems with Friends",
     "confidence": 0.7
   },
   "55": {
-    "summary": "Mental health crisis triggered by cultural alienation.",
-    "category": "mental_health_crisis",
-    "confidence": 0.9
+    "summary": "Parental expectations clashing with personal choices.",
+    "category": "Issues with Parents",
+    "confidence": 0.65
   },
   "56": {
-    "summary": "Immigration barriers prevent family reunification.",
-    "category": "immigration",
-    "confidence": 0.8
+    "summary": "Procrastination on career decisions due to cultural uncertainty.",
+    "category": "Procrastination",
+    "confidence": 0.6
   },
   "57": {
-    "summary": "Grief over loss of community ties in Lagos.",
-    "category": "grief_bereavement",
+    "summary": "Struggling to set career goals amid cultural barriers.",
+    "category": "Goal Setting Issues",
     "confidence": 0.7
   },
   "58": {
-    "summary": "Relationship breakdown due to differing life goals.",
-    "category": "relationship_breakup",
+    "summary": "Career stagnation causing frustration and identity crisis.",
+    "category": "Career Development Issues",
     "confidence": 0.8
   },
   "59": {
-    "summary": "Loneliness persists despite professional networks.",
-    "category": "loneliness_isolation",
-    "confidence": 0.9
-  },
-  "60": {
-    "summary": "Chronic health issues limit career mobility.",
-    "category": "chronic_health_pain",
-    "confidence": 0.7
-  },
-  "61": {
-    "summary": "Financial instability threatens housing security.",
-    "category": "financial_employment",
+    "summary": "Chronic stress from financial precarity and cultural isolation.",
+    "category": "Chronic Stress",
     "confidence": 0.85
   },
-  "62": {
-    "summary": "Caregiver burden for disabled family member.",
-    "category": "caregiver_burden",
+  "60": {
+    "summary": "Questioning life purpose after cultural displacement.",
+    "category": "Personal Growth Challenges",
     "confidence": 0.75
+  },
+  "61": {
+    "summary": "Low self-esteem from workplace discrimination and isolation.",
+    "category": "Self-Esteem Issues",
+    "confidence": 0.7
+  },
+  "62": {
+    "summary": "Loss of drive due to cultural barriers and career stagnation.",
+    "category": "Motivation Problems",
+    "confidence": 0.7
   },
   "63": {
-    "summary": "Experiencing discrimination in workplace.",
-    "category": "violence_abuse",
-    "confidence": 0.7
+    "summary": "Body image concerns in unfamiliar cultural context.",
+    "category": "Appearance Anxiety",
+    "confidence": 0.6
   },
   "64": {
-    "summary": "Legal disputes over inheritance in Lagos.",
-    "category": "legal_housing",
-    "confidence": 0.8
+    "summary": "Job insecurity causing anxiety and identity threats.",
+    "category": "Job Crisis",
+    "confidence": 0.7
   },
   "65": {
-    "summary": "Academic pressure to upskill in competitive industry.",
-    "category": "academic_stress",
-    "confidence": 0.7
+    "summary": "Workplace stress from cultural misunderstandings and high pressure.",
+    "category": "Workplace Stress",
+    "confidence": 0.8
   },
   "66": {
-    "summary": "Mental health crisis resurfaces amid isolation.",
-    "category": "mental_health_crisis",
-    "confidence": 0.9
+    "summary": "Delusions about identity and reality due to prolonged stress.",
+    "category": "Schizophrenia",
+    "confidence": 0.4
   },
   "67": {
-    "summary": "Immigration status creates long-term uncertainty.",
-    "category": "immigration",
-    "confidence": 0.8
+    "summary": "Parental pressure conflicting with personal choices.",
+    "category": "Issues with Parents",
+    "confidence": 0.6
   },
   "68": {
-    "summary": "Grief over loss of cultural roots intensifies identity crisis.",
-    "category": "grief_bereavement",
-    "confidence": 0.7
-  },
-  "69": {
-    "summary": "Relationship breakdown due to geographic separation.",
-    "category": "relationship_breakup",
-    "confidence": 0.8
-  },
-  "70": {
-    "summary": "Loneliness persists despite career achievements.",
-    "category": "loneliness_isolation",
-    "confidence": 0.9
-  },
-  "71": {
-    "summary": "Chronic pain from past injuries affects quality of life.",
-    "category": "chronic_health_pain",
+    "summary": "Friendship conflicts amplifying cultural isolation.",
+    "category": "Problems with Friends",
     "confidence": 0.65
   },
-  "72": {
-    "summary": "Financial strain from medical expenses.",
-    "category": "financial_employment",
-    "confidence": 0.8
+  "69": {
+    "summary": "Emotional volatility from unresolved cultural trauma.",
+    "category": "Emotional Fluctuations",
+    "confidence": 0.6
   },
-  "73": {
-    "summary": "Caregiver burden for aging parent causes emotional exhaustion.",
-    "category": "caregiver_burden",
+  "70": {
+    "summary": "Burnout from relentless work and cultural adaptation.",
+    "category": "Burnout",
     "confidence": 0.75
   },
-  "74": {
-    "summary": "Workplace discrimination leads to psychological distress.",
-    "category": "violence_abuse",
+  "71": {
+    "summary": "Isolation impacting parenting in foreign environment.",
+    "category": "Issues with Children",
+    "confidence": 0.5
+  },
+  "72": {
+    "summary": "Alcohol use escalating to cope with cultural isolation.",
+    "category": "Alcohol Abuse",
     "confidence": 0.7
+  },
+  "73": {
+    "summary": "Substance use increasing to manage anxiety and loneliness.",
+    "category": "Addictive Behaviors (e.g., Drug Use, Gambling)",
+    "confidence": 0.7
+  },
+  "74": {
+    "summary": "Compulsive work habits to avoid loneliness and cultural uncertainty.",
+    "category": "Compulsive Behaviors",
+    "confidence": 0.65
   },
   "75": {
-    "summary": "Legal issues over property inheritance in Lagos.",
-    "category": "legal_housing",
-    "confidence": 0.8
+    "summary": "Marital strain from cross-cultural misunderstandings.",
+    "category": "Marital Problems",
+    "confidence": 0.6
   },
   "76": {
-    "summary": "Academic pressure to validate career credentials.",
-    "category": "academic_stress",
-    "confidence": 0.7
+    "summary": "Rigid routines emerging to manage anxiety and unpredictability.",
+    "category": "Obsessive-Compulsive Disorder (OCD)",
+    "confidence": 0.6
   },
   "77": {
-    "summary": "Mental health crisis worsens amid isolation.",
-    "category": "mental_health_crisis",
-    "confidence": 0.9
+    "summary": "Debt from financial precarity adding to existing stress.",
+    "category": "Debt Problems",
+    "confidence": 0.7
   },
   "78": {
-    "summary": "Immigration barriers prevent family reunification.",
-    "category": "immigration",
+    "summary": "Financial instability causing constant stress and insecurity.",
+    "category": "Financial Problems",
     "confidence": 0.8
   },
   "79": {
-    "summary": "Grief over loss of community ties compounds existing trauma.",
-    "category": "grief_bereavement",
-    "confidence": 0.7
+    "summary": "Emotional volatility from chronic stress and identity struggles.",
+    "category": "Bipolar Disorder",
+    "confidence": 0.55
   },
   "80": {
-    "summary": "Relationship breakdown due to cultural differences.",
-    "category": "relationship_breakup",
-    "confidence": 0.8
+    "summary": "Grief over failed relationships in foreign environment.",
+    "category": "Breakups or Divorce",
+    "confidence": 0.6
   },
   "81": {
-    "summary": "Loneliness persists despite professional networks.",
-    "category": "loneliness_isolation",
-    "confidence": 0.9
+    "summary": "Persistent low mood from unresolved cultural displacement.",
+    "category": "Ongoing Depression",
+    "confidence": 0.75
   },
   "82": {
-    "summary": "Chronic health issues limit daily functioning.",
-    "category": "chronic_health_pain",
-    "confidence": 0.65
+    "summary": "Insomnia worsening due to cultural stress.",
+    "category": "Sleep Problems",
+    "confidence": 0.7
   },
   "83": {
-    "summary": "Financial instability threatens housing security.",
-    "category": "financial_employment",
+    "summary": "Chronic stress from financial precarity and cultural isolation.",
+    "category": "Chronic Stress",
     "confidence": 0.8
   },
   "84": {
-    "summary": "Caregiver burden for disabled relative causes burnout.",
-    "category": "caregiver_burden",
-    "confidence": 0.7
+    "summary": "Re-experiencing past trauma from Lagos' volatile environment.",
+    "category": "Post-Traumatic Stress Disorder (PTSD)",
+    "confidence": 0.6
   },
   "85": {
-    "summary": "Experiencing workplace harassment.",
-    "category": "violence_abuse",
-    "confidence": 0.7
+    "summary": "Intense homesickness and cultural dislocation.",
+    "category": "Culture Shock",
+    "confidence": 0.8
   },
   "86": {
-    "summary": "Legal disputes over property inheritance in Lagos.",
-    "category": "legal_housing",
-    "confidence": 0.8
+    "summary": "Miscommunication causing friction with colleagues and friends.",
+    "category": "Conflicts or Communication Problems",
+    "confidence": 0.7
   },
   "87": {
-    "summary": "Academic pressure to upskill in competitive industry.",
-    "category": "academic_stress",
-    "confidence": 0.7
+    "summary": "Anxiety spiraling from work demands and cultural isolation.",
+    "category": "Anxiety Disorders",
+    "confidence": 0.8
   },
   "88": {
-    "summary": "Mental health crisis triggered by isolation.",
-    "category": "mental_health_crisis",
-    "confidence": 0.9
+    "summary": "Frustration over stalled career advancement and cultural barriers.",
+    "category": "Anger Management Issues",
+    "confidence": 0.75
   },
   "89": {
-    "summary": "Immigration status creates chronic uncertainty.",
-    "category": "immigration",
-    "confidence": 0.8
+    "summary": "Questioning life purpose after cultural displacement.",
+    "category": "Personal Growth Challenges",
+    "confidence": 0.7
   },
   "90": {
-    "summary": "Grief over loss of cultural roots intensifies identity crisis.",
-    "category": "grief_bereavement",
-    "confidence": 0.7
+    "summary": "Fear of violence from past Lagos experiences resurfacing.",
+    "category": "Sexual Assault or Domestic Violence Recovery",
+    "confidence": 0.5
   },
   "91": {
-    "summary": "Relationship breakdown due to geographic separation.",
-    "category": "relationship_breakup",
-    "confidence": 0.8
+    "summary": "Grief over lost opportunities in home country.",
+    "category": "Grief and Loss",
+    "confidence": 0.6
   },
   "92": {
-    "summary": "Loneliness persists despite career success.",
-    "category": "loneliness_isolation",
-    "confidence": 0.9
+    "summary": "Homesickness after losing contact with loved ones.",
+    "category": "Death of a Loved One",
+    "confidence": 0.55
   },
   "93": {
-    "summary": "Chronic pain from past injuries affects daily life.",
-    "category": "chronic_health_pain",
-    "confidence": 0.65
+    "summary": "Spiritual crisis amid conflicting cultural beliefs.",
+    "category": "Spirituality and Faith",
+    "confidence": 0.6
   },
   "94": {
-    "summary": "Financial strain from supporting family abroad.",
-    "category": "financial_employment",
-    "confidence": 0.8
+    "summary": "Health anxiety from stress and cultural differences.",
+    "category": "Health Problems",
+    "confidence": 0.65
   },
   "95": {
-    "summary": "Caregiver burden for elderly parent causes emotional exhaustion.",
-    "category": "caregiver_burden",
-    "confidence": 0.7
+    "summary": "Identity crisis after major relocation and career change.",
+    "category": "Life Transitions (e.g., Retirement, Relocation)",
+    "confidence": 0.75
   },
   "96": {
-    "summary": "Workplace discrimination leads to psychological distress.",
-    "category": "violence_abuse",
-    "confidence": 0.7
+    "summary": "Grief over lost opportunities in home country.",
+    "category": "Grief and Loss",
+    "confidence": 0.6
   },
   "97": {
-    "summary": "Legal issues over property inheritance in Lagos.",
-    "category": "legal_housing",
-    "confidence": 0.8
+    "summary": "Homesickness after losing contact with loved ones.",
+    "category": "Death of a Loved One",
+    "confidence": 0.55
   },
   "98": {
-    "summary": "Academic pressure to validate career credentials.",
-    "category": "academic_stress",
-    "confidence": 0.7
+    "summary": "Spiritual crisis amid conflicting cultural beliefs.",
+    "category": "Spirituality and Faith",
+    "confidence": 0.6
   },
   "99": {
-    "summary": "Mental health crisis worsens amid isolation.",
-    "category": "mental_health_crisis",
-    "confidence": 0.9
+    "summary": "Health anxiety from stress and cultural differences.",
+    "category": "Health Problems",
+    "confidence": 0.65
   },
   "100": {
-    "summary": "Immigration barriers prevent family reunification.",
-    "category": "immigration",
-    "confidence": 0.8
+    "summary": "Identity crisis after major relocation and career change.",
+    "category": "Life Transitions (e.g., Retirement, Relocation)",
+    "confidence": 0.7
   }
 }

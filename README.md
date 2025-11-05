@@ -14,7 +14,7 @@ Most “empathetic” datasets are short, simple, and same-y. We want **realisti
 - **Persona engine:** one Seeker persona per city with rich context (birth, formative years, values, traits, current life).  
 - **Crisis focus:** stabilization first (grounding, validation, micro-choices). Suggestions only with consent.  
 - **Training signal:** each Supporter turn has **3 variants** controlled by a `care_level` knob (cool → warm).  
-- **Auto-judges → pairs:** tiny “judges” score empathy, presence, stabilization, and safety → **A/B pairs (~4k)**.  
+- **Auto-judges → pairs:** tiny “judges” score empathy, presence, stabilization, and safety → preference pairs for reward modelling.  
 - **RM → RL:** train a Reward Model on those pairs, then use it for RL to improve the Supporter.
 
 ---
@@ -44,11 +44,18 @@ Most “empathetic” datasets are short, simple, and same-y. We want **realisti
   - **Presence** (support vs referral ratio)  
   - **Stabilization** (calmer now vs prior turn)  
   - **Safety** (no self-harm instructions, no medical/legal directives, no fake hotlines)  
-- **Pairs:** each turn → 3 head-to-heads → ~**4,140** pairs across 69 convos × 20 turns
+- **Pairs:** each turn → 3 head-to-heads → scales with conversation count (30 conversations already produce thousands of preference pairs)
+
+## 🧨 Crisis category catalog
+Age assignments now obey life-stage and persona-context boundaries. Each persona’s crisis profile (ages 20–100) is filled with summaries drawn from the following 45 categories:
+
+`Anger Management Issues`, `Anxiety Disorders`, `Bipolar Disorder`, `Death of a Loved One`, `Emotional Fluctuations`, `Grief and Loss`, `Identity Crises`, `Obsessive-Compulsive Disorder (OCD)`, `Ongoing Depression`, `Post-Traumatic Stress Disorder (PTSD)`, `Schizophrenia`, `Self-Esteem Issues`, `Spirituality and Faith`, `Sexual Orientation`, `Sexual Assault or Domestic Violence Recovery`, `Academic Pressure`, `Burnout`, `Chronic Stress`, `Financial Problems`, `Health Problems`, `Job Crisis`, `Life Transitions (e.g., Retirement, Relocation)`, `Workplace Stress`, `Breakups or Divorce`, `Conflicts or Communication Problems`, `Issues with Children`, `Issues with Parents`, `Marital Problems`, `Problems with Friends`, `School Bullying`, `Culture Shock`, `Appearance Anxiety`, `Career Development Issues`, `Goal Setting Issues`, `Motivation Problems`, `Personal Growth Challenges`, `Procrastination`, `Sleep Problems`, `Addictive Behaviors (e.g., Drug Use, Gambling)`, `Alcohol Abuse`, `Compulsive Behaviors`, `Eating Disorders`, `Internet Addiction`, `Self-Harm Behaviors`, `Debt Problems`.
+
+Every category has an allowed age span (e.g., school bullying stays in the 20s, retirement transitions appear later in life), so crisis summaries remain coherent for each persona.
 
 ### ✅ Current progress
-- **Balanced crisis plan:** every persona has an age→category grid (11 crisis categories rotated evenly from ages 20–100). Crisis summaries are pre-generated and stored in `Artifacts/crisis_profiles/`.
-- **Conversations in flight:** first **12 / 69** personas have full chats (see `Artifacts/conversations/`). Generation script is resumable so you can batch the rest (e.g. `--offset 12 --limit 10 --skip-existing`).
+- **Life-stage crisis plan:** all personas share a 45-category grid with constrained age spans. Crisis summaries live in `Artifacts/crisis_profiles/` with ages sorted 20→100.
+- **Conversations in flight:** first **30 / 69** personas have full chats (see `Artifacts/conversations/`). Generation script is resumable (`--offset` / `--limit` / `--skip-existing`) for future batches.
 - **Supporter styles:** baseline, empathetic (positive signal), and cold (negative signal) responses captured per turn—ready for reward-model A/B training.
 
 > Tip: if you hit rate limits, run the generator in persona batches with `--offset` / `--limit` and lower sleep intervals to fully utilize the free tier.

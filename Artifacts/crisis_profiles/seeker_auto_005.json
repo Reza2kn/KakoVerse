@@ -1,407 +1,407 @@
 {
   "20": {
-    "summary": "Isolated during Japanese occupation, struggling with displacement.",
-    "category": "loneliness_isolation",
+    "summary": "Adjusting to adult life in new country.",
+    "category": "Internet Addiction",
     "confidence": 0.85
   },
   "21": {
-    "summary": "Chronic pain from wartime injuries affecting daily life.",
-    "category": "chronic_health_pain",
+    "summary": "Identity formation amidst displacement.",
+    "category": "Self-Harm Behaviors",
     "confidence": 0.8
   },
   "22": {
-    "summary": "Financial instability due to disrupted family livelihoods.",
-    "category": "financial_employment",
+    "summary": "Identity exploration post-refugee status.",
+    "category": "Sexual Orientation",
     "confidence": 0.75
   },
   "23": {
-    "summary": "Caregiver burden amid family displacement and loss.",
-    "category": "caregiver_burden",
-    "confidence": 0.8
-  },
-  "24": {
-    "summary": "Violence exposure during Korean War displacement.",
-    "category": "violence_abuse",
-    "confidence": 0.9
-  },
-  "25": {
-    "summary": "Legal battles over property seized during political upheaval.",
-    "category": "legal_housing",
+    "summary": "Identity consolidation after trauma.",
+    "category": "Academic Pressure",
     "confidence": 0.7
   },
+  "24": {
+    "summary": "Identity integration following displacement.",
+    "category": "School Bullying",
+    "confidence": 0.65
+  },
+  "25": {
+    "summary": "Identity redefinition after loss.",
+    "category": "Identity Crises",
+    "confidence": 0.9
+  },
   "26": {
-    "summary": "Academic pressure to adapt to new education systems.",
-    "category": "academic_stress",
-    "confidence": 0.6
+    "summary": "Identity reassessment in new society.",
+    "category": "Internet Addiction",
+    "confidence": 0.8
   },
   "27": {
-    "summary": "Mental health crisis from unresolved trauma and loss.",
-    "category": "mental_health_crisis",
+    "summary": "Identity challenges in aging process.",
+    "category": "Self-Harm Behaviors",
     "confidence": 0.85
   },
   "28": {
-    "summary": "Immigration struggles as refugee to UK amid Cold War tensions.",
-    "category": "immigration",
-    "confidence": 0.9
+    "summary": "Identity maintenance amid declining health.",
+    "category": "School Bullying",
+    "confidence": 0.7
   },
   "29": {
-    "summary": "Grief over losing siblings during wartime displacement.",
-    "category": "grief_bereavement",
+    "summary": "Identity preservation through cultural practices.",
+    "category": "Anger Management Issues",
     "confidence": 0.9
   },
   "30": {
-    "summary": "Relationship breakdown due to forced migration and cultural shock.",
-    "category": "relationship_breakup",
-    "confidence": 0.7
-  },
-  "31": {
-    "summary": "Loneliness in Manchester’s refugee community.",
-    "category": "loneliness_isolation",
+    "summary": "Identity adaptation to new cultural environment.",
+    "category": "Anxiety Disorders",
     "confidence": 0.8
   },
+  "31": {
+    "summary": "Identity continuity through artistic expression.",
+    "category": "Sexual Orientation",
+    "confidence": 0.85
+  },
   "32": {
-    "summary": "Chronic back pain from manual labor in postwar UK.",
-    "category": "chronic_health_pain",
+    "summary": "Identity reinforcement via community engagement.",
+    "category": "Eating Disorders",
     "confidence": 0.75
   },
   "33": {
-    "summary": "Financial strain as a refugee worker with limited opportunities.",
-    "category": "financial_employment",
-    "confidence": 0.8
+    "summary": "Identity preservation through oral traditions.",
+    "category": "Academic Pressure",
+    "confidence": 0.9
   },
   "34": {
-    "summary": "Caregiver burden for aging parents in cramped refugee housing.",
-    "category": "caregiver_burden",
-    "confidence": 0.7
+    "summary": "Identity integration of refugee experiences.",
+    "category": "Post-Traumatic Stress Disorder (PTSD)",
+    "confidence": 0.8
   },
   "35": {
-    "summary": "Domestic violence in unstable housing conditions.",
-    "category": "violence_abuse",
-    "confidence": 0.6
+    "summary": "Identity maintenance through horticulture.",
+    "category": "Sleep Problems",
+    "confidence": 0.7
   },
   "36": {
-    "summary": "Legal housing disputes over inadequate refugee accommodations.",
-    "category": "legal_housing",
-    "confidence": 0.7
-  },
-  "37": {
-    "summary": "Academic pressure to integrate into UK education system.",
-    "category": "academic_stress",
+    "summary": "Identity exploration through mechanical projects.",
+    "category": "Personal Growth Challenges",
     "confidence": 0.6
   },
+  "37": {
+    "summary": "Identity reassessment after loss.",
+    "category": "Conflicts or Communication Problems",
+    "confidence": 0.9
+  },
   "38": {
-    "summary": "Mental health crisis from prolonged refugee status uncertainty.",
-    "category": "mental_health_crisis",
-    "confidence": 0.8
+    "summary": "Identity consolidation through painting.",
+    "category": "Chronic Stress",
+    "confidence": 0.85
   },
   "39": {
-    "summary": "Immigration barriers to permanent residency in UK.",
-    "category": "immigration",
-    "confidence": 0.75
+    "summary": "Identity preservation via weaving.",
+    "category": "Culture Shock",
+    "confidence": 0.8
   },
   "40": {
-    "summary": "Grief over losing extended family in Korean diaspora.",
-    "category": "grief_bereavement",
-    "confidence": 0.8
+    "summary": "Identity challenges in retirement.",
+    "category": "Obsessive-Compulsive Disorder (OCD)",
+    "confidence": 0.75
   },
   "41": {
-    "summary": "Relationship breakdown due to cultural assimilation conflicts.",
-    "category": "relationship_breakup",
-    "confidence": 0.7
-  },
-  "42": {
-    "summary": "Loneliness in Milan’s elderly immigrant community.",
-    "category": "loneliness_isolation",
+    "summary": "Identity maintenance through community.",
+    "category": "Financial Problems",
     "confidence": 0.8
   },
+  "42": {
+    "summary": "Identity reassessment amid health decline.",
+    "category": "Bipolar Disorder",
+    "confidence": 0.7
+  },
   "43": {
-    "summary": "Chronic health pain from aging and wartime injuries.",
-    "category": "chronic_health_pain",
+    "summary": "Identity preservation through cultural rituals.",
+    "category": "Debt Problems",
     "confidence": 0.85
   },
   "44": {
-    "summary": "Financial precarity as a retired immigrant with limited pensions.",
-    "category": "financial_employment",
-    "confidence": 0.8
+    "summary": "Identity integration of displacement history.",
+    "category": "Breakups or Divorce",
+    "confidence": 0.7
   },
   "45": {
-    "summary": "Caregiver burden for ailing spouse in new country.",
-    "category": "caregiver_burden",
-    "confidence": 0.7
-  },
-  "46": {
-    "summary": "Domestic violence in strained retirement housing.",
-    "category": "violence_abuse",
+    "summary": "Identity reinforcement through family connections.",
+    "category": "Appearance Anxiety",
     "confidence": 0.6
   },
-  "47": {
-    "summary": "Legal battles over housing in Mexico City.",
-    "category": "legal_housing",
-    "confidence": 0.7
-  },
-  "48": {
-    "summary": "Academic pressure to learn Spanish in old age.",
-    "category": "academic_stress",
+  "46": {
+    "summary": "Identity challenges in caregiving role.",
+    "category": "Issues with Children",
     "confidence": 0.5
   },
+  "47": {
+    "summary": "Identity reassessment after marital changes.",
+    "category": "Marital Problems",
+    "confidence": 0.4
+  },
+  "48": {
+    "summary": "Identity maintenance through hobbies.",
+    "category": "Alcohol Abuse",
+    "confidence": 0.7
+  },
   "49": {
-    "summary": "Mental health crisis from pandemic isolation.",
-    "category": "mental_health_crisis",
+    "summary": "Identity preservation via artistic expression.",
+    "category": "Schizophrenia",
     "confidence": 0.8
   },
   "50": {
-    "summary": "Immigration status anxiety in Mexico.",
-    "category": "immigration",
-    "confidence": 0.7
-  },
-  "51": {
-    "summary": "Grief over losing niece and family photos.",
-    "category": "grief_bereavement",
-    "confidence": 0.9
-  },
-  "52": {
-    "summary": "Relationship strain with distant family.",
-    "category": "relationship_breakup",
-    "confidence": 0.6
-  },
-  "53": {
-    "summary": "Loneliness in Mexico City’s elderly community.",
-    "category": "loneliness_isolation",
-    "confidence": 0.85
-  },
-  "54": {
-    "summary": "Chronic pain from aging and past injuries.",
-    "category": "chronic_health_pain",
-    "confidence": 0.8
-  },
-  "55": {
-    "summary": "Financial instability despite retirement.",
-    "category": "financial_employment",
+    "summary": "Identity consolidation through community.",
+    "category": "Compulsive Behaviors",
     "confidence": 0.75
   },
+  "51": {
+    "summary": "Identity reassessment after financial changes.",
+    "category": "Addictive Behaviors (e.g., Drug Use, Gambling)",
+    "confidence": 0.6
+  },
+  "52": {
+    "summary": "Identity integration of new friendships.",
+    "category": "Problems with Friends",
+    "confidence": 0.7
+  },
+  "53": {
+    "summary": "Identity maintenance through reflection.",
+    "category": "Emotional Fluctuations",
+    "confidence": 0.8
+  },
+  "54": {
+    "summary": "Identity preservation via family bonds.",
+    "category": "Issues with Parents",
+    "confidence": 0.7
+  },
+  "55": {
+    "summary": "Identity reinforcement through cultural heritage.",
+    "category": "Self-Esteem Issues",
+    "confidence": 0.85
+  },
   "56": {
-    "summary": "Caregiver burden for self due to mobility issues.",
-    "category": "caregiver_burden",
+    "summary": "Identity challenges in life transitions.",
+    "category": "Goal Setting Issues",
     "confidence": 0.7
   },
   "57": {
-    "summary": "Violence exposure in overcrowded housing.",
-    "category": "violence_abuse",
+    "summary": "Identity reassessment after displacement.",
+    "category": "Procrastination",
     "confidence": 0.6
   },
   "58": {
-    "summary": "Legal housing disputes in Mexico.",
-    "category": "legal_housing",
-    "confidence": 0.65
+    "summary": "Identity consolidation through painting.",
+    "category": "Career Development Issues",
+    "confidence": 0.8
   },
   "59": {
-    "summary": "Academic pressure to adapt to digital literacy.",
-    "category": "academic_stress",
-    "confidence": 0.5
+    "summary": "Identity preservation via community weaving.",
+    "category": "Sexual Assault or Domestic Violence Recovery",
+    "confidence": 0.75
   },
   "60": {
-    "summary": "Mental health crisis from prolonged grief.",
-    "category": "mental_health_crisis",
-    "confidence": 0.9
+    "summary": "Identity maintenance through horticulture.",
+    "category": "Ongoing Depression",
+    "confidence": 0.8
   },
   "61": {
-    "summary": "Immigration status uncertainty in Mexico.",
-    "category": "immigration",
-    "confidence": 0.7
-  },
-  "62": {
-    "summary": "Grief over losing niece and family photos.",
-    "category": "grief_bereavement",
+    "summary": "Identity reassessment after loss.",
+    "category": "Appearance Anxiety",
     "confidence": 0.9
   },
+  "62": {
+    "summary": "Identity integration of refugee experiences.",
+    "category": "Motivation Problems",
+    "confidence": 0.8
+  },
   "63": {
-    "summary": "Relationship strain with distant family.",
-    "category": "relationship_breakup",
-    "confidence": 0.6
+    "summary": "Identity reinforcement through oral history.",
+    "category": "Self-Esteem Issues",
+    "confidence": 0.7
   },
   "64": {
-    "summary": "Loneliness in Mexico City’s elderly community.",
-    "category": "loneliness_isolation",
-    "confidence": 0.85
+    "summary": "Identity challenges in aging process.",
+    "category": "Workplace Stress",
+    "confidence": 0.75
   },
   "65": {
-    "summary": "Chronic pain from aging and past injuries.",
-    "category": "chronic_health_pain",
+    "summary": "Identity reassessment after displacement.",
+    "category": "Job Crisis",
     "confidence": 0.8
   },
   "66": {
-    "summary": "Financial instability despite retirement.",
-    "category": "financial_employment",
-    "confidence": 0.75
+    "summary": "Identity consolidation through community.",
+    "category": "Marital Problems",
+    "confidence": 0.7
   },
   "67": {
-    "summary": "Caregiver burden for self due to mobility issues.",
-    "category": "caregiver_burden",
-    "confidence": 0.7
+    "summary": "Identity maintenance via artistic expression.",
+    "category": "Problems with Friends",
+    "confidence": 0.8
   },
   "68": {
-    "summary": "Violence exposure in overcrowded housing.",
-    "category": "violence_abuse",
-    "confidence": 0.6
+    "summary": "Identity preservation through cultural practices.",
+    "category": "Emotional Fluctuations",
+    "confidence": 0.75
   },
   "69": {
-    "summary": "Legal housing disputes in Mexico.",
-    "category": "legal_housing",
-    "confidence": 0.65
+    "summary": "Identity reinforcement after loss.",
+    "category": "Issues with Parents",
+    "confidence": 0.9
   },
   "70": {
-    "summary": "Academic pressure to adapt to digital literacy.",
-    "category": "academic_stress",
-    "confidence": 0.5
+    "summary": "Identity challenges in retirement.",
+    "category": "Burnout",
+    "confidence": 0.8
   },
   "71": {
-    "summary": "Mental health crisis from prolonged grief.",
-    "category": "mental_health_crisis",
-    "confidence": 0.9
-  },
-  "72": {
-    "summary": "Immigration status uncertainty in Mexico.",
-    "category": "immigration",
+    "summary": "Identity reassessment after displacement.",
+    "category": "Issues with Children",
     "confidence": 0.7
   },
+  "72": {
+    "summary": "Identity integration of refugee experiences.",
+    "category": "Alcohol Abuse",
+    "confidence": 0.8
+  },
   "73": {
-    "summary": "Grief over losing niece and family photos.",
-    "category": "grief_bereavement",
-    "confidence": 0.9
+    "summary": "Identity maintenance through community.",
+    "category": "Schizophrenia",
+    "confidence": 0.75
   },
   "74": {
-    "summary": "Relationship strain with distant family.",
-    "category": "relationship_breakup",
-    "confidence": 0.6
+    "summary": "Identity preservation via cultural rituals.",
+    "category": "Compulsive Behaviors",
+    "confidence": 0.8
   },
   "75": {
-    "summary": "Loneliness in Mexico City’s elderly community.",
-    "category": "loneliness_isolation",
-    "confidence": 0.85
+    "summary": "Identity reinforcement through artistic expression.",
+    "category": "Addictive Behaviors (e.g., Drug Use, Gambling)",
+    "confidence": 0.7
   },
   "76": {
-    "summary": "Chronic pain from aging and past injuries.",
-    "category": "chronic_health_pain",
+    "summary": "Identity challenges in aging process.",
+    "category": "Debt Problems",
     "confidence": 0.8
   },
   "77": {
-    "summary": "Financial instability despite retirement.",
-    "category": "financial_employment",
-    "confidence": 0.75
+    "summary": "Identity reassessment after loss.",
+    "category": "Bipolar Disorder",
+    "confidence": 0.9
   },
   "78": {
-    "summary": "Caregiver burden for self due to mobility issues.",
-    "category": "caregiver_burden",
-    "confidence": 0.7
-  },
-  "79": {
-    "summary": "Violence exposure in overcrowded housing.",
-    "category": "violence_abuse",
-    "confidence": 0.6
-  },
-  "80": {
-    "summary": "Legal housing disputes in Mexico.",
-    "category": "legal_housing",
-    "confidence": 0.65
-  },
-  "81": {
-    "summary": "Academic pressure to adapt to digital literacy.",
-    "category": "academic_stress",
-    "confidence": 0.5
-  },
-  "82": {
-    "summary": "Mental health crisis from prolonged grief.",
-    "category": "mental_health_crisis",
-    "confidence": 0.9
-  },
-  "83": {
-    "summary": "Immigration status uncertainty in Mexico.",
-    "category": "immigration",
-    "confidence": 0.7
-  },
-  "84": {
-    "summary": "Grief over losing niece and family photos.",
-    "category": "grief_bereavement",
-    "confidence": 0.9
-  },
-  "85": {
-    "summary": "Relationship strain with distant family.",
-    "category": "relationship_breakup",
-    "confidence": 0.6
-  },
-  "86": {
-    "summary": "Loneliness in Mexico City’s elderly community.",
-    "category": "loneliness_isolation",
-    "confidence": 0.85
-  },
-  "87": {
-    "summary": "Chronic pain from aging and past injuries.",
-    "category": "chronic_health_pain",
+    "summary": "Identity consolidation through community.",
+    "category": "Obsessive-Compulsive Disorder (OCD)",
     "confidence": 0.8
   },
-  "88": {
-    "summary": "Financial instability despite retirement.",
-    "category": "financial_employment",
+  "79": {
+    "summary": "Identity maintenance via oral history.",
+    "category": "Financial Problems",
     "confidence": 0.75
   },
-  "89": {
-    "summary": "Caregiver burden for self due to mobility issues.",
-    "category": "caregiver_burden",
+  "80": {
+    "summary": "Identity preservation through painting.",
+    "category": "Breakups or Divorce",
+    "confidence": 0.8
+  },
+  "81": {
+    "summary": "Identity reinforcement after displacement.",
+    "category": "Sleep Problems",
     "confidence": 0.7
   },
-  "90": {
-    "summary": "Violence exposure in overcrowded housing.",
-    "category": "violence_abuse",
-    "confidence": 0.6
+  "82": {
+    "summary": "Identity challenges in retirement.",
+    "category": "Personal Growth Challenges",
+    "confidence": 0.8
   },
-  "91": {
-    "summary": "Legal housing disputes in Mexico.",
-    "category": "legal_housing",
-    "confidence": 0.65
-  },
-  "92": {
-    "summary": "Academic pressure to adapt to digital literacy.",
-    "category": "academic_stress",
-    "confidence": 0.5
-  },
-  "93": {
-    "summary": "Mental health crisis from prolonged grief.",
-    "category": "mental_health_crisis",
+  "83": {
+    "summary": "Identity reassessment after loss.",
+    "category": "Anxiety Disorders",
     "confidence": 0.9
   },
-  "94": {
-    "summary": "Immigration status uncertainty in Mexico.",
-    "category": "immigration",
+  "84": {
+    "summary": "Identity integration of refugee experiences.",
+    "category": "Sexual Assault or Domestic Violence Recovery",
+    "confidence": 0.8
+  },
+  "85": {
+    "summary": "Identity maintenance through community.",
+    "category": "Culture Shock",
+    "confidence": 0.75
+  },
+  "86": {
+    "summary": "Identity preservation via cultural practices.",
+    "category": "Anger Management Issues",
+    "confidence": 0.8
+  },
+  "87": {
+    "summary": "Identity reinforcement after displacement.",
+    "category": "Ongoing Depression",
     "confidence": 0.7
   },
+  "88": {
+    "summary": "Identity challenges in aging process.",
+    "category": "Post-Traumatic Stress Disorder (PTSD)",
+    "confidence": 0.8
+  },
+  "89": {
+    "summary": "Identity reassessment after loss.",
+    "category": "Conflicts or Communication Problems",
+    "confidence": 0.9
+  },
+  "90": {
+    "summary": "Identity consolidation through community.",
+    "category": "Chronic Stress",
+    "confidence": 0.8
+  },
+  "91": {
+    "summary": "Identity maintenance via artistic expression.",
+    "category": "Death of a Loved One",
+    "confidence": 0.75
+  },
+  "92": {
+    "summary": "Identity preservation through oral history.",
+    "category": "Grief and Loss",
+    "confidence": 0.8
+  },
+  "93": {
+    "summary": "Identity reinforcement after displacement.",
+    "category": "Spirituality and Faith",
+    "confidence": 0.7
+  },
+  "94": {
+    "summary": "Identity challenges in retirement.",
+    "category": "Health Problems",
+    "confidence": 0.8
+  },
   "95": {
-    "summary": "Grief over losing niece and family photos.",
-    "category": "grief_bereavement",
+    "summary": "Identity reassessment after loss.",
+    "category": "Life Transitions (e.g., Retirement, Relocation)",
     "confidence": 0.9
   },
   "96": {
-    "summary": "Relationship strain with distant family.",
-    "category": "relationship_breakup",
-    "confidence": 0.6
+    "summary": "Identity integration of refugee experiences.",
+    "category": "Grief and Loss",
+    "confidence": 0.8
   },
   "97": {
-    "summary": "Loneliness in Mexico City’s elderly community.",
-    "category": "loneliness_isolation",
-    "confidence": 0.85
+    "summary": "Identity maintenance through community.",
+    "category": "Death of a Loved One",
+    "confidence": 0.75
   },
   "98": {
-    "summary": "Chronic pain from aging and past injuries.",
-    "category": "chronic_health_pain",
+    "summary": "Identity preservation via cultural rituals.",
+    "category": "Spirituality and Faith",
     "confidence": 0.8
   },
   "99": {
-    "summary": "Financial instability despite retirement.",
-    "category": "financial_employment",
-    "confidence": 0.75
+    "summary": "Identity reinforcement after displacement.",
+    "category": "Health Problems",
+    "confidence": 0.7
   },
   "100": {
-    "summary": "Caregiver burden for self due to mobility issues.",
-    "category": "caregiver_burden",
-    "confidence": 0.7
+    "summary": "Identity challenges in aging process.",
+    "category": "Life Transitions (e.g., Retirement, Relocation)",
+    "confidence": 0.8
   }
 }

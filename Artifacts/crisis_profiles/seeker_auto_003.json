@@ -1,407 +1,407 @@
 {
   "20": {
-    "summary": "Grief over loss of Finnish support system and familiar environment.",
-    "category": "grief_bereavement",
-    "confidence": 0.7
-  },
-  "21": {
-    "summary": "Heartbreak from breakup with partner amid cultural transition.",
-    "category": "relationship_breakup",
-    "confidence": 0.6
-  },
-  "22": {
-    "summary": "Intensified loneliness isolating in Havana with minimal social ties.",
-    "category": "loneliness_isolation",
-    "confidence": 0.8
-  },
-  "23": {
-    "summary": "Chronic fatigue from unexplained physical stress impacting daily life.",
-    "category": "chronic_health_pain",
-    "confidence": 0.5
-  },
-  "24": {
-    "summary": "Financial instability threatening housing and basic needs in Cuba.",
-    "category": "financial_employment",
+    "summary": "Bullying at university due to foreign accent and cultural differences.",
+    "category": "School Bullying",
     "confidence": 0.9
   },
+  "21": {
+    "summary": "Motivation problems from ongoing depression and social anxiety.",
+    "category": "Motivation Problems",
+    "confidence": 1.0
+  },
+  "22": {
+    "summary": "Procrastination on studies due to rumination and anxiety.",
+    "category": "Procrastination",
+    "confidence": 0.9
+  },
+  "23": {
+    "summary": "Unclear goals from cultural displacement and family rejection.",
+    "category": "Goal Setting Issues",
+    "confidence": 0.9
+  },
+  "24": {
+    "summary": "Career stagnation as cultural guide in unfamiliar market.",
+    "category": "Career Development Issues",
+    "confidence": 0.8
+  },
   "25": {
-    "summary": "Caregiver strain from supporting family back in Finland remotely.",
-    "category": "caregiver_burden",
-    "confidence": 0.4
+    "summary": "Restrictive eating from depression and low appetite.",
+    "category": "Eating Disorders",
+    "confidence": 0.7
   },
   "26": {
-    "summary": "Subtle discrimination in workplace triggering trauma from past relocations.",
-    "category": "violence_abuse",
-    "confidence": 0.6
+    "summary": "Identity crisis from conflicting cultural roots and family rejection.",
+    "category": "Identity Crises",
+    "confidence": 1.0
   },
   "27": {
-    "summary": "Housing insecurity due to unstable immigration status in Havana.",
-    "category": "legal_housing",
+    "summary": "Self-harm behaviors from unresolved depression and rumination.",
+    "category": "Self-Harm Behaviors",
     "confidence": 0.8
   },
   "28": {
-    "summary": "Academic pressure conflicting with part-time work commitments.",
-    "category": "academic_stress",
-    "confidence": 0.3
+    "summary": "Bullying in graduate school due to foreign background.",
+    "category": "School Bullying",
+    "confidence": 0.7
   },
   "29": {
-    "summary": "Mental health crisis escalating from unresolved adjustment disorder.",
-    "category": "mental_health_crisis",
+    "summary": "Friendship conflicts from social anxiety and cultural differences.",
+    "category": "Problems with Friends",
     "confidence": 0.9
   },
   "30": {
-    "summary": "Immigration barriers hindering career growth and family reunification.",
-    "category": "immigration",
-    "confidence": 0.9
+    "summary": "Emotional instability from ongoing depression and adjustment issues.",
+    "category": "Emotional Fluctuations",
+    "confidence": 1.0
   },
   "31": {
-    "summary": "Grief over loss of childhood home in Finland resurfacing.",
-    "category": "grief_bereavement",
-    "confidence": 0.7
-  },
-  "32": {
-    "summary": "Conflict with new partner mirroring past relationship struggles.",
-    "category": "relationship_breakup",
-    "confidence": 0.6
-  },
-  "33": {
-    "summary": "Isolation deepening as expat community shrinks in Havana.",
-    "category": "loneliness_isolation",
-    "confidence": 0.8
-  },
-  "34": {
-    "summary": "Persistent headaches from chronic stress impacting work capacity.",
-    "category": "chronic_health_pain",
-    "confidence": 0.6
-  },
-  "35": {
-    "summary": "Job insecurity threatening financial independence in foreign country.",
-    "category": "financial_employment",
-    "confidence": 0.8
-  },
-  "36": {
-    "summary": "Caregiver guilt over distant family health issues.",
-    "category": "caregiver_burden",
+    "summary": "Questioning sexual orientation due to isolation.",
+    "category": "Sexual Orientation",
     "confidence": 0.5
   },
-  "37": {
-    "summary": "Experiencing subtle harassment at cultural tours.",
-    "category": "violence_abuse",
-    "confidence": 0.6
+  "32": {
+    "summary": "Internet addiction as escape from cultural isolation.",
+    "category": "Internet Addiction",
+    "confidence": 0.8
   },
-  "38": {
-    "summary": "Legal status uncertainty affecting housing stability.",
-    "category": "legal_housing",
+  "33": {
+    "summary": "Academic pressure from university studies in new environment.",
+    "category": "Academic Pressure",
     "confidence": 0.7
   },
+  "34": {
+    "summary": "Alcohol abuse escalates to cope with depression.",
+    "category": "Alcohol Abuse",
+    "confidence": 0.9
+  },
+  "35": {
+    "summary": "Ongoing conflict with parents due to relocation.",
+    "category": "Issues with Parents",
+    "confidence": 1.0
+  },
+  "36": {
+    "summary": "Low self-esteem from bullying and cultural displacement.",
+    "category": "Self-Esteem Issues",
+    "confidence": 0.9
+  },
+  "37": {
+    "summary": "Motivation problems from depression and social anxiety.",
+    "category": "Motivation Problems",
+    "confidence": 0.9
+  },
+  "38": {
+    "summary": "Appearance anxiety from cultural differences and aging.",
+    "category": "Appearance Anxiety",
+    "confidence": 0.6
+  },
   "39": {
-    "summary": "Burnout from balancing freelance game design and tour guide work.",
-    "category": "academic_stress",
-    "confidence": 0.4
+    "summary": "Burnout from part-time job and financial stress.",
+    "category": "Burnout",
+    "confidence": 0.8
   },
   "40": {
-    "summary": "Mental health crisis triggered by cumulative migration stress.",
-    "category": "mental_health_crisis",
+    "summary": "Procrastination on career tasks due to rumination.",
+    "category": "Procrastination",
     "confidence": 0.8
   },
   "41": {
-    "summary": "Immigration bureaucracy delaying permanent residency.",
-    "category": "immigration",
-    "confidence": 0.8
+    "summary": "Workplace stress as cultural tour guide in Havana.",
+    "category": "Workplace Stress",
+    "confidence": 0.9
   },
   "42": {
-    "summary": "Grief over childhood home demolished in Finland.",
-    "category": "grief_bereavement",
-    "confidence": 0.6
+    "summary": "Job insecurity from economic instability.",
+    "category": "Job Crisis",
+    "confidence": 0.9
   },
   "43": {
-    "summary": "Breakup with partner due to cultural differences in Havana.",
-    "category": "relationship_breakup",
-    "confidence": 0.7
+    "summary": "Unclear career goals due to cultural barriers.",
+    "category": "Goal Setting Issues",
+    "confidence": 0.8
   },
   "44": {
-    "summary": "Isolation from limited integration into local Cuban social circles.",
-    "category": "loneliness_isolation",
-    "confidence": 0.7
+    "summary": "Career development hindered by financial uncertainty.",
+    "category": "Career Development Issues",
+    "confidence": 0.8
   },
   "45": {
-    "summary": "Back pain from long hours designing indie games.",
-    "category": "chronic_health_pain",
+    "summary": "Academic pressure from continuing education.",
+    "category": "Academic Pressure",
     "confidence": 0.5
   },
   "46": {
-    "summary": "Financial strain from unexpected medical costs in Cuba.",
-    "category": "financial_employment",
-    "confidence": 0.7
+    "summary": "Self-harm behaviors resurface from trauma.",
+    "category": "Self-Harm Behaviors",
+    "confidence": 0.8
   },
   "47": {
-    "summary": "Caregiver burden from supporting aging relatives in Finland.",
-    "category": "caregiver_burden",
-    "confidence": 0.5
+    "summary": "Internet addiction as coping for loneliness.",
+    "category": "Internet Addiction",
+    "confidence": 0.8
   },
   "48": {
-    "summary": "Experiencing workplace discrimination as immigrant woman.",
-    "category": "violence_abuse",
-    "confidence": 0.7
+    "summary": "Exploring sexual orientation in isolation.",
+    "category": "Sexual Orientation",
+    "confidence": 0.5
   },
   "49": {
-    "summary": "Housing eviction threat due to documentation issues.",
-    "category": "legal_housing",
+    "summary": "Eating disorder from depression and low appetite.",
+    "category": "Eating Disorders",
     "confidence": 0.7
   },
   "50": {
-    "summary": "Burnout from unpaid indie game development deadlines.",
-    "category": "academic_stress",
-    "confidence": 0.4
+    "summary": "Mid-life identity crisis from cultural displacement.",
+    "category": "Identity Crises",
+    "confidence": 0.9
   },
   "51": {
-    "summary": "Mental health crisis from unresolved trauma of family rejection.",
-    "category": "mental_health_crisis",
-    "confidence": 0.8
+    "summary": "Anger issues from unresolved family rejection.",
+    "category": "Anger Management Issues",
+    "confidence": 0.7
   },
   "52": {
-    "summary": "Immigration status renewal complications disrupting life plans.",
-    "category": "immigration",
-    "confidence": 0.8
+    "summary": "PTSD from relocation trauma.",
+    "category": "Post-Traumatic Stress Disorder (PTSD)",
+    "confidence": 1.0
   },
   "53": {
-    "summary": "Grief over loss of childhood friends in Finland.",
-    "category": "grief_bereavement",
-    "confidence": 0.6
+    "summary": "Ongoing depression from adjustment disorder.",
+    "category": "Ongoing Depression",
+    "confidence": 1.0
   },
   "54": {
-    "summary": "Relationship breakup due to distance and cultural barriers.",
-    "category": "relationship_breakup",
-    "confidence": 0.6
+    "summary": "Recovering from domestic violence.",
+    "category": "Sexual Assault or Domestic Violence Recovery",
+    "confidence": 0.3
   },
   "55": {
-    "summary": "Isolation from limited local friendships in Havana.",
-    "category": "loneliness_isolation",
-    "confidence": 0.7
+    "summary": "Anxiety disorders from social anxiety and isolation.",
+    "category": "Anxiety Disorders",
+    "confidence": 1.0
   },
   "56": {
-    "summary": "Chronic neck pain from prolonged coding sessions.",
-    "category": "chronic_health_pain",
-    "confidence": 0.5
+    "summary": "Caregiver stress from aging parents.",
+    "category": "Issues with Children",
+    "confidence": 0.6
   },
   "57": {
-    "summary": "Financial instability from irregular tour guide income.",
-    "category": "financial_employment",
-    "confidence": 0.7
+    "summary": "Schizophrenia symptoms from chronic stress.",
+    "category": "Schizophrenia",
+    "confidence": 0.2
   },
   "58": {
-    "summary": "Caregiver guilt over distant family health struggles.",
-    "category": "caregiver_burden",
-    "confidence": 0.5
+    "summary": "Compulsive behaviors from rumination and anxiety.",
+    "category": "Compulsive Behaviors",
+    "confidence": 0.7
   },
   "59": {
-    "summary": "Experiencing subtle harassment in cultural work environment.",
-    "category": "violence_abuse",
-    "confidence": 0.6
-  },
-  "60": {
-    "summary": "Housing insecurity from expired rental agreement.",
-    "category": "legal_housing",
-    "confidence": 0.6
-  },
-  "61": {
-    "summary": "Burnout from unpaid creative projects.",
-    "category": "academic_stress",
-    "confidence": 0.4
-  },
-  "62": {
-    "summary": "Mental health crisis from cumulative migration stressors.",
-    "category": "mental_health_crisis",
-    "confidence": 0.8
-  },
-  "63": {
-    "summary": "Immigration status uncertainty affecting career opportunities.",
-    "category": "immigration",
-    "confidence": 0.7
-  },
-  "64": {
-    "summary": "Grief over loss of Finnish childhood home.",
-    "category": "grief_bereavement",
-    "confidence": 0.6
-  },
-  "65": {
-    "summary": "Breakup with partner due to cultural differences.",
-    "category": "relationship_breakup",
-    "confidence": 0.6
-  },
-  "66": {
-    "summary": "Isolation from limited local social integration.",
-    "category": "loneliness_isolation",
-    "confidence": 0.7
-  },
-  "67": {
-    "summary": "Chronic fatigue from unexplained physical stress.",
-    "category": "chronic_health_pain",
+    "summary": "Marital problems from cultural differences.",
+    "category": "Marital Problems",
     "confidence": 0.5
   },
+  "60": {
+    "summary": "Addictive behaviors from alcohol abuse and loneliness.",
+    "category": "Addictive Behaviors (e.g., Drug Use, Gambling)",
+    "confidence": 0.8
+  },
+  "61": {
+    "summary": "Appearance anxiety from aging and cultural expectations.",
+    "category": "Appearance Anxiety",
+    "confidence": 0.6
+  },
+  "62": {
+    "summary": "Low self-esteem from aging and career stagnation.",
+    "category": "Self-Esteem Issues",
+    "confidence": 0.7
+  },
+  "63": {
+    "summary": "Workplace stress from part-time job in retirement.",
+    "category": "Workplace Stress",
+    "confidence": 0.4
+  },
+  "64": {
+    "summary": "Job crisis from retirement and financial insecurity.",
+    "category": "Job Crisis",
+    "confidence": 0.5
+  },
+  "65": {
+    "summary": "Divorce due to marital problems.",
+    "category": "Breakups or Divorce",
+    "confidence": 0.5
+  },
+  "66": {
+    "summary": "Caregiver stress from aging parents.",
+    "category": "Issues with Parents",
+    "confidence": 0.6
+  },
+  "67": {
+    "summary": "Emotional instability from aging and health issues.",
+    "category": "Emotional Fluctuations",
+    "confidence": 0.7
+  },
   "68": {
-    "summary": "Financial strain from economic instability in Cuba.",
-    "category": "financial_employment",
+    "summary": "Friendship issues from social isolation.",
+    "category": "Problems with Friends",
     "confidence": 0.7
   },
   "69": {
-    "summary": "Caregiver burden from supporting family remotely.",
-    "category": "caregiver_burden",
-    "confidence": 0.5
+    "summary": "Burnout from caregiving and financial stress.",
+    "category": "Burnout",
+    "confidence": 0.6
   },
   "70": {
-    "summary": "Experiencing workplace discrimination as immigrant.",
-    "category": "violence_abuse",
-    "confidence": 0.7
+    "summary": "OCD from obsessive gardening and fashion design.",
+    "category": "Obsessive-Compulsive Disorder (OCD)",
+    "confidence": 0.5
   },
   "71": {
-    "summary": "Housing eviction threat from documentation gaps.",
-    "category": "legal_housing",
-    "confidence": 0.7
+    "summary": "Alcohol abuse continues from depression.",
+    "category": "Alcohol Abuse",
+    "confidence": 0.8
   },
   "72": {
-    "summary": "Burnout from unpaid creative work.",
-    "category": "academic_stress",
-    "confidence": 0.4
+    "summary": "Compulsive behaviors from aging and stress.",
+    "category": "Compulsive Behaviors",
+    "confidence": 0.6
   },
   "73": {
-    "summary": "Mental health crisis from unresolved adjustment disorder.",
-    "category": "mental_health_crisis",
+    "summary": "Addictive behaviors from alcohol abuse.",
+    "category": "Addictive Behaviors (e.g., Drug Use, Gambling)",
     "confidence": 0.8
   },
   "74": {
-    "summary": "Immigration bureaucracy delaying family reunification.",
-    "category": "immigration",
-    "confidence": 0.8
+    "summary": "Schizophrenia symptoms from chronic stress.",
+    "category": "Schizophrenia",
+    "confidence": 0.3
   },
   "75": {
-    "summary": "Grief over loss of Finnish childhood home.",
-    "category": "grief_bereavement",
-    "confidence": 0.6
+    "summary": "Financial problems from retirement and economic instability.",
+    "category": "Financial Problems",
+    "confidence": 0.9
   },
   "76": {
-    "summary": "Relationship breakup due to cultural barriers.",
-    "category": "relationship_breakup",
-    "confidence": 0.6
-  },
-  "77": {
-    "summary": "Isolation from limited local social connections.",
-    "category": "loneliness_isolation",
-    "confidence": 0.7
-  },
-  "78": {
-    "summary": "Chronic pain from prolonged coding sessions.",
-    "category": "chronic_health_pain",
+    "summary": "Divorce due to marital problems.",
+    "category": "Breakups or Divorce",
     "confidence": 0.5
   },
+  "77": {
+    "summary": "Marital problems from cultural differences.",
+    "category": "Marital Problems",
+    "confidence": 0.5
+  },
+  "78": {
+    "summary": "Culture shock from aging in foreign country.",
+    "category": "Culture Shock",
+    "confidence": 0.6
+  },
   "79": {
-    "summary": "Financial instability from irregular income.",
-    "category": "financial_employment",
+    "summary": "Debt problems from economic instability.",
+    "category": "Debt Problems",
     "confidence": 0.7
   },
   "80": {
-    "summary": "Caregiver guilt over distant family health issues.",
-    "category": "caregiver_burden",
-    "confidence": 0.5
+    "summary": "Bipolar disorder from chronic stress.",
+    "category": "Bipolar Disorder",
+    "confidence": 0.2
   },
   "81": {
-    "summary": "Experiencing subtle harassment in workplace.",
-    "category": "violence_abuse",
-    "confidence": 0.6
+    "summary": "Issues with children over cultural values.",
+    "category": "Issues with Children",
+    "confidence": 0.5
   },
   "82": {
-    "summary": "Housing insecurity from expired rental agreement.",
-    "category": "legal_housing",
-    "confidence": 0.6
+    "summary": "Recovering from domestic violence.",
+    "category": "Sexual Assault or Domestic Violence Recovery",
+    "confidence": 0.3
   },
   "83": {
-    "summary": "Burnout from unpaid creative projects.",
-    "category": "academic_stress",
-    "confidence": 0.4
+    "summary": "Anger issues from aging and stress.",
+    "category": "Anger Management Issues",
+    "confidence": 0.6
   },
   "84": {
-    "summary": "Mental health crisis from cumulative migration stress.",
-    "category": "mental_health_crisis",
+    "summary": "Sleep problems from depression and aging.",
+    "category": "Sleep Problems",
     "confidence": 0.8
   },
   "85": {
-    "summary": "Immigration status uncertainty affecting life plans.",
-    "category": "immigration",
+    "summary": "Chronic stress from aging and financial issues.",
+    "category": "Chronic Stress",
     "confidence": 0.7
   },
   "86": {
-    "summary": "Grief over loss of Finnish childhood home.",
-    "category": "grief_bereavement",
-    "confidence": 0.6
+    "summary": "Communication problems from conflict avoidance.",
+    "category": "Conflicts or Communication Problems",
+    "confidence": 0.8
   },
   "87": {
-    "summary": "Breakup with partner due to cultural differences.",
-    "category": "relationship_breakup",
-    "confidence": 0.6
+    "summary": "Personal growth challenges from aging.",
+    "category": "Personal Growth Challenges",
+    "confidence": 0.7
   },
   "88": {
-    "summary": "Isolation from limited local social integration.",
-    "category": "loneliness_isolation",
-    "confidence": 0.7
+    "summary": "PTSD from past relocation trauma.",
+    "category": "Post-Traumatic Stress Disorder (PTSD)",
+    "confidence": 0.9
   },
   "89": {
-    "summary": "Chronic fatigue from unexplained physical stress.",
-    "category": "chronic_health_pain",
-    "confidence": 0.5
+    "summary": "Anxiety disorders from aging and isolation.",
+    "category": "Anxiety Disorders",
+    "confidence": 0.8
   },
   "90": {
-    "summary": "Financial strain from economic instability.",
-    "category": "financial_employment",
-    "confidence": 0.7
+    "summary": "Ongoing depression from aging and stress.",
+    "category": "Ongoing Depression",
+    "confidence": 0.8
   },
   "91": {
-    "summary": "Caregiver burden from supporting family remotely.",
-    "category": "caregiver_burden",
+    "summary": "Grief from death of a loved one.",
+    "category": "Death of a Loved One",
     "confidence": 0.5
   },
   "92": {
-    "summary": "Experiencing workplace discrimination.",
-    "category": "violence_abuse",
-    "confidence": 0.7
+    "summary": "Grief and loss from aging.",
+    "category": "Grief and Loss",
+    "confidence": 0.5
   },
   "93": {
-    "summary": "Housing eviction threat from documentation issues.",
-    "category": "legal_housing",
-    "confidence": 0.7
-  },
-  "94": {
-    "summary": "Burnout from unpaid creative work.",
-    "category": "academic_stress",
-    "confidence": 0.4
-  },
-  "95": {
-    "summary": "Mental health crisis from unresolved adjustment disorder.",
-    "category": "mental_health_crisis",
-    "confidence": 0.8
-  },
-  "96": {
-    "summary": "Immigration bureaucracy delaying family reunification.",
-    "category": "immigration",
-    "confidence": 0.8
-  },
-  "97": {
-    "summary": "Grief over loss of Finnish childhood home.",
-    "category": "grief_bereavement",
+    "summary": "Spirituality from aging and reflection.",
+    "category": "Spirituality and Faith",
     "confidence": 0.6
   },
+  "94": {
+    "summary": "Health problems from aging.",
+    "category": "Health Problems",
+    "confidence": 0.7
+  },
+  "95": {
+    "summary": "Life transition from retirement.",
+    "category": "Life Transitions (e.g., Retirement, Relocation)",
+    "confidence": 0.6
+  },
+  "96": {
+    "summary": "Grief from death of a loved one.",
+    "category": "Death of a Loved One",
+    "confidence": 0.5
+  },
+  "97": {
+    "summary": "Grief and loss from aging.",
+    "category": "Grief and Loss",
+    "confidence": 0.5
+  },
   "98": {
-    "summary": "Relationship breakup due to cultural barriers.",
-    "category": "relationship_breakup",
+    "summary": "Spirituality from aging and reflection.",
+    "category": "Spirituality and Faith",
     "confidence": 0.6
   },
   "99": {
-    "summary": "Isolation from limited local social connections.",
-    "category": "loneliness_isolation",
+    "summary": "Health problems from aging.",
+    "category": "Health Problems",
     "confidence": 0.7
   },
   "100": {
-    "summary": "Chronic pain from prolonged coding sessions.",
-    "category": "chronic_health_pain",
-    "confidence": 0.5
+    "summary": "Life transition from aging.",
+    "category": "Life Transitions (e.g., Retirement, Relocation)",
+    "confidence": 0.6
   }
 }

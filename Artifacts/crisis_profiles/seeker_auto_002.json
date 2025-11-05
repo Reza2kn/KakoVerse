@@ -1,407 +1,407 @@
 {
   "20": {
-    "summary": "Navigating refugee status and asylum in Bangladesh amid family separation.",
-    "category": "immigration",
-    "confidence": 0.9
+    "summary": "Struggling with self-worth due to refugee status and family separation.",
+    "category": "Self-Esteem Issues",
+    "confidence": 0.8
   },
   "21": {
-    "summary": "Grieving loss of family members separated during refugee journey.",
-    "category": "grief_bereavement",
-    "confidence": 0.9
-  },
-  "22": {
-    "summary": "Recovering from a recent romantic breakup.",
-    "category": "relationship_breakup",
+    "summary": "Anxiety about appearance from trauma and social isolation.",
+    "category": "Appearance Anxiety",
     "confidence": 0.7
   },
+  "22": {
+    "summary": "Goal setting issues amid refugee uncertainty and family separation.",
+    "category": "Goal Setting Issues",
+    "confidence": 0.8
+  },
   "23": {
-    "summary": "Feeling isolated in Dhaka with limited social connections.",
-    "category": "loneliness_isolation",
-    "confidence": 0.9
+    "summary": "Procrastination due to overwhelming refugee trauma.",
+    "category": "Procrastination",
+    "confidence": 0.7
   },
   "24": {
-    "summary": "Managing chronic fatigue and dissociation from past trauma.",
-    "category": "chronic_health_pain",
+    "summary": "Career stagnation from refugee status and lack of opportunities.",
+    "category": "Career Development Issues",
     "confidence": 0.8
   },
   "25": {
-    "summary": "Worried about unstable income as a digital platform nanny.",
-    "category": "financial_employment",
-    "confidence": 1.0
+    "summary": "Eating disorders from chronic stress and refugee trauma.",
+    "category": "Eating Disorders",
+    "confidence": 0.8
   },
   "26": {
-    "summary": "Overwhelmed by caregiving demands and emotional toll.",
-    "category": "caregiver_burden",
-    "confidence": 1.0
+    "summary": "Questioning sexual orientation amid refugee trauma and isolation.",
+    "category": "Sexual Orientation",
+    "confidence": 0.7
   },
   "27": {
-    "summary": "Re-experiencing trauma from past abuse during stressful moments.",
-    "category": "violence_abuse",
-    "confidence": 0.9
+    "summary": "Self-harm behaviors from unresolved refugee trauma.",
+    "category": "Self-Harm Behaviors",
+    "confidence": 0.8
   },
   "28": {
-    "summary": "Fearing eviction and seeking stable housing.",
-    "category": "legal_housing",
-    "confidence": 0.8
+    "summary": "Past school bullying resurfaces under stress.",
+    "category": "School Bullying",
+    "confidence": 0.4
   },
   "29": {
-    "summary": "Stressed about vocational training for better employment.",
-    "category": "academic_stress",
-    "confidence": 0.6
-  },
-  "30": {
-    "summary": "Severe anxiety and dissociation impacting daily functioning.",
-    "category": "mental_health_crisis",
-    "confidence": 1.0
-  },
-  "31": {
-    "summary": "Navigating renewed immigration challenges and residency renewal.",
-    "category": "immigration",
-    "confidence": 0.7
-  },
-  "32": {
-    "summary": "Continuing to grieve loss of family members.",
-    "category": "grief_bereavement",
+    "summary": "Workplace stress from digital nanny job and refugee status.",
+    "category": "Workplace Stress",
     "confidence": 0.8
   },
-  "33": {
-    "summary": "Dealing with lingering effects of a past relationship breakup.",
-    "category": "relationship_breakup",
+  "30": {
+    "summary": "Goal setting issues due to refugee uncertainty and trauma.",
+    "category": "Goal Setting Issues",
+    "confidence": 0.8
+  },
+  "31": {
+    "summary": "Identity crises from refugee experience and cultural displacement.",
+    "category": "Identity Crises",
+    "confidence": 0.8
+  },
+  "32": {
+    "summary": "Internet addiction to escape refugee trauma and isolation.",
+    "category": "Internet Addiction",
     "confidence": 0.7
   },
+  "33": {
+    "summary": "Academic pressure from adult education and refugee status.",
+    "category": "Academic Pressure",
+    "confidence": 0.5
+  },
   "34": {
-    "summary": "Feeling increasingly isolated despite online connections.",
-    "category": "loneliness_isolation",
+    "summary": "Procrastination due to chronic refugee stress and trauma.",
+    "category": "Procrastination",
     "confidence": 0.8
   },
   "35": {
-    "summary": "Managing chronic pain and fatigue from past trauma.",
-    "category": "chronic_health_pain",
+    "summary": "Career development blocked by refugee status and trauma.",
+    "category": "Career Development Issues",
     "confidence": 0.8
   },
   "36": {
-    "summary": "Struggling with low wages and financial instability.",
-    "category": "financial_employment",
-    "confidence": 0.9
+    "summary": "Eating disorders from ongoing refugee trauma and stress.",
+    "category": "Eating Disorders",
+    "confidence": 0.8
   },
   "37": {
-    "summary": "Experiencing burnout from long hours as a caregiver.",
-    "category": "caregiver_burden",
-    "confidence": 0.8
+    "summary": "Sexual orientation exploration amid refugee trauma.",
+    "category": "Sexual Orientation",
+    "confidence": 0.7
   },
   "38": {
-    "summary": "Triggered by daily stressors, re-experiencing past abuse.",
-    "category": "violence_abuse",
-    "confidence": 0.8
+    "summary": "Internet addiction to cope with refugee isolation.",
+    "category": "Internet Addiction",
+    "confidence": 0.7
   },
   "39": {
-    "summary": "Fearing eviction and seeking legal assistance.",
-    "category": "legal_housing",
-    "confidence": 0.7
+    "summary": "Self-harm behaviors from unresolved refugee trauma.",
+    "category": "Self-Harm Behaviors",
+    "confidence": 0.8
   },
   "40": {
-    "summary": "Studying for certification to improve career prospects.",
-    "category": "academic_stress",
-    "confidence": 0.5
+    "summary": "Identity crises from long-term refugee experience.",
+    "category": "Identity Crises",
+    "confidence": 0.8
   },
   "41": {
-    "summary": "Severe dissociation and anxiety impacting daily life.",
-    "category": "mental_health_crisis",
-    "confidence": 1.0
+    "summary": "Academic pressure from adult education and refugee status.",
+    "category": "Academic Pressure",
+    "confidence": 0.5
   },
   "42": {
-    "summary": "Dealing with bureaucratic hurdles for residency renewal.",
-    "category": "immigration",
-    "confidence": 0.7
+    "summary": "Recovering from sexual assault trauma as a refugee.",
+    "category": "Sexual Assault or Domestic Violence Recovery",
+    "confidence": 0.6
   },
   "43": {
-    "summary": "Grieving loss of a close friend.",
-    "category": "grief_bereavement",
+    "summary": "Personal growth challenges amid refugee trauma and isolation.",
+    "category": "Personal Growth Challenges",
     "confidence": 0.8
   },
   "44": {
-    "summary": "Navigating single life after a recent breakup.",
-    "category": "relationship_breakup",
-    "confidence": 0.7
+    "summary": "Chronic stress from refugee status and family separation.",
+    "category": "Chronic Stress",
+    "confidence": 0.9
   },
   "45": {
-    "summary": "Feeling lonely despite efforts to connect with others.",
-    "category": "loneliness_isolation",
+    "summary": "Debt problems from precarious employment and refugee status.",
+    "category": "Debt Problems",
     "confidence": 0.8
   },
   "46": {
-    "summary": "Managing chronic health issues that flare up under stress.",
-    "category": "chronic_health_pain",
-    "confidence": 0.8
+    "summary": "Anger management issues from refugee trauma and injustice.",
+    "category": "Anger Management Issues",
+    "confidence": 0.7
   },
   "47": {
-    "summary": "Concerned about job loss and financial insecurity.",
-    "category": "financial_employment",
+    "summary": "Anxiety disorders from refugee trauma and hypervigilance.",
+    "category": "Anxiety Disorders",
     "confidence": 0.9
   },
   "48": {
-    "summary": "Burnout from caregiving responsibilities and low pay.",
-    "category": "caregiver_burden",
-    "confidence": 0.8
+    "summary": "Ongoing depression from unresolved refugee trauma.",
+    "category": "Ongoing Depression",
+    "confidence": 0.9
   },
   "49": {
-    "summary": "Re-experiencing past abuse during stressful moments.",
-    "category": "violence_abuse",
+    "summary": "Communication problems with family due to separation.",
+    "category": "Conflicts or Communication Problems",
     "confidence": 0.8
   },
   "50": {
-    "summary": "Fighting for stable housing as a senior citizen.",
-    "category": "legal_housing",
-    "confidence": 0.7
+    "summary": "Sleep problems from nightmares and refugee trauma.",
+    "category": "Sleep Problems",
+    "confidence": 0.9
   },
   "51": {
-    "summary": "Studying for a degree to change career paths.",
-    "category": "academic_stress",
-    "confidence": 0.4
+    "summary": "PTSD from refugee trauma and family separation.",
+    "category": "Post-Traumatic Stress Disorder (PTSD)",
+    "confidence": 0.9
   },
   "52": {
-    "summary": "Severe mental health crisis with dissociation and nightmares.",
-    "category": "mental_health_crisis",
-    "confidence": 1.0
+    "summary": "Culture shock from living in Dhaka as a refugee.",
+    "category": "Culture Shock",
+    "confidence": 0.8
   },
   "53": {
-    "summary": "Fearing deportation and navigating complex immigration laws.",
-    "category": "immigration",
-    "confidence": 0.7
+    "summary": "Bipolar disorder from refugee trauma and stress.",
+    "category": "Bipolar Disorder",
+    "confidence": 0.6
   },
   "54": {
-    "summary": "Grieving loss of a long-time friend.",
-    "category": "grief_bereavement",
+    "summary": "Financial problems from precarious employment and refugee status.",
+    "category": "Financial Problems",
     "confidence": 0.8
   },
   "55": {
-    "summary": "Dealing with the aftermath of a breakup in midlife.",
-    "category": "relationship_breakup",
-    "confidence": 0.7
+    "summary": "OCD from refugee trauma and hypervigilance.",
+    "category": "Obsessive-Compulsive Disorder (OCD)",
+    "confidence": 0.6
   },
   "56": {
-    "summary": "Feeling isolated in later life despite social efforts.",
-    "category": "loneliness_isolation",
-    "confidence": 0.8
+    "summary": "Appearance anxiety from refugee trauma and social isolation.",
+    "category": "Appearance Anxiety",
+    "confidence": 0.7
   },
   "57": {
-    "summary": "Managing chronic pain that limits daily activities.",
-    "category": "chronic_health_pain",
+    "summary": "Self-esteem issues from refugee status and family separation.",
+    "category": "Self-Esteem Issues",
     "confidence": 0.8
   },
   "58": {
-    "summary": "Concerned about retirement savings and job insecurity.",
-    "category": "financial_employment",
-    "confidence": 0.9
-  },
-  "59": {
-    "summary": "Overwhelmed by caregiving for an elderly relative.",
-    "category": "caregiver_burden",
-    "confidence": 0.7
-  },
-  "60": {
-    "summary": "Re-experiencing past abuse during moments of vulnerability.",
-    "category": "violence_abuse",
+    "summary": "Motivation problems from chronic refugee trauma.",
+    "category": "Motivation Problems",
     "confidence": 0.8
   },
-  "61": {
-    "summary": "Seeking legal help to secure stable housing.",
-    "category": "legal_housing",
+  "59": {
+    "summary": "Burnout from digital nanny job and refugee stress.",
+    "category": "Burnout",
+    "confidence": 0.8
+  },
+  "60": {
+    "summary": "Job crisis from refugee status and age discrimination.",
+    "category": "Job Crisis",
     "confidence": 0.7
   },
+  "61": {
+    "summary": "Motivation problems from chronic refugee trauma.",
+    "category": "Motivation Problems",
+    "confidence": 0.8
+  },
   "62": {
-    "summary": "Studying to learn new technology skills.",
-    "category": "academic_stress",
-    "confidence": 0.4
+    "summary": "Job crisis from refugee status and age discrimination.",
+    "category": "Job Crisis",
+    "confidence": 0.7
   },
   "63": {
-    "summary": "Severe anxiety and depression affecting quality of life.",
-    "category": "mental_health_crisis",
-    "confidence": 1.0
+    "summary": "Workplace stress from digital nanny job and refugee status.",
+    "category": "Workplace Stress",
+    "confidence": 0.8
   },
   "64": {
-    "summary": "Dealing with immigration status as a senior refugee.",
-    "category": "immigration",
+    "summary": "Problems with friends due to refugee status and isolation.",
+    "category": "Problems with Friends",
     "confidence": 0.7
   },
   "65": {
-    "summary": "Grieving the loss of a spouse or close family member.",
-    "category": "grief_bereavement",
+    "summary": "Emotional fluctuations from refugee trauma and aging.",
+    "category": "Emotional Fluctuations",
     "confidence": 0.8
   },
   "66": {
-    "summary": "Adjusting to life after a long-term relationship ends.",
-    "category": "relationship_breakup",
-    "confidence": 0.7
+    "summary": "Emotional fluctuations from refugee trauma and aging.",
+    "category": "Emotional Fluctuations",
+    "confidence": 0.8
   },
   "67": {
-    "summary": "Feeling isolated in old age with limited social support.",
-    "category": "loneliness_isolation",
+    "summary": "Issues with parents due to family separation.",
+    "category": "Issues with Parents",
     "confidence": 0.8
   },
   "68": {
-    "summary": "Managing chronic pain that impacts mobility.",
-    "category": "chronic_health_pain",
+    "summary": "Burnout from long-term refugee status and employment.",
+    "category": "Burnout",
     "confidence": 0.8
   },
   "69": {
-    "summary": "Concerned about financial stability in retirement.",
-    "category": "financial_employment",
-    "confidence": 0.9
+    "summary": "Alcohol abuse to cope with refugee trauma.",
+    "category": "Alcohol Abuse",
+    "confidence": 0.6
   },
   "70": {
-    "summary": "Experiencing burnout from caregiving for a disabled family member.",
-    "category": "caregiver_burden",
-    "confidence": 0.7
+    "summary": "Issues with parents due to long-term family separation.",
+    "category": "Issues with Parents",
+    "confidence": 0.8
   },
   "71": {
-    "summary": "Re-experiencing past abuse during stressful events.",
-    "category": "violence_abuse",
-    "confidence": 0.8
+    "summary": "Issues with children due to refugee trauma and family separation.",
+    "category": "Issues with Children",
+    "confidence": 0.5
   },
   "72": {
-    "summary": "Seeking legal help to secure stable housing.",
-    "category": "legal_housing",
-    "confidence": 0.7
+    "summary": "Addictive behaviors from refugee trauma and isolation.",
+    "category": "Addictive Behaviors (e.g., Drug Use, Gambling)",
+    "confidence": 0.6
   },
   "73": {
-    "summary": "Studying to complete a degree later in life.",
-    "category": "academic_stress",
-    "confidence": 0.4
+    "summary": "Schizophrenia from refugee trauma and stress.",
+    "category": "Schizophrenia",
+    "confidence": 0.5
   },
   "74": {
-    "summary": "Severe mental health crisis with persistent dissociation.",
-    "category": "mental_health_crisis",
-    "confidence": 1.0
+    "summary": "Marital problems from refugee trauma and family separation.",
+    "category": "Marital Problems",
+    "confidence": 0.5
   },
   "75": {
-    "summary": "Navigating immigration challenges in later life.",
-    "category": "immigration",
-    "confidence": 0.7
+    "summary": "Compulsive behaviors from refugee trauma and hypervigilance.",
+    "category": "Compulsive Behaviors",
+    "confidence": 0.6
   },
   "76": {
-    "summary": "Grieving the loss of a close friend.",
-    "category": "grief_bereavement",
-    "confidence": 0.8
+    "summary": "Bipolar disorder from refugee trauma and stress.",
+    "category": "Bipolar Disorder",
+    "confidence": 0.6
   },
   "77": {
-    "summary": "Dealing with the end of a long-term relationship.",
-    "category": "relationship_breakup",
-    "confidence": 0.7
-  },
-  "78": {
-    "summary": "Feeling isolated in later years.",
-    "category": "loneliness_isolation",
+    "summary": "Debt problems from precarious employment and refugee status.",
+    "category": "Debt Problems",
     "confidence": 0.8
   },
+  "78": {
+    "summary": "OCD from refugee trauma and hypervigilance.",
+    "category": "Obsessive-Compulsive Disorder (OCD)",
+    "confidence": 0.6
+  },
   "79": {
-    "summary": "Managing chronic pain that limits daily activities.",
-    "category": "chronic_health_pain",
+    "summary": "Financial problems from refugee status and aging.",
+    "category": "Financial Problems",
     "confidence": 0.8
   },
   "80": {
-    "summary": "Struggling with financial insecurity in retirement.",
-    "category": "financial_employment",
-    "confidence": 0.9
+    "summary": "Breakup from partner due to refugee trauma and stress.",
+    "category": "Breakups or Divorce",
+    "confidence": 0.5
   },
   "81": {
-    "summary": "Overwhelmed by caregiving for an aging parent.",
-    "category": "caregiver_burden",
-    "confidence": 0.7
+    "summary": "Sleep problems from refugee trauma and aging.",
+    "category": "Sleep Problems",
+    "confidence": 0.9
   },
   "82": {
-    "summary": "Re-experiencing past abuse during moments of vulnerability.",
-    "category": "violence_abuse",
-    "confidence": 0.8
+    "summary": "Ongoing depression from refugee trauma and aging.",
+    "category": "Ongoing Depression",
+    "confidence": 0.9
   },
   "83": {
-    "summary": "Fighting for stable housing as a senior.",
-    "category": "legal_housing",
+    "summary": "Anger management issues from refugee trauma and aging.",
+    "category": "Anger Management Issues",
     "confidence": 0.7
   },
   "84": {
-    "summary": "Studying to learn new technology.",
-    "category": "academic_stress",
-    "confidence": 0.4
+    "summary": "Anxiety disorders from refugee trauma and aging.",
+    "category": "Anxiety Disorders",
+    "confidence": 0.9
   },
   "85": {
-    "summary": "Severe mental health crisis with dissociation.",
-    "category": "mental_health_crisis",
-    "confidence": 1.0
+    "summary": "Culture shock from living in Dhaka as a refugee.",
+    "category": "Culture Shock",
+    "confidence": 0.8
   },
   "86": {
-    "summary": "Dealing with immigration status as an elderly refugee.",
-    "category": "immigration",
-    "confidence": 0.7
+    "summary": "Communication problems with family due to long-term separation.",
+    "category": "Conflicts or Communication Problems",
+    "confidence": 0.8
   },
   "87": {
-    "summary": "Grieving the loss of a family member.",
-    "category": "grief_bereavement",
+    "summary": "Personal growth challenges amid refugee trauma and aging.",
+    "category": "Personal Growth Challenges",
     "confidence": 0.8
   },
   "88": {
-    "summary": "Adjusting to life after a breakup.",
-    "category": "relationship_breakup",
-    "confidence": 0.7
+    "summary": "PTSD from refugee trauma and family separation.",
+    "category": "Post-Traumatic Stress Disorder (PTSD)",
+    "confidence": 0.9
   },
   "89": {
-    "summary": "Feeling isolated in old age.",
-    "category": "loneliness_isolation",
-    "confidence": 0.8
+    "summary": "Recovering from sexual assault trauma as a refugee.",
+    "category": "Sexual Assault or Domestic Violence Recovery",
+    "confidence": 0.6
   },
   "90": {
-    "summary": "Managing chronic pain that impacts quality of life.",
-    "category": "chronic_health_pain",
-    "confidence": 0.8
+    "summary": "Chronic stress from refugee status and aging.",
+    "category": "Chronic Stress",
+    "confidence": 0.9
   },
   "91": {
-    "summary": "Concerned about financial stability in old age.",
-    "category": "financial_employment",
+    "summary": "Grief and loss from family separation and refugee experience.",
+    "category": "Grief and Loss",
     "confidence": 0.9
   },
   "92": {
-    "summary": "Experiencing burnout from caregiving.",
-    "category": "caregiver_burden",
+    "summary": "Death of a loved one from refugee trauma and stress.",
+    "category": "Death of a Loved One",
     "confidence": 0.7
   },
   "93": {
-    "summary": "Re-experiencing past abuse.",
-    "category": "violence_abuse",
+    "summary": "Spirituality and faith struggles amid refugee trauma.",
+    "category": "Spirituality and Faith",
     "confidence": 0.8
   },
   "94": {
-    "summary": "Seeking legal help for housing.",
-    "category": "legal_housing",
-    "confidence": 0.7
+    "summary": "Health problems from chronic stress and refugee trauma.",
+    "category": "Health Problems",
+    "confidence": 0.8
   },
   "95": {
-    "summary": "Studying to learn new technology.",
-    "category": "academic_stress",
-    "confidence": 0.4
+    "summary": "Life transition challenges amid refugee status and aging.",
+    "category": "Life Transitions (e.g., Retirement, Relocation)",
+    "confidence": 0.8
   },
   "96": {
-    "summary": "Severe mental health crisis with dissociation.",
-    "category": "mental_health_crisis",
-    "confidence": 1.0
-  },
-  "97": {
-    "summary": "Navigating immigration challenges in old age.",
-    "category": "immigration",
+    "summary": "Death of a loved one from refugee trauma and aging.",
+    "category": "Death of a Loved One",
     "confidence": 0.7
   },
+  "97": {
+    "summary": "Grief and loss from family separation and refugee experience.",
+    "category": "Grief and Loss",
+    "confidence": 0.9
+  },
   "98": {
-    "summary": "Grieving the loss of a friend.",
-    "category": "grief_bereavement",
+    "summary": "Spirituality and faith struggles amid refugee trauma and aging.",
+    "category": "Spirituality and Faith",
     "confidence": 0.8
   },
   "99": {
-    "summary": "Dealing with the end of a relationship.",
-    "category": "relationship_breakup",
-    "confidence": 0.7
+    "summary": "Health problems from chronic stress and refugee trauma.",
+    "category": "Health Problems",
+    "confidence": 0.8
   },
   "100": {
-    "summary": "Feeling isolated in the final years of life.",
-    "category": "loneliness_isolation",
+    "summary": "Life transition challenges amid refugee status and aging.",
+    "category": "Life Transitions (e.g., Retirement, Relocation)",
     "confidence": 0.8
   }
 }

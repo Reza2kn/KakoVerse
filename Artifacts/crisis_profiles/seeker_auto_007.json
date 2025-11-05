@@ -1,407 +1,407 @@
 {
   "20": {
-    "summary": "First job instability amid oil crisis aftershocks.",
-    "category": "financial_employment",
-    "confidence": 0.85
+    "summary": "Faced bullying in university due to regional accent and economic background.",
+    "category": "School Bullying",
+    "confidence": 0.6
   },
   "21": {
-    "summary": "Family caregiving strain in multi-generational home.",
-    "category": "caregiver_burden",
-    "confidence": 0.75
+    "summary": "Questioned self-worth while adapting to university life in a competitive environment.",
+    "category": "Self-Esteem Issues",
+    "confidence": 0.8
   },
   "22": {
-    "summary": "Street violence exposure during youth unrest.",
-    "category": "violence_abuse",
+    "summary": "Struggled to set achievable goals amid economic uncertainty in Caracas.",
+    "category": "Goal Setting Issues",
     "confidence": 0.7
   },
   "23": {
-    "summary": "Housing insecurity in volatile urban environment.",
-    "category": "legal_housing",
-    "confidence": 0.65
+    "summary": "Procrastinated on career decisions due to fear of economic instability.",
+    "category": "Procrastination",
+    "confidence": 0.8
   },
   "24": {
-    "summary": "Academic pressure conflicting with family expectations.",
-    "category": "academic_stress",
-    "confidence": 0.6
+    "summary": "Faced obstacles in career development due to limited opportunities in Venezuela.",
+    "category": "Career Development Issues",
+    "confidence": 0.8
   },
   "25": {
-    "summary": "Mental health crisis from economic precarity.",
-    "category": "mental_health_crisis",
+    "summary": "Experienced identity crisis while balancing cultural heritage and personal aspirations.",
+    "category": "Identity Crises",
     "confidence": 0.9
   },
   "26": {
-    "summary": "Immigration challenges crossing borders.",
-    "category": "immigration",
-    "confidence": 0.8
+    "summary": "Developed internet addiction to escape economic hardships in Caracas.",
+    "category": "Internet Addiction",
+    "confidence": 0.6
   },
   "27": {
-    "summary": "Bereavement from regional political violence.",
-    "category": "grief_bereavement",
-    "confidence": 0.7
+    "summary": "Navigated questions about sexual orientation in a conservative environment.",
+    "category": "Sexual Orientation",
+    "confidence": 0.8
   },
   "28": {
-    "summary": "Relationship strain under family pressure.",
-    "category": "relationship_breakup",
-    "confidence": 0.7
+    "summary": "Dealt with lingering effects of past school bullying in professional settings.",
+    "category": "School Bullying",
+    "confidence": 0.5
   },
   "29": {
-    "summary": "Isolation amid mental health stigma.",
-    "category": "loneliness_isolation",
+    "summary": "Worried about physical appearance in a competitive job market.",
+    "category": "Appearance Anxiety",
     "confidence": 0.8
   },
   "30": {
-    "summary": "Chronic anxiety from financial precarity.",
-    "category": "chronic_health_pain",
-    "confidence": 0.85
+    "summary": "Struggled with self-esteem amid economic hardship and family expectations.",
+    "category": "Self-Esteem Issues",
+    "confidence": 0.9
   },
   "31": {
-    "summary": "Job insecurity in state-controlled economy.",
-    "category": "financial_employment",
+    "summary": "Considered self-harm due to overwhelming anxiety and family pressure.",
+    "category": "Self-Harm Behaviors",
     "confidence": 0.8
   },
   "32": {
-    "summary": "Caregiver burnout in tight-knit household.",
-    "category": "caregiver_burden",
-    "confidence": 0.75
+    "summary": "Developed eating disorder due to chronic stress and emotional suppression.",
+    "category": "Eating Disorders",
+    "confidence": 0.7
   },
   "33": {
-    "summary": "Abuse exposure in constrained community.",
-    "category": "violence_abuse",
+    "summary": "Felt academic pressure while pursuing additional qualifications in a competitive field.",
+    "category": "Academic Pressure",
     "confidence": 0.7
   },
   "34": {
-    "summary": "Housing disputes in cooperative system.",
-    "category": "legal_housing",
-    "confidence": 0.65
+    "summary": "Faced burnout from overcommitment to family and work responsibilities.",
+    "category": "Burnout",
+    "confidence": 0.9
   },
   "35": {
-    "summary": "Academic stress from limited opportunities.",
-    "category": "academic_stress",
-    "confidence": 0.6
-  },
-  "36": {
-    "summary": "Mental health crisis from prolonged stress.",
-    "category": "mental_health_crisis",
-    "confidence": 0.85
-  },
-  "37": {
-    "summary": "Immigration barriers in restrictive regime.",
-    "category": "immigration",
-    "confidence": 0.75
-  },
-  "38": {
-    "summary": "Grief from regional instability losses.",
-    "category": "grief_bereavement",
-    "confidence": 0.7
-  },
-  "39": {
-    "summary": "Relationship breakdown under economic strain.",
-    "category": "relationship_breakup",
-    "confidence": 0.7
-  },
-  "40": {
-    "summary": "Isolation from mental health stigma.",
-    "category": "loneliness_isolation",
+    "summary": "Struggled with motivation due to limited career advancement in Cuba.",
+    "category": "Motivation Problems",
     "confidence": 0.8
   },
+  "36": {
+    "summary": "Faced job loss or instability in the cooperative due to economic downturn.",
+    "category": "Job Crisis",
+    "confidence": 0.8
+  },
+  "37": {
+    "summary": "Procrastinated on career changes due to fear of instability.",
+    "category": "Procrastination",
+    "confidence": 0.8
+  },
+  "38": {
+    "summary": "Experienced workplace stress from long hours and low pay in the cooperative.",
+    "category": "Workplace Stress",
+    "confidence": 0.9
+  },
+  "39": {
+    "summary": "Set goals for family's financial stability but faced repeated setbacks.",
+    "category": "Goal Setting Issues",
+    "confidence": 0.8
+  },
+  "40": {
+    "summary": "Faced career stagnation and limited opportunities in Cuba.",
+    "category": "Career Development Issues",
+    "confidence": 0.9
+  },
   "41": {
-    "summary": "Chronic pain from malnutrition stress.",
-    "category": "chronic_health_pain",
-    "confidence": 0.7
+    "summary": "Experienced identity crisis amid changing family and career roles.",
+    "category": "Identity Crises",
+    "confidence": 0.8
   },
   "42": {
-    "summary": "Financial crisis in collapsing economy.",
-    "category": "financial_employment",
+    "summary": "Considered self-harm due to persistent anxiety and family stress.",
+    "category": "Self-Harm Behaviors",
     "confidence": 0.8
   },
   "43": {
-    "summary": "Caregiver exhaustion in aging household.",
-    "category": "caregiver_burden",
-    "confidence": 0.75
+    "summary": "Developed internet addiction to cope with chronic stress and isolation.",
+    "category": "Internet Addiction",
+    "confidence": 0.8
   },
   "44": {
-    "summary": "Violence exposure in high-crime area.",
-    "category": "violence_abuse",
+    "summary": "Reaffirmed sexual orientation amid changing societal attitudes.",
+    "category": "Sexual Orientation",
     "confidence": 0.7
   },
   "45": {
-    "summary": "Housing insecurity in state allocation.",
-    "category": "legal_housing",
-    "confidence": 0.65
+    "summary": "Felt academic pressure while supporting children's education.",
+    "category": "Academic Pressure",
+    "confidence": 0.7
   },
   "46": {
-    "summary": "Academic stress from limited access.",
-    "category": "academic_stress",
-    "confidence": 0.6
+    "summary": "Developed eating disorder due to stress from family health issues.",
+    "category": "Eating Disorders",
+    "confidence": 0.7
   },
   "47": {
-    "summary": "Mental health crisis from isolation.",
-    "category": "mental_health_crisis",
-    "confidence": 0.85
+    "summary": "Recovering from domestic violence in a strained marriage.",
+    "category": "Sexual Assault or Domestic Violence Recovery",
+    "confidence": 0.6
   },
   "48": {
-    "summary": "Immigration challenges in restrictive policies.",
-    "category": "immigration",
-    "confidence": 0.75
+    "summary": "Suffered from chronic insomnia due to anxiety and family worries.",
+    "category": "Sleep Problems",
+    "confidence": 0.8
   },
   "49": {
-    "summary": "Grief from regional political losses.",
-    "category": "grief_bereavement",
+    "summary": "Struggled with anger management due to prolonged stress and frustration.",
+    "category": "Anger Management Issues",
     "confidence": 0.7
   },
   "50": {
-    "summary": "Relationship breakdown under economic pressure.",
-    "category": "relationship_breakup",
-    "confidence": 0.7
+    "summary": "Faced challenges in personal growth amid family and career responsibilities.",
+    "category": "Personal Growth Challenges",
+    "confidence": 0.8
   },
   "51": {
-    "summary": "Isolation from mental health stigma.",
-    "category": "loneliness_isolation",
-    "confidence": 0.8
+    "summary": "Experienced chronic stress from financial precarity and family health.",
+    "category": "Chronic Stress",
+    "confidence": 0.9
   },
   "52": {
-    "summary": "Chronic pain from malnutrition.",
-    "category": "chronic_health_pain",
-    "confidence": 0.7
-  },
-  "53": {
-    "summary": "Financial instability in state economy.",
-    "category": "financial_employment",
+    "summary": "Faced communication problems with family over financial and health issues.",
+    "category": "Conflicts or Communication Problems",
     "confidence": 0.8
   },
+  "53": {
+    "summary": "Suffered from ongoing depression due to economic hardship and family stress.",
+    "category": "Ongoing Depression",
+    "confidence": 0.9
+  },
   "54": {
-    "summary": "Caregiver strain in aging household.",
-    "category": "caregiver_burden",
-    "confidence": 0.75
+    "summary": "Diagnosed with anxiety disorder from chronic stress and family pressure.",
+    "category": "Anxiety Disorders",
+    "confidence": 0.9
   },
   "55": {
-    "summary": "Violence exposure in constrained community.",
-    "category": "violence_abuse",
+    "summary": "Developed PTSD from witnessing political violence in Venezuela.",
+    "category": "Post-Traumatic Stress Disorder (PTSD)",
     "confidence": 0.7
   },
   "56": {
-    "summary": "Housing disputes in cooperative system.",
-    "category": "legal_housing",
-    "confidence": 0.65
-  },
-  "57": {
-    "summary": "Academic stress from limited access.",
-    "category": "academic_stress",
-    "confidence": 0.6
-  },
-  "58": {
-    "summary": "Mental health crisis from prolonged stress.",
-    "category": "mental_health_crisis",
-    "confidence": 0.85
-  },
-  "59": {
-    "summary": "Immigration barriers in restrictive regime.",
-    "category": "immigration",
-    "confidence": 0.75
-  },
-  "60": {
-    "summary": "Grief from regional instability losses.",
-    "category": "grief_bereavement",
+    "summary": "Engaged in gambling to escape financial and emotional stress.",
+    "category": "Addictive Behaviors (e.g., Drug Use, Gambling)",
     "confidence": 0.7
   },
+  "57": {
+    "summary": "Developed alcohol abuse to cope with chronic anxiety and isolation.",
+    "category": "Alcohol Abuse",
+    "confidence": 0.8
+  },
+  "58": {
+    "summary": "Experienced emotional fluctuations due to health and financial concerns.",
+    "category": "Emotional Fluctuations",
+    "confidence": 0.8
+  },
+  "59": {
+    "summary": "Faced friendship problems due to differing political views.",
+    "category": "Problems with Friends",
+    "confidence": 0.7
+  },
+  "60": {
+    "summary": "Had issues with aging parents' health and care responsibilities.",
+    "category": "Issues with Parents",
+    "confidence": 0.8
+  },
   "61": {
-    "summary": "Relationship breakdown under economic strain.",
-    "category": "relationship_breakup",
+    "summary": "Concerned about aging and appearance in a conservative society.",
+    "category": "Appearance Anxiety",
     "confidence": 0.7
   },
   "62": {
-    "summary": "Isolation from mental health stigma.",
-    "category": "loneliness_isolation",
+    "summary": "Felt lack of motivation in retirement and daily routines.",
+    "category": "Motivation Problems",
     "confidence": 0.8
   },
   "63": {
-    "summary": "Chronic pain from malnutrition stress.",
-    "category": "chronic_health_pain",
+    "summary": "Experienced workplace stress in a part-time job due to age discrimination.",
+    "category": "Workplace Stress",
     "confidence": 0.7
   },
   "64": {
-    "summary": "Financial crisis in collapsing economy.",
-    "category": "financial_employment",
+    "summary": "Faced job loss due to ageism and economic downturn.",
+    "category": "Job Crisis",
     "confidence": 0.8
   },
   "65": {
-    "summary": "Caregiver burnout in aging household.",
-    "category": "caregiver_burden",
-    "confidence": 0.75
-  },
-  "66": {
-    "summary": "Abuse exposure in constrained community.",
-    "category": "violence_abuse",
-    "confidence": 0.7
-  },
-  "67": {
-    "summary": "Housing insecurity in state allocation.",
-    "category": "legal_housing",
-    "confidence": 0.65
-  },
-  "68": {
-    "summary": "Academic stress from limited opportunities.",
-    "category": "academic_stress",
+    "summary": "Diagnosed with schizophrenia amid family stress and isolation.",
+    "category": "Schizophrenia",
     "confidence": 0.6
   },
+  "66": {
+    "summary": "Experienced emotional fluctuations due to health decline and loss.",
+    "category": "Emotional Fluctuations",
+    "confidence": 0.8
+  },
+  "67": {
+    "summary": "Had issues with parents' declining health and care decisions.",
+    "category": "Issues with Parents",
+    "confidence": 0.8
+  },
+  "68": {
+    "summary": "Faced friendship problems due to differing views on family care.",
+    "category": "Problems with Friends",
+    "confidence": 0.7
+  },
   "69": {
-    "summary": "Mental health crisis from isolation.",
-    "category": "mental_health_crisis",
-    "confidence": 0.85
+    "summary": "Faced burnout from caregiving for aging parents.",
+    "category": "Burnout",
+    "confidence": 0.8
   },
   "70": {
-    "summary": "Immigration challenges in restrictive policies.",
-    "category": "immigration",
-    "confidence": 0.75
+    "summary": "Developed compulsive behaviors to cope with loneliness and stress.",
+    "category": "Compulsive Behaviors",
+    "confidence": 0.7
   },
   "71": {
-    "summary": "Grief from regional political losses.",
-    "category": "grief_bereavement",
+    "summary": "Experienced compulsive behaviors due to isolation and anxiety.",
+    "category": "Compulsive Behaviors",
     "confidence": 0.7
   },
   "72": {
-    "summary": "Relationship breakdown under economic pressure.",
-    "category": "relationship_breakup",
-    "confidence": 0.7
+    "summary": "Diagnosed with schizophrenia and required family support.",
+    "category": "Schizophrenia",
+    "confidence": 0.6
   },
   "73": {
-    "summary": "Isolation from mental health stigma.",
-    "category": "loneliness_isolation",
-    "confidence": 0.8
-  },
-  "74": {
-    "summary": "Chronic pain from malnutrition.",
-    "category": "chronic_health_pain",
+    "summary": "Faced divorce due to long-term marital strain and health issues.",
+    "category": "Breakups or Divorce",
     "confidence": 0.7
   },
+  "74": {
+    "summary": "Had issues with children's decisions regarding their care.",
+    "category": "Issues with Children",
+    "confidence": 0.8
+  },
   "75": {
-    "summary": "Financial instability in state economy.",
-    "category": "financial_employment",
+    "summary": "Faced marital problems due to health decline and dependency.",
+    "category": "Marital Problems",
     "confidence": 0.8
   },
   "76": {
-    "summary": "Caregiver exhaustion in aging household.",
-    "category": "caregiver_burden",
-    "confidence": 0.75
+    "summary": "Continued marital problems amid health and financial stress.",
+    "category": "Marital Problems",
+    "confidence": 0.8
   },
   "77": {
-    "summary": "Violence exposure in high-crime area.",
-    "category": "violence_abuse",
-    "confidence": 0.7
-  },
-  "78": {
-    "summary": "Housing disputes in cooperative system.",
-    "category": "legal_housing",
-    "confidence": 0.65
-  },
-  "79": {
-    "summary": "Academic stress from limited access.",
-    "category": "academic_stress",
+    "summary": "Diagnosed with bipolar disorder and required medication.",
+    "category": "Bipolar Disorder",
     "confidence": 0.6
   },
+  "78": {
+    "summary": "Developed OCD as a coping mechanism for anxiety.",
+    "category": "Obsessive-Compulsive Disorder (OCD)",
+    "confidence": 0.7
+  },
+  "79": {
+    "summary": "Faced severe financial problems in retirement.",
+    "category": "Financial Problems",
+    "confidence": 0.8
+  },
   "80": {
-    "summary": "Mental health crisis from prolonged stress.",
-    "category": "mental_health_crisis",
-    "confidence": 0.85
+    "summary": "Struggled with debt from medical expenses and family support.",
+    "category": "Debt Problems",
+    "confidence": 0.8
   },
   "81": {
-    "summary": "Immigration barriers in restrictive regime.",
-    "category": "immigration",
-    "confidence": 0.75
+    "summary": "Experienced PTSD from past political violence and current isolation.",
+    "category": "Post-Traumatic Stress Disorder (PTSD)",
+    "confidence": 0.7
   },
   "82": {
-    "summary": "Grief from regional instability losses.",
-    "category": "grief_bereavement",
+    "summary": "Faced anger management issues due to health frustrations.",
+    "category": "Anger Management Issues",
     "confidence": 0.7
   },
   "83": {
-    "summary": "Relationship breakdown under economic strain.",
-    "category": "relationship_breakup",
-    "confidence": 0.7
+    "summary": "Recovering from long-term domestic violence in old age.",
+    "category": "Sexual Assault or Domestic Violence Recovery",
+    "confidence": 0.6
   },
   "84": {
-    "summary": "Isolation from mental health stigma.",
-    "category": "loneliness_isolation",
+    "summary": "Suffered from ongoing depression due to loss and isolation.",
+    "category": "Ongoing Depression",
     "confidence": 0.8
   },
   "85": {
-    "summary": "Chronic pain from malnutrition stress.",
-    "category": "chronic_health_pain",
+    "summary": "Faced culture shock after moving to a new country.",
+    "category": "Culture Shock",
     "confidence": 0.7
   },
   "86": {
-    "summary": "Financial crisis in collapsing economy.",
-    "category": "financial_employment",
+    "summary": "Faced communication problems with children over care decisions.",
+    "category": "Conflicts or Communication Problems",
     "confidence": 0.8
   },
   "87": {
-    "summary": "Caregiver burnout in aging household.",
-    "category": "caregiver_burden",
-    "confidence": 0.75
+    "summary": "Faced challenges in adapting to new life circumstances.",
+    "category": "Personal Growth Challenges",
+    "confidence": 0.8
   },
   "88": {
-    "summary": "Abuse exposure in constrained community.",
-    "category": "violence_abuse",
-    "confidence": 0.7
+    "summary": "Experienced chronic stress from health and family responsibilities.",
+    "category": "Chronic Stress",
+    "confidence": 0.9
   },
   "89": {
-    "summary": "Housing insecurity in state allocation.",
-    "category": "legal_housing",
-    "confidence": 0.65
+    "summary": "Diagnosed with anxiety disorder from chronic health issues.",
+    "category": "Anxiety Disorders",
+    "confidence": 0.9
   },
   "90": {
-    "summary": "Academic stress from limited access.",
-    "category": "academic_stress",
-    "confidence": 0.6
+    "summary": "Suffered from chronic insomnia due to age and health.",
+    "category": "Sleep Problems",
+    "confidence": 0.8
   },
   "91": {
-    "summary": "Mental health crisis from isolation.",
-    "category": "mental_health_crisis",
-    "confidence": 0.85
+    "summary": "Lost a spouse to old age and faced grief.",
+    "category": "Death of a Loved One",
+    "confidence": 0.8
   },
   "92": {
-    "summary": "Immigration challenges in restrictive policies.",
-    "category": "immigration",
-    "confidence": 0.75
+    "summary": "Experienced ongoing grief after losing a child.",
+    "category": "Grief and Loss",
+    "confidence": 0.8
   },
   "93": {
-    "summary": "Grief from regional political losses.",
-    "category": "grief_bereavement",
-    "confidence": 0.7
+    "summary": "Turned to spirituality for comfort and meaning.",
+    "category": "Spirituality and Faith",
+    "confidence": 0.8
   },
   "94": {
-    "summary": "Relationship breakdown under economic pressure.",
-    "category": "relationship_breakup",
-    "confidence": 0.7
+    "summary": "Faced multiple health problems in advanced age.",
+    "category": "Health Problems",
+    "confidence": 0.9
   },
   "95": {
-    "summary": "Isolation from mental health stigma.",
-    "category": "loneliness_isolation",
+    "summary": "Navigated retirement amid declining health.",
+    "category": "Life Transitions (e.g., Retirement, Relocation)",
     "confidence": 0.8
   },
   "96": {
-    "summary": "Chronic pain from malnutrition.",
-    "category": "chronic_health_pain",
-    "confidence": 0.7
+    "summary": "Lost a sibling to old age and faced grief.",
+    "category": "Death of a Loved One",
+    "confidence": 0.8
   },
   "97": {
-    "summary": "Financial instability in state economy.",
-    "category": "financial_employment",
+    "summary": "Experienced ongoing grief after losing a grandchild.",
+    "category": "Grief and Loss",
     "confidence": 0.8
   },
   "98": {
-    "summary": "Caregiver exhaustion in aging household.",
-    "category": "caregiver_burden",
-    "confidence": 0.75
+    "summary": "Deepened spirituality in the face of mortality.",
+    "category": "Spirituality and Faith",
+    "confidence": 0.8
   },
   "99": {
-    "summary": "Violence exposure in constrained community.",
-    "category": "violence_abuse",
-    "confidence": 0.7
+    "summary": "Faced severe health problems and frailty.",
+    "category": "Health Problems",
+    "confidence": 0.9
   },
   "100": {
-    "summary": "Housing disputes in cooperative system.",
-    "category": "legal_housing",
-    "confidence": 0.65
+    "summary": "Celebrated centennial amid health challenges and family support.",
+    "category": "Life Transitions (e.g., Retirement, Relocation)",
+    "confidence": 0.8
   }
 }

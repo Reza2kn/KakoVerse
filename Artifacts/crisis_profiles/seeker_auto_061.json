@@ -1,407 +1,407 @@
 {
   "20": {
-    "summary": "Physical strain from manual labor causing chronic pain",
-    "category": "chronic_health_pain",
-    "confidence": 0.9
+    "summary": "Adjusting to adult responsibilities post-war displacement.",
+    "category": "School Bullying",
+    "confidence": 0.3
   },
   "21": {
-    "summary": "Job instability in construction amid post-war economic shifts",
-    "category": "financial_employment",
-    "confidence": 0.85
+    "summary": "Motivation struggles due to trauma and unstable employment.",
+    "category": "Motivation Problems",
+    "confidence": 0.9
   },
   "22": {
-    "summary": "Guilt over inability to support family in Yugoslavia",
-    "category": "caregiver_burden",
-    "confidence": 0.7
-  },
-  "23": {
-    "summary": "Avoiding conflicts due to hypervigilance from trauma",
-    "category": "violence_abuse",
+    "summary": "Procrastination stemming from hypervigilance and emotional numbness.",
+    "category": "Procrastination",
     "confidence": 0.8
   },
+  "23": {
+    "summary": "Goal setting hindered by displacement and PTSD symptoms.",
+    "category": "Goal Setting Issues",
+    "confidence": 0.9
+  },
   "24": {
-    "summary": "Unstable housing as refugee in Oslo's crowded shelters",
-    "category": "legal_housing",
+    "summary": "Career development stalled by refugee status and trauma.",
+    "category": "Career Development Issues",
     "confidence": 0.9
   },
   "25": {
-    "summary": "Pressure to adapt new skills in unfamiliar labor market",
-    "category": "academic_stress",
+    "summary": "Internet addiction as escape from displacement anxiety.",
+    "category": "Internet Addiction",
     "confidence": 0.7
   },
   "26": {
-    "summary": "Acute PTSD flare-ups during urban rebuilding work",
-    "category": "mental_health_crisis",
-    "confidence": 0.95
-  },
-  "27": {
-    "summary": "Navigating asylum processes with limited support",
-    "category": "immigration",
+    "summary": "Identity crisis amid war trauma and cultural displacement.",
+    "category": "Identity Crises",
     "confidence": 0.9
   },
+  "27": {
+    "summary": "Sexual orientation irrelevant to current trauma and survival needs.",
+    "category": "Sexual Orientation",
+    "confidence": 0.4
+  },
   "28": {
-    "summary": "Bereavement over lost homeland and war casualties",
-    "category": "grief_bereavement",
-    "confidence": 0.85
+    "summary": "School bullying inapplicable; focus on workplace stress.",
+    "category": "School Bullying",
+    "confidence": 0.2
   },
   "29": {
-    "summary": "Failed attempts to reconnect with estranged family",
-    "category": "relationship_breakup",
-    "confidence": 0.75
+    "summary": "Alcohol abuse as potential coping mechanism for PTSD.",
+    "category": "Alcohol Abuse",
+    "confidence": 0.8
   },
   "30": {
-    "summary": "Social isolation in Oslo despite community efforts",
-    "category": "loneliness_isolation",
-    "confidence": 0.8
-  },
-  "31": {
-    "summary": "Arthritis from wartime injuries worsening with age",
-    "category": "chronic_health_pain",
-    "confidence": 0.85
-  },
-  "32": {
-    "summary": "Seasonal unemployment in construction sector",
-    "category": "financial_employment",
-    "confidence": 0.8
-  },
-  "33": {
-    "summary": "Caretaking for traumatized relatives in shared housing",
-    "category": "caregiver_burden",
-    "confidence": 0.75
-  },
-  "34": {
-    "summary": "Confronting discrimination in workplace interactions",
-    "category": "violence_abuse",
+    "summary": "Addictive behaviors linked to trauma and social isolation.",
+    "category": "Addictive Behaviors (e.g., Drug Use, Gambling)",
     "confidence": 0.7
   },
+  "31": {
+    "summary": "Self-harm behaviors as expression of unresolved trauma.",
+    "category": "Self-Harm Behaviors",
+    "confidence": 0.8
+  },
+  "32": {
+    "summary": "Eating disorders unlikely given historical context and occupation.",
+    "category": "Eating Disorders",
+    "confidence": 0.3
+  },
+  "33": {
+    "summary": "Academic pressure inapplicable to adult life stage.",
+    "category": "Academic Pressure",
+    "confidence": 0.1
+  },
+  "34": {
+    "summary": "Marital problems unlikely with current living situation.",
+    "category": "Marital Problems",
+    "confidence": 0.2
+  },
   "35": {
-    "summary": "Risk of eviction due to unstable income",
-    "category": "legal_housing",
+    "summary": "Parental issues complicated by war separation.",
+    "category": "Issues with Parents",
     "confidence": 0.8
   },
   "36": {
-    "summary": "Anxiety over vocational training requirements",
-    "category": "academic_stress",
-    "confidence": 0.7
-  },
-  "37": {
-    "summary": "Reliving combat memories during city renovations",
-    "category": "mental_health_crisis",
+    "summary": "Emotional fluctuations from unresolved PTSD.",
+    "category": "Emotional Fluctuations",
     "confidence": 0.9
   },
+  "37": {
+    "summary": "Friendship difficulties due to social withdrawal.",
+    "category": "Problems with Friends",
+    "confidence": 0.8
+  },
   "38": {
-    "summary": "Deportation fears after documentation issues",
-    "category": "immigration",
-    "confidence": 0.85
+    "summary": "Motivation problems persisting due to trauma.",
+    "category": "Motivation Problems",
+    "confidence": 0.8
   },
   "39": {
-    "summary": "Grief over unresolved wartime losses resurfacing",
-    "category": "grief_bereavement",
-    "confidence": 0.8
+    "summary": "Appearance anxiety unlikely given manual labor and trauma focus.",
+    "category": "Appearance Anxiety",
+    "confidence": 0.3
   },
   "40": {
-    "summary": "Failed reconciliation attempts with estranged partner",
-    "category": "relationship_breakup",
-    "confidence": 0.7
-  },
-  "41": {
-    "summary": "Persistent loneliness despite proximity to others",
-    "category": "loneliness_isolation",
+    "summary": "Burnout from construction work and PTSD.",
+    "category": "Burnout",
     "confidence": 0.8
   },
+  "41": {
+    "summary": "Self-esteem issues from refugee stigma and trauma.",
+    "category": "Self-Esteem Issues",
+    "confidence": 0.9
+  },
   "42": {
-    "summary": "Chronic back pain limiting construction work capacity",
-    "category": "chronic_health_pain",
-    "confidence": 0.85
+    "summary": "Workplace stress from hypervigilance in construction.",
+    "category": "Workplace Stress",
+    "confidence": 0.9
   },
   "43": {
-    "summary": "Job insecurity during economic downturns",
-    "category": "financial_employment",
+    "summary": "Procrastination exacerbated by trauma responses.",
+    "category": "Procrastination",
     "confidence": 0.8
   },
   "44": {
-    "summary": "Caregiving strain for aging refugee community members",
-    "category": "caregiver_burden",
-    "confidence": 0.7
+    "summary": "Job crisis due to refugee status and economic instability.",
+    "category": "Job Crisis",
+    "confidence": 0.8
   },
   "45": {
-    "summary": "Experiencing workplace discrimination as foreigner",
-    "category": "violence_abuse",
-    "confidence": 0.75
+    "summary": "Academic pressure inapplicable; focus on financial stress.",
+    "category": "Academic Pressure",
+    "confidence": 0.2
   },
   "46": {
-    "summary": "Housing discrimination in segregated neighborhoods",
-    "category": "legal_housing",
+    "summary": "Goal setting hindered by ongoing displacement.",
+    "category": "Goal Setting Issues",
     "confidence": 0.7
   },
   "47": {
-    "summary": "Stress from mandatory language certification exams",
-    "category": "academic_stress",
-    "confidence": 0.7
-  },
-  "48": {
-    "summary": "PTSD triggered by construction noise resembling bombs",
-    "category": "mental_health_crisis",
+    "summary": "Career development blocked by trauma and refugee barriers.",
+    "category": "Career Development Issues",
     "confidence": 0.9
   },
+  "48": {
+    "summary": "Self-harm behaviors as trauma coping.",
+    "category": "Self-Harm Behaviors",
+    "confidence": 0.8
+  },
   "49": {
-    "summary": "Immigration status uncertainty causing anxiety",
-    "category": "immigration",
-    "confidence": 0.8
-  },
-  "50": {
-    "summary": "Grief over death of childhood friends in war",
-    "category": "grief_bereavement",
-    "confidence": 0.8
-  },
-  "51": {
-    "summary": "Failed reconciliation with estranged spouse",
-    "category": "relationship_breakup",
+    "summary": "Internet addiction for distraction from PTSD.",
+    "category": "Internet Addiction",
     "confidence": 0.7
   },
+  "50": {
+    "summary": "Sexual orientation irrelevant to life stage and trauma.",
+    "category": "Sexual Orientation",
+    "confidence": 0.4
+  },
+  "51": {
+    "summary": "Identity crises from prolonged displacement and war legacy.",
+    "category": "Identity Crises",
+    "confidence": 0.9
+  },
   "52": {
-    "summary": "Profound loneliness in aging refugee community",
-    "category": "loneliness_isolation",
-    "confidence": 0.8
+    "summary": "Eating disorders unlikely given historical context.",
+    "category": "Eating Disorders",
+    "confidence": 0.3
   },
   "53": {
-    "summary": "Arthritis pain interfering with manual labor",
-    "category": "chronic_health_pain",
-    "confidence": 0.85
+    "summary": "Ongoing depression from unresolved trauma.",
+    "category": "Ongoing Depression",
+    "confidence": 0.9
   },
   "54": {
-    "summary": "Financial instability from irregular work hours",
-    "category": "financial_employment",
+    "summary": "Personal growth hindered by PTSD and social isolation.",
+    "category": "Personal Growth Challenges",
     "confidence": 0.8
   },
   "55": {
-    "summary": "Caregiver burnout for sick relatives",
-    "category": "caregiver_burden",
-    "confidence": 0.75
+    "summary": "Acute PTSD from WWII experiences.",
+    "category": "Post-Traumatic Stress Disorder (PTSD)",
+    "confidence": 1.0
   },
   "56": {
-    "summary": "Experiencing xenophobic violence in public spaces",
-    "category": "violence_abuse",
-    "confidence": 0.75
+    "summary": "Financial precarity from refugee status and unstable work.",
+    "category": "Financial Problems",
+    "confidence": 0.9
   },
   "57": {
-    "summary": "Risk of homelessness due to high living costs",
-    "category": "legal_housing",
-    "confidence": 0.8
+    "summary": "Breakup/divorce unlikely with minimal social network.",
+    "category": "Breakups or Divorce",
+    "confidence": 0.2
   },
   "58": {
-    "summary": "Academic pressure to obtain foreign qualifications",
-    "category": "academic_stress",
+    "summary": "Parental issues from war separation and displacement.",
+    "category": "Issues with Children",
     "confidence": 0.7
   },
   "59": {
-    "summary": "Mental health crisis from unresolved war trauma",
-    "category": "mental_health_crisis",
-    "confidence": 0.9
+    "summary": "Compulsive behaviors as trauma coping.",
+    "category": "Compulsive Behaviors",
+    "confidence": 0.7
   },
   "60": {
-    "summary": "Immigration status challenges affecting family stability",
-    "category": "immigration",
-    "confidence": 0.8
+    "summary": "Schizophrenia unlikely without psychotic symptoms.",
+    "category": "Schizophrenia",
+    "confidence": 0.2
   },
   "61": {
-    "summary": "Grief over death of last surviving parent",
-    "category": "grief_bereavement",
+    "summary": "Self-esteem issues from refugee stigma.",
+    "category": "Self-Esteem Issues",
     "confidence": 0.8
   },
   "62": {
-    "summary": "Failed reconciliation with estranged children",
-    "category": "relationship_breakup",
-    "confidence": 0.7
+    "summary": "Appearance anxiety unlikely given manual labor.",
+    "category": "Appearance Anxiety",
+    "confidence": 0.3
   },
   "63": {
-    "summary": "Isolation in elderly refugee housing",
-    "category": "loneliness_isolation",
+    "summary": "Workplace stress from hypervigilance.",
+    "category": "Workplace Stress",
     "confidence": 0.8
   },
   "64": {
-    "summary": "Chronic joint pain from wartime injuries",
-    "category": "chronic_health_pain",
-    "confidence": 0.85
-  },
-  "65": {
-    "summary": "Financial strain from medical bills",
-    "category": "financial_employment",
+    "summary": "Job crisis from economic instability.",
+    "category": "Job Crisis",
     "confidence": 0.8
   },
+  "65": {
+    "summary": "OCD unlikely without compulsive rituals.",
+    "category": "Obsessive-Compulsive Disorder (OCD)",
+    "confidence": 0.2
+  },
   "66": {
-    "summary": "Caregiver burden for disabled spouse",
-    "category": "caregiver_burden",
-    "confidence": 0.75
+    "summary": "Parental issues from war separation.",
+    "category": "Issues with Parents",
+    "confidence": 0.8
   },
   "67": {
-    "summary": "Experiencing institutional discrimination",
-    "category": "violence_abuse",
-    "confidence": 0.7
+    "summary": "Emotional fluctuations from PTSD.",
+    "category": "Emotional Fluctuations",
+    "confidence": 0.9
   },
   "68": {
-    "summary": "Housing insecurity in overcrowded refugee quarters",
-    "category": "legal_housing",
+    "summary": "Friendship difficulties due to social withdrawal.",
+    "category": "Problems with Friends",
     "confidence": 0.8
   },
   "69": {
-    "summary": "Mental health crisis from accumulated trauma",
-    "category": "academic_stress",
-    "confidence": 0.9
+    "summary": "Burnout from labor and trauma.",
+    "category": "Burnout",
+    "confidence": 0.8
   },
   "70": {
-    "summary": "Immigration status affecting healthcare access",
-    "category": "mental_health_crisis",
-    "confidence": 0.8
+    "summary": "Bipolar disorder unlikely without mood cycling.",
+    "category": "Bipolar Disorder",
+    "confidence": 0.2
   },
   "71": {
-    "summary": "Grief over death of lifelong friend",
-    "category": "immigration",
-    "confidence": 0.8
+    "summary": "Schizophrenia unlikely.",
+    "category": "Schizophrenia",
+    "confidence": 0.2
   },
   "72": {
-    "summary": "Failed reconciliation with estranged siblings",
-    "category": "grief_bereavement",
+    "summary": "Addictive behaviors as trauma coping.",
+    "category": "Addictive Behaviors (e.g., Drug Use, Gambling)",
     "confidence": 0.7
   },
   "73": {
-    "summary": "Isolation in retirement community",
-    "category": "relationship_breakup",
-    "confidence": 0.8
+    "summary": "Compulsive behaviors as trauma coping.",
+    "category": "Compulsive Behaviors",
+    "confidence": 0.7
   },
   "74": {
-    "summary": "Chronic pain limiting mobility",
-    "category": "loneliness_isolation",
-    "confidence": 0.85
+    "summary": "Alcohol abuse as potential coping mechanism.",
+    "category": "Alcohol Abuse",
+    "confidence": 0.8
   },
   "75": {
-    "summary": "Financial instability from pension gaps",
-    "category": "chronic_health_pain",
+    "summary": "Debt problems from refugee status and precarious work.",
+    "category": "Debt Problems",
     "confidence": 0.8
   },
   "76": {
-    "summary": "Caregiver strain for frail elderly",
-    "category": "financial_employment",
-    "confidence": 0.75
+    "summary": "Bipolar disorder unlikely.",
+    "category": "Bipolar Disorder",
+    "confidence": 0.2
   },
   "77": {
-    "summary": "Experiencing age-based discrimination",
-    "category": "caregiver_burden",
-    "confidence": 0.7
+    "summary": "OCD unlikely.",
+    "category": "Obsessive-Compulsive Disorder (OCD)",
+    "confidence": 0.2
   },
   "78": {
-    "summary": "Housing insecurity in declining neighborhood",
-    "category": "violence_abuse",
-    "confidence": 0.8
+    "summary": "Breakup/divorce unlikely.",
+    "category": "Breakups or Divorce",
+    "confidence": 0.2
   },
   "79": {
-    "summary": "Academic pressure to adapt to new education system",
-    "category": "legal_housing",
-    "confidence": 0.7
+    "summary": "Marital problems unlikely.",
+    "category": "Marital Problems",
+    "confidence": 0.2
   },
   "80": {
-    "summary": "Mental health crisis from unresolved wartime guilt",
-    "category": "academic_stress",
+    "summary": "Culture shock from Yugoslavian-Norwegian transition.",
+    "category": "Culture Shock",
     "confidence": 0.9
   },
   "81": {
-    "summary": "Immigration status affecting family reunification",
-    "category": "mental_health_crisis",
-    "confidence": 0.8
-  },
-  "82": {
-    "summary": "Grief over death of spouse",
-    "category": "immigration",
-    "confidence": 0.8
-  },
-  "83": {
-    "summary": "Failed reconciliation with estranged children",
-    "category": "grief_bereavement",
+    "summary": "Parental issues from war separation.",
+    "category": "Issues with Children",
     "confidence": 0.7
   },
+  "82": {
+    "summary": "Sleep disruption from PTSD.",
+    "category": "Sleep Problems",
+    "confidence": 0.9
+  },
+  "83": {
+    "summary": "Ongoing depression from trauma.",
+    "category": "Ongoing Depression",
+    "confidence": 0.9
+  },
   "84": {
-    "summary": "Isolation in assisted living facility",
-    "category": "relationship_breakup",
+    "summary": "Anger management issues from hypervigilance.",
+    "category": "Anger Management Issues",
     "confidence": 0.8
   },
   "85": {
-    "summary": "Chronic pain affecting daily activities",
-    "category": "loneliness_isolation",
-    "confidence": 0.85
+    "summary": "Personal growth hindered by trauma.",
+    "category": "Personal Growth Challenges",
+    "confidence": 0.8
   },
   "86": {
-    "summary": "Financial strain from medical expenses",
-    "category": "chronic_health_pain",
-    "confidence": 0.8
+    "summary": "Sexual assault recovery unlikely without evidence.",
+    "category": "Sexual Assault or Domestic Violence Recovery",
+    "confidence": 0.3
   },
   "87": {
-    "summary": "Caregiver burden for disabled adult child",
-    "category": "financial_employment",
-    "confidence": 0.75
+    "summary": "Chronic stress from refugee status and trauma.",
+    "category": "Chronic Stress",
+    "confidence": 0.9
   },
   "88": {
-    "summary": "Experiencing institutional neglect",
-    "category": "caregiver_burden",
-    "confidence": 0.7
+    "summary": "Anxiety disorders from hypervigilance.",
+    "category": "Anxiety Disorders",
+    "confidence": 0.9
   },
   "89": {
-    "summary": "Housing insecurity in urban slum",
-    "category": "violence_abuse",
-    "confidence": 0.8
+    "summary": "Acute PTSD from WWII experiences.",
+    "category": "Post-Traumatic Stress Disorder (PTSD)",
+    "confidence": 1.0
   },
   "90": {
-    "summary": "Academic pressure to learn new language",
-    "category": "legal_housing",
-    "confidence": 0.7
+    "summary": "Communication problems from social withdrawal.",
+    "category": "Conflicts or Communication Problems",
+    "confidence": 0.8
   },
   "91": {
-    "summary": "Mental health crisis from accumulated losses",
-    "category": "academic_stress",
+    "summary": "Grief over war losses.",
+    "category": "Death of a Loved One",
     "confidence": 0.9
   },
   "92": {
-    "summary": "Immigration status affecting healthcare access",
-    "category": "mental_health_crisis",
-    "confidence": 0.8
+    "summary": "Grief from war trauma.",
+    "category": "Grief and Loss",
+    "confidence": 0.9
   },
   "93": {
-    "summary": "Grief over death of last surviving relative",
-    "category": "immigration",
-    "confidence": 0.8
+    "summary": "Spirituality unlikely given historical context.",
+    "category": "Spirituality and Faith",
+    "confidence": 0.3
   },
   "94": {
-    "summary": "Failed reconciliation with estranged family",
-    "category": "grief_bereavement",
-    "confidence": 0.7
+    "summary": "Health problems from war trauma.",
+    "category": "Health Problems",
+    "confidence": 0.8
   },
   "95": {
-    "summary": "Isolation in nursing home",
-    "category": "relationship_breakup",
-    "confidence": 0.8
+    "summary": "Life transition from refugee to resident.",
+    "category": "Life Transitions (e.g., Retirement, Relocation)",
+    "confidence": 0.9
   },
   "96": {
-    "summary": "Chronic pain limiting mobility",
-    "category": "loneliness_isolation",
-    "confidence": 0.85
+    "summary": "Grief from war losses.",
+    "category": "Grief and Loss",
+    "confidence": 0.9
   },
   "97": {
-    "summary": "Financial instability from pension cuts",
-    "category": "chronic_health_pain",
-    "confidence": 0.8
+    "summary": "Grief over war losses.",
+    "category": "Death of a Loved One",
+    "confidence": 0.9
   },
   "98": {
-    "summary": "Caregiver burden for dying spouse",
-    "category": "financial_employment",
-    "confidence": 0.75
+    "summary": "Spirituality unlikely.",
+    "category": "Spirituality and Faith",
+    "confidence": 0.3
   },
   "99": {
-    "summary": "Experiencing ageist discrimination",
-    "category": "caregiver_burden",
-    "confidence": 0.7
+    "summary": "Health problems from war trauma.",
+    "category": "Health Problems",
+    "confidence": 0.8
   },
   "100": {
-    "summary": "Housing insecurity in advanced age",
-    "category": "violence_abuse",
-    "confidence": 0.8
+    "summary": "Life transition from refugee to resident.",
+    "category": "Life Transitions (e.g., Retirement, Relocation)",
+    "confidence": 0.9
   }
 }

@@ -1,407 +1,407 @@
 {
   "20": {
-    "summary": "Post-war employment challenges in transitioning economy.",
-    "category": "financial_employment",
-    "confidence": 0.8
+    "summary": "Peer exclusion in post-war school due to immigrant background.",
+    "category": "School Bullying",
+    "confidence": 0.6
   },
   "21": {
-    "summary": "Assisting family with post-war recovery and adjustment.",
-    "category": "caregiver_burden",
+    "summary": "Struggled with post-war career motivation amid societal rebuilding.",
+    "category": "Motivation Problems",
     "confidence": 0.7
   },
   "22": {
-    "summary": "Witnessed neighborhood tensions during labor strikes.",
-    "category": "violence_abuse",
+    "summary": "Uncertainty in setting long-term goals during economic recovery.",
+    "category": "Goal Setting Issues",
     "confidence": 0.6
   },
   "23": {
-    "summary": "Faced housing discrimination in urban apartment search.",
-    "category": "legal_housing",
-    "confidence": 0.7
+    "summary": "Delayed decisions due to lingering war trauma and instability.",
+    "category": "Procrastination",
+    "confidence": 0.5
   },
   "24": {
-    "summary": "Balancing night classes with part-time work.",
-    "category": "academic_stress",
-    "confidence": 0.8
+    "summary": "Navigating early career challenges in a rapidly changing job market.",
+    "category": "Career Development Issues",
+    "confidence": 0.7
   },
   "25": {
-    "summary": "Anxiety over Cold War tensions and personal future.",
-    "category": "mental_health_crisis",
-    "confidence": 0.7
+    "summary": "Navigating societal expectations around sexuality in conservative era.",
+    "category": "Sexual Orientation",
+    "confidence": 0.5
   },
   "26": {
-    "summary": "Considered moving abroad for better opportunities.",
-    "category": "immigration",
-    "confidence": 0.6
+    "summary": "Coping with emotional distress through self-harm behaviors.",
+    "category": "Self-Harm Behaviors",
+    "confidence": 0.5
   },
   "27": {
-    "summary": "Mourned loss of a close family member.",
-    "category": "grief_bereavement",
-    "confidence": 0.7
+    "summary": "Body image struggles amid post-war scarcity and societal norms.",
+    "category": "Eating Disorders",
+    "confidence": 0.3
   },
   "28": {
-    "summary": "Ended a long-term relationship due to personal differences.",
-    "category": "relationship_breakup",
-    "confidence": 0.8
+    "summary": "Peer conflicts during higher education in a rigid academic system.",
+    "category": "School Bullying",
+    "confidence": 0.6
   },
   "29": {
-    "summary": "Felt isolated after moving to a new city for work.",
-    "category": "loneliness_isolation",
-    "confidence": 0.7
+    "summary": "Burnout from relentless work ethic in industrial-era job.",
+    "category": "Burnout",
+    "confidence": 0.6
   },
   "30": {
-    "summary": "Developed persistent back pain from manual labor.",
-    "category": "chronic_health_pain",
+    "summary": "Workplace stress from hierarchical corporate culture.",
+    "category": "Workplace Stress",
     "confidence": 0.6
   },
   "31": {
-    "summary": "Struggled with low wages in factory job.",
-    "category": "financial_employment",
-    "confidence": 0.8
+    "summary": "Isolation and compulsive internet use during early digital era.",
+    "category": "Internet Addiction",
+    "confidence": 0.2
   },
   "32": {
-    "summary": "Cared for aging parent while working full-time.",
-    "category": "caregiver_burden",
-    "confidence": 0.7
-  },
-  "33": {
-    "summary": "Survived a violent robbery in the neighborhood.",
-    "category": "violence_abuse",
+    "summary": "Identity crisis amid shifting post-war societal values.",
+    "category": "Identity Crises",
     "confidence": 0.6
   },
+  "33": {
+    "summary": "Academic pressure to excel in competitive post-war institutions.",
+    "category": "Academic Pressure",
+    "confidence": 0.5
+  },
   "34": {
-    "summary": "Faced eviction due to rent control disputes.",
-    "category": "legal_housing",
-    "confidence": 0.7
+    "summary": "Appearance anxiety in a society emphasizing frugality and modesty.",
+    "category": "Appearance Anxiety",
+    "confidence": 0.3
   },
   "35": {
-    "summary": "Attended night school for career advancement.",
-    "category": "academic_stress",
-    "confidence": 0.8
+    "summary": "Procrastination due to existential uncertainty in mid-century.",
+    "category": "Procrastination",
+    "confidence": 0.5
   },
   "36": {
-    "summary": "Depression over stalled career progress.",
-    "category": "mental_health_crisis",
-    "confidence": 0.7
+    "summary": "Reevaluating career goals amid midlife reassessment.",
+    "category": "Goal Setting Issues",
+    "confidence": 0.6
   },
   "37": {
-    "summary": "Explored emigration options for personal freedom.",
-    "category": "immigration",
+    "summary": "Job loss during economic downturn impacting self-worth.",
+    "category": "Job Crisis",
     "confidence": 0.6
   },
   "38": {
-    "summary": "Grieved the death of a close friend.",
-    "category": "grief_bereavement",
-    "confidence": 0.7
+    "summary": "Career stagnation amid limited opportunities in conservative society.",
+    "category": "Career Development Issues",
+    "confidence": 0.6
   },
   "39": {
-    "summary": "Divorced after years of marital conflict.",
-    "category": "relationship_breakup",
-    "confidence": 0.8
+    "summary": "Navigating societal stigma around sexuality in mid-century.",
+    "category": "Sexual Orientation",
+    "confidence": 0.5
   },
   "40": {
-    "summary": "Felt isolated after children moved away.",
-    "category": "loneliness_isolation",
-    "confidence": 0.7
+    "summary": "Self-harm behaviors as coping mechanism for midlife crisis.",
+    "category": "Self-Harm Behaviors",
+    "confidence": 0.5
   },
   "41": {
-    "summary": "Suffered from arthritis flare-ups.",
-    "category": "chronic_health_pain",
-    "confidence": 0.6
+    "summary": "Compulsive internet use during late-stage digital adoption.",
+    "category": "Internet Addiction",
+    "confidence": 0.2
   },
   "42": {
-    "summary": "Lost job during economic downturn.",
-    "category": "financial_employment",
-    "confidence": 0.8
+    "summary": "Eating disorders amid societal pressure for thinness.",
+    "category": "Eating Disorders",
+    "confidence": 0.3
   },
   "43": {
-    "summary": "Cared for spouse during illness.",
-    "category": "caregiver_burden",
-    "confidence": 0.7
-  },
-  "44": {
-    "summary": "Survived a domestic violence incident.",
-    "category": "violence_abuse",
+    "summary": "Identity crisis during retirement and societal role transition.",
+    "category": "Identity Crises",
     "confidence": 0.6
   },
+  "44": {
+    "summary": "Academic pressure from family expectations in later years.",
+    "category": "Academic Pressure",
+    "confidence": 0.4
+  },
   "45": {
-    "summary": "Faced legal battle over property inheritance.",
-    "category": "legal_housing",
-    "confidence": 0.7
+    "summary": "Financial strain from healthcare costs and inflation.",
+    "category": "Financial Problems",
+    "confidence": 0.6
   },
   "46": {
-    "summary": "Pursued higher education in evening classes.",
-    "category": "academic_stress",
-    "confidence": 0.8
+    "summary": "Sleep disruption from chronic pain and anxiety.",
+    "category": "Sleep Problems",
+    "confidence": 0.7
   },
   "47": {
-    "summary": "Anxiety over political activism and family safety.",
-    "category": "mental_health_crisis",
+    "summary": "Ongoing depression from unresolved grief and isolation.",
+    "category": "Ongoing Depression",
     "confidence": 0.7
   },
   "48": {
-    "summary": "Decided to move to Asia for work.",
-    "category": "immigration",
-    "confidence": 0.8
-  },
-  "49": {
-    "summary": "Mourned the loss of a sibling.",
-    "category": "grief_bereavement",
+    "summary": "Anxiety from health decline and dependency on others.",
+    "category": "Anxiety Disorders",
     "confidence": 0.7
   },
+  "49": {
+    "summary": "Communication breakdowns with distant family members.",
+    "category": "Conflicts or Communication Problems",
+    "confidence": 0.6
+  },
   "50": {
-    "summary": "Divorced after years of marital conflict.",
-    "category": "relationship_breakup",
-    "confidence": 0.8
+    "summary": "Recovery from domestic violence in a patriarchal household.",
+    "category": "Sexual Assault or Domestic Violence Recovery",
+    "confidence": 0.3
   },
   "51": {
-    "summary": "Felt isolated in a foreign country.",
-    "category": "loneliness_isolation",
-    "confidence": 0.8
+    "summary": "PTSD from traumatic experiences in Pyongyang.",
+    "category": "Post-Traumatic Stress Disorder (PTSD)",
+    "confidence": 0.6
   },
   "52": {
-    "summary": "Suffered from chronic pain due to harsh living conditions.",
-    "category": "chronic_health_pain",
+    "summary": "Chronic stress from caregiving and financial instability.",
+    "category": "Chronic Stress",
     "confidence": 0.7
   },
   "53": {
-    "summary": "Struggled with low income in foreign job.",
-    "category": "financial_employment",
-    "confidence": 0.8
+    "summary": "Personal growth challenges in adapting to retirement.",
+    "category": "Personal Growth Challenges",
+    "confidence": 0.6
   },
   "54": {
-    "summary": "Cared for a sick colleague in Pyongyang.",
-    "category": "caregiver_burden",
-    "confidence": 0.7
+    "summary": "Anger management issues from unmet expectations.",
+    "category": "Anger Management Issues",
+    "confidence": 0.5
   },
   "55": {
-    "summary": "Witnessed state violence during protests.",
-    "category": "violence_abuse",
-    "confidence": 0.8
+    "summary": "Culture shock from relocating to Pyongyang's rigid society.",
+    "category": "Culture Shock",
+    "confidence": 0.7
   },
   "56": {
-    "summary": "Faced housing shortages in Pyongyang.",
-    "category": "legal_housing",
-    "confidence": 0.7
+    "summary": "Parental conflicts over immigration and cultural assimilation.",
+    "category": "Issues with Parents",
+    "confidence": 0.5
   },
   "57": {
-    "summary": "Attended state-mandated political education.",
-    "category": "academic_stress",
-    "confidence": 0.8
+    "summary": "Emotional fluctuations from loneliness and aging.",
+    "category": "Emotional Fluctuations",
+    "confidence": 0.6
   },
   "58": {
-    "summary": "Depression over lack of freedom and isolation.",
-    "category": "mental_health_crisis",
-    "confidence": 0.9
+    "summary": "Friendship conflicts due to geographic separation.",
+    "category": "Problems with Friends",
+    "confidence": 0.5
   },
   "59": {
-    "summary": "Considered returning to the US.",
-    "category": "immigration",
-    "confidence": 0.8
+    "summary": "Burnout from overcommitting to community roles.",
+    "category": "Motivation Problems",
+    "confidence": 0.6
   },
   "60": {
-    "summary": "Grieved the death of a parent in the US.",
-    "category": "grief_bereavement",
-    "confidence": 0.7
+    "summary": "Self-esteem issues from perceived societal irrelevance.",
+    "category": "Self-Esteem Issues",
+    "confidence": 0.6
   },
   "61": {
-    "summary": "Divorced due to prolonged separation.",
-    "category": "relationship_breakup",
-    "confidence": 0.8
+    "summary": "Self-esteem struggles amid declining health and independence.",
+    "category": "Self-Esteem Issues",
+    "confidence": 0.6
   },
   "62": {
-    "summary": "Felt isolated after spouse's death.",
-    "category": "loneliness_isolation",
-    "confidence": 0.9
+    "summary": "Appearance anxiety from aging and health decline.",
+    "category": "Appearance Anxiety",
+    "confidence": 0.5
   },
   "63": {
-    "summary": "Suffered from chronic back pain.",
-    "category": "chronic_health_pain",
-    "confidence": 0.7
+    "summary": "Job loss impacting financial security in later years.",
+    "category": "Job Crisis",
+    "confidence": 0.6
   },
   "64": {
-    "summary": "Retired from foreign employment.",
-    "category": "financial_employment",
-    "confidence": 0.8
+    "summary": "Workplace stress from mandatory retirement policies.",
+    "category": "Workplace Stress",
+    "confidence": 0.6
   },
   "65": {
-    "summary": "Cared for aging spouse.",
-    "category": "caregiver_burden",
-    "confidence": 0.8
+    "summary": "Marital conflicts over caregiving responsibilities.",
+    "category": "Marital Problems",
+    "confidence": 0.6
   },
   "66": {
-    "summary": "Survived a home invasion.",
-    "category": "violence_abuse",
+    "summary": "Emotional fluctuations from chronic illness.",
+    "category": "Emotional Fluctuations",
     "confidence": 0.6
   },
   "67": {
-    "summary": "Faced legal issues over property in the US.",
-    "category": "legal_housing",
-    "confidence": 0.7
+    "summary": "Parental conflicts over end-of-life decisions.",
+    "category": "Issues with Parents",
+    "confidence": 0.5
   },
   "68": {
-    "summary": "Pursued self-education in a new language.",
-    "category": "academic_stress",
-    "confidence": 0.8
+    "summary": "Friendship strains from geographic and health barriers.",
+    "category": "Problems with Friends",
+    "confidence": 0.5
   },
   "69": {
-    "summary": "Anxiety over uncertain future.",
-    "category": "mental_health_crisis",
-    "confidence": 0.7
-  },
-  "70": {
-    "summary": "Decided to move to the US permanently.",
-    "category": "immigration",
-    "confidence": 0.8
-  },
-  "71": {
-    "summary": "Mourned the loss of a close friend.",
-    "category": "grief_bereavement",
-    "confidence": 0.7
-  },
-  "72": {
-    "summary": "Ended a long-term relationship due to distance.",
-    "category": "relationship_breakup",
-    "confidence": 0.8
-  },
-  "73": {
-    "summary": "Felt isolated after children moved away.",
-    "category": "loneliness_isolation",
-    "confidence": 0.7
-  },
-  "74": {
-    "summary": "Suffered from arthritis.",
-    "category": "chronic_health_pain",
-    "confidence": 0.7
-  },
-  "75": {
-    "summary": "Retired with modest savings.",
-    "category": "financial_employment",
-    "confidence": 0.8
-  },
-  "76": {
-    "summary": "Cared for spouse with dementia.",
-    "category": "caregiver_burden",
-    "confidence": 0.9
-  },
-  "77": {
-    "summary": "Survived a domestic violence incident.",
-    "category": "violence_abuse",
+    "summary": "Burnout from caregiving and social isolation.",
+    "category": "Burnout",
     "confidence": 0.6
   },
+  "70": {
+    "summary": "Schizophrenia diagnosis amid cognitive decline.",
+    "category": "Schizophrenia",
+    "confidence": 0.2
+  },
+  "71": {
+    "summary": "Alcohol abuse as coping mechanism for loneliness.",
+    "category": "Alcohol Abuse",
+    "confidence": 0.4
+  },
+  "72": {
+    "summary": "Parental conflicts over grandchildren's upbringing.",
+    "category": "Issues with Children",
+    "confidence": 0.3
+  },
+  "73": {
+    "summary": "Compulsive behaviors from anxiety and routine disruption.",
+    "category": "Compulsive Behaviors",
+    "confidence": 0.2
+  },
+  "74": {
+    "summary": "Addictive behaviors from chronic pain medication use.",
+    "category": "Addictive Behaviors (e.g., Drug Use, Gambling)",
+    "confidence": 0.3
+  },
+  "75": {
+    "summary": "Alcohol abuse from unresolved trauma and isolation.",
+    "category": "Alcohol Abuse",
+    "confidence": 0.4
+  },
+  "76": {
+    "summary": "Bipolar disorder diagnosis amid emotional instability.",
+    "category": "Bipolar Disorder",
+    "confidence": 0.2
+  },
+  "77": {
+    "summary": "Debt problems from medical expenses and inflation.",
+    "category": "Debt Problems",
+    "confidence": 0.3
+  },
   "78": {
-    "summary": "Faced legal battle over inheritance.",
-    "category": "legal_housing",
-    "confidence": 0.7
+    "summary": "OCD from ritualistic behaviors to manage anxiety.",
+    "category": "Obsessive-Compulsive Disorder (OCD)",
+    "confidence": 0.2
   },
   "79": {
-    "summary": "Attended community college classes.",
-    "category": "academic_stress",
-    "confidence": 0.8
+    "summary": "Financial strain from healthcare costs and inflation.",
+    "category": "Financial Problems",
+    "confidence": 0.6
   },
   "80": {
-    "summary": "Depression over declining health.",
-    "category": "mental_health_crisis",
-    "confidence": 0.9
+    "summary": "Grief over breakup from partner's death.",
+    "category": "Breakups or Divorce",
+    "confidence": 0.6
   },
   "81": {
-    "summary": "Considered moving to a warmer climate.",
-    "category": "immigration",
+    "summary": "Chronic stress from caregiving and financial instability.",
+    "category": "Chronic Stress",
     "confidence": 0.7
   },
   "82": {
-    "summary": "Grieved the loss of a lifelong friend.",
-    "category": "grief_bereavement",
-    "confidence": 0.8
+    "summary": "Recovery from domestic violence in a patriarchal household.",
+    "category": "Sexual Assault or Domestic Violence Recovery",
+    "confidence": 0.3
   },
   "83": {
-    "summary": "Ended a long-term relationship due to incompatibility.",
-    "category": "relationship_breakup",
-    "confidence": 0.8
-  },
-  "84": {
-    "summary": "Felt isolated after spouse's death.",
-    "category": "loneliness_isolation",
-    "confidence": 0.9
-  },
-  "85": {
-    "summary": "Suffered from chronic pain from old injuries.",
-    "category": "chronic_health_pain",
-    "confidence": 0.8
-  },
-  "86": {
-    "summary": "Struggled with retirement income.",
-    "category": "financial_employment",
-    "confidence": 0.8
-  },
-  "87": {
-    "summary": "Cared for a sick relative.",
-    "category": "caregiver_burden",
-    "confidence": 0.7
-  },
-  "88": {
-    "summary": "Survived a robbery attempt.",
-    "category": "violence_abuse",
+    "summary": "Personal growth challenges in adapting to retirement.",
+    "category": "Personal Growth Challenges",
     "confidence": 0.6
   },
-  "89": {
-    "summary": "Faced legal issues over property.",
-    "category": "legal_housing",
+  "84": {
+    "summary": "Ongoing depression from unresolved grief and isolation.",
+    "category": "Ongoing Depression",
     "confidence": 0.7
+  },
+  "85": {
+    "summary": "Culture shock from relocating to Tehran's conservative society.",
+    "category": "Culture Shock",
+    "confidence": 0.7
+  },
+  "86": {
+    "summary": "Sleep disruption from chronic pain and anxiety.",
+    "category": "Sleep Problems",
+    "confidence": 0.7
+  },
+  "87": {
+    "summary": "Communication breakdowns with distant family members.",
+    "category": "Conflicts or Communication Problems",
+    "confidence": 0.6
+  },
+  "88": {
+    "summary": "Anger management issues from unmet expectations.",
+    "category": "Anger Management Issues",
+    "confidence": 0.5
+  },
+  "89": {
+    "summary": "PTSD from traumatic experiences in Pyongyang.",
+    "category": "Post-Traumatic Stress Disorder (PTSD)",
+    "confidence": 0.6
   },
   "90": {
-    "summary": "Pursued online courses for personal growth.",
-    "category": "academic_stress",
-    "confidence": 0.8
-  },
-  "91": {
-    "summary": "Anxiety over health and mortality.",
-    "category": "mental_health_crisis",
-    "confidence": 0.9
-  },
-  "92": {
-    "summary": "Considered moving to a country with better healthcare.",
-    "category": "immigration",
+    "summary": "Anxiety from health decline and dependency on others.",
+    "category": "Anxiety Disorders",
     "confidence": 0.7
   },
+  "91": {
+    "summary": "Intense grief following loss of lifelong partner.",
+    "category": "Grief and Loss",
+    "confidence": 1.0
+  },
+  "92": {
+    "summary": "Grief over death of spouse after decades together.",
+    "category": "Death of a Loved One",
+    "confidence": 1.0
+  },
   "93": {
-    "summary": "Grieved the loss of a close friend.",
-    "category": "grief_bereavement",
+    "summary": "Spiritual crisis amid religious expectations in Tehran.",
+    "category": "Spirituality and Faith",
     "confidence": 0.8
   },
   "94": {
-    "summary": "Ended a long-term relationship due to distance.",
-    "category": "relationship_breakup",
-    "confidence": 0.8
+    "summary": "Managing chronic pain flare-ups affecting daily life.",
+    "category": "Health Problems",
+    "confidence": 1.0
   },
   "95": {
-    "summary": "Felt isolated during pandemic lockdowns.",
-    "category": "loneliness_isolation",
-    "confidence": 0.9
+    "summary": "Life transitions: retirement and relocation to Tehran.",
+    "category": "Life Transitions (e.g., Retirement, Relocation)",
+    "confidence": 1.0
   },
   "96": {
-    "summary": "Suffered from chronic pain flare-ups.",
-    "category": "chronic_health_pain",
-    "confidence": 0.8
+    "summary": "Grief over death of spouse after decades together.",
+    "category": "Death of a Loved One",
+    "confidence": 1.0
   },
   "97": {
-    "summary": "Retired with limited savings.",
-    "category": "financial_employment",
-    "confidence": 0.7
+    "summary": "Grief following loss of lifelong partner.",
+    "category": "Grief and Loss",
+    "confidence": 1.0
   },
   "98": {
-    "summary": "Cared for spouse with chronic illness.",
-    "category": "caregiver_burden",
+    "summary": "Spiritual crisis amid religious expectations in Tehran.",
+    "category": "Spirituality and Faith",
     "confidence": 0.8
   },
   "99": {
-    "summary": "Survived a domestic violence incident.",
-    "category": "violence_abuse",
-    "confidence": 0.6
+    "summary": "Managing chronic pain flare-ups affecting daily life.",
+    "category": "Health Problems",
+    "confidence": 1.0
   },
   "100": {
-    "summary": "Faced legal battle over housing in Tehran.",
-    "category": "legal_housing",
-    "confidence": 0.8
+    "summary": "Navigating retirement and relocation to Tehran amidst grief.",
+    "category": "Life Transitions (e.g., Retirement, Relocation)",
+    "confidence": 1.0
   }
 }

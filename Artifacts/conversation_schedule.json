@@ -1,0 +1,380 @@
+{
+  "meta": {
+    "persona_count": 69,
+    "seed": null,
+    "min_per_category": 1,
+    "target_counts": {
+      "academic pressure": 1,
+      "addictive behaviors (e.g., drug use, gambling)": 1,
+      "alcohol abuse": 1,
+      "anger management issues": 1,
+      "anxiety disorders": 1,
+      "appearance anxiety": 2,
+      "bipolar disorder": 1,
+      "breakups or divorce": 2,
+      "burnout": 3,
+      "career development issues": 2,
+      "chronic stress": 1,
+      "compulsive behaviors": 3,
+      "conflicts or communication problems": 1,
+      "culture shock": 1,
+      "death of a loved one": 2,
+      "debt problems": 2,
+      "eating disorders": 1,
+      "emotional fluctuations": 1,
+      "financial problems": 2,
+      "goal setting issues": 2,
+      "grief and loss": 2,
+      "health problems": 1,
+      "identity crises": 1,
+      "internet addiction": 2,
+      "issues with children": 1,
+      "issues with parents": 1,
+      "job crisis": 1,
+      "life transitions (e.g., retirement, relocation)": 2,
+      "marital problems": 1,
+      "motivation problems": 1,
+      "obsessive-compulsive disorder (ocd)": 2,
+      "ongoing depression": 1,
+      "personal growth challenges": 1,
+      "post-traumatic stress disorder (ptsd)": 1,
+      "problems with friends": 1,
+      "procrastination": 1,
+      "schizophrenia": 1,
+      "school bullying": 2,
+      "self-esteem issues": 3,
+      "self-harm behaviors": 2,
+      "sexual assault or domestic violence recovery": 5,
+      "sexual orientation": 1,
+      "sleep problems": 1,
+      "spirituality and faith": 1,
+      "workplace stress": 2
+    },
+    "actual_counts": {
+      "issues with children": 1,
+      "motivation problems": 1,
+      "emotional fluctuations": 1,
+      "ongoing depression": 1,
+      "academic pressure": 1,
+      "bipolar disorder": 1,
+      "career development issues": 2,
+      "internet addiction": 2,
+      "anger management issues": 1,
+      "breakups or divorce": 2,
+      "debt problems": 2,
+      "marital problems": 1,
+      "sleep problems": 1,
+      "procrastination": 1,
+      "self-harm behaviors": 2,
+      "personal growth challenges": 1,
+      "post-traumatic stress disorder (ptsd)": 1,
+      "obsessive-compulsive disorder (ocd)": 2,
+      "conflicts or communication problems": 1,
+      "death of a loved one": 2,
+      "appearance anxiety": 2,
+      "addictive behaviors (e.g., drug use, gambling)": 1,
+      "issues with parents": 1,
+      "life transitions (e.g., retirement, relocation)": 2,
+      "job crisis": 1,
+      "sexual orientation": 1,
+      "alcohol abuse": 1,
+      "culture shock": 1,
+      "spirituality and faith": 1,
+      "self-esteem issues": 3,
+      "chronic stress": 1,
+      "burnout": 3,
+      "financial problems": 2,
+      "school bullying": 2,
+      "goal setting issues": 2,
+      "identity crises": 1,
+      "problems with friends": 1,
+      "schizophrenia": 1,
+      "health problems": 1,
+      "sexual assault or domestic violence recovery": 5,
+      "anxiety disorders": 1,
+      "compulsive behaviors": 3,
+      "grief and loss": 2,
+      "workplace stress": 2,
+      "eating disorders": 1
+    },
+    "attempts": 83
+  },
+  "assignments": {
+    "seeker_auto_021": {
+      "age": 81,
+      "category": "issues with children"
+    },
+    "seeker_auto_068": {
+      "age": 64,
+      "category": "motivation problems"
+    },
+    "seeker_auto_009": {
+      "age": 49,
+      "category": "emotional fluctuations"
+    },
+    "seeker_auto_037": {
+      "age": 37,
+      "category": "ongoing depression"
+    },
+    "seeker_auto_006": {
+      "age": 32,
+      "category": "academic pressure"
+    },
+    "seeker_auto_048": {
+      "age": 56,
+      "category": "bipolar disorder"
+    },
+    "seeker_auto_024": {
+      "age": 24,
+      "category": "career development issues"
+    },
+    "seeker_auto_013": {
+      "age": 31,
+      "category": "internet addiction"
+    },
+    "seeker_auto_064": {
+      "age": 48,
+      "category": "anger management issues"
+    },
+    "seeker_auto_031": {
+      "age": 38,
+      "category": "breakups or divorce"
+    },
+    "seeker_auto_065": {
+      "age": 80,
+      "category": "debt problems"
+    },
+    "seeker_auto_030": {
+      "age": 35,
+      "category": "marital problems"
+    },
+    "seeker_auto_011": {
+      "age": 51,
+      "category": "sleep problems"
+    },
+    "seeker_auto_001": {
+      "age": 59,
+      "category": "procrastination"
+    },
+    "seeker_auto_007": {
+      "age": 42,
+      "category": "self-harm behaviors"
+    },
+    "seeker_auto_053": {
+      "age": 65,
+      "category": "personal growth challenges"
+    },
+    "seeker_auto_063": {
+      "age": 86,
+      "category": "post-traumatic stress disorder (ptsd)"
+    },
+    "seeker_auto_004": {
+      "age": 77,
+      "category": "obsessive-compulsive disorder (ocd)"
+    },
+    "seeker_auto_023": {
+      "age": 39,
+      "category": "conflicts or communication problems"
+    },
+    "seeker_auto_055": {
+      "age": 96,
+      "category": "death of a loved one"
+    },
+    "seeker_auto_060": {
+      "age": 61,
+      "category": "appearance anxiety"
+    },
+    "seeker_auto_005": {
+      "age": 75,
+      "category": "addictive behaviors (e.g., drug use, gambling)"
+    },
+    "seeker_auto_025": {
+      "age": 34,
+      "category": "issues with parents"
+    },
+    "seeker_auto_032": {
+      "age": 95,
+      "category": "life transitions (e.g., retirement, relocation)"
+    },
+    "seeker_auto_061": {
+      "age": 25,
+      "category": "internet addiction"
+    },
+    "seeker_auto_026": {
+      "age": 60,
+      "category": "debt problems"
+    },
+    "seeker_auto_067": {
+      "age": 45,
+      "category": "appearance anxiety"
+    },
+    "seeker_auto_045": {
+      "age": 91,
+      "category": "death of a loved one"
+    },
+    "seeker_auto_012": {
+      "age": 41,
+      "category": "job crisis"
+    },
+    "seeker_auto_049": {
+      "age": 27,
+      "category": "sexual orientation"
+    },
+    "seeker_auto_038": {
+      "age": 72,
+      "category": "alcohol abuse"
+    },
+    "seeker_auto_016": {
+      "age": 85,
+      "category": "culture shock"
+    },
+    "seeker_auto_042": {
+      "age": 98,
+      "category": "spirituality and faith"
+    },
+    "seeker_auto_018": {
+      "age": 63,
+      "category": "self-esteem issues"
+    },
+    "seeker_auto_058": {
+      "age": 88,
+      "category": "chronic stress"
+    },
+    "seeker_auto_043": {
+      "age": 69,
+      "category": "burnout"
+    },
+    "seeker_auto_008": {
+      "age": 78,
+      "category": "financial problems"
+    },
+    "seeker_auto_015": {
+      "age": 28,
+      "category": "school bullying"
+    },
+    "seeker_auto_027": {
+      "age": 55,
+      "category": "self-esteem issues"
+    },
+    "seeker_auto_050": {
+      "age": 21,
+      "category": "goal setting issues"
+    },
+    "seeker_auto_020": {
+      "age": 20,
+      "category": "school bullying"
+    },
+    "seeker_auto_022": {
+      "age": 100,
+      "category": "life transitions (e.g., retirement, relocation)"
+    },
+    "seeker_auto_010": {
+      "age": 23,
+      "category": "identity crises"
+    },
+    "seeker_auto_017": {
+      "age": 66,
+      "category": "problems with friends"
+    },
+    "seeker_auto_052": {
+      "age": 40,
+      "category": "burnout"
+    },
+    "seeker_auto_056": {
+      "age": 58,
+      "category": "schizophrenia"
+    },
+    "seeker_auto_040": {
+      "age": 94,
+      "category": "health problems"
+    },
+    "seeker_auto_051": {
+      "age": 36,
+      "category": "career development issues"
+    },
+    "seeker_auto_047": {
+      "age": 83,
+      "category": "sexual assault or domestic violence recovery"
+    },
+    "seeker_auto_039": {
+      "age": 52,
+      "category": "self-harm behaviors"
+    },
+    "seeker_auto_035": {
+      "age": 84,
+      "category": "anxiety disorders"
+    },
+    "seeker_auto_033": {
+      "age": 73,
+      "category": "compulsive behaviors"
+    },
+    "seeker_auto_019": {
+      "age": 92,
+      "category": "grief and loss"
+    },
+    "seeker_auto_014": {
+      "age": 46,
+      "category": "breakups or divorce"
+    },
+    "seeker_auto_059": {
+      "age": 79,
+      "category": "financial problems"
+    },
+    "seeker_auto_028": {
+      "age": 57,
+      "category": "goal setting issues"
+    },
+    "seeker_auto_044": {
+      "age": 53,
+      "category": "workplace stress"
+    },
+    "seeker_auto_002": {
+      "age": 89,
+      "category": "sexual assault or domestic violence recovery"
+    },
+    "seeker_auto_046": {
+      "age": 87,
+      "category": "sexual assault or domestic violence recovery"
+    },
+    "seeker_auto_003": {
+      "age": 62,
+      "category": "self-esteem issues"
+    },
+    "seeker_auto_069": {
+      "age": 70,
+      "category": "compulsive behaviors"
+    },
+    "seeker_auto_034": {
+      "age": 26,
+      "category": "eating disorders"
+    },
+    "seeker_auto_066": {
+      "age": 47,
+      "category": "burnout"
+    },
+    "seeker_auto_036": {
+      "age": 29,
+      "category": "sexual assault or domestic violence recovery"
+    },
+    "seeker_auto_062": {
+      "age": 76,
+      "category": "obsessive-compulsive disorder (ocd)"
+    },
+    "seeker_auto_041": {
+      "age": 54,
+      "category": "compulsive behaviors"
+    },
+    "seeker_auto_054": {
+      "age": 90,
+      "category": "sexual assault or domestic violence recovery"
+    },
+    "seeker_auto_057": {
+      "age": 50,
+      "category": "workplace stress"
+    },
+    "seeker_auto_029": {
+      "age": 97,
+      "category": "grief and loss"
+    }
+  }
+}

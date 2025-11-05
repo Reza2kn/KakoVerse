@@ -1,407 +1,407 @@
 {
   "20": {
-    "summary": "Witnessed ethnic tensions during youth in Sarajevo.",
-    "category": "violence_abuse",
-    "confidence": 0.7
+    "summary": "Navigating peer dynamics in new environment.",
+    "category": "School Bullying",
+    "confidence": 0.6
   },
   "21": {
-    "summary": "Navigated housing discrimination as a Bosnian immigrant in NZ.",
-    "category": "legal_housing",
-    "confidence": 0.6
+    "summary": "Questioning self-worth after relocation.",
+    "category": "Self-Esteem Issues",
+    "confidence": 0.7
   },
   "22": {
-    "summary": "Academic pressure adapting to multicultural schools in Auckland.",
-    "category": "academic_stress",
-    "confidence": 0.5
-  },
-  "23": {
-    "summary": "Mental health crisis amid Bosnian War displacement.",
-    "category": "mental_health_crisis",
+    "summary": "Delaying academic goals due to uncertainty.",
+    "category": "Procrastination",
     "confidence": 0.8
   },
+  "23": {
+    "summary": "Struggling to set achievable life goals.",
+    "category": "Goal Setting Issues",
+    "confidence": 0.9
+  },
   "24": {
-    "summary": "Immigration stress adjusting to Doha's pandemic restrictions.",
-    "category": "immigration",
-    "confidence": 0.7
+    "summary": "Career path confusion post-graduation.",
+    "category": "Career Development Issues",
+    "confidence": 0.9
   },
   "25": {
-    "summary": "Grief over lost homeland connections during relocation.",
-    "category": "grief_bereavement",
-    "confidence": 0.6
+    "summary": "Questioning cultural and personal identity.",
+    "category": "Identity Crises",
+    "confidence": 0.8
   },
   "26": {
-    "summary": "Relationship strain from cross-cultural marriage challenges.",
-    "category": "relationship_breakup",
-    "confidence": 0.5
-  },
-  "27": {
-    "summary": "Isolation during early expat years in Doha.",
-    "category": "loneliness_isolation",
+    "summary": "Disordered eating patterns under stress.",
+    "category": "Eating Disorders",
     "confidence": 0.7
   },
+  "27": {
+    "summary": "Excessive online escapism.",
+    "category": "Internet Addiction",
+    "confidence": 0.6
+  },
   "28": {
-    "summary": "Chronic back pain from surfing injuries affecting work.",
-    "category": "chronic_health_pain",
-    "confidence": 0.4
+    "summary": "Peer conflicts during formative years.",
+    "category": "School Bullying",
+    "confidence": 0.5
   },
   "29": {
-    "summary": "Employment instability during Qatar's oil market fluctuations.",
-    "category": "financial_employment",
+    "summary": "Ritualistic behaviors causing distress.",
+    "category": "Obsessive-Compulsive Disorder (OCD)",
     "confidence": 0.6
   },
   "30": {
-    "summary": "Caregiver burden for aging Bosnian relatives.",
-    "category": "caregiver_burden",
-    "confidence": 0.5
+    "summary": "Financial strain from international move.",
+    "category": "Debt Problems",
+    "confidence": 0.8
   },
   "31": {
-    "summary": "Violence exposure during Sarajevo siege aftermath.",
-    "category": "violence_abuse",
+    "summary": "Exploring sexual orientation identity.",
+    "category": "Sexual Orientation",
     "confidence": 0.7
   },
   "32": {
-    "summary": "Legal disputes over property in Bosnia.",
-    "category": "legal_housing",
+    "summary": "Self-harm as coping mechanism.",
+    "category": "Self-Harm Behaviors",
     "confidence": 0.6
   },
   "33": {
-    "summary": "Academic stress balancing nonprofit leadership with studies.",
-    "category": "academic_stress",
-    "confidence": 0.5
+    "summary": "Intense pressure to succeed academically.",
+    "category": "Academic Pressure",
+    "confidence": 0.4
   },
   "34": {
-    "summary": "Mental health crisis from prolonged cross-cultural adjustment.",
-    "category": "mental_health_crisis",
-    "confidence": 0.8
+    "summary": "Financial instability impacting well-being.",
+    "category": "Financial Problems",
+    "confidence": 0.7
   },
   "35": {
-    "summary": "Immigration bureaucracy complicating Qatar residency.",
-    "category": "immigration",
+    "summary": "Mood swings disrupting daily life.",
+    "category": "Bipolar Disorder",
     "confidence": 0.6
   },
   "36": {
-    "summary": "Bereavement after losing Bosnian mentor.",
-    "category": "grief_bereavement",
+    "summary": "Relationship dissolution causing distress.",
+    "category": "Breakups or Divorce",
     "confidence": 0.7
   },
   "37": {
-    "summary": "Marital conflict from cultural differences in Doha.",
-    "category": "relationship_breakup",
-    "confidence": 0.6
+    "summary": "Parenting challenges with limited support.",
+    "category": "Issues with Children",
+    "confidence": 0.5
   },
   "38": {
-    "summary": "Isolation during pandemic lockdowns in Qatar.",
-    "category": "loneliness_isolation",
-    "confidence": 0.8
+    "summary": "Compulsive behaviors interfering with routines.",
+    "category": "Compulsive Behaviors",
+    "confidence": 0.6
   },
   "39": {
-    "summary": "Chronic pain from aging affecting meditation practice.",
-    "category": "chronic_health_pain",
+    "summary": "Substance use escalating to addiction.",
+    "category": "Addictive Behaviors (e.g., Drug Use, Gambling)",
     "confidence": 0.5
   },
   "40": {
-    "summary": "Financial strain from nonprofit funding cuts.",
-    "category": "financial_employment",
-    "confidence": 0.7
+    "summary": "Alcohol misuse affecting health.",
+    "category": "Alcohol Abuse",
+    "confidence": 0.6
   },
   "41": {
-    "summary": "Caregiver burden for cat during travel.",
-    "category": "caregiver_burden",
-    "confidence": 0.4
-  },
-  "42": {
-    "summary": "Violence trauma resurfacing during conflict memories.",
-    "category": "violence_abuse",
-    "confidence": 0.7
-  },
-  "43": {
-    "summary": "Legal issues with Guangzhou property lease.",
-    "category": "legal_housing",
-    "confidence": 0.6
-  },
-  "44": {
-    "summary": "Academic pressure learning Mandarin for career.",
-    "category": "academic_stress",
+    "summary": "Psychotic episodes causing disconnection.",
+    "category": "Schizophrenia",
     "confidence": 0.5
   },
-  "45": {
-    "summary": "Mental health crisis from cultural identity conflicts.",
-    "category": "mental_health_crisis",
-    "confidence": 0.8
-  },
-  "46": {
-    "summary": "Immigration challenges maintaining Qatar residency.",
-    "category": "immigration",
+  "42": {
+    "summary": "Marital discord and communication breakdown.",
+    "category": "Marital Problems",
     "confidence": 0.6
   },
-  "47": {
-    "summary": "Grief over Bosnian family members lost to illness.",
-    "category": "grief_bereavement",
+  "43": {
+    "summary": "Conflicts with aging parents.",
+    "category": "Issues with Parents",
     "confidence": 0.7
   },
-  "48": {
-    "summary": "Relationship breakdown from expat lifestyle.",
-    "category": "relationship_breakup",
+  "44": {
+    "summary": "Emotional volatility impacting stability.",
+    "category": "Emotional Fluctuations",
+    "confidence": 0.7
+  },
+  "45": {
+    "summary": "Internet use interfering with responsibilities.",
+    "category": "Internet Addiction",
     "confidence": 0.6
   },
+  "46": {
+    "summary": "Friendship conflicts causing isolation.",
+    "category": "Problems with Friends",
+    "confidence": 0.7
+  },
+  "47": {
+    "summary": "Self-doubt affecting professional growth.",
+    "category": "Self-Esteem Issues",
+    "confidence": 0.8
+  },
+  "48": {
+    "summary": "Exhaustion from high-pressure role.",
+    "category": "Burnout",
+    "confidence": 0.9
+  },
   "49": {
-    "summary": "Isolation during prolonged work assignments.",
-    "category": "loneliness_isolation",
+    "summary": "Loss of motivation for personal goals.",
+    "category": "Motivation Problems",
     "confidence": 0.8
   },
   "50": {
-    "summary": "Chronic back pain limiting hiking activities.",
-    "category": "chronic_health_pain",
-    "confidence": 0.5
+    "summary": "Body image concerns affecting confidence.",
+    "category": "Appearance Anxiety",
+    "confidence": 0.7
   },
   "51": {
-    "summary": "Financial uncertainty from nonprofit budget constraints.",
-    "category": "financial_employment",
-    "confidence": 0.7
+    "summary": "Delaying critical project decisions.",
+    "category": "Procrastination",
+    "confidence": 0.9
   },
   "52": {
-    "summary": "Caregiver burden for aging parents abroad.",
-    "category": "caregiver_burden",
-    "confidence": 0.6
-  },
-  "53": {
-    "summary": "Violence trauma from childhood conflicts resurfacing.",
-    "category": "violence_abuse",
-    "confidence": 0.7
-  },
-  "54": {
-    "summary": "Legal disputes over Bosnian inheritance.",
-    "category": "legal_housing",
-    "confidence": 0.6
-  },
-  "55": {
-    "summary": "Academic stress from leadership training courses.",
-    "category": "academic_stress",
-    "confidence": 0.5
-  },
-  "56": {
-    "summary": "Mental health crisis from cultural identity struggles.",
-    "category": "mental_health_crisis",
+    "summary": "Job insecurity causing anxiety.",
+    "category": "Job Crisis",
     "confidence": 0.8
   },
+  "53": {
+    "summary": "Workplace conflicts with international team.",
+    "category": "Workplace Stress",
+    "confidence": 0.9
+  },
+  "54": {
+    "summary": "Re-evaluating long-term career goals.",
+    "category": "Goal Setting Issues",
+    "confidence": 0.8
+  },
+  "55": {
+    "summary": "Career stagnation despite qualifications.",
+    "category": "Career Development Issues",
+    "confidence": 0.8
+  },
+  "56": {
+    "summary": "Anger outbursts in cross-cultural interactions.",
+    "category": "Anger Management Issues",
+    "confidence": 0.7
+  },
   "57": {
-    "summary": "Immigration challenges maintaining Qatar residency.",
-    "category": "immigration",
-    "confidence": 0.6
+    "summary": "Communication breakdowns in personal relationships.",
+    "category": "Conflicts or Communication Problems",
+    "confidence": 0.8
   },
   "58": {
-    "summary": "Grief over loss of Bosnian community ties.",
-    "category": "grief_bereavement",
+    "summary": "Traumatic memories resurfacing.",
+    "category": "Post-Traumatic Stress Disorder (PTSD)",
     "confidence": 0.7
   },
   "59": {
-    "summary": "Relationship strain from expat lifestyle.",
-    "category": "relationship_breakup",
-    "confidence": 0.6
+    "summary": "Sleep disruption affecting daily functioning.",
+    "category": "Sleep Problems",
+    "confidence": 0.8
   },
   "60": {
-    "summary": "Isolation during pandemic recovery in Guangzhou.",
-    "category": "loneliness_isolation",
-    "confidence": 0.8
+    "summary": "Culture shock from prolonged international living.",
+    "category": "Culture Shock",
+    "confidence": 0.9
   },
   "61": {
-    "summary": "Chronic pain affecting traditional cooking.",
-    "category": "chronic_health_pain",
-    "confidence": 0.5
+    "summary": "Body image concerns resurfacing.",
+    "category": "Appearance Anxiety",
+    "confidence": 0.7
   },
   "62": {
-    "summary": "Financial pressure from nonprofit funding volatility.",
-    "category": "financial_employment",
-    "confidence": 0.7
+    "summary": "Loss of drive for professional projects.",
+    "category": "Motivation Problems",
+    "confidence": 0.8
   },
   "63": {
-    "summary": "Caregiver burden for aging relatives abroad.",
-    "category": "caregiver_burden",
-    "confidence": 0.6
+    "summary": "Job insecurity in volatile economy.",
+    "category": "Job Crisis",
+    "confidence": 0.8
   },
   "64": {
-    "summary": "Violence trauma from childhood conflicts resurfacing.",
-    "category": "violence_abuse",
-    "confidence": 0.7
+    "summary": "Workplace conflicts with local staff.",
+    "category": "Workplace Stress",
+    "confidence": 0.8
   },
   "65": {
-    "summary": "Legal issues with property in Bosnia.",
-    "category": "legal_housing",
-    "confidence": 0.6
+    "summary": "Questioning life purpose and growth.",
+    "category": "Personal Growth Challenges",
+    "confidence": 0.7
   },
   "66": {
-    "summary": "Academic stress from leadership development.",
-    "category": "academic_stress",
-    "confidence": 0.5
+    "summary": "Parental dependency issues.",
+    "category": "Issues with Parents",
+    "confidence": 0.6
   },
   "67": {
-    "summary": "Mental health crisis from cultural identity struggles.",
-    "category": "mental_health_crisis",
-    "confidence": 0.8
+    "summary": "Friendship conflicts causing social withdrawal.",
+    "category": "Problems with Friends",
+    "confidence": 0.7
   },
   "68": {
-    "summary": "Immigration challenges maintaining Qatar residency.",
-    "category": "immigration",
-    "confidence": 0.6
+    "summary": "Emotional volatility impacting relationships.",
+    "category": "Emotional Fluctuations",
+    "confidence": 0.7
   },
   "69": {
-    "summary": "Grief over loss of Bosnian community ties.",
-    "category": "grief_bereavement",
-    "confidence": 0.7
+    "summary": "Exhaustion from high-responsibility role.",
+    "category": "Burnout",
+    "confidence": 0.8
   },
   "70": {
-    "summary": "Relationship breakdown from expat lifestyle.",
-    "category": "relationship_breakup",
-    "confidence": 0.6
+    "summary": "Persistent low mood and disengagement.",
+    "category": "Ongoing Depression",
+    "confidence": 0.7
   },
   "71": {
-    "summary": "Isolation during prolonged work assignments.",
-    "category": "loneliness_isolation",
-    "confidence": 0.8
+    "summary": "Marital discord and communication issues.",
+    "category": "Marital Problems",
+    "confidence": 0.6
   },
   "72": {
-    "summary": "Chronic pain limiting international dance.",
-    "category": "chronic_health_pain",
-    "confidence": 0.5
+    "summary": "Compulsive work behaviors.",
+    "category": "Compulsive Behaviors",
+    "confidence": 0.6
   },
   "73": {
-    "summary": "Financial uncertainty from nonprofit funding cuts.",
-    "category": "financial_employment",
-    "confidence": 0.7
-  },
-  "74": {
-    "summary": "Caregiver burden for aging parents abroad.",
-    "category": "caregiver_burden",
-    "confidence": 0.6
-  },
-  "75": {
-    "summary": "Violence trauma from childhood conflicts resurfacing.",
-    "category": "violence_abuse",
-    "confidence": 0.7
-  },
-  "76": {
-    "summary": "Legal disputes over Bosnian property.",
-    "category": "legal_housing",
-    "confidence": 0.6
-  },
-  "77": {
-    "summary": "Academic stress from leadership training.",
-    "category": "academic_stress",
+    "summary": "Substance use escalating to addiction.",
+    "category": "Addictive Behaviors (e.g., Drug Use, Gambling)",
     "confidence": 0.5
   },
-  "78": {
-    "summary": "Mental health crisis from cultural identity struggles.",
-    "category": "mental_health_crisis",
-    "confidence": 0.8
+  "74": {
+    "summary": "Psychotic symptoms causing functional impairment.",
+    "category": "Schizophrenia",
+    "confidence": 0.5
   },
-  "79": {
-    "summary": "Immigration challenges maintaining Qatar residency.",
-    "category": "immigration",
+  "75": {
+    "summary": "Alcohol misuse affecting health and relationships.",
+    "category": "Alcohol Abuse",
     "confidence": 0.6
   },
-  "80": {
-    "summary": "Grief over loss of Bosnian community ties.",
-    "category": "grief_bereavement",
+  "76": {
+    "summary": "Financial strain from unexpected expenses.",
+    "category": "Debt Problems",
     "confidence": 0.7
   },
-  "81": {
-    "summary": "Relationship breakdown from expat lifestyle.",
-    "category": "relationship_breakup",
+  "77": {
+    "summary": "Ritualistic behaviors causing distress.",
+    "category": "Obsessive-Compulsive Disorder (OCD)",
     "confidence": 0.6
   },
-  "82": {
-    "summary": "Isolation during pandemic recovery.",
-    "category": "loneliness_isolation",
+  "78": {
+    "summary": "Mood swings disrupting professional life.",
+    "category": "Bipolar Disorder",
+    "confidence": 0.6
+  },
+  "79": {
+    "summary": "Financial instability impacting well-being.",
+    "category": "Financial Problems",
+    "confidence": 0.7
+  },
+  "80": {
+    "summary": "Relationship dissolution causing distress.",
+    "category": "Breakups or Divorce",
+    "confidence": 0.6
+  },
+  "81": {
+    "summary": "Culture shock from prolonged international living.",
+    "category": "Culture Shock",
     "confidence": 0.8
   },
+  "82": {
+    "summary": "Parenting challenges with adult children.",
+    "category": "Issues with Children",
+    "confidence": 0.6
+  },
   "83": {
-    "summary": "Chronic pain affecting birdwatching.",
-    "category": "chronic_health_pain",
+    "summary": "Recovering from past trauma.",
+    "category": "Sexual Assault or Domestic Violence Recovery",
     "confidence": 0.5
   },
   "84": {
-    "summary": "Financial pressure from nonprofit funding volatility.",
-    "category": "financial_employment",
+    "summary": "Chronic stress from high-responsibility role.",
+    "category": "Chronic Stress",
     "confidence": 0.7
   },
   "85": {
-    "summary": "Caregiver burden for aging relatives abroad.",
-    "category": "caregiver_burden",
-    "confidence": 0.6
+    "summary": "Anxiety disrupting daily functioning.",
+    "category": "Anxiety Disorders",
+    "confidence": 0.8
   },
   "86": {
-    "summary": "Violence trauma from childhood conflicts resurfacing.",
-    "category": "violence_abuse",
+    "summary": "Persistent low mood and disengagement.",
+    "category": "Ongoing Depression",
     "confidence": 0.7
   },
   "87": {
-    "summary": "Legal issues with property in Bosnia.",
-    "category": "legal_housing",
+    "summary": "Traumatic memories resurfacing.",
+    "category": "Post-Traumatic Stress Disorder (PTSD)",
     "confidence": 0.6
   },
   "88": {
-    "summary": "Academic stress from leadership development.",
-    "category": "academic_stress",
-    "confidence": 0.5
-  },
-  "89": {
-    "summary": "Mental health crisis from cultural identity struggles.",
-    "category": "mental_health_crisis",
-    "confidence": 0.8
-  },
-  "90": {
-    "summary": "Immigration challenges maintaining Qatar residency.",
-    "category": "immigration",
-    "confidence": 0.6
-  },
-  "91": {
-    "summary": "Grief over loss of Bosnian community ties.",
-    "category": "grief_bereavement",
+    "summary": "Communication breakdowns in personal relationships.",
+    "category": "Conflicts or Communication Problems",
     "confidence": 0.7
   },
+  "89": {
+    "summary": "Sleep disruption affecting daily functioning.",
+    "category": "Sleep Problems",
+    "confidence": 0.7
+  },
+  "90": {
+    "summary": "Anxiety disrupting daily functioning.",
+    "category": "Anxiety Disorders",
+    "confidence": 0.8
+  },
+  "91": {
+    "summary": "Grief over past losses.",
+    "category": "Grief and Loss",
+    "confidence": 0.6
+  },
   "92": {
-    "summary": "Relationship breakdown from expat lifestyle.",
-    "category": "relationship_breakup",
+    "summary": "Bereavement impacting daily life.",
+    "category": "Death of a Loved One",
     "confidence": 0.6
   },
   "93": {
-    "summary": "Isolation during prolonged work assignments.",
-    "category": "loneliness_isolation",
-    "confidence": 0.8
-  },
-  "94": {
-    "summary": "Chronic pain limiting international dance.",
-    "category": "chronic_health_pain",
-    "confidence": 0.5
-  },
-  "95": {
-    "summary": "Financial uncertainty from nonprofit funding cuts.",
-    "category": "financial_employment",
+    "summary": "Questioning life purpose and meaning.",
+    "category": "Spirituality and Faith",
     "confidence": 0.7
   },
+  "94": {
+    "summary": "Health concerns disrupting lifestyle.",
+    "category": "Health Problems",
+    "confidence": 0.7
+  },
+  "95": {
+    "summary": "Adjustment difficulties after relocation.",
+    "category": "Life Transitions (e.g., Retirement, Relocation)",
+    "confidence": 0.9
+  },
   "96": {
-    "summary": "Caregiver burden for aging parents abroad.",
-    "category": "caregiver_burden",
+    "summary": "Bereavement impacting daily life.",
+    "category": "Death of a Loved One",
     "confidence": 0.6
   },
   "97": {
-    "summary": "Violence trauma from childhood conflicts resurfacing.",
-    "category": "violence_abuse",
-    "confidence": 0.7
-  },
-  "98": {
-    "summary": "Legal disputes over Bosnian property.",
-    "category": "legal_housing",
+    "summary": "Grief over past losses.",
+    "category": "Grief and Loss",
     "confidence": 0.6
   },
+  "98": {
+    "summary": "Questioning life purpose and meaning.",
+    "category": "Spirituality and Faith",
+    "confidence": 0.7
+  },
   "99": {
-    "summary": "Academic stress from leadership training.",
-    "category": "academic_stress",
-    "confidence": 0.5
+    "summary": "Health concerns disrupting lifestyle.",
+    "category": "Health Problems",
+    "confidence": 0.7
   },
   "100": {
-    "summary": "Mental health crisis from cultural identity struggles.",
-    "category": "mental_health_crisis",
-    "confidence": 0.8
+    "summary": "Adjustment difficulties after relocation.",
+    "category": "Life Transitions (e.g., Retirement, Relocation)",
+    "confidence": 0.9
   }
 }
