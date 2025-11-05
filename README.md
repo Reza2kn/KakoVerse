@@ -56,9 +56,27 @@ Age assignments now obey life-stage and persona-context boundaries. Each persona
 Every category has an allowed age span (e.g., school bullying stays in the 20s, retirement transitions appear later in life), so crisis summaries remain coherent for each persona.
 
 ### ✅ Current progress
-- **Life-stage crisis plan:** all personas share a 45-category grid with constrained age spans. Crisis summaries live in `Artifacts/crisis_profiles/` with ages sorted 20→100.
-- **Conversations in flight:** first **30 / 69** personas have full chats (see `Artifacts/conversations/`). Generation script is resumable (`--offset` / `--limit` / `--skip-existing`) for future batches.
+- **Life-stage crisis plan:** all personas share a 45-category grid with constrained age spans. Crisis summaries live in `artifacts/crisis_profiles/` with ages sorted 20→100.
+- **Conversations in flight:** first **30 / 69** personas have full chats (see `artifacts/conversations/`). Generation script is resumable (`--offset` / `--limit` / `--skip-existing`) for future batches.
 - **Supporter styles:** baseline, empathetic (positive signal), and cold (negative signal) responses captured per turn—ready for reward-model A/B training.
+
+## 📦 Data & Repro
+- **Examples:** small JSON samples live in `examples/` (`personas/` & `conversations/`) so docs/tests stay lightweight.
+- **Full datasets:** generate locally or download published releases:
+  - Personas → `reza2kn/kakoverse-personas-v0` (Hugging Face Hub)
+  - Conversations → `reza2kn/kakoverse-conversations-v0`
+  - Analytics/CSVs → `reza2kn/kakoverse-stats-v0`
+- **Re-generate locally:** outputs land in `./artifacts` (gitignored).
+  ```bash
+  uv run python Scripts/generate_persona_plan.py
+  uv run python Scripts/generate_crisis_category_plan.py
+  uv run python Scripts/generate_crisis_profiles.py
+  uv run python Scripts/generate_persona_cards.py
+  uv run python Scripts/generate_conversations.py
+  uv run python Scripts/analyze_conversations.py
+  ```
+- **Cleanup:** `rm -rf artifacts outputs logs` (or use the Makefile below).
+- **Publish:** use `huggingface_hub.upload_folder` to push `artifacts/` contents to your dataset repos when ready.
 
 > Tip: if you hit rate limits, run the generator in persona batches with `--offset` / `--limit` and lower sleep intervals to fully utilize the free tier.
 

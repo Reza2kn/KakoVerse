@@ -215,13 +215,13 @@ def build_arg_parser() -> argparse.ArgumentParser:
     parser.add_argument(
         "--persona-dir",
         type=Path,
-        default=Path("Artifacts/personas"),
+        default=Path("artifacts/personas"),
         help="Directory containing persona JSON files.",
     )
     parser.add_argument(
         "--output-dir",
         type=Path,
-        default=Path("Artifacts/crisis_profiles"),
+        default=Path("artifacts/crisis_profiles"),
         help="Where to write crisis profile JSON files.",
     )
     parser.add_argument(
@@ -250,7 +250,7 @@ def build_arg_parser() -> argparse.ArgumentParser:
     parser.add_argument(
         "--category-plan",
         type=Path,
-        default=Path("Artifacts/crisis_category_plan.json"),
+        default=Path("artifacts/crisis_category_plan.json"),
         help="JSON file that maps persona IDs to age→category assignments.",
     )
     return parser

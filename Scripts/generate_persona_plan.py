@@ -220,7 +220,7 @@ def build_arg_parser() -> argparse.ArgumentParser:
     parser.add_argument(
         "--city-csv",
         type=Path,
-        default=Path("Prompts/Kakoverse_Global_Cities_1920s_2020s.csv"),
+        default=Path("prompts/Kakoverse_Global_Cities_1920s_2020s.csv"),
         help="CSV file containing the 69 city/decade records.",
     )
     parser.add_argument(
@@ -244,7 +244,7 @@ def build_arg_parser() -> argparse.ArgumentParser:
     parser.add_argument(
         "--output",
         type=Path,
-        default=Path("Artifacts/persona_plan.json"),
+        default=Path("artifacts/persona_plan.json"),
         help="Where to write the generated plan JSON.",
     )
     return parser

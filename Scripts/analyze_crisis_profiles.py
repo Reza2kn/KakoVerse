@@ -60,18 +60,18 @@ def main() -> int:
     parser.add_argument(
         "--profile-dir",
         type=Path,
-        default=Path("Artifacts/crisis_profiles"),
+        default=Path("artifacts/crisis_profiles"),
         help="Directory containing crisis profile JSON files.",
     )
     parser.add_argument(
         "--overall-csv",
         type=Path,
-        default=Path("Artifacts/crisis_profile_categories_overall.csv"),
+        default=Path("artifacts/crisis_profile_categories_overall.csv"),
     )
     parser.add_argument(
         "--decade-csv",
         type=Path,
-        default=Path("Artifacts/crisis_profile_categories_by_decade.csv"),
+        default=Path("artifacts/crisis_profile_categories_by_decade.csv"),
     )
     args = parser.parse_args()
 

@@ -96,37 +96,37 @@ def build_parser() -> argparse.ArgumentParser:
     parser.add_argument(
         "--conversation-dir",
         type=Path,
-        default=Path("Artifacts/conversations"),
+        default=Path("artifacts/conversations"),
         help="Directory containing conversation JSON files.",
     )
     parser.add_argument(
         "--category-csv",
         type=Path,
-        default=Path("Artifacts/conversation_category_distribution.csv"),
+        default=Path("artifacts/conversation_category_distribution.csv"),
         help="Output CSV for crisis categories.",
     )
     parser.add_argument(
         "--category-chart",
         type=Path,
-        default=Path("Artifacts/conversation_category_distribution.png"),
+        default=Path("artifacts/conversation_category_distribution.png"),
         help="Output bar chart for crisis categories.",
     )
     parser.add_argument(
         "--age-csv",
         type=Path,
-        default=Path("Artifacts/conversation_age_distribution.csv"),
+        default=Path("artifacts/conversation_age_distribution.csv"),
         help="Output CSV for age counts.",
     )
     parser.add_argument(
         "--age-chart",
         type=Path,
-        default=Path("Artifacts/conversation_age_distribution.png"),
+        default=Path("artifacts/conversation_age_distribution.png"),
         help="Output bar chart for age counts.",
     )
     parser.add_argument(
         "--decade-csv",
         type=Path,
-        default=Path("Artifacts/conversation_category_by_decade.csv"),
+        default=Path("artifacts/conversation_category_by_decade.csv"),
         help="Output CSV for category counts by decade.",
     )
     return parser

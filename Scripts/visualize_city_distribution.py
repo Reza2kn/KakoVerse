@@ -67,19 +67,19 @@ def build_parser() -> argparse.ArgumentParser:
     parser.add_argument(
         "--persona-dir",
         type=Path,
-        default=Path("Artifacts/personas"),
+        default=Path("artifacts/personas"),
         help="Directory containing persona JSON files.",
     )
     parser.add_argument(
         "--output-csv",
         type=Path,
-        default=Path("Artifacts/city_distribution.csv"),
+        default=Path("artifacts/city_distribution.csv"),
         help="Where to write the usage counts CSV.",
     )
     parser.add_argument(
         "--chart",
         type=Path,
-        default=Path("Artifacts/city_distribution.png"),
+        default=Path("artifacts/city_distribution.png"),
         help="Where to save the bar chart (requires matplotlib).",
     )
     parser.add_argument(

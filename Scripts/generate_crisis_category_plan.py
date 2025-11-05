@@ -226,13 +226,13 @@ def build_parser() -> argparse.ArgumentParser:
     parser.add_argument(
         "--persona-dir",
         type=Path,
-        default=Path("Artifacts/personas"),
+        default=Path("artifacts/personas"),
         help="Directory containing persona JSON files.",
     )
     parser.add_argument(
         "--output",
         type=Path,
-        default=Path("Artifacts/crisis_category_plan.json"),
+        default=Path("artifacts/crisis_category_plan.json"),
         help="Path to write the plan JSON.",
     )
     parser.add_argument(

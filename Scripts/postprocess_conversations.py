@@ -114,7 +114,7 @@ def build_parser() -> argparse.ArgumentParser:
     parser.add_argument(
         "--conversation-dir",
         type=Path,
-        default=Path("Artifacts/conversations"),
+        default=Path("artifacts/conversations"),
         help="Directory containing conversation JSON transcripts.",
     )
     parser.add_argument(

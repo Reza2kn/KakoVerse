@@ -225,7 +225,7 @@ def build_user_message(
         "city and country (e.g., 'City, Country').",
         f"Set `current_socio_demographics.year` to {target_year} and choose an age "
         f"consistent with that year and the birth decade (around {estimated_age}).",
-        "Populate `meta.created_from` with 'Prompts/Kakoverse_Global_Cities_1920s_2020s.csv', "
+        "Populate `meta.created_from` with 'prompts/Kakoverse_Global_Cities_1920s_2020s.csv', "
         f"set `meta.included_cities` exactly to {included_cities_json}, and provide "
         "a semantic `meta.version` string (e.g., '0.2').",
         "Keep numeric scales (Schwartz values, HEXACO, CSI) within 0-100 and use "
@@ -444,9 +444,9 @@ def validate_persona(
     meta = persona.get("meta")
     if not isinstance(meta, dict):
         raise PersonaGenerationError("meta must be an object")
-    if meta.get("created_from") != "Prompts/Kakoverse_Global_Cities_1920s_2020s.csv":
+    if meta.get("created_from") != "prompts/Kakoverse_Global_Cities_1920s_2020s.csv":
         raise PersonaGenerationError(
-            "meta.created_from must be 'Prompts/Kakoverse_Global_Cities_1920s_2020s.csv'"
+            "meta.created_from must be 'prompts/Kakoverse_Global_Cities_1920s_2020s.csv'"
         )
     if meta.get("included_cities") != list(included_cities):
         raise PersonaGenerationError(
@@ -507,7 +507,7 @@ def postprocess_persona(
     persona["current_socio_demographics"] = current_ctx
 
     meta = dict(persona.get("meta") or {})
-    meta["created_from"] = "Prompts/Kakoverse_Global_Cities_1920s_2020s.csv"
+    meta["created_from"] = "prompts/Kakoverse_Global_Cities_1920s_2020s.csv"
     meta["included_cities"] = list(included_cities)
     meta.setdefault("version", "balanced-0.2")
     persona["meta"] = meta
@@ -612,7 +612,7 @@ def build_arg_parser() -> argparse.ArgumentParser:
     parser.add_argument(
         "--output-dir",
         type=Path,
-        default=Path("Artifacts/personas"),
+        default=Path("artifacts/personas"),
         help="Directory for generated persona JSON files.",
     )
     parser.add_argument(
@@ -636,7 +636,7 @@ def build_arg_parser() -> argparse.ArgumentParser:
     parser.add_argument(
         "--plan",
         type=Path,
-        default=Path("Artifacts/persona_plan.json"),
+        default=Path("artifacts/persona_plan.json"),
         help="Path to the precomputed persona plan JSON.",
     )
     parser.add_argument(
@@ -665,7 +665,7 @@ def main(argv: Sequence[str] | None = None) -> int:
     rng = random.Random(args.seed)
 
     project_root = Path(__file__).resolve().parent.parent
-    prompts_dir = project_root / "Prompts"
+    prompts_dir = project_root / "prompts"
     seeker_system_prompt_path = prompts_dir / "Seeker_System_Prompt.json"
     seeker_persona_card_path = prompts_dir / "Seeker_Persona_Card.json"
     cities_csv_path = prompts_dir / "Kakoverse_Global_Cities_1920s_2020s.csv"

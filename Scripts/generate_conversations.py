@@ -367,98 +367,49 @@ def create_conversation_schedule(
         raise ValueError("min_per_category must be at least 1.")
 
     persona_ids = list(persona_ids)
-    categories = sorted(category_age_pool.keys())
-    if not categories:
-        raise ValueError("No categories available to schedule.")
-
-    target_counts: Dict[str, int] = {}
-    total_needed = len(persona_ids)
-    total_base = 0
-
-    for category in categories:
-        available_unique_ages = len(category_age_pool[category])
-        base = min(min_per_category, available_unique_ages)
-        target_counts[category] = base
-        total_base += base
-
-    if total_base > total_needed:
-        reducible = sorted(
-            ((count, category) for category, count in target_counts.items()),
-            reverse=True,
+    age_pool = sorted(
+        {
+            age
+            for mapping in persona_catalog.values()
+            for ages in mapping.values()
+            for age in ages
+        }
+    )
+    if len(age_pool) < len(persona_ids):
+        raise ValueError(
+            "Not enough unique ages available to schedule each persona exactly once."
         )
-        idx = 0
-        while total_base > total_needed and idx < len(reducible):
-            _, category = reducible[idx]
-            if target_counts[category] > 0:
-                target_counts[category] -= 1
-                total_base -= 1
-            else:
-                idx += 1
-        if total_base > total_needed:
-            raise ValueError("Not enough capacity to meet requested persona count.")
 
-    remaining = total_needed - total_base
-    expandable = [
-        category
-        for category in categories
-        if target_counts[category] < len(category_age_pool[category])
-    ]
-    while remaining > 0 and expandable:
-        category = rng.choice(expandable)
-        target_counts[category] += 1
-        remaining -= 1
-        if target_counts[category] >= len(category_age_pool[category]):
-            expandable.remove(category)
+    rng.shuffle(age_pool)
+    selected_ages = age_pool[: len(persona_ids)]
 
-    if remaining > 0:
-        raise ValueError("Unable to allocate enough unique ages for all personas.")
-
-    for attempt in range(1, max_attempts + 1):
-        rng.shuffle(persona_ids)
-        remaining_counts = dict(target_counts)
-        used_ages: set[int] = set()
-        assignments: Dict[str, Dict[str, object]] = {}
-        success = True
-
-        for persona_id in persona_ids:
-            category_map = persona_catalog.get(persona_id, {})
-            options: List[Tuple[str, List[int]]] = []
-            for category in categories:
-                if remaining_counts.get(category, 0) <= 0:
-                    continue
-                age_options = [
-                    age
-                    for age in category_map.get(category, [])
-                    if age not in used_ages
-                ]
-                if age_options:
-                    options.append((category, age_options))
-            if not options:
-                success = False
+    assignments: Dict[str, Dict[str, object]] = {}
+    category_actual = defaultdict(int)
+    for persona_id, age in zip(persona_ids, selected_ages, strict=False):
+        category_map = persona_catalog.get(persona_id)
+        if not category_map:
+            raise ValueError(f"Persona {persona_id} missing in category plan.")
+        category = None
+        for cat, ages in category_map.items():
+            if age in ages:
+                category = cat
                 break
-            category, age_options = rng.choice(options)
-            age = rng.choice(age_options)
-            assignments[persona_id] = {"age": int(age), "category": category}
-            used_ages.add(age)
-            remaining_counts[category] -= 1
+        if category is None:
+            raise ValueError(
+                f"Persona {persona_id} has no category entry for age {age}."
+            )
+        assignments[persona_id] = {"age": int(age), "category": category}
+        category_actual[str(category).lower()] += 1
 
-        if success and all(count == 0 for count in remaining_counts.values()):
-            category_actual = defaultdict(int)
-            for entry in assignments.values():
-                category_actual[str(entry["category"]).lower()] += 1
-            return {
-                "meta": {
-                    "persona_count": len(persona_ids),
-                    "seed": seed_value,
-                    "min_per_category": min_per_category,
-                    "target_counts": target_counts,
-                    "actual_counts": dict(category_actual),
-                    "attempts": attempt,
-                },
-                "assignments": assignments,
-            }
-
-    raise ValueError("Failed to generate conversation schedule after multiple attempts.")
+    return {
+        "meta": {
+            "persona_count": len(persona_ids),
+            "seed": seed_value,
+            "min_per_category": min_per_category,
+            "actual_counts": dict(category_actual),
+        },
+        "assignments": assignments,
+    }
 
 
 def load_or_create_conversation_schedule(
@@ -868,13 +819,13 @@ def build_arg_parser() -> argparse.ArgumentParser:
     parser.add_argument(
         "--personas-dir",
         type=Path,
-        default=Path("Artifacts/personas"),
+        default=Path("artifacts/personas"),
         help="Directory containing persona card JSON files.",
     )
     parser.add_argument(
         "--output-dir",
         type=Path,
-        default=Path("Artifacts/conversations"),
+        default=Path("artifacts/conversations"),
         help="Directory to write conversation transcripts.",
     )
     parser.add_argument(
@@ -949,13 +900,13 @@ def build_arg_parser() -> argparse.ArgumentParser:
     parser.add_argument(
         "--crisis-profiles-dir",
         type=Path,
-        default=Path("Artifacts/crisis_profiles"),
+        default=Path("artifacts/crisis_profiles"),
         help="Directory containing per-persona crisis profile JSON files.",
     )
     parser.add_argument(
         "--category-plan",
         type=Path,
-        default=Path("Artifacts/crisis_category_plan.json"),
+        default=Path("artifacts/crisis_category_plan.json"),
         help="JSON plan mapping persona IDs to age→category assignments.",
     )
     parser.add_argument(
@@ -985,7 +936,7 @@ def build_arg_parser() -> argparse.ArgumentParser:
     parser.add_argument(
         "--conversation-schedule",
         type=Path,
-        default=Path("Artifacts/conversation_schedule.json"),
+        default=Path("artifacts/conversation_schedule.json"),
         help="Schedule assigning personas to unique ages/categories. Auto-created if missing.",
     )
     parser.add_argument(
@@ -1019,7 +970,7 @@ def main(argv: Sequence[str] | None = None) -> int:
         return 2
 
     project_root = Path(__file__).resolve().parent.parent
-    prompts_dir = project_root / "Prompts"
+    prompts_dir = project_root / "prompts"
     seeker_prompt_text = load_text(prompts_dir / "Seeker_System_Prompt.json")
     supporter_prompt_text = load_text(prompts_dir / "Supporter_System_Prompt.json")
 
