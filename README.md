@@ -63,9 +63,9 @@ Every category has an allowed age span (e.g., school bullying stays in the 20s, 
 ## 📦 Data & Repro
 - **Examples:** small JSON samples live in `examples/` (`personas/` & `conversations/`) so docs/tests stay lightweight.
 - **Full datasets:** generate locally or download published releases:
-  - Personas → `reza2kn/kakoverse-personas-v0` (Hugging Face Hub)
-  - Conversations → `reza2kn/kakoverse-conversations-v0`
-  - Analytics/CSVs → `reza2kn/kakoverse-stats-v0`
+  - Personas → `Reza2kn/kakoverse-personas-v0` (Hugging Face Hub)
+  - Crisis profiles → `Reza2kn/kakoverse-crisis-profiles-v0`
+  - Conversations → `Reza2kn/kakoverse-conversations-v0`
 - **Re-generate locally:** outputs land in `./artifacts` (gitignored).
   ```bash
   uv run python Scripts/generate_persona_plan.py
@@ -77,6 +77,43 @@ Every category has an allowed age span (e.g., school bullying stays in the 20s, 
   ```
 - **Cleanup:** `rm -rf artifacts outputs logs` (or use the Makefile below).
 - **Publish:** use `huggingface_hub.upload_folder` to push `artifacts/` contents to your dataset repos when ready.
+
+### Publishing to the Hub
+
+We keep generated corpora out of git; instead, publish them straight to the Hub:
+
+```bash
+uv run python Scripts/publish_to_hf.py \
+  --personas-repo Reza2kn/kakoverse-personas-v0 \
+  --crisis-repo Reza2kn/kakoverse-crisis-profiles-v0 \
+  --conversations-repo Reza2kn/kakoverse-conversations-v0
+```
+
+The script reads `HF_TOKEN` from your environment (or `.env`) and automatically writes dataset cards. The first push bootstraps the repositories; subsequent runs upload only the changed examples thanks to the Hub’s chunked dataset storage.
+
+### Quickstart for Exploration
+
+- **Gradio browser:** `uv run python -m gradio_app.app` launches an interactive explorer. Click “Browse conversations” (defaults to `Reza2kn/kakoverse-conversations-v0`), then double-click any row to view the full dialogue with seeker/supporter message bubbles and care levels.
+- **Programmatic browsing:** all datasets load with a single `load_dataset("Reza2kn/kakoverse-conversations-v0")`.
+- **Generating more samples:** the Makefile targets mirror the production pipeline—run `make generate` then `make analyze`. Add `--provider hf --hf-model <model_id>` to generation scripts to route via Hugging Face Inference Endpoints (OpenRouter remains the default).
+
+## 🛠️ Pipeline anatomy
+
+1. **Persona plan** — `generate_persona_plan.py` samples cities/decades with a balancing plan.
+2. **Crisis categories** — `generate_crisis_category_plan.py` assigns 45 fine-grained crisis types with age constraints.
+3. **Profiles** — `generate_crisis_profiles.py` fills ages 20–100 with summaries aligned to the plan.
+4. **Personas** — `generate_persona_cards.py` produces the full persona JSON with presenting problems.
+5. **Conversations** — `generate_conversations.py` pairs Seeker/Supporter models (OpenRouter or HF Inference) and writes multi-turn dialogues, ensuring one unique age/category per persona.
+6. **Analytics** — `analyze_conversations.py` outputs CSV/PNG summaries (stored under `artifacts/`).
+
+All generation utilities accept `--provider openrouter|hf`, so you can switch between OpenRouter (default) and any Hugging Face Inference Endpoint that supports `chat_completion`.
+
+### Hosting the Gradio browser on Spaces
+
+1. Create a new Space (SDK = “Gradio”) under your account.
+2. Drop `gradio_app/app.py` into the Space (or point to this repo).
+3. Add a `requirements.txt` with `gradio` and `datasets` if the Space doesn’t use `uv` packaging.
+4. The Space will present the same browse experience: load a dataset, double-click a row, inspect the chat bubbles with care levels.
 
 > Tip: if you hit rate limits, run the generator in persona batches with `--offset` / `--limit` and lower sleep intervals to fully utilize the free tier.
 

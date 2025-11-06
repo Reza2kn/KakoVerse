@@ -26,10 +26,13 @@ from typing import Dict, List, Optional, Sequence, Tuple
 
 import re
 import requests
+from huggingface_hub import InferenceClient
 
 OPENROUTER_ENDPOINT = "https://openrouter.ai/api/v1/chat/completions"
 DEFAULT_SEEKER_MODEL = "minimax/minimax-m2:free"
 DEFAULT_SUPPORTER_MODEL = "minimax/minimax-m2:free"
+DEFAULT_PROVIDER = "openrouter"
+DEFAULT_HF_MODEL = "meta-llama/Meta-Llama-3-8B-Instruct"
 
 RESPONSE_STYLES = (
     {
@@ -86,6 +89,84 @@ RETRY_DELAY_ALT_RE = re.compile(r"Please retry in\s+([0-9.]+)s")
 
 class ConversationError(RuntimeError):
     """Raised when an agent output cannot be parsed or validated."""
+
+
+class BaseModelClient:
+    """Thin adapter around a text generation backend."""
+
+    def generate(
+        self,
+        *,
+        messages: Sequence[Dict[str, str]],
+        temperature: float,
+        top_p: float,
+        max_tokens: int,
+        throttler: "RequestThrottler",
+    ) -> str:
+        raise NotImplementedError
+
+
+class OpenRouterClient(BaseModelClient):
+    def __init__(self, *, api_key: str, model_name: str, user_agent: str):
+        self.api_key = api_key
+        self.model_name = model_name
+        self.user_agent = user_agent
+
+    def generate(
+        self,
+        *,
+        messages: Sequence[Dict[str, str]],
+        temperature: float,
+        top_p: float,
+        max_tokens: int,
+        throttler: "RequestThrottler",
+    ) -> str:
+        return openrouter_generate_text(
+            api_key=self.api_key,
+            model=self.model_name,
+            messages=messages,
+            temperature=temperature,
+            top_p=top_p,
+            max_tokens=max_tokens,
+            throttler=throttler,
+            user_agent=self.user_agent,
+        )
+
+
+class HFInferenceModelClient(BaseModelClient):
+    def __init__(self, *, token: str, model_id: str, timeout: int = 120):
+        self.client = InferenceClient(model_id, token=token, timeout=timeout)
+
+    def generate(
+        self,
+        *,
+        messages: Sequence[Dict[str, str]],
+        temperature: float,
+        top_p: float,
+        max_tokens: int,
+        throttler: "RequestThrottler",
+    ) -> str:
+        throttler.wait()
+        try:
+            completion = self.client.chat_completion(
+                messages=list(messages),
+                temperature=temperature,
+                top_p=top_p,
+                max_tokens=max_tokens,
+            )
+        finally:
+            throttler.mark()
+
+        try:
+            choice = completion["choices"][0]
+            message = choice["message"]
+            content = message["content"]
+        except (KeyError, IndexError, TypeError):
+            raise RuntimeError(f"Hugging Face Inference returned unexpected payload: {completion!r}")
+        cleaned = strip_code_fences(content).strip()
+        if not cleaned:
+            raise RuntimeError("Hugging Face Inference returned an empty response.")
+        return cleaned
 
 
 def load_env_value(key: str, env_path: Path | None) -> str:
@@ -594,8 +675,7 @@ class ConversationTurn:
 
 def generate_seeker_message(
     *,
-    api_key: str,
-    model_name: str,
+    model_client: BaseModelClient,
     system_prompt: str,
     history: List[Dict[str, str]],
     rng: random.Random,
@@ -615,9 +695,7 @@ def generate_seeker_message(
         if attempt > 1:
             messages = list(messages) + [{"role": "user", "content": reminder + "\n" + FORMAT_TEMPLATE_EXAMPLE}]
         try:
-            content = openrouter_generate_text(
-                api_key=api_key,
-                model=model_name,
+            content = model_client.generate(
                 messages=messages,
                 temperature=0.8,
                 top_p=0.9,
@@ -668,8 +746,7 @@ def generate_seeker_message(
 
 def generate_supporter_variants(
     *,
-    api_key: str,
-    model_name: str,
+    model_client: BaseModelClient,
     system_prompt: str,
     history: List[Dict[str, str]],
     seeker_message: str,
@@ -707,9 +784,7 @@ def generate_supporter_variants(
                     {"role": "user", "content": reminder + "\n" + FORMAT_TEMPLATE_EXAMPLE}
                 ]
             try:
-                content = openrouter_generate_text(
-                    api_key=api_key,
-                    model=model_name,
+                content = model_client.generate(
                     messages=attempt_messages,
                     temperature=style["temperature"],
                     top_p=style["top_p"],
@@ -847,6 +922,31 @@ def build_arg_parser() -> argparse.ArgumentParser:
         help=f"Model for Supporter messages (default: {DEFAULT_SUPPORTER_MODEL}).",
     )
     parser.add_argument(
+        "--provider",
+        type=str,
+        choices=("openrouter", "hf"),
+        default=DEFAULT_PROVIDER,
+        help="Backend provider for LLM calls (default: openrouter).",
+    )
+    parser.add_argument(
+        "--hf-model",
+        type=str,
+        default=None,
+        help="Model ID for Hugging Face Inference when --provider=hf (defaults to a LLaMA 3 instruct model).",
+    )
+    parser.add_argument(
+        "--hf-supporter-model",
+        type=str,
+        default=None,
+        help="Optional Hugging Face model for the supporter (defaults to --hf-model).",
+    )
+    parser.add_argument(
+        "--hf-timeout",
+        type=int,
+        default=120,
+        help="Timeout in seconds for Hugging Face Inference requests.",
+    )
+    parser.add_argument(
         "--min-turns",
         type=int,
         default=DEFAULT_MIN_TURNS,
@@ -948,8 +1048,8 @@ def build_arg_parser() -> argparse.ArgumentParser:
     parser.add_argument(
         "--min-category-count",
         type=int,
-        default=6,
-        help="Minimum appearances per crisis category when creating the schedule.",
+        default=1,
+        help="Minimum appearances per crisis category when creating the schedule (unique-age planner ignores values <1).",
     )
     return parser
 
@@ -963,11 +1063,45 @@ def main(argv: Sequence[str] | None = None) -> int:
 
     rng = random.Random(args.seed)
 
-    try:
-        api_key = load_env_value("OPENROUTER_API_KEY", args.env_file)
-    except (KeyError, FileNotFoundError) as err:
-        parser.error(str(err))
-        return 2
+    provider = args.provider.lower()
+    if provider == "openrouter":
+        try:
+            api_key = load_env_value("OPENROUTER_API_KEY", args.env_file)
+        except (KeyError, FileNotFoundError) as err:
+            parser.error(str(err))
+            return 2
+        seeker_client: BaseModelClient = OpenRouterClient(
+            api_key=api_key,
+            model_name=args.seeker_model,
+            user_agent="vf-CrisisSupport Conversation Generator",
+        )
+        supporter_client: BaseModelClient = OpenRouterClient(
+            api_key=api_key,
+            model_name=args.supporter_model,
+            user_agent="vf-CrisisSupport Conversation Generator",
+        )
+        seeker_model_label = args.seeker_model
+        supporter_model_label = args.supporter_model
+    else:
+        hf_model = args.hf_model or DEFAULT_HF_MODEL
+        hf_supporter_model = args.hf_supporter_model or hf_model
+        try:
+            hf_token = load_env_value("HF_TOKEN", args.env_file)
+        except (KeyError, FileNotFoundError) as err:
+            parser.error(str(err))
+            return 2
+        seeker_client = HFInferenceModelClient(
+            token=hf_token,
+            model_id=hf_model,
+            timeout=args.hf_timeout,
+        )
+        supporter_client = HFInferenceModelClient(
+            token=hf_token,
+            model_id=hf_supporter_model,
+            timeout=args.hf_timeout,
+        )
+        seeker_model_label = hf_model
+        supporter_model_label = hf_supporter_model
 
     project_root = Path(__file__).resolve().parent.parent
     prompts_dir = project_root / "prompts"
@@ -1125,8 +1259,7 @@ def main(argv: Sequence[str] | None = None) -> int:
         for turn_index in range(1, turn_target + 1):
             try:
                 seeker_output = generate_seeker_message(
-                    api_key=api_key,
-                    model_name=args.seeker_model,
+                    model_client=seeker_client,
                     system_prompt=seeker_system,
                     history=seeker_history,
                     rng=rng,
@@ -1141,8 +1274,7 @@ def main(argv: Sequence[str] | None = None) -> int:
 
             try:
                 supporter_variants = generate_supporter_variants(
-                    api_key=api_key,
-                    model_name=args.supporter_model,
+                    model_client=supporter_client,
                     system_prompt=supporter_system,
                     history=supporter_history,
                     seeker_message=seeker_message,
@@ -1190,8 +1322,8 @@ def main(argv: Sequence[str] | None = None) -> int:
         conversation_payload = {
             "persona_id": persona_id,
             "persona_path": str(persona_path),
-            "seeker_model": args.seeker_model,
-            "supporter_model": args.supporter_model,
+            "seeker_model": seeker_model_label,
+            "supporter_model": supporter_model_label,
             "turns_recorded": len(turns),
             "desired_turns": turn_target,
             "crisis_context": {
