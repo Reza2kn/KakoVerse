@@ -57,7 +57,7 @@ Every category has an allowed age span (e.g., school bullying stays in the 20s, 
 
 ### ✅ Current progress
 - **Life-stage crisis plan:** all personas share a 45-category grid with constrained age spans. Crisis summaries live in `artifacts/crisis_profiles/` with ages sorted 20→100.
-- **Conversations in flight:** first **30 / 69** personas have full chats (see `artifacts/conversations/`). Generation script is resumable (`--offset` / `--limit` / `--skip-existing`) for future batches.
+- **Conversations in flight:** first **40 / 69** personas have full chats (see `artifacts/conversations/`). Generation script is resumable (`--offset` / `--limit` / `--skip-existing`) for future batches.
 - **Supporter styles:** baseline, empathetic (positive signal), and cold (negative signal) responses captured per turn—ready for reward-model A/B training.
 
 ## 📦 Data & Repro
